@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T20:05:54.070169+00:00",
+ "updated": "2026-09-21T20:54:30.328547+00:00",
  "articles": [
   {
    "id": "7b3eb68c3f57",
@@ -521,6 +521,27 @@
    "translated": false
   },
   {
+   "id": "0eeda4e0de41",
+   "title": "Vous condamnez vos bacs potagers surélevés en bois avec du scellant : cette technique japonaise les protège des années",
+   "title_original": "Vous condamnez vos bacs potagers surélevés en bois avec du scellant : cette technique japonaise les protège des années",
+   "url": "https://www.msn.com/fr-fr/lifestyle/other/vous-condamnez-vos-bacs-potagers-sur%C3%A9lev%C3%A9s-en-bois-avec-du-scellant-cette-technique-japonaise-les-prot%C3%A8ge-des-ann%C3%A9es/ar-AA2crxNl",
+   "source": "Mon Jardin & ma maison on MSN",
+   "date": "2026-09-17T10:08:41+00:00",
+   "added": "2026-09-21T20:54:30.328547+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.0L-fyNkB8w4wt6B_jZOFeQ&pid=News",
+   "summary": [
+    "Vos bacs potagers en bois se dégradent en quelques saisons malgré les couches de peinture et de lasure ?",
+    "Une technique japonaise de bois brûlé promet des années de répit sans produits douteux."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "4351ec934c3e",
    "title": "Chicago Faucets porta il monitoraggio dell'acqua nei punti di utilizzo nell'automazione degli edifici",
    "title_original": "Chicago Faucets Brings Point-of-Use Water Monitoring to Building Automation",
@@ -706,6 +727,26 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5032606ab909",
+   "title": "Potager : les bacs en acier galvanisé sont-ils sans danger ? Ce que vous devez savoir avant de planter vos légumes",
+   "title_original": "Potager : les bacs en acier galvanisé sont-ils sans danger ? Ce que vous devez savoir avant de planter vos légumes",
+   "url": "https://www.msn.com/fr-fr/alimentation-et-boissons/g%C3%A9n%C3%A9ral/potager-les-bacs-en-acier-galvanis%C3%A9-sont-ils-sans-danger-ce-que-vous-devez-savoir-avant-de-planter-vos-l%C3%A9gumes/ar-AA2ca6AU",
+   "source": "Vie Pratique Féminin on MSN",
+   "date": "2026-09-13T06:13:39+00:00",
+   "added": "2026-09-21T20:54:30.328547+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.mQ0e3WWdfimeY6px7E57xg&pid=News",
+   "summary": [
+    "À chaque saison, de plus en plus de jardiniers installent des bacs en acier galvanisé au potager, puis s’inquiètent pour leurs légumes. Entre zinc, pH du sol et eau stagnante, ce guide clarifie le ris ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
