@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T19:41:46.453073+00:00",
+ "updated": "2026-09-21T19:59:49.459479+00:00",
  "articles": [
   {
    "id": "7b3eb68c3f57",
@@ -753,6 +753,29 @@
    "translated": false
   },
   {
+   "id": "51647fe520c9",
+   "title": "Building Automation System Market",
+   "title_original": "Building Automation System Market",
+   "url": "https://finance.yahoo.com/real-estate/articles/building-automation-system-market-125000164.html",
+   "source": "Yahoo Finance",
+   "date": "2026-09-08T07:00:00+00:00",
+   "added": "2026-09-21T19:59:49.459479+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f5ae1cf9ab7243c749c66554932ce4c6104e114f213a3d99379c5870e68a7eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Feacd6273e75b782af1836d39ec3cac6c.png",
+   "summary": [
+    "The BAS market is quietly changing its profit pools: Hardware is commoditizing while software, analytics and building intelligence capture the strategic value.",
+    "Proprietary protocols are losing ground in enterprise specifications but persist in legacy installed bases in building automation system market.",
+    "This is rapidly becoming the most defensible commercial position in the building automation system market.",
+    "Asset Owners and Operators - The building automation system market has shifted from a discretionary capex decision to a determinant of asset valuation. Owners who commit to enterprise platform standardization in the next four to six quarters will compound operational and capital advantages that late movers cannot easily replicate."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "e52ae3c8e2b8",
    "title": "Controlli antincendio: tra decreto 1 settembre 2021 e nuova UNI 11224",
    "title_original": "Controlli antincendio: tra decreto 1 settembre 2021 e nuova UNI 11224",
@@ -780,6 +803,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "a6a571d4ae20",
+   "title": "Il consenso del pubblico nei confronti della videosorveglianza cresce, ma le aspettative sulla privacy rimangono elevate",
+   "title_original": "Public Comfort With Video Surveillance Grows, But Privacy Expectations Remain High",
+   "url": "https://www.securityinfowatch.com/video-surveillance/news/55401200/public-comfort-with-video-surveillance-grows-but-privacy-expectations-remain-high",
+   "source": "Security",
+   "date": "2026-08-26T17:00:00+00:00",
+   "added": "2026-09-21T19:59:49.459479+00:00",
+   "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/08/6a9049d5f91992f505b65d59-gettyimages2143498093.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+   "summary": [
+    "Il comfort del pubblico varia anche a seconda di dove viene impiegata la sorveglianza.",
+    "L’atteggiamento del pubblico nei confronti della videosorveglianza sembra cambiare, con una crescente maggioranza di americani che esprime maggiore conforto nei confronti della tecnologia anche se richiede maggiori garanzie in materia di privacy, trasparenza e uso dell’intelligenza artificiale.",
+    "Secondo una nuova ricerca di Axis Communications, il 58% degli adulti statunitensi intervistati ha affermato di sentirsi più a proprio agio con la videosorveglianza negli spazi pubblici e privati ​​rispetto a cinque anni fa.",
+    "Il comfort del pubblico varia anche a seconda di dove viene impiegata la sorveglianza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "0c8a028155e5",
