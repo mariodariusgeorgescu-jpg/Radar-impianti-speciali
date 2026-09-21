@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar Impianti Speciali</title>
+  <meta name="description" content="Notizie e novità normative su rivelazione incendi, EVAC, TVCC, antintrusione, cablaggio strutturato e BMS/BACS.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230F2233'/%3E%3Cpath d='M4 22h6l3-12 4 16 3-8h8' fill='none' stroke='%23fff' stroke-width='2.6' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preload" href="fonts/barlow-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="wrap">
+    <div class="cart">
+      <div class="cell name">
+        <h1>Radar Impianti Speciali</h1>
+        <p>Novità e norme per chi progetta impianti speciali</p>
+      </div>
+      <div class="cell">
+        <span class="k">Ultimo aggiornamento</span>
+        <span class="v" id="updated">…</span>
+      </div>
+      <div class="cell">
+        <span class="k">Articoli in archivio</span>
+        <span class="v" id="total">…</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="bar">
+    <div class="wrap bar-row">
+      <div id="filters" class="legend" role="group" aria-label="Filtra per impianto"></div>
+      <label class="search">
+        <span class="sr-only">Cerca negli articoli</span>
+        <input id="search" type="search" placeholder="Cerca (es. UNI 11224)" autocomplete="off">
+      </label>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <p id="count" class="count" aria-live="polite"></p>
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>Nessun articolo corrisponde ai filtri. Prova a togliere un filtro o a cambiare la ricerca.</p>
+    <div class="more-row"><button id="more" class="key more" type="button" hidden>Mostra altri articoli</button></div>
+  </main>
+
+  <footer class="wrap foot">
+    I riassunti sono generati automaticamente. Per i dettagli tecnici e normativi fa fede l’articolo originale.
+  </footer>
+
+  <dialog id="dialog" aria-labelledby="d-title">
+    <article class="sheet" id="sheet">
+      <button id="d-close" class="close" type="button" aria-label="Chiudi">×</button>
+      <div id="d-cover" class="cover"></div>
+      <div class="sheet-body">
+        <div id="d-tags" class="tags"></div>
+        <h2 id="d-title"></h2>
+        <p id="d-meta" class="dmeta"></p>
+        <h3>In sintesi</h3>
+        <ul id="d-summary" class="summary"></ul>
+        <p id="d-note" class="note" hidden></p>
+        <div id="d-refs-box" hidden>
+          <h3>Norme citate</h3>
+          <div id="d-refs" class="refs"></div>
+        </div>
+        <a id="d-link" class="read" target="_blank" rel="noopener noreferrer"></a>
+      </div>
+    </article>
+  </dialog>
+
+  <script src="data/articles.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
