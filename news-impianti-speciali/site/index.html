@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar Impianti Speciali</title>
+  <meta name="description" content="Notizie e novità normative su rivelazione incendi, EVAC, TVCC, antintrusione, cablaggio strutturato e BMS/BACS.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23c2410c'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='white' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='3.5' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-row">
+      <div class="brand">
+        <h1>Radar Impianti Speciali</h1>
+        <p id="updated" class="muted">Caricamento…</p>
+      </div>
+      <label class="search">
+        <span class="sr-only">Cerca negli articoli</span>
+        <input id="search" type="search" placeholder="Cerca (es. UNI 11224)" autocomplete="off">
+      </label>
+    </div>
+    <div class="wrap">
+      <div id="filters" class="filters" role="group" aria-label="Filtra per argomento"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="count" class="muted count" aria-live="polite"></p>
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>Nessun articolo corrisponde ai filtri selezionati.</p>
+    <div class="more-row"><button id="more" class="btn" type="button" hidden>Mostra altri articoli</button></div>
+  </main>
+
+  <footer class="wrap foot muted">
+    Riassunti generati automaticamente: per i dettagli tecnici e normativi fa fede sempre l’articolo originale.
+  </footer>
+
+  <dialog id="dialog" aria-labelledby="d-title">
+    <article class="sheet">
+      <button id="d-close" class="close" type="button" aria-label="Chiudi">×</button>
+      <div id="d-cover" class="cover"></div>
+      <div class="sheet-body">
+        <div id="d-tags" class="tags"></div>
+        <h2 id="d-title"></h2>
+        <p id="d-meta" class="muted meta"></p>
+        <h3>In sintesi</h3>
+        <ul id="d-summary" class="summary"></ul>
+        <p id="d-note" class="note" hidden></p>
+        <div id="d-refs-box" hidden>
+          <h3>Riferimenti normativi citati</h3>
+          <div id="d-refs" class="refs"></div>
+        </div>
+        <a id="d-link" class="btn primary read" target="_blank" rel="noopener noreferrer">Leggi l’articolo completo →</a>
+      </div>
+    </article>
+  </dialog>
+
+  <script src="data/articles.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
