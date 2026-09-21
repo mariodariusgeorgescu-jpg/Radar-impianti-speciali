@@ -1,0 +1,130 @@
+{
+  "settings": {
+    "min_score": 2,
+    "max_age_days": 90,
+    "keep_days": 240,
+    "max_articles": 1200,
+    "max_new_per_run": 60,
+    "translate_english": true
+  },
+
+  "feeds": [
+    { "name": "SecSolution", "url": "https://www.secsolution.com/rss.asp", "lang": "it", "trusted": true },
+    { "name": "Impianti News", "url": "https://www.impiantinews.it/feed/", "lang": "it", "trusted": true },
+    { "name": "CEI", "url": "https://www.cei.it/feed/", "lang": "it" },
+    { "name": "ANIE", "url": "https://www.anie.it/feed/", "lang": "it" },
+    { "name": "Certifico", "url": "https://www.certifico.com/?format=feed&type=rss", "lang": "it" },
+    { "name": "Elettricomagazine", "url": "https://www.elettricomagazine.it/feed/", "lang": "it" },
+    { "name": "Infobuild Energia", "url": "https://www.infobuildenergia.it/feed/", "lang": "it" },
+    { "name": "Ediltecnico", "url": "https://www.ediltecnico.it/feed", "lang": "it" },
+    { "name": "Automazione Plus", "url": "https://www.automazione-plus.it/feed/", "lang": "it" },
+    { "name": "Security Magazine", "url": "https://www.securitymagazine.com/rss/topic/2231", "lang": "en" },
+    { "name": "Security Magazine", "url": "https://www.securitymagazine.com/rss/topic/2236", "lang": "en" },
+    { "name": "Security Journal UK", "url": "https://www.securityjournaluk.com/feed/", "lang": "en" }
+  ],
+
+  "bing_queries": [
+    { "q": "rivelazione incendi", "lang": "it" },
+    { "q": "norma antincendio impianti", "lang": "it" },
+    { "q": "prevenzione incendi decreto", "lang": "it" },
+    { "q": "UNI 9795", "lang": "it" },
+    { "q": "UNI 11224", "lang": "it" },
+    { "q": "EN 54", "lang": "it" },
+    { "q": "sistemi EVAC", "lang": "it" },
+    { "q": "diffusione sonora emergenza", "lang": "it" },
+    { "q": "videosorveglianza normativa", "lang": "it" },
+    { "q": "impianti antintrusione", "lang": "it" },
+    { "q": "controllo accessi", "lang": "it" },
+    { "q": "cablaggio strutturato", "lang": "it" },
+    { "q": "cavi CPR", "lang": "it" },
+    { "q": "building automation", "lang": "it" },
+    { "q": "BACS", "lang": "it" },
+    { "q": "direttiva EPBD", "lang": "it" },
+    { "q": "CEI 64-8", "lang": "it" },
+    { "q": "fire alarm standard", "lang": "en" },
+    { "q": "fire detection", "lang": "en" },
+    { "q": "building automation standard", "lang": "en" },
+    { "q": "voice alarm", "lang": "en" },
+    { "q": "structured cabling standard", "lang": "en" },
+    { "q": "video surveillance regulation", "lang": "en" }
+  ],
+
+  "categories": [
+    {
+      "id": "antincendio",
+      "label": "Antincendio",
+      "keywords": [
+        "rivelazione incendi", "rivelazione automatica", "rivelatore di fumo", "rivelatori di fumo",
+        "rivelatori di incendio", "antincendio", "prevenzione incendi", "EN 54", "UNI 9795", "UNI 11224",
+        "UNI EN 12845", "sprinkler", "spegnimento automatico", "codice di prevenzione incendi",
+        "centrale antincendio", "impianti antincendio", "impianto antincendio", "IRAI", "estintor",
+        "fire alarm", "fire detection", "fire safety", "fire protection", "fire suppression", "NFPA",
+        "smoke detect", "re:\\bCPI\\b", "re:\\bSCIA antincendio"
+      ]
+    },
+    {
+      "id": "evac",
+      "label": "EVAC",
+      "keywords": [
+        "re:\\bEVAC\\b", "EN 54-16", "EN 54-24", "diffusione sonora", "allarme vocale", "sistemi vocali",
+        "sistema di evacuazione", "sistemi di evacuazione", "impianto di evacuazione", "impianti di evacuazione",
+        "evacuazione di emergenza", "public address", "voice alarm", "ISO 7240", "IEC 60849", "mass notification",
+        "illuminazione di emergenza", "luci di emergenza", "EN 1838"
+      ]
+    },
+    {
+      "id": "tvcc",
+      "label": "TVCC",
+      "keywords": [
+        "videosorveglianza", "TVCC", "telecamer", "videocamer", "CCTV", "video surveillance",
+        "video analytics", "videoanalisi", "analisi video", "lettura targhe", "IP camera", "network camera",
+        "re:\\bANPR\\b", "re:\\bVMS\\b", "EN 62676", "riconoscimento facciale", "facial recognition"
+      ]
+    },
+    {
+      "id": "antintrusione",
+      "label": "Antintrusione",
+      "keywords": [
+        "antintrusione", "antifurto", "sistemi di allarme", "sistema di allarme", "impianti di allarme",
+        "impianto di allarme", "centrale di allarme", "CEI 79", "EN 50131", "intrusion", "burglar",
+        "controllo accessi", "controllo degli accessi", "access control", "sicurezza fisica",
+        "physical security", "videocitofon", "serrature elettroniche", "alarm system"
+      ]
+    },
+    {
+      "id": "cablaggio",
+      "label": "Cablaggio",
+      "keywords": [
+        "cablaggio", "structured cabling", "EN 50173", "EN 50174", "ISO/IEC 11801", "re:\\bCat\\.? ?[678]a?\\b",
+        "categoria 6", "rete dati", "re:\\bPoE\\b", "Power over Ethernet", "Euroclass", "cavi CPR", "cavo CPR",
+        "EN 50575", "prodotti da costruzione", "infrastrutture fisiche multiservizio", "patch panel",
+        "fibra ottica negli edifici", "fibra ottica in edific"
+      ]
+    },
+    {
+      "id": "bms",
+      "label": "BMS / BACS",
+      "keywords": [
+        "re:\\bBMS\\b", "re:\\bBACS\\b", "building automation", "building management", "EN 15232", "ISO 52120",
+        "KNX", "BACnet", "Modbus", "smart building", "edificio intelligente", "edifici intelligenti", "domotica",
+        "automazione degli edifici", "automazione edifici", "automazione dell'edificio", "gestione tecnica degli edifici",
+        "re:\\bTBS\\b", "smart readiness", "EPBD", "case green", "prestazione energetica nell",
+        "prestazione energetica degli edifici", "efficienza energetica degli edifici", "efficienza energetica negli edifici",
+        "energy performance of buildings"
+      ]
+    }
+  ],
+
+  "norm_keywords": [
+    "re:\\bnorm(a|e|ativ)", "direttiva", "regolamento", "decreto", "d\\.?lgs", "re:\\bd\\.?m\\.? ", "re:\\bdpr\\b",
+    "re:\\bUNI\\b", "re:\\bCEI\\b", "re:\\bEN \\d", "re:\\bISO\\b", "re:\\bIEC\\b", "circolare",
+    "gazzetta ufficiale", "re:\\bstandard", "obbligo", "obblighi", "in vigore", "re:\\bregulation", "re:\\bdirective",
+    "aggiornamento della norma", "nuova edizione", "pubblicata la"
+  ],
+
+  "exclude_title_keywords": [
+    "re:\\barrestat", "re:\\bdenunciat", "re:\\brapina", "re:\\bfurto", "re:\\bfurti\\b", "re:\\bladr[oi]\\b", "omicidio",
+    "re:\\bincastr", "re:\\bmorto\\b", "re:\\bferit", "re:\\bcondannat", "re:\\bcarabinieri", "re:\\bpolizia\\b",
+    "re:\\bindagin", "re:\\bcalcio\\b", "re:\\bmeteo\\b"
+  ]
+}
