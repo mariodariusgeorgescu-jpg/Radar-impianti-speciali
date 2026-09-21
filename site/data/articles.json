@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T19:41:46.453073+00:00",
+ "updated": "2026-09-21T21:01:10.595682+00:00",
  "articles": [
   {
    "id": "7b3eb68c3f57",
@@ -749,6 +749,49 @@
     "antincendio"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "477302531170",
+   "title": "DRDO svela il sistema antincendio ad alta velocità per veicoli blindati",
+   "title_original": "DRDO unveils high-speed fire suppression system for armoured vehicles",
+   "url": "https://www.msn.com/en-in/news/other/drdo-unveils-high-speed-fire-suppression-system-for-armoured-vehicles/ar-AA2bQCxQ",
+   "source": "Mirror Now on MSN",
+   "date": "2026-09-08T12:47:36+00:00",
+   "added": "2026-09-21T21:01:10.595682+00:00",
+   "image": "",
+   "summary": [
+    "La DRDO ha sviluppato un avanzato sistema di rilevamento e soppressione degli incendi per veicoli blindati, in grado di spegnere gli incendi interni in soli 130 millisecondi per migliorare significativamente la..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "51647fe520c9",
+   "title": "Building Automation System Market",
+   "title_original": "Building Automation System Market",
+   "url": "https://finance.yahoo.com/real-estate/articles/building-automation-system-market-125000164.html",
+   "source": "Yahoo Finance",
+   "date": "2026-09-08T07:00:00+00:00",
+   "added": "2026-09-21T21:01:10.595682+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f5ae1cf9ab7243c749c66554932ce4c6104e114f213a3d99379c5870e68a7eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Feacd6273e75b782af1836d39ec3cac6c.png",
+   "summary": [
+    "The BAS market is quietly changing its profit pools: Hardware is commoditizing while software, analytics and building intelligence capture the strategic value.",
+    "Proprietary protocols are losing ground in enterprise specifications but persist in legacy installed bases in building automation system market.",
+    "This is rapidly becoming the most defensible commercial position in the building automation system market.",
+    "Asset Owners and Operators - The building automation system market has shifted from a discretionary capex decision to a determinant of asset valuation. Owners who commit to enterprise platform standardization in the next four to six quarters will compound operational and capital advantages that late movers cannot easily replicate."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
