@@ -1,6 +1,124 @@
 window.NEWS_DATA = {
- "updated": "2026-09-21T21:25:04.716311+00:00",
+ "updated": "2026-09-22T00:32:28.956516+00:00",
  "articles": [
+  {
+   "id": "481d5c0d6574",
+   "title": "A secsolutionforum: sistemi IRAI ed EVAC, nuove norme e integrazione nella progettazione antincendio",
+   "title_original": "A secsolutionforum: sistemi IRAI ed EVAC, nuove norme e integrazione nella progettazione antincendio",
+   "url": "https://www.secsolution.com/notizia.asp?id=22029&c=0",
+   "source": "SecSolution",
+   "date": "2026-09-22T00:32:28.956516+00:00",
+   "added": "2026-09-22T00:32:28.956516+00:00",
+   "image": "https://www.secsolution.com/pict/news/22029.jpg",
+   "summary": [
+    "secsolutionforum, la Mostra-Convegno per il business, il networking e l’aggiornamento per i professionisti di tutta la filiera della sicurezza fisica e logica, ritorna in presenza, il 7 e l’8 ottobre prossimi, alla Fiera di Bologna, capitalizzando il successo delle dirette streaming delle passate edizioni.",
+    "Il programma prevede giovedì 8 ottobre un seminario a partecipazione gratuita dal titolo” L’evoluzione dei Sistemi IRAI ed EVAC: nuove Norme e integrazione nella Progettazione Antincendio” (Sala Maggiore – pad. 22 dalle 14:00 alle 18:00), si terrà in collaborazione con ANIE Sicurezza."
+   ],
+   "refs": [
+    "UNI 11988:2025",
+    "UNI TR 11924:2023",
+    "UNI 11224:2026"
+   ],
+   "categories": [
+    "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "eab205bf60c8",
+   "title": "A secsolutionforum 2026 Calipsa di Pelco: video analytics AI in cloud, integrati con Milestone Systems",
+   "title_original": "A secsolutionforum 2026 Calipsa di Pelco: video analytics AI in cloud, integrati con Milestone Systems",
+   "url": "https://www.secsolution.com/notizia.asp?id=21979&c=5",
+   "source": "SecSolution",
+   "date": "2026-09-22T00:32:28.956516+00:00",
+   "added": "2026-09-22T00:32:28.956516+00:00",
+   "image": "https://www.secsolution.com/pict/news/21979.jpg",
+   "summary": [
+    "A secsolutionforum 2026, il 7 e 8 ottobre a BolognaFiere, verrà presentata Calipsa, la piattaforma Pelco di video analytics basata sull’intelligenza artificiale, progettata per aggiungere capacità di analisi alle telecamere esistenti senza richiedere nuovi server o hardware dedicato.",
+    "L’elaborazione in cloud trasforma i flussi video in informazioni utili per individuare e gestire gli eventi di sicurezza.",
+    "Con Calipsa, Pelco propone un approccio cloud alla video analytics capace di valorizzare l’infrastruttura esistente e supportare una gestione più efficace degli eventi di sicurezza.",
+    "Per registrarti gratuitamente a secsolutionforum 2026 e approfondire Calipsa, la piattaforma Pelco clicca qui."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "56a5f85e4c22",
+   "title": "AIKOM TECHNOLOGY: lettore video all-in-one per controllo accessi",
+   "title_original": "AIKOM TECHNOLOGY: lettore video all-in-one per controllo accessi",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21933&c=5",
+   "source": "SecSolution",
+   "date": "2026-09-22T00:32:28.956516+00:00",
+   "added": "2026-09-22T00:32:28.956516+00:00",
+   "image": "https://www.secsolution.com/pict/news/21933.jpg",
+   "summary": [
+    "Avigilon Alta Video Intercom Reader Pro integra videocitofonia, videosorveglianza e controllo accessi in un unico dispositivo IP65 per installazioni indoor e outdoor.",
+    "La telecamera da 5 MP con HDR, illuminazione IR fino a 9 m e angolo regolabile offre immagini nitide anche in condizioni di scarsa luce; audio bidirezionale, cancellazione di rumore ed eco assicurano comunicazioni chiare.",
+    "L’assistente vocale, la directory virtuale e il routing intelligente semplificano la gestione dei visitatori.",
+    "Il prodotto Avigilon Alta Video Intercom Reader Pro è distribuito in Italia da Aikom Technology."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "844f6b537692",
+   "title": "Inim sarà presente a secsolutionforum, BolognaFiere 7-8 ottobre 2026",
+   "title_original": "Inim sarà presente a secsolutionforum, BolognaFiere 7-8 ottobre 2026",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2368",
+   "source": "SecSolution",
+   "date": "2026-09-22T00:32:28.956516+00:00",
+   "added": "2026-09-22T00:32:28.956516+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-09-22_inim_1.jpg",
+   "summary": [
+    "Inim a secsolutionforum 2026:due mondi, un'unica visione della sicurezza Il 7 e 8 ottobre 2026, Inim sarà protagonista a secsolutionforum, l'evento dedicato ai professionisti della sicurezza che torna in presenza a BolognaFiere, all'interno di Urban Tech 2026 – Stand S14 nel padiglione 22.",
+    "Due giornate per incontrare il team Inim e scoprire da vicino un'offerta capace di integrare antifurto, domotica, videosorveglianza, rivelazione incendio e rivelazione fumo e molto altro ancora.",
+    "Ti aspettiamo il 7 e 8 ottobre 2026 a BolognaFiere,all'interno di Urban Tech 2026.",
+    "Registrati all'evento e vieni a trovarci allo stand Inim."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "4c0367c6efe1",
+   "title": "Ordinanza di sospensione lavori ad Anagni: fermato il cantiere per l’impianto di biometano a Capannaccio…",
+   "title_original": "Ordinanza di sospensione lavori ad Anagni: fermato il cantiere per l’impianto di biometano a Capannaccio, mancano autorizzazioni sismiche e antincendio",
+   "url": "https://anagnia.com/2026/09/22/ordinanza-di-sospensione-lavori-ad-anagni-fermato-il-cantiere-per-limpianto-di-biometano-a-capannaccio-mancano-autorizzazioni-sismiche-e-antincendio1/",
+   "source": "anagnia",
+   "date": "2026-09-21T17:00:00+00:00",
+   "added": "2026-09-22T00:32:28.956516+00:00",
+   "image": "https://anagniawpbucket.s3.eu-west-3.amazonaws.com/new/wp-content/uploads/2026/01/30133409/Anagni.jpg?wsr",
+   "summary": [
+    "Tutto era partito con un’istanza presentata al SUAP il 13 novembre 2024 dalla società, per l’avvio di un intervento che prevede, tra le altre cose, la realizzazione di un impianto fotovoltaico.",
+    "Nel corso del procedimento, però, l’ufficio comunale aveva già segnalato criticità con una nota dello scorso marzo, alla quale era seguita, il 27 agosto, la comunicazione di formalizzazione dell’avvio effettivo dei lavori.",
+    "Raggiunto telefonicamente, l’assessore all’Urbanistica del Comune di Anagni, avvocato Vittorio D’Ercole, ha confermato quanto emerso dal provvedimento.",
+    "Copia del documento è stata trasmessa anche al Comando di Polizia Locale, incaricato di verificarne il rispetto sul campo, mentre l’ordinanza resterà affissa all’Albo Pretorio del Comune per quindici giorni consecutivi, dal 21 settembre al 6 ottobre."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7b3eb68c3f57",
    "title": "Efficienza energetica, edifici in classe F-G nel mirino della direttiva case green",
