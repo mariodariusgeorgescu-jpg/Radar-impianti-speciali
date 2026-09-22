@@ -1,6 +1,49 @@
 window.NEWS_DATA = {
- "updated": "2026-09-22T09:25:27.441068+00:00",
+ "updated": "2026-09-22T12:30:58.077323+00:00",
  "articles": [
+  {
+   "id": "d7a47933eca6",
+   "title": "Il mercato della sicurezza fisica “ha bisogno di una grande scossa”",
+   "title_original": "Physical security market “needs a major shake-up”",
+   "url": "https://securityjournaluk.com/physical-security-mkt-needs-a-major-shake-up/",
+   "source": "Security Journal UK",
+   "date": "2026-09-22T11:35:51+00:00",
+   "added": "2026-09-22T12:30:58.077323+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/09/Physical-security-market-needs-a-major-shake-up.jpg",
+   "summary": [
+    "Le piattaforme di sicurezza fisica non riescono a gestire in modo efficace molti rischi operativi e di sicurezza emergenti, nonostante siano investimenti costosi per le aziende. Secondo Antare, è necessario dare una scossa al mercato, dando priorità all’innovazione e rendendo la tecnologia più conveniente e accessibile.",
+    "Mark Michaelides, CEO di Antare, ha dichiarato: \"I leader della sicurezza stanno affrontando una serie di nuove sfide, oltre a quelle esistenti. Il Terrorism (Protection of Premises) Act 2025, ampiamente noto come Legge di Martyn e che entrerà in vigore nella primavera del prossimo anno, eserciterà una pressione significativa sui locali e sugli eventi di sua competenza per migliorare le loro capacità di sicurezza e preparazione."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "cdb0feb66929",
+   "title": "Sensori acustici Pilomat: varchi sicuri e accesso rapido per i mezzi di emergenza",
+   "title_original": "Sensori acustici Pilomat: varchi sicuri e accesso rapido per i mezzi di emergenza",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/sensori-acustici-pilomat-varchi-sicuri-e-accesso-rapido-per-i-mezzi-di-emergenza/",
+   "source": "Impianti News",
+   "date": "2026-09-22T10:30:52+00:00",
+   "added": "2026-09-22T12:30:58.077323+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/sensori-acustici-cop.jpg",
+   "summary": [
+    "Home » Sensori acustici Pilomat: varchi sicuri e accesso rapido per i mezzi di emergenza Tra i top player nel settore dei sistemi per il controllo accessi veicolare, Pilomat propone un’integrazione evoluta per dissuasori automatici, pensata per ottimizzare l’accessibilità urbana e la protezione dei varchi stradali, favorendo il rapido passaggio dei mezzi di soccorso in caso di emergenza.",
+    "Pilomat (Grassobbio, BG) propone soluzioni dotate di sensori acustici per veicoli di emergenza, dispositivi progettati per rilevare il suono delle sirene e comandare l’abbassamento automatico del dissuasore.",
+    "Grazie a questa tecnologia, i sistemi Pilomat contribuiscono a ridurre i tempi di attesa dei mezzi di soccorso, assicurando al tempo stesso un controllo sicuro e ordinato della carreggiata."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "ea08e4431d7d",
    "title": "Videosorveglianza urbana tra device, fototrappole e bodycam: a Pistoia focus sulle nuove regole e sulle recenti…",
