@@ -1,6 +1,30 @@
 window.NEWS_DATA = {
- "updated": "2026-09-22T12:30:58.077323+00:00",
+ "updated": "2026-09-22T15:25:50.145759+00:00",
  "articles": [
+  {
+   "id": "89235a3f8dcb",
+   "title": "BTicino per la nuova sede Marlegno: tecnologia e sostenibilità",
+   "title_original": "BTicino per la nuova sede Marlegno: tecnologia e sostenibilità",
+   "url": "https://www.impiantinews.it/elettro/attualita/bticino-per-la-nuova-sede-marlegno-tecnologia-e-sostenibilita/",
+   "source": "Impianti News",
+   "date": "2026-09-22T13:19:23+00:00",
+   "added": "2026-09-22T15:25:50.145759+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/Sede-Marlegno-esterno.jpg",
+   "summary": [
+    "Home » BTicino per la nuova sede Marlegno: tecnologia e sostenibilità Dalla distribuzione elettrica alla building automation, BTicino ha fornito le soluzioni per la nuova sede Marlegno, edificio certificato LEED Gold e vincitore dei KNX Italian Awards 2025.",
+    "BTicino, punto di riferimento nelle soluzioni elettriche e digitali, ha contribuito alla realizzazione della nuova sede di Marlegno attraverso una fornitura completa di sistemi per la distribuzione, la protezione e la gestione dell’energia.",
+    "La nuova sede Marlegno è infatti certificata LEED Gold, riconoscimento legato alla sostenibilità dell’edificio, all’efficienza energetica e alla qualità degli ambienti interni."
+   ],
+   "refs": [
+    "CEI 0-16"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d7a47933eca6",
    "title": "Il mercato della sicurezza fisica “ha bisogno di una grande scossa”",
@@ -43,6 +67,51 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "6e77f0c960ef",
+   "title": "Videosorveglianza urbana tra device e fototrappole: a Cuneo un focus su regole e sanzioni del Garante",
+   "title_original": "Videosorveglianza urbana tra device e fototrappole: a Cuneo un focus su regole e sanzioni del Garante",
+   "url": "https://www.targatocn.it/2026/09/22/leggi-notizia/argomenti/attualita/articolo/videosorveglianza-urbana-tra-device-e-fototrappole-a-cuneo-un-focus-su-regole-e-sanzioni-del-garant.html",
+   "source": "Targatocn.it",
+   "date": "2026-09-22T06:15:00+00:00",
+   "added": "2026-09-22T15:25:50.145759+00:00",
+   "image": "https://www.targatocn.it/fileadmin/archivio/targatocn/2026/09/TELECAMERE_TARGATOCN.jpg",
+   "summary": [
+    "Si terrà martedì 6 ottobre, dalle ore 9 alle 13, presso la Sala Mostre della Provincia di Cuneo, in corso Nizza 21, l'incontro formativo gratuito dedicato alla videosorveglianza urbana, ai nuovi device e all'impiego delle fototrappole.",
+    "L'evento, intitolato \"Videosorveglianza urbana tra device e fototrappole\", è organizzato dalla Provincia di Cuneo insieme alla Polizia Locale dell'Unione Montana Alta Langa per aggiornare gli operatori degli enti locali sull'evoluzione normativa e tecnologica nel controllo del territorio.",
+    "I lavori si apriranno con i saluti del presidente della Provincia di Cuneo Luca Robaldo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "2ebf89b75d36",
+   "title": "Le termocamere FLIR Serie Axx diventano le prime termocamere certificate UL 2684 per la rilevazione tempestiva di incendi",
+   "title_original": "FLIR Axx-Series Cameras Become the First UL 2684-Listed Thermal Imagers for Early Fire Detection",
+   "url": "https://finance.yahoo.com/technology/articles/flir-axx-series-cameras-become-120000470.html",
+   "source": "Yahoo Finance",
+   "date": "2026-09-22T05:00:00+00:00",
+   "added": "2026-09-22T15:25:50.145759+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/493528cd3d6318e7e6a854d15d3389a16b04c727c59c9bb2965158d245752885/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Fcd77c06f6d03c28ae49b59920d2e305c.jpg",
+   "summary": [
+    "L'elenco UL 2684 consente a ingegneri, progettisti di sistemi e operatori di strutture di incorporare le telecamere della serie Axx nei sistemi di rilevamento incendi progettati in conformità con NFPA 72, che espande il ruolo della termografia oltre la manutenzione preventiva e il monitoraggio delle condizioni in applicazioni certificate di rilevamento precoce degli incendi.",
+    "\"Per la prima volta, la termografia può essere incorporata in sistemi di rilevamento incendi conformi alla normativa utilizzando telecamere appositamente valutate secondo questo standard.",
+    "Ciò offre a ingegneri, integratori di sistema e utenti finali un nuovo strumento per identificare precocemente lo sviluppo dei rischi di incendio e proteggere le risorse critiche.\" Per ulteriori informazioni sulle termocamere della serie Axx e sulle soluzioni di rilevamento precoce degli incendi di Teledyne FLIR, visita flir.com/fire-life-safety.",
+    "Per ulteriori informazioni, visitare il sito Web di Teledyne FLIR all'indirizzo flir.com."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "ea08e4431d7d",
@@ -1045,6 +1114,29 @@ window.NEWS_DATA = {
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "a6a571d4ae20",
+   "title": "Il consenso del pubblico nei confronti della videosorveglianza cresce, ma le aspettative sulla privacy rimangono elevate",
+   "title_original": "Public Comfort With Video Surveillance Grows, But Privacy Expectations Remain High",
+   "url": "https://www.securityinfowatch.com/video-surveillance/news/55401200/public-comfort-with-video-surveillance-grows-but-privacy-expectations-remain-high",
+   "source": "Security",
+   "date": "2026-08-26T17:00:00+00:00",
+   "added": "2026-09-22T15:25:50.145759+00:00",
+   "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/08/6a9049d5f91992f505b65d59-gettyimages2143498093.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+   "summary": [
+    "Il comfort del pubblico varia anche a seconda di dove viene impiegata la sorveglianza.",
+    "L’atteggiamento del pubblico nei confronti della videosorveglianza sembra cambiare, con una crescente maggioranza di americani che esprime maggiore conforto nei confronti della tecnologia anche se richiede maggiori garanzie in materia di privacy, trasparenza e uso dell’intelligenza artificiale.",
+    "Secondo una nuova ricerca di Axis Communications, il 58% degli adulti statunitensi intervistati ha affermato di sentirsi più a proprio agio con la videosorveglianza negli spazi pubblici e privati ​​rispetto a cinque anni fa.",
+    "Il comfort del pubblico varia anche a seconda di dove viene impiegata la sorveglianza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "0c8a028155e5",
