@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-09-22T18:30:09.018151+00:00",
+ "updated": "2026-09-22T21:23:55.998859+00:00",
  "articles": [
   {
    "id": "89235a3f8dcb",
@@ -991,6 +991,29 @@ window.NEWS_DATA = {
    "image": "https://www.bing.com/th?id=ONUT.mQ0e3WWdfimeY6px7E57xg&pid=News",
    "summary": [
     "À chaque saison, de plus en plus de jardiniers installent des bacs en acier galvanisé au potager, puis s’inquiètent pour leurs légumes. Entre zinc, pH du sol et eau stagnante, ce guide clarifie le ris ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5a4221669c24",
+   "title": "Des bacs partagés et du porte-à-porte pour sensibiliser les habitants et réduire les dépôts sauvages à…",
+   "title_original": "Des bacs partagés et du porte-à-porte pour sensibiliser les habitants et réduire les dépôts sauvages à Saint-Laurent-du-Maroni",
+   "url": "https://la1ere.franceinfo.fr/guyane/ouest-guyanais/des-bacs-partages-et-du-porte-a-porte-pour-sensibiliser-les-habitants-et-reduire-les-depots-sauvages-a-saint-laurent-du-maroni-1737605.html",
+   "source": "la1ere.franceinfo",
+   "date": "2026-09-11T15:38:00+00:00",
+   "added": "2026-09-22T21:23:55.998859+00:00",
+   "image": "https://la1ere.franceinfo.fr/image/71N2DqBjmJQx036u75Hk6d39uOE/0x0:4032x2268/1200x675/filters:format(webp):quality(80)/outremer%2F2026%2F09%2F12%2F6aa47c5983562524339180.jpg",
+   "summary": [
+    "Des bacs collectifs et une sensibilisation de proximité : à Saint-Laurent-du-Maroni, la SPL Colibri adapte la collecte aux contraintes des quartiers informels.",
+    "Une première plateforme accueille six bacs de 770 litres dans le secteur Colombie, pour limiter Les bacs sont installés, la tournée à pied commence.",
+    "Sur les chemins de terre de Bakaolo, dans le secteur Colombie à Saint-Laurent-du-Maroni, les médiateurs vont à la rencontre des habitants.",
+    "Les médiateurs parcourent les sentiers et s’arrêtent devant les logements pour expliquer l’usage des bacs."
    ],
    "refs": [],
    "categories": [
