@@ -1,6 +1,26 @@
 window.NEWS_DATA = {
- "updated": "2026-09-22T06:31:24.510776+00:00",
+ "updated": "2026-09-22T09:25:27.441068+00:00",
  "articles": [
+  {
+   "id": "ea08e4431d7d",
+   "title": "Videosorveglianza urbana tra device, fototrappole e bodycam: a Pistoia focus sulle nuove regole e sulle recenti…",
+   "title_original": "Videosorveglianza urbana tra device, fototrappole e bodycam: a Pistoia focus sulle nuove regole e sulle recenti sanzioni del Garante della privacy",
+   "url": "https://agenparl.eu/2026/09/22/videosorveglianza-urbana-tra-device-fototrappole-e-bodycam-a-pistoia-focus-sulle-nuove-regole-e-sulle-recenti-sanzioni-del-garante-della-privacy/",
+   "source": "Agenparl",
+   "date": "2026-09-22T01:25:00+00:00",
+   "added": "2026-09-22T09:25:27.441068+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.kXf1jNBectck-UCTXUQb6A&pid=News",
+   "summary": [
+    "Appuntamento dalle 9 alle 13 nella Sala Convegni del Comando della Polizia Locale L'iniziativa, organizzata dalla Polizia Locale di Pistoia, è rivolta agli operatori degli enti locali e nasce con l'ob ..."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "481d5c0d6574",
    "title": "A secsolutionforum: sistemi IRAI ed EVAC, nuove norme e integrazione nella progettazione antincendio",
