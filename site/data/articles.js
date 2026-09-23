@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-09-23T15:27:07.618602+00:00",
+ "updated": "2026-09-23T18:29:36.867489+00:00",
  "articles": [
   {
    "id": "9723b296a3fc",
@@ -22,6 +22,52 @@ window.NEWS_DATA = {
     "evac"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3933c87606fd",
+   "title": "Videosorveglianza: patto tra la Prefettura e Oltre il Colle, Piazza Brembana e Sedrina",
+   "title_original": "Videosorveglianza: patto tra la Prefettura e Oltre il Colle, Piazza Brembana e Sedrina",
+   "url": "https://www.lavocedellevalli.it/videosorveglianza-patto-tra-la-prefettura-e-oltre-il-colle-piazza-brembana-e-sedrina/",
+   "source": "lavocedellevalli",
+   "date": "2026-09-23T09:48:00+00:00",
+   "added": "2026-09-23T18:29:36.867489+00:00",
+   "image": "https://www.lavocedellevalli.it/wp-content/uploads/2026/09/videosorveglianza.jpg",
+   "summary": [
+    "Ieri, martedì 22 settembre, sono stati sottoscritti ventuno Patti per la sicurezza tra il Prefetto di Bergamo e i sindaci di altrettanti Comuni bergamaschi, tre dei quali dalla Valle Brembana: Oltre il Colle, Piazza Brembana e Sedrina.",
+    "I Patti rappresentano un fondamentale strumento di cooperazione istituzionale tra Stato ed enti locali, volto a rafforzare le politiche integrate di sicurezza urbana attraverso la definizione di strategie condivise per la prevenzione e il contrasto dei fenomeni di criminalità diffusa e predatoria, nonché per la tutela del decoro urbano e della vivibilità delle comunità locali."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bd658c085dba",
+   "title": "“Non rincorrete gli incentivi a ogni costo”, dice tecnico di prevenzione incendi parlando del fotovoltaico nei vecchi…",
+   "title_original": "“Non rincorrete gli incentivi a ogni costo”, dice tecnico di prevenzione incendi parlando del fotovoltaico nei vecchi edifici",
+   "url": "https://www.pv-magazine.it/2026/09/23/non-rincorrete-gli-incentivi-a-ogni-costo-dice-tecnico-di-prevenzione-incendi-parlando-del-fotovoltaico-nei-vecchi-edifici/",
+   "source": "pv-magazine",
+   "date": "2026-09-23T07:53:00+00:00",
+   "added": "2026-09-23T18:29:36.867489+00:00",
+   "image": "https://www.pv-magazine.it/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-15.10.18.png",
+   "summary": [
+    "Un punto di svolta fondamentale è arrivato con la Nota DCPREV 14030 del 01/09/2025, la nuova linea guida della Direzione Centrale per la Prevenzione e la Sicurezza Tecnica dei Vigili del Fuoco.",
+    "Pur non essendo un Decreto Ministeriale, questo documento costituisce il nuovo indirizzo tecnico-operativo essenziale per progettisti e installatori, introducendo importanti novità su manutenzione, verifiche termografiche, distanze operative in copertura e gestione degli inverter.",
+    "Le novità delle linee guida riguardano principalmente la manutenzione (registrazione delle attività sul registro antincendio) e le verifiche degli impianti, ad esempio ispezioni termografiche."
+   ],
+   "refs": [
+    "regolamento (UE) n.305/2011",
+    "EN13501-5"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
