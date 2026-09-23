@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T06:32:05.599979+00:00",
+ "updated": "2026-09-23T09:26:39.258473+00:00",
  "articles": [
   {
    "id": "f00fdebf0a12",
@@ -91,6 +91,28 @@
     "tvcc"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7fdea922fe2a",
+   "title": "Videosorveglianza: Comuni più sicuri",
+   "title_original": "Videosorveglianza: Comuni più sicuri",
+   "url": "https://www.vitacasalese.it/news/cronaca-monferrina/103635/videosorveglianza-comuni-piu-sicuri.html",
+   "source": "vitacasalese",
+   "date": "2026-09-22T23:59:00+00:00",
+   "added": "2026-09-23T09:26:39.258473+00:00",
+   "image": "https://vitacasalese.cdn.m33cloud.com/resizer/600/315/true/2026_09_23/IMG_1259-1790144460418_1790144518.jpeg--videosorveglianza.webp?1790144518883",
+   "summary": [
+    "ALESSANDRIA - Nel corso della riunione del Comitato Provinciale per l’Ordine e la Sicurezza Pubblica, tenutasi oggi e presieduta dal Prefetto, sono stati approvati 36 progetti presentati da altrettanti Comuni e Unioni di Comuni della provincia, finalizzati all’installazione di sistemi di videosorveglianza per la prevenzione e il contrasto dei fenomeni di criminalità diffusa e predatoria.",
+    "Ciascun progetto, trasmesso da questa Prefettura insieme a una relazione illustrativa, sarà valutato da un’apposita Commissione istituita presso il Dipartimento della Pubblica Sicurezza del Ministero dell’Interno, che provvederà, secondo i criteri fissati dalla normativa, all’approvazione di una graduatoria e alla conseguente erogazione delle risorse.",
+    "L’iniziativa ministeriale riflette l’importanza riconosciuta ai sistemi di videosorveglianza per il potenziamento dell’azione di prevenzione e repressione dei reati, di controllo sulle principali arterie stradali della provincia, oltre a fornire un utile strumento di supporto alle attività delle Forze dell’Ordine, contribuendo a migliorare il livello di sicurezza urbana."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
