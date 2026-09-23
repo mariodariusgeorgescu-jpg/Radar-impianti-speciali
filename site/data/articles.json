@@ -1,6 +1,54 @@
 {
- "updated": "2026-09-22T21:23:55.998859+00:00",
+ "updated": "2026-09-23T00:30:47.349477+00:00",
  "articles": [
+  {
+   "id": "81a5c4161a95",
+   "title": "L’alimentatore antincendio che semplifica installazione e manutenzione",
+   "title_original": "L’alimentatore antincendio che semplifica installazione e manutenzione",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21996&c=3",
+   "source": "SecSolution",
+   "date": "2026-09-23T00:30:47.349477+00:00",
+   "added": "2026-09-23T00:30:47.349477+00:00",
+   "image": "https://www.secsolution.com/pict/news/21996.jpg",
+   "summary": [
+    "Nel settore della rivelazione incendi, l’alimentatore è spesso considerato un semplice componente di alimentazione.",
+    "È infatti proprio durante l’installazione e anche durante la manutenzione periodica che emergono le maggiori criticità.",
+    "Per rispondere a queste esigenze Wolf Safety ha sviluppato Smart Power Line, la nuova gamma di alimentatori certificati EN 54-4 ed EN 12101-10, progettata non solo per alimentare l’impianto, ma per semplificare concretamente il lavoro di installatori e manutentori.",
+    "Con Smart Power Line l’alimentatore non è più soltanto una fonte di energia, ma diventa uno strumento operativo capace di supportare ogni fase del lavoro, dall’installazione alla manutenzione."
+   ],
+   "refs": [
+    "EN 54-4",
+    "EN 12101-10"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "80e60ea79bf7",
+   "title": "Profile V di ONVIF: video in cloud senza vincoli di brand",
+   "title_original": "Profile V di ONVIF: video in cloud senza vincoli di brand",
+   "url": "https://www.secsolution.com/articolo.asp?id=1645",
+   "source": "SecSolution",
+   "date": "2026-09-23T00:30:47.349477+00:00",
+   "added": "2026-09-23T00:30:47.349477+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1645.jpg",
+   "summary": [
+    "Nuovo passo avanti verso la gestione video in cloud da parte dell’ONVIF, organizzazione internazionale che definisce gli standard aperti per l’interoperabilità dei dispositivi di sicurezza IP.",
+    "Si chiama Profile V e permette a prodotti conformi di brand diversi di operare insieme offrendo a integratori, consulenti ed end user una nuova base comune per realizzare sistemi flessibili e non proprietari.",
+    "La maggior parte delle soluzioni di videosorveglianza in cloud è oggi chiusa: telecamere, VMS e archiviazione dipendono da un unico vendor, rendendo complessi migrazioni e aggiornamenti."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "89235a3f8dcb",
    "title": "BTicino per la nuova sede Marlegno: tecnologia e sostenibilità",
