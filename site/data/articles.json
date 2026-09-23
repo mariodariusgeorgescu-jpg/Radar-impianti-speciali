@@ -1,6 +1,28 @@
 {
- "updated": "2026-09-23T03:26:41.805912+00:00",
+ "updated": "2026-09-23T06:32:05.599979+00:00",
  "articles": [
+  {
+   "id": "f00fdebf0a12",
+   "title": "Oltre il lettore di carte: ridefinire il controllo degli accessi",
+   "title_original": "Beyond the card reader: redefining access control",
+   "url": "https://securityjournaluk.com/beyond-card-reader-redefining-access-control/",
+   "source": "Security Journal UK",
+   "date": "2026-09-23T06:30:00+00:00",
+   "added": "2026-09-23T06:32:05.599979+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/09/Beyond-the-card-reader_-redefining-access-control.jpg",
+   "summary": [
+    "Philip Ingram MBE esamina cosa c’è all’orizzonte per la tecnologia di sicurezza: le persone potrebbero diventare chiavi di accesso?",
+    "E rimodellare, secondo la mia esperienza, è la parola che separa la vera tecnologia emergente dall’idea di “nuovo” del reparto marketing. Ho passato anni a scrivere di capacità di sicurezza e quello che sto vedendo è che l’intelligence, la protezione informatica e quella fisica parlano sempre più la stessa lingua, alla base di una convergenza che sta ora spingendo il controllo degli accessi oltre il lettore di carte e lo scanner di impronte digitali.",
+    "La vera minaccia dell’informatica quantistica al controllo degli accessi è silenziosa e poco affascinante: alla fine romperà la crittografia a chiave pubblica che protegge le tue credenziali."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "2e4b031b7409",
    "title": "L’illuminazione di emergenza Béhar arriva in Italia",
@@ -1295,6 +1317,29 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5d7756cc4364",
+   "title": "Honeywell Technologies Announces Leadership Updates for Process Technology and Building Automation",
+   "title_original": "Honeywell Technologies Announces Leadership Updates for Process Technology and Building Automation",
+   "url": "https://finance.yahoo.com/technology/articles/honeywell-technologies-announces-leadership-updates-121500076.html",
+   "source": "Yahoo Finance",
+   "date": "2026-08-19T05:15:00+00:00",
+   "added": "2026-09-23T06:32:05.599979+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/90a4e23231971ab74219f829d6c1f6e2aa6983b310b190f841f3bada478b2287/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F180fb7e342d5692c1900f1c17cd768a4.jpg",
+   "summary": [
+    "A veteran of Honeywell Technologies, Hammoud will succeed Ken West who is leaving the company to pursue an external opportunity as of Aug. 31, 2026.",
+    "Juan Picon, President of Building Automation Americas, will succeed Hammoud as President and CEO of Building Automation, also effective Oct. 1, 2026.",
+    "\"We are also grateful to Ken for his contributions and his leadership in helping position Process Technology for future growth over the long term and wish him every success in his new endeavor.\" Since 2023, Hammoud has served as President and CEO of Building Automation, transforming the business by accelerating annual organic growth* from 2% in 2023 to 8% in 2025.",
+    "For more news and information on Honeywell Technologies, please visit Honeywell Technologies Newsroom. * This release contains financial measures presented on a non-GAAP basis."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
