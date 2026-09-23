@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-23T12:31:25.474896+00:00",
+ "updated": "2026-09-23T15:27:07.618602+00:00",
  "articles": [
+  {
+   "id": "9723b296a3fc",
+   "title": "Modello Riduzione tasso medio prevenzione INAIL anno 2027 | OT23",
+   "title_original": "Modello Riduzione tasso medio prevenzione INAIL anno 2027 | OT23",
+   "url": "https://www.certifico.com/sicurezza-lavoro/news-sicurezza/modello-riduzione-tasso-medio-prevenzione-inail-anno-2027-ot23",
+   "source": "Certifico",
+   "date": "2026-09-23T13:59:59+00:00",
+   "added": "2026-09-23T15:27:07.618602+00:00",
+   "image": "https://www.certifico.com/images/content/2026/07/Modello%20Riduzione%20tasso%20medio%20prevenzione%20INAIL%20anno%202027_OT23.png",
+   "summary": [
+    "Le aziende che realizzano azioni migliorative per la prevenzione e la tutela della salute e della sicurezza nei luoghi di lavoro, aggiuntive rispetto a quelle previste dalla normativa vigente, possono ottenere una riduzione del tasso medio di tariffa che varia in base alle dimensioni aziendali: dal 28% per le realtà che impiegano fino a 10 lavoratori-anno fino al 5% per quelle oltre i 200.",
+    "Il modello individua gli interventi da effettuare nell’anno 2026 per accedere alla riduzione.",
+    "La relativa richiesta dovrà essere presentata telematicamente entro il 1° marzo 2027 tramite il servizio online dedicato, che nei prossimi mesi sarà messo a disposizione delle aziende."
+   ],
+   "refs": [
+    "D.Lgs. n. 81/2008"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "f00fdebf0a12",
    "title": "Oltre il lettore di carte: ridefinire il controllo degli accessi",
