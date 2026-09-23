@@ -1,6 +1,29 @@
 {
- "updated": "2026-09-23T00:30:47.349477+00:00",
+ "updated": "2026-09-23T03:26:41.805912+00:00",
  "articles": [
+  {
+   "id": "2e4b031b7409",
+   "title": "L’illuminazione di emergenza Béhar arriva in Italia",
+   "title_original": "L’illuminazione di emergenza Béhar arriva in Italia",
+   "url": "https://elettricomagazine.it/ondigital-news/illuminazione-di-emergenza-behar-in-italia/",
+   "source": "Elettricomagazine",
+   "date": "2026-09-23T01:35:00+00:00",
+   "added": "2026-09-23T03:26:41.805912+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/09/sparl-behar-luce-emergenza.jpg",
+   "summary": [
+    "Si chiama Béhar International e dal 2006 è il brand del gruppo Schneider Electric specializzato in soluzioni avanzate di illuminazione di emergenza.",
+    "Trasformando negli anni la luce di emergenza da semplice requisito di conformità normativa a componente strategico del valore estetico e funzionale degli spazi.",
+    "L’offerta di Béhar International combina la sicurezza all’estetica degli ambienti.",
+    "La collezione Luce interpreta l’illuminazione di emergenza Béhar come un dettaglio architettonico di alto pregio."
+   ],
+   "refs": [],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "81a5c4161a95",
    "title": "L’alimentatore antincendio che semplifica installazione e manutenzione",
@@ -40,6 +63,29 @@
     "Nuovo passo avanti verso la gestione video in cloud da parte dell’ONVIF, organizzazione internazionale che definisce gli standard aperti per l’interoperabilità dei dispositivi di sicurezza IP.",
     "Si chiama Profile V e permette a prodotti conformi di brand diversi di operare insieme offrendo a integratori, consulenti ed end user una nuova base comune per realizzare sistemi flessibili e non proprietari.",
     "La maggior parte delle soluzioni di videosorveglianza in cloud è oggi chiusa: telecamere, VMS e archiviazione dipendono da un unico vendor, rendendo complessi migrazioni e aggiornamenti."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1dea5c8464f0",
+   "title": "Marsala, polemiche sulla videosorveglianza: la maggioranza risponde a Liberi",
+   "title_original": "Marsala, polemiche sulla videosorveglianza: la maggioranza risponde a Liberi",
+   "url": "https://www.marsalanews.it/marsala-polemiche-sulla-videosorveglianza-la-maggioranza-risponde-a-liberi/",
+   "source": "Marsala News",
+   "date": "2026-09-22T15:44:00+00:00",
+   "added": "2026-09-23T03:26:41.805912+00:00",
+   "image": "https://www.marsalanews.it/wp-content/uploads/2026/09/videosorveglianza-Marsala-piazza-Matteotti-piazza-porta-Mazara.jpg",
+   "summary": [
+    "Il nuovo Regolamento Comunale sulla Videosorveglianza di Marsala è stato ufficialmente approvato.",
+    "Secondo quanto precisato dai gruppi di maggioranza, il regolamento approvato rappresenta un traguardo fondamentale per la città, raggiunto dopo anni in cui la necessità di dotare il sistema di videosorveglianza di una disciplina organica era già evidente.",
+    "C’è poi un dato politico-amministrativo che, secondo i gruppi di maggioranza, non può essere ignorato: questo regolamento poteva e doveva essere approvato già da tempo.",
+    "Il Regolamento approvato dota finalmente Marsala di uno strumento organico e moderno per disciplinare la videosorveglianza comunale, rafforzando gli strumenti a disposizione dell’amministrazione per la sicurezza, la tutela del patrimonio e il decoro del territorio, nel pieno rispetto della legge e della privacy dei cittadini."
    ],
    "refs": [],
    "categories": [
@@ -1456,6 +1502,28 @@
    ],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f242487bcd2e",
+   "title": "UNI 11224: sistemi di rivelazione incendi",
+   "title_original": "UNI 11224: sistemi di rivelazione incendi",
+   "url": "https://biblus.acca.it/sistemi-di-rivelazione-incendi-pubblicata-la-uni-11224-2019/",
+   "source": "biblus.acca",
+   "date": "2026-07-13T03:42:00+00:00",
+   "added": "2026-09-23T03:26:41.805912+00:00",
+   "image": "",
+   "summary": [
+    "La UNI 11224 descrive le procedure per il controllo iniziale e periodico, la sorveglianza, la manutenzione e la verifica generale dei sistemi di rivelazione automatica di incendio La UNI 11224 dal ..."
+   ],
+   "refs": [
+    "UNI 11224"
+   ],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": true,
    "lang": "it",
