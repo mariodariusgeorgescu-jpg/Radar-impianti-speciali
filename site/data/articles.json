@@ -1,6 +1,75 @@
 {
- "updated": "2026-09-23T21:25:42.383625+00:00",
+ "updated": "2026-09-24T00:33:17.866891+00:00",
  "articles": [
+  {
+   "id": "7fe661242ff2",
+   "title": "HIKVISION: amplificatori e diffusori sonori",
+   "title_original": "HIKVISION: amplificatori e diffusori sonori",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21945&c=5",
+   "source": "SecSolution",
+   "date": "2026-09-24T00:33:17.866891+00:00",
+   "added": "2026-09-24T00:33:17.866891+00:00",
+   "image": "https://www.secsolution.com/pict/news/21945.jpg",
+   "summary": [
+    "La linea Audio Public Address è una gamma di amplificatori e diffusori progettata per la diffusione sonora in negozi, showroom, reception, uffici, palestre e strutture educative.",
+    "Il cuore della soluzione è rappresentato dagli amplificatori DS-QAE1A80G1-VB e DS-QAE0A60G1-VB, disponibili nelle versioni da 80W e 60W.",
+    "Entrambi supportano diverse sorgenti audio, tra cui Bluetooth, USB, RCA e microfono, consentendo una gestione semplice dei contenuti sonori in base alle esigenze dell’ambiente.",
+    "Il controllo indipendente del volume e l’uscita audio a due canali consentono una gestione più precisa dell’impianto, adattando la diffusione sonora alle caratteristiche degli spazi."
+   ],
+   "refs": [],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "fcabd6d2e755",
+   "title": "Videosorveglianza evoluta per impianti complessi",
+   "title_original": "Videosorveglianza evoluta per impianti complessi",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21997&c=3",
+   "source": "SecSolution",
+   "date": "2026-09-24T00:33:17.866891+00:00",
+   "added": "2026-09-24T00:33:17.866891+00:00",
+   "image": "https://www.secsolution.com/pict/news/21997.jpg",
+   "summary": [
+    "Nel settore della videosorveglianza professionale, le esigenze di progettisti, system integrator e installatori sono cambiate profondamente.",
+    "Il valore reale di un sistema CCTV si misura nella continuità operativa, nella riduzione degli interventi inutili e nella capacità di garantire analisi affidabili nel tempo.",
+    "In specifici scenari comparativi, la riduzione delle segnalazioni non corrette può arrivare fino al 40%, con vantaggi concreti per chi gestisce impianti complessi: meno verifiche inutili, minori interventi tecnici e una supervisione più efficiente dell’intera infrastruttura.",
+    "L’attenzione all’affidabilità riguarda anche la gestione dell’infrastruttura dati."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e2ca58399381",
+   "title": "A secsolutionforum, l’evoluzione IRAI, EVAC e le nuove Norme: seminario curato da ANIE Sicurezza",
+   "title_original": "A secsolutionforum, l’evoluzione IRAI, EVAC e le nuove Norme: seminario curato da ANIE Sicurezza",
+   "url": "https://www.secsolution.com/notizia.asp?id=22009&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-24T00:33:17.866891+00:00",
+   "added": "2026-09-24T00:33:17.866891+00:00",
+   "image": "https://www.secsolution.com/pict/news/22009.jpg",
+   "summary": [
+    "​secsolutionforum 2026 – Bologna Fiere, il 7 e 8 ottobre 2026 all'interno di Urban Tech 2026 - The Urban Technology Show non è solo una fiera: è un ecosistema vivo, che quest'anno occuperà 4.000 mq di area espositiva, distribuiti tra 9 sale attive in contemporanea.",
+    "Oltre 100 i relatori di primissimo livello, con un parterre di assoluto spicco, coordinati da 6 moderatori esperti del settore.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "9723b296a3fc",
    "title": "Modello Riduzione tasso medio prevenzione INAIL anno 2027 | OT23",
