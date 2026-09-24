@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-24T03:26:20.128894+00:00",
+ "updated": "2026-09-24T06:31:55.776471+00:00",
  "articles": [
+  {
+   "id": "de5146422eae",
+   "title": "Certifico MIUMIA: Manuale Istruzioni Uso e Manutenzione Impianto Antincendio",
+   "title_original": "Certifico MIUMIA: Manuale Istruzioni Uso e Manutenzione Impianto Antincendio",
+   "url": "https://www.certifico.com/prodotti-software-e-documenti/prodotti-certifico/certifico-miumia-manuale-istruzioni-uso-e-manutenzione-impianto-antincendio",
+   "source": "Certifico",
+   "date": "2026-09-24T03:59:39+00:00",
+   "added": "2026-09-24T06:31:55.776471+00:00",
+   "image": "https://www.certifico.com/media/plg_system_cgwebp/_cache/images/articoli/news2015/06/manuale_istruzioni_uso_manutenzione_impianto_antincendio_2015.webp?ver=a34673b1fbf0e2f90b6809f28edc1d12",
+   "summary": [
+    "Il manuale d'uso e manutenzione dell'impianto è fornito al responsabile dell'attività, dall'impresa installatrice o, per impianti privi dello stesso manuale, eseguiti prima dell'entrata in vigore del presente decreto, da un professionista antincendio.",
+    "Le operazioni da effettuare sugli impianti e la loro cadenza temporale sono quelle indicate dalle norme tecniche pertinenti, nonché dal manuale d'uso e manutenzione dell'impianto.",
+    "Le istruzioni sono predisposte dall'impresa installatrice dell'impianto, anche sulla base dei dati forniti dai fabbricanti dei componenti installati.Tutti i documenti presenti modificabili in formato .docx.",
+    "Check List Manutenzione Estintori polvere04."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7fe661242ff2",
    "title": "HIKVISION: amplificatori e diffusori sonori",
