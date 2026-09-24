@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T09:27:23.260581+00:00",
+ "updated": "2026-09-24T12:32:04.872457+00:00",
  "articles": [
   {
    "id": "d4c72a701ecf",
@@ -44,6 +44,26 @@
     "tvcc"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b34423c3760a",
+   "title": "Confcommercio invita le imprese spezzine a verificare la qualifica dei tecnici manutentori antincendio",
+   "title_original": "Confcommercio invita le imprese spezzine a verificare la qualifica dei tecnici manutentori antincendio",
+   "url": "https://www.msn.com/it-it/notizie/other/confcommercio-invita-le-imprese-spezzine-a-verificare-la-qualifica-dei-tecnici-manutentori-antincendio/ar-AA2cT9Gb",
+   "source": "Città della Spezia on MSN",
+   "date": "2026-09-24T04:03:21+00:00",
+   "added": "2026-09-24T12:32:04.872457+00:00",
+   "image": "",
+   "summary": [
+    "Confcommercio invita le imprese spezzine a verificare la qualifica dei tecnici manutentori antincendio ..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
@@ -1451,6 +1471,29 @@
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "38c867ac7232",
+   "title": "Cormano, 730mila euro per adeguare gli impianti antincendio di quattro scuole",
+   "title_original": "Cormano, 730mila euro per adeguare gli impianti antincendio di quattro scuole",
+   "url": "https://www.ilnotiziario.net/cormano-730mila-euro-per-adeguare-gli-impianti-antincendio-di-quattro-scuole/",
+   "source": "Il Notiziario",
+   "date": "2026-09-02T09:13:00+00:00",
+   "added": "2026-09-24T12:32:04.872457+00:00",
+   "image": "https://www.ilnotiziario.net/wp-content/uploads/2026/09/Scuole-Cormano.jpeg",
+   "summary": [
+    "Diagnosi precoce e prevenzione gratuita per la lotta contro il tumore del polmone.",
+    "ASST Rhodense, Luigi Vezzosi è il nuovo direttore delle Vaccinazioni Luigi Vezzosi è il nuovo…",
+    "Cormano investe nella sicurezza, 730mila euro per adeguare impianti antincendio in 4 scuole.",
+    "Fondamentale per i Comuni italiani, realizzare tutti gli adeguamenti agli impianti e ai sistemi antincendio entro la fine del 2027."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
