@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-09-24T15:28:00.780900+00:00",
+ "updated": "2026-09-24T18:29:44.448709+00:00",
  "articles": [
   {
    "id": "d4c72a701ecf",
@@ -1385,6 +1385,28 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b7197d39575f",
+   "title": "Cavi bianchi Hikvision per impianti di allarme",
+   "title_original": "Cavi bianchi Hikvision per impianti di allarme",
+   "url": "https://nt24.it/2026/09/cavi-bianchi-hikvision/",
+   "source": "NT24.it",
+   "date": "2026-09-10T22:41:00+00:00",
+   "added": "2026-09-24T18:29:44.448709+00:00",
+   "image": "https://nt24.it/app/uploads/2026/09/hikvision-1.jpg",
+   "summary": [
+    "Hikvision amplia la propria offerta per il mercato professionale con la nuova gamma di cavi bianchi per allarme, pensata per installatori, system integrator e professionisti del materiale elettrico che cercano soluzioni affidabili, pratiche da posare e adatte anche agli ambienti in cui il cablaggio rimane a vista.",
+    "Disponibili in matasse da 100 metri e in diverse configurazioni, i nuovi cavi Hikvision sono progettati per il collegamento dei principali dispositivi utilizzati negli impianti di sicurezza, come sensori, rilevatori antintrusione, motion detector e periferiche.",
+    "I nuovi cavi bianchi Hikvision sono disponibili in più varianti, per adattarsi a differenti esigenze impiantistiche: modelli a 4 e 6 conduttori da 0,22 mm² e versioni miste con conduttori da 0,22 mm² abbinati a sezioni da 0,50 mm² o 0,75 mm²."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
    ],
    "is_norm": false,
    "lang": "it",
