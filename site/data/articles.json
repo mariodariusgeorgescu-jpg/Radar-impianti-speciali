@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-24T18:29:44.448709+00:00",
+ "updated": "2026-09-24T21:25:21.748430+00:00",
  "articles": [
+  {
+   "id": "2c2f57712b32",
+   "title": "Tecnici manutentori antincendio - Decreto 1 Settembre 2021 / Qualifica",
+   "title_original": "Tecnici manutentori antincendio - Decreto 1 Settembre 2021 / Qualifica",
+   "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/documenti-riservati-sicurezza/tecnici-manutentori-antincendio-decreto-1-settembre-2021-qualifica",
+   "source": "Certifico",
+   "date": "2026-09-24T19:53:00+00:00",
+   "added": "2026-09-24T21:25:21.748430+00:00",
+   "image": "https://www.certifico.com/images/articoli/news2023/09/tecnici-manutentori-anticendio---dm-1.09.2021---qualifica.png",
+   "summary": [
+    "Qualifica dei tecnici manutentori antincendio qualificati (TMAQ) dal 25 Settembre 2026 (Decreto Ministero dell'interno 15 Luglio 2025) / Disposizioni transitorie requisiti in valutazione fino al 31 marzo 2027 La qualificazione dei tecnici manutentori entreranno in vigore a decorrere dal 25 Settembre 2026 Decreto Ministero dell'interno 15 Luglio 2025.",
+    "Entrata in vigore: 19.08.2025 Modifiche all’art. 6 comma 1-bis del decreto 1° settembre 2021 - Le disposizioni previste all’art. 4 relative alla qualificazione dei tecnici manutentori entrano in vigore a decorrere dal 25 settembre 2026.",
+    "Entrata in vigore: 19.09.2024 Modifica dell’Art. 6 c. 1-bis del decreto 1° settembre 2021 - Le disposizioni di cui all'Art. 4 relative alla qualificazione dei tecnici manutentori entreranno in vigore a decorrere dal 25 settembre 2025."
+   ],
+   "refs": [
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d4c72a701ecf",
    "title": "Videosorveglianza, quali telecamere scegliere per un monitoraggio efficace e conforme alla privacy?",
@@ -1568,6 +1592,26 @@
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "8267fd40cef1",
+   "title": "Sistemi di rilevamento incendi che utilizzano approcci di deep learning Articoli provenienti da tutto Nature Portfolio",
+   "title_original": "Fire Detection Systems Using Deep Learning Approaches articles from across Nature Portfolio",
+   "url": "https://www.nature.com/subjects/fire-detection-systems-using-deep-learning-approaches",
+   "source": "Nature",
+   "date": "2026-08-25T16:59:00+00:00",
+   "added": "2026-09-24T21:25:21.748430+00:00",
+   "image": "",
+   "summary": [
+    "Questa ricerca propone la progettazione di un sistema di rilevamento incendi autonomo basato su un Raspberry Pi 3 B+, combinato con sensori di fumo e fiamma, che consente il monitoraggio in tempo reale e una maggiore reattività alle..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "en",
