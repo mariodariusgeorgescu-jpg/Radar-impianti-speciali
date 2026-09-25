@@ -1,6 +1,72 @@
 {
- "updated": "2026-09-25T06:32:14.680971+00:00",
+ "updated": "2026-09-25T09:27:47.652399+00:00",
  "articles": [
+  {
+   "id": "d32c4a2548da",
+   "title": "Sicurezza – Antincendio – Pubblicato Decreto di modifica del Decreto Controlli",
+   "title_original": "Sicurezza – Antincendio – Pubblicato Decreto di modifica del Decreto Controlli",
+   "url": "https://anie.it/sicurezza-antincendio-pubblicato-decreto-di-modifica-del-decreto-controlli/",
+   "source": "ANIE",
+   "date": "2026-09-25T08:28:17+00:00",
+   "added": "2026-09-25T09:27:47.652399+00:00",
+   "image": "",
+   "summary": [
+    "Questo il link al testo del nuovo decreto con cui si prevede che a decorrere dal 25 settembre 2026, i soggetti che entro tale data abbiano presentato regolare istanza per la valutazione dei requisiti stabiliti dal Decreto Controlli, fino alla conclusione della valutazione e, in ogni caso, entro e non oltre il 31 marzo 2027, possono continuare a eseguire gli interventi di manutenzione e i controlli sugli impianti, sulle attrezzature e sugli altri sistemi di sicurezza antincendio rientranti nelle tipologie oggetto dell’istanza."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a8c1cead6c5a",
+   "title": "Perché la sicurezza unificata sta diventando il nuovo standard",
+   "title_original": "Why unified security is becoming the new standard",
+   "url": "https://securityjournaluk.com/unified-security-becoming-the-new-standard/",
+   "source": "Security Journal UK",
+   "date": "2026-09-25T06:45:00+00:00",
+   "added": "2026-09-25T09:27:47.652399+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/09/Why-unified-security-is-becoming-the-new-standard.jpg",
+   "summary": [
+    "Le organizzazioni desiderano sempre più un ambiente unificato che offra visibilità e controllo dai confini esterni di un sito fino alle aree interne più sensibili.",
+    "Una strategia di sicurezza fisica veramente unificata inizia dal perimetro.",
+    "L'integrazione della tecnologia perimetrale con il video può consentire agli operatori di comprendere rapidamente cosa ha generato un allarme e valutare se è necessario un intervento.",
+    "La gestione centralizzata può anche ridurre il numero di sistemi che gli operatori devono apprendere e monitorare, mentre un'architettura unificata aiuta le organizzazioni ad adattarsi alla crescita dei siti, al cambiamento dei rischi o all'integrazione di tecnologie aggiuntive."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "fd4e603f338d",
+   "title": "Decreto Controlli PI / Testo coordinato",
+   "title_original": "Decreto Controlli PI / Testo coordinato",
+   "url": "https://www.certifico.com/prevenzione-incendi/decreto-controlli-pi-testo-coordinato",
+   "source": "Certifico",
+   "date": "2026-09-25T04:35:01+00:00",
+   "added": "2026-09-25T09:27:47.652399+00:00",
+   "image": "https://www.certifico.com/images/content/2026/08/Cover_Testo_coordinato_DM%2001.09.2021.png",
+   "summary": [
+    "Entrata in vigore: 19.08.2025 - Decreto 13 settembre 2024 - Modifiche ed integrazioni al decreto 1° settembre 2021 recante «Criteri generali per il controllo e la manutenzione degli impianti, attrezzature ed altri sistemi di sicurezza antincendio, ai sensi dell'articolo 46, comma 3, lettera a) punto 3, del decreto legislativo 9 aprile 2008, n. 81». (GU n.219 del 18.09.2024).",
+    "Entrata in vigore: 19.09.2024 - Decreto Ministero dell'Interno del 31 agosto 2023 - Modifica al decreto 1° settembre 2021, recante: «Criteri generali per il controllo e la manutenzione degli impianti, attrezzature ed altri sistemi di sicurezza antincendio, ai sensi dell'articolo 46, comma 3, lettera a), punto 3, del decreto legislativo 9 aprile 2008, n. 81». (GU n.212 dell'11.09.2023)."
+   ],
+   "refs": [
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "4f4fece9cf22",
    "title": "Dal drone alla decisione: la verifica intelligente degli eventi di sicurezza",
