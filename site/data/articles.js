@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-09-24T21:25:21.748430+00:00",
+ "updated": "2026-09-25T00:33:55.041993+00:00",
  "articles": [
+  {
+   "id": "4f4fece9cf22",
+   "title": "Dal drone alla decisione: la verifica intelligente degli eventi di sicurezza",
+   "title_original": "Dal drone alla decisione: la verifica intelligente degli eventi di sicurezza",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22019&c=6",
+   "source": "SecSolution",
+   "date": "2026-09-25T00:33:55.041993+00:00",
+   "added": "2026-09-25T00:33:55.041993+00:00",
+   "image": "https://www.secsolution.com/pict/news/22019.jpg",
+   "summary": [
+    "La sicurezza moderna nasce nella control room, ma si rafforza quando un allarme viene verificato rapidamente sul campo.",
+    "Per questo il drone può diventare un moltiplicatore di efficacia: porta un punto di vista aggiuntivo dove le telecamere fisse non arrivano, riduce l’incertezza e aiuta chi governa la sicurezza a scegliere l’azione più corretta.",
+    "L’operatore in control room consulta le immagini disponibili, verifica la mappa del sito e apre la scheda evento.",
+    "Ogni passaggio può essere tracciato: ricezione della segnalazione, richiesta di verifica, osservazione tramite drone, decisione operativa e chiusura dell’intervento."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "2c2f57712b32",
    "title": "Tecnici manutentori antincendio - Decreto 1 Settembre 2021 / Qualifica",
@@ -503,6 +526,29 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "f472b265b096",
+   "title": "BTicino BTnet: cablaggio strutturato in rame e fibra ottica",
+   "title_original": "BTicino BTnet: cablaggio strutturato in rame e fibra ottica",
+   "url": "https://www.edilizia.com/prodotto/bticino-btnet-cablaggio-strutturato-rame-fibra/",
+   "source": "Edilizia",
+   "date": "2026-09-22T02:48:00+00:00",
+   "added": "2026-09-25T00:33:55.041993+00:00",
+   "image": "https://www.edilizia.com/wp-content/uploads/2026/09/bticino-btnet-cablaggio-strutturato.webp",
+   "summary": [
+    "BTnet – cablaggio strutturato è una gamma coordinata per realizzare reti dati con collegamenti in rame e fibra ottica BTicino. Il sistema comprende componenti di connessione, permutazione, distribuzione e alloggiamento per edifici residenziali e del terziario.",
+    "BTnet serve a organizzare il cablaggio passivo tra armadi, pannelli, dorsali e prese terminali.",
+    "La gamma consente di progettare reti in rame, collegamenti ottici o architetture miste, mantenendo identificazione, gestione e manutenzione dei collegamenti.",
+    "Gamma e documenti aggiornati sono disponibili nella pagina ufficiale di BTnet – cablaggio strutturato."
+   ],
+   "refs": [],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "ea08e4431d7d",
