@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-09-25T03:25:17.280371+00:00",
+ "updated": "2026-09-25T06:32:14.680971+00:00",
  "articles": [
   {
    "id": "4f4fece9cf22",
@@ -45,6 +45,27 @@ window.NEWS_DATA = {
     "antincendio"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "70ce0f060305",
+   "title": "Prevenzione incendi, prefetto Napoli visita presidio San Giuseppe Vesuviano",
+   "title_original": "Prevenzione incendi, prefetto Napoli visita presidio San Giuseppe Vesuviano",
+   "url": "https://www.ansa.it/campania/notizie/2026/09/24/prevenzione-incendi-prefetto-napoli-visita-presidio-san-giuseppe-vesuviano_6e49a427-04b0-4ad1-9440-45b4bd8b9293.html",
+   "source": "ANSA",
+   "date": "2026-09-24T11:56:00+00:00",
+   "added": "2026-09-25T06:32:14.680971+00:00",
+   "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/ed1ae1ecaf8029c54c6d25183561cdac.jpg",
+   "summary": [
+    "\"Questo presidio ha la caratterizzazione di distinguersi per la sua grande valenza di prevenzione e la prevenzione è anche nella capacità di capire come si evolvono i fenomeni e capire cosa si debba fare\".",
+    "Con queste parole il prefetto di Napoli, Michele di Bari, ha salutato oggi a San Giuseppe Vesuviano (Napoli) il personale impegnato nel presidio rurale che è stato istituito nella cittadina alle pendici del Vesuvio e che svolge appunto di prevenzione e di vigilanza dinamica per la gestione degli incendi boschivi e di vegetazione nell'area di riferimento."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
