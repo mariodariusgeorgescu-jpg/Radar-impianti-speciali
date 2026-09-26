@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-09-25T21:25:55.144392+00:00",
+ "updated": "2026-09-26T00:32:17.737359+00:00",
  "articles": [
+  {
+   "id": "51ee81ecc2c9",
+   "title": "Controllo accessi + PSIM + resilienza + credenziali dematerializzate",
+   "title_original": "Controllo accessi + PSIM + resilienza + credenziali dematerializzate",
+   "url": "https://www.secsolution.com/notizia.asp?id=22020&c=6",
+   "source": "SecSolution",
+   "date": "2026-09-26T00:32:17.737359+00:00",
+   "added": "2026-09-26T00:32:17.737359+00:00",
+   "image": "https://www.secsolution.com/pict/news/22020.jpg",
+   "summary": [
+    "Per la realizzazione di una nuova sede corporate di prestigio, destinata a un contesto multi-tenant ad alta rappresentanza, era necessario garantire elevati standard di sicurezza e una gestione efficace, flessibile e discreta degli accessi, anche durante eventi con elevato afflusso di visitatori.",
+    "La sfida non era quindi introdurre una tecnologia nuova, ma valorizzare quanto già realizzato, migliorandone sicurezza, privacy e capacità di integrazione.",
+    "Il valore del progetto risiede nell’integrazione di controllo accessi, credenziali dematerializzate, piattaforma PSIM, privacy e continuità operativa in un’unica architettura.",
+    "La soluzione rende la gestione degli accessi più flessibile e scalabile, anche durante eventi con elevato afflusso, grazie a una supervisione centralizzata che rafforza il controllo della Physical Security."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "35a689224524",
+   "title": "A secsolutionforum con IT Manager, CISO, CIO: la sicurezza non e’ piu’ un tema solo IT",
+   "title_original": "A secsolutionforum con IT Manager, CISO, CIO: la sicurezza non e’ piu’ un tema solo IT",
+   "url": "https://www.secsolution.com/notizia.asp?id=22037&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-26T00:32:17.737359+00:00",
+   "added": "2026-09-26T00:32:17.737359+00:00",
+   "image": "https://www.secsolution.com/pict/news/22037.jpg",
+   "summary": [
+    "Cybersecurity, infrastrutture, dati, AI, compliance e sicurezza fisica sono sempre più interconnessi.",
+    "Il 7 e 8 ottobre, a BolognaFiere, c’è secsolutionforum 2026 al padiglione 22: due giornate di formazione, confronto e aggiornamento professionale, con partecipazione gratuita.",
+    "Perché oggi CIO, CISO e IT Manager devono guardare oltre il perimetro tradizionale dell'IT e comprendere come tecnologie, infrastrutture e sistemi di sicurezza interagiscono tra loro.",
+    "A secsolutionforum puoi trovare contenuti, casi e confronti utili per: Per CIO, CISO e IT Manager, oggi la sfida non è soltanto proteggere sistemi e dati, ma governare un ecosistema sempre più complesso e interconnesso."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "6728887ab5d7",
    "title": "Decreto Controlli: ANIE contribuisce alla definizione delle disposizioni transitorie per i tecnici manutentori…",
