@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-09-26T21:25:30.920868+00:00",
+ "updated": "2026-09-27T00:34:37.954589+00:00",
  "articles": [
+  {
+   "id": "3fdd3a0c7da3",
+   "title": "Trasformare i dati video in informazioni \"azionabili\": lo speech di IQSIGHT a secsolutionforum 2026",
+   "title_original": "Trasformare i dati video in informazioni \"azionabili\": lo speech di IQSIGHT a secsolutionforum 2026",
+   "url": "https://www.secsolution.com/notizia.asp?id=22044&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-27T00:34:37.954589+00:00",
+   "added": "2026-09-27T00:34:37.954589+00:00",
+   "image": "https://www.secsolution.com/pict/news/22044.jpg",
+   "summary": [
+    "La protezione delle infrastrutture critiche e la gestione delle Smart City richiedono soluzioni capaci di trasformare i dati video in informazioni su cui agire.",
+    "Da questa esigenza muove l’intervento di Mattia Marchi, Marketing and Sales Technical Support di IQSIGHT, al prossimo secsolutionforum, la Mostra-Convegno rivolta ai professionisti della sicurezza fisica e logica (7 e 8 ottobre, BolognaFiere).",
+    "Nel suo intervento, dal titolo \"L'evoluzione della Video Analisi: algoritmi intelligenti e AI per la protezione delle infrastrutture e la gestione urbana\", il relatore offrirà una panoramica approfondita di queste tecnologie e della loro applicazione pratica in scenari complessi: dal monitoraggio del traffico alla sicurezza perimetrale, fino alla protezione di siti sensibili."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "51ee81ecc2c9",
    "title": "Controllo accessi + PSIM + resilienza + credenziali dematerializzate",
@@ -632,6 +654,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "66da5f7fb610",
+   "title": "Videosorveglianza, regole e accorgimenti",
+   "title_original": "Videosorveglianza, regole e accorgimenti",
+   "url": "https://www.pmi.it/impresa/normativa/esperto/128123/videosorveglianza-regole-accorgimenti.html",
+   "source": "PMI.it",
+   "date": "2026-09-22T07:48:00+00:00",
+   "added": "2026-09-27T00:34:37.954589+00:00",
+   "image": "https://www.pmi.it/app/uploads/2020/05/esperto.jpg",
+   "summary": [
+    "Pubblicato 22 Gennaio 2018Aggiornato 22 Settembre 2026 14:47 In merito all’installazione di telecamere di videosorveglianza comprensive di microfono audio, quali sono le regole da rispettare nei confronti dei dipendenti e dell’autorità competente?",
+    "Qualora vi fosse l’esigenza di registrare, quali accorgimenti bisognerebbe adottare?",
+    "Se vuoi aggiornamenti su Sicurezza sul Lavoro inserisci la tua email nel box qui sotto: Compilando il presente form acconsento a ricevere le informazioni relative ai servizi di cui alla presente pagina ai sensi dell'informativa sulla privacy.",
+    "La circolare INAIL 36/2026 riapre le domande per 2024 e 2025, con 40 milioni disponibili, cinque fasce di importo e la PEC da inviare entro il 5 settembre."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
