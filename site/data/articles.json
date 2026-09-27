@@ -1,6 +1,82 @@
 {
- "updated": "2026-09-27T06:31:22.112793+00:00",
+ "updated": "2026-09-27T09:25:50.081506+00:00",
  "articles": [
+  {
+   "id": "54ca5db7ad96",
+   "title": "dormakaba skyra: controlo accessi per infrastrutture critiche",
+   "title_original": "dormakaba skyra: controlo accessi per infrastrutture critiche",
+   "url": "https://www.impiantinews.it/elettro/prodotti/dormakaba-skyra-controlo-accessi-per-infrastrutture-critiche/",
+   "source": "Impianti News",
+   "date": "2026-09-27T09:21:45+00:00",
+   "added": "2026-09-27T09:25:50.081506+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/PR_dormakaba_8_26_2.jpg-e1790242827273.jpg",
+   "summary": [
+    "Home » dormakaba skyra: controlo accessi per infrastrutture critiche skyra è una piattaforma Cloud, una chiave intelligente e componenti meccatronici senza batteria: è così che dormakaba semplifica il controllo accessi nei siti distribuiti e nelle infrastrutture critiche.",
+    "Per rispondere a questa esigenza, dormakaba ha sviluppato skyra, una soluzione di controllo accessi cloud-based pensata per organizzazioni con sedi multiple e geograficamente distribuite, dagli operatori di reti energetiche e idriche ai gestori di torri di telecomunicazione, fino alle aziende con parchi immobiliari diffusi su tutto il territorio."
+   ],
+   "refs": [
+    "ISO 27001",
+    "IEC 62443"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "dd3056f4fddd",
+   "title": "Schneider Electric porta Béhar International in Italia: l’illuminazione di emergenza incontra il design",
+   "title_original": "Schneider Electric porta Béhar International in Italia: l’illuminazione di emergenza incontra il design",
+   "url": "https://www.impiantinews.it/elettro/attualita/schneider-electric-porta-behar-international-in-italia-lilluminazione-di-emergenza-incontra-il-design/",
+   "source": "Impianti News",
+   "date": "2026-09-27T07:58:25+00:00",
+   "added": "2026-09-27T09:25:50.081506+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/hotelDesCarmes_spark_1-scaled.jpg",
+   "summary": [
+    "Home » Schneider Electric porta Béhar International in Italia: l’illuminazione di emergenza incontra il design Con le gamme Spark e Luce di Béhar International, Schneider Electric introduce in Italia soluzioni che integrano sicurezza, personalizzazione e design architettonico.",
+    "Schneider Electric annuncia l’arrivo sul mercato italiano di Béhar International, brand specializzato in soluzioni avanzate per l’illuminazione di emergenza che combinano sicurezza, design e flessibilità progettuale.",
+    "Con una storia industriale iniziata nel 1960 e l’ingresso nel gruppo Schneider Electric nel 2006, Béhar propone una visione dell’illuminazione di sicurezza che va oltre il semplice rispetto delle normative, trasformandola in uno strumento in grado di contribuire alla qualità estetica e funzionale degli ambienti."
+   ],
+   "refs": [],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "89ba7e0193eb",
+   "title": "Registro antincendio",
+   "title_original": "Registro antincendio",
+   "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/documenti-riservati-sicurezza/registro-antincendio",
+   "source": "Certifico",
+   "date": "2026-09-27T04:00:29+00:00",
+   "added": "2026-09-27T09:25:50.081506+00:00",
+   "image": "https://www.certifico.com/images/content/2026/07/Registro%20controlli%20antiincendio%20-%20Rev.%206.0_2026.png",
+   "summary": [
+    "In allegato un Modello di Registro dei Controlli antincendio (formato .docx) completo di schede e check list di controllo per sistemi, dispositivi, attrezzature antincendio tipiche.",
+    "La predisposizione del Registro è prevista, ora, in modo esplicito, per tutte le attività lavorative, dal nuovo Decreto 1 settembre 2021 (GU n.230 del 25.09.2021) in vigore dal 25.09.2022.",
+    "Entrata in vigore: 25.09.2022_______ALLEGATO I (Art. 3, comma 1) Criteri generali per manutenzione, controllo periodico e sorveglianza di impianti, attrezzature ed altri sistemi di sicurezza antincendio 1."
+   ],
+   "refs": [
+    "UNI EN 15004-1:2025",
+    "UNI 11988:2025",
+    "UNI EN 14972-1:2025",
+    "UNI EN 12209:2025",
+    "UNI EN 12845:2026",
+    "UNI 11224:2026"
+   ],
+   "categories": [
+    "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3fdd3a0c7da3",
    "title": "Trasformare i dati video in informazioni \"azionabili\": lo speech di IQSIGHT a secsolutionforum 2026",
