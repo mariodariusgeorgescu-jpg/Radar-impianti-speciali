@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-09-28T06:35:40.671081+00:00",
+ "updated": "2026-09-28T09:31:13.724231+00:00",
  "articles": [
+  {
+   "id": "e90a468a11b1",
+   "title": "VMS Co. crea una partnership tecnologica con Network Optix",
+   "title_original": "VMS Co. creates technology partnership with Network Optix",
+   "url": "https://securityjournaluk.com/vms-co-tech-partnership-with-network-optix/",
+   "source": "Security Journal UK",
+   "date": "2026-09-28T08:24:14+00:00",
+   "added": "2026-09-28T09:31:13.724231+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/09/VMS-Co.-creates-technology-partnership-with-Network-Optix.jpg",
+   "summary": [
+    "Video Management Servers Co. (VMS Co.) ha annunciato una partnership tecnologica con Network Optix (NX), fornitore dell'avanzata Nx Witness, piattaforma software di gestione video.",
+    "Nick Bowden, MD di VMS Co., ha dichiarato: \"Network Optix è una delle piattaforme VMS in più rapida crescita nel Regno Unito, per una buona ragione. È veramente una piattaforma aperta, intuitiva, scalabile e resiliente, che supporta applicazioni di sorveglianza su larga scala e di intelligence operativa.",
+    "“Le sue API, SDK e strumenti di sviluppo integrano telecamere, analisi, IoT, controllo degli accessi e altre applicazioni, rendendolo sia un VMS che una piattaforma dati completa."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "03dd80bedc0c",
    "title": "Antintrusione, in evoluzione verso l’integrazione",
@@ -180,6 +202,28 @@ window.NEWS_DATA = {
    "image": "https://www.secsolution.com/pict/imgrss/2026-09-21_Risco.jpg",
    "summary": [
     "Notizie, Tecnologie, Soluzioni, Approfondimenti, Formazione per i professionisti della security in Italia #RiscoGroup #SmartHome #BuildingAutomation #VideosorveglianzaIntelligente #secsolutionforum"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0e39a8e8172a",
+   "title": "Videosorveglianza, 47 Comuni della provincia di Salerno chiedono i fondi: i progetti al vaglio del Ministero",
+   "title_original": "Videosorveglianza, 47 Comuni della provincia di Salerno chiedono i fondi: i progetti al vaglio del Ministero",
+   "url": "https://www.italia2news.it/2026/09/28/videosorveglianza-47-comuni-della-provincia-di-salerno-chiedono-i-fondi-i-progetti-al-vaglio-del-ministero/",
+   "source": "italia2news.it",
+   "date": "2026-09-27T13:55:00+00:00",
+   "added": "2026-09-28T09:31:13.724231+00:00",
+   "image": "https://www.italia2news.it/wp-content/uploads/2024/12/telecamere-videosorveglianza-urbana-1024x614-1.jpg",
+   "summary": [
+    "Sono 47 le richieste di finanziamento presentate dai comuni della provincia di Salerno per l’installazione e il potenziamento dei sistemi di videosorveglianza, esaminate nei giorni scorsi presso il Palazzo del Governo nell’ambito di due riunioni del Comitato Provinciale per l’Ordine e la Sicurezza Pubblica.",
+    "Le progettualità, previste nell’ambito delle disposizioni in materia di sicurezza urbana, sono state preliminarmente analizzate da una cabina di regia coordinata dalla Prefettura di Salerno e composta da rappresentanti delle Forze dell’Ordine e da tecnici specializzati della Zona Telecomunicazioni della Polizia di Stato.",
+    "L’iniziativa punta dunque a rafforzare gli strumenti di sicurezza urbana attraverso una maggiore integrazione tra Comuni, Prefettura e Forze dell’Ordine."
    ],
    "refs": [],
    "categories": [
