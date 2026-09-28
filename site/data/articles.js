@@ -1,6 +1,58 @@
 window.NEWS_DATA = {
- "updated": "2026-09-28T03:28:34.803377+00:00",
+ "updated": "2026-09-28T06:35:40.671081+00:00",
  "articles": [
+  {
+   "id": "03dd80bedc0c",
+   "title": "Antintrusione, in evoluzione verso l’integrazione",
+   "title_original": "Antintrusione, in evoluzione verso l’integrazione",
+   "url": "https://www.impiantinews.it/sicurezza/professione/antintrusione-in-evoluzione-verso-lintegrazione/",
+   "source": "Impianti News",
+   "date": "2026-09-28T06:00:56+00:00",
+   "added": "2026-09-28T06:35:40.671081+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/AdobeStock_443911025_34680232_View-e1789463066283.jpeg",
+   "summary": [
+    "Da sistema autonomo e dedicato, l’impianto antintrusione sta diventando una componente integrata all’interno di ecosistemi domotici connessi.",
+    "Tradizionalmente i sistemi antintrusione hanno sempre operato come entità isolate, con centraline dedicate, sensori cablati o radio e comunicazioni su linee PSTN o GSM dedicate.",
+    "Oggi il mercato spinge sempre più verso piattaforme convergenti, dove l’antintrusione dialoga nativamente con illuminazione, climatizzazione, videosorveglianza, serrature elettroniche e sensori di fumo o allagamento.",
+    "Il mercato globale dei sistemi di sicurezza domestica è in forte espansione (le previsioni di Zion Market Research parlano di un valore oltre 119 miliardi di dollari entro il 2035) e l’integrazione con la domotica rappresenta uno dei driver principali."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3efe3cbcdb99",
+   "title": "Progettazione e manutenzione impianti di illuminazione di emergenza / EN 50172:2024",
+   "title_original": "Progettazione e manutenzione impianti di illuminazione di emergenza / EN 50172:2024",
+   "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/documenti-riservati-sicurezza/progettazione-e-manutenzione-impianti-di-illuminazione-di-emergenza-en-50172-2024",
+   "source": "Certifico",
+   "date": "2026-09-28T03:57:00+00:00",
+   "added": "2026-09-28T06:35:40.671081+00:00",
+   "image": "https://www.certifico.com/images/content/2026/07/Progettazione%20e%20manutenzione%20impianti%20di%20illuminazione%20di%20emergenza%20EN%2050172%202024.png",
+   "summary": [
+    "ID 26702 | 17 Luglio 2026 / In allegato documento completo e Modello registro .doc/pdf Questo documento, che si basa sulla norma CEI EN 50172:2026, specifica le prescrizioni di installazione per i sistemi di illuminazione di emergenza di evacuazione, unitamente alla documentazione riguardante le verifiche, le procedure di manutenzione e di prova e il funzionamento di tali sistemi.",
+    "La segnaletica di sicurezza per le vie di fuga fa parte dell'illuminazione di emergenza di evacuazione.",
+    "In allegato inoltre, Modello di Registro Manutenzione e verifiche Sistemi di illuminazione di emergenza di evacuazione (CEI EN 50172:2026) in formato .doc / pdf."
+   ],
+   "refs": [
+    "EN 50172:2024",
+    "CEI EN 50172:2026",
+    "EN 1838",
+    "UNI EN 1838",
+    "ISO 16069",
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "bf2711d212be",
    "title": "ARITECH: PIRcam per piattaforma antintrusione",
