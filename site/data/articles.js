@@ -1,6 +1,142 @@
 window.NEWS_DATA = {
- "updated": "2026-09-27T21:25:05.748507+00:00",
+ "updated": "2026-09-28T00:35:34.978207+00:00",
  "articles": [
+  {
+   "id": "bf2711d212be",
+   "title": "ARITECH: PIRcam per piattaforma antintrusione",
+   "title_original": "ARITECH: PIRcam per piattaforma antintrusione",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21947&c=5",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/news/21947.jpg",
+   "summary": [
+    "Le decisioni in materia di sicurezza si prendono in pochi secondi: più velocemente un allarme può essere verificato, più rapido ed efficace è l’intervento.",
+    "Da questa esigenza nasce Blinx, la nuova PIRcam progettata da Aritech per la piattaforma antintrusione Serie x700.",
+    "Grazie alla combinazione di rilevazione del movimento, acquisizione di immagini ad alta risoluzione e streaming video, Aritech Blinx consente una verifica visiva immediata dell’evento.",
+    "Alla rilevazione di un movimento, la PIRcam acquisisce una clip video con immagini pre e post evento, offrendo una visione completa di quanto accaduto sia all’utente tramite APP sia agli operatori della vigilanza."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "265a0c0a8614",
+   "title": "Telecamere negli spogliatoi della piscina: la multa del Garante privacy",
+   "title_original": "Telecamere negli spogliatoi della piscina: la multa del Garante privacy",
+   "url": "https://www.secsolution.com/notizia.asp?id=22040&c=4",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/news/22040.jpg",
+   "summary": [
+    "Il Garante per la protezione dei dati personali ha sanzionato con 8mila euro l’Azienda Speciale per la Gestione degli Impianti Sportivi del Comune di Trento (ASIS) per l’installazione di telecamere negli spogliatoi della piscina del Centro sportivo Trento Nord, a Gardolo.",
+    "Le telecamere, attive dal 2007, erano state introdotte per contrastare furti di portafogli e telefoni.",
+    "Pur non riprendendo cabine, docce o servizi igienici, il Garante ha rilevato che gli spogliatoi restano luoghi con un’elevata aspettativa di riservatezza, dove la videosorveglianza non è ammessa.",
+    "Il Garante ha tenuto conto della collaborazione dell’Azienda e dell’assenza di precedenti, definendo così l’importo contenuto della sanzione."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "aa5acb89615b",
+   "title": "A secsolutionforum i professionisti antincendio: la sicurezza si progetta anche guardando al futuro",
+   "title_original": "A secsolutionforum i professionisti antincendio: la sicurezza si progetta anche guardando al futuro",
+   "url": "https://www.secsolution.com/notizia.asp?id=22039&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/news/22039.jpg",
+   "summary": [
+    "Norme che cambiano, tecnologie che evolvono, nuove esigenze di sicurezza.Per chi si occupa di prevenzione incendi e sicurezza antincendio, mantenersi aggiornati significa poter affrontare con competenza le sfide della progettazione e della gestione della sicurezza.",
+    "Il 7 e 8 ottobre, a BolognaFiere, c'è secsolutionforum 2026 (padiglione 22): due giornate di formazione, confronto e aggiornamento professionale, con partecipazione gratuita.",
+    "Perché la sicurezza antincendio è un ambito in continua evoluzione, dove normativa, progettazione, tecnologie e gestione del rischio devono dialogare sempre di più.",
+    "A secsolutionforum puoi trovare contenuti, casi e confronti utili per: Non solo aggiornamento."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "207632c2468c",
+   "title": "Steve Riley al timone di i-PRO in area EMEA",
+   "title_original": "Steve Riley al timone di i-PRO in area EMEA",
+   "url": "https://www.secsolution.com/notizia.asp?id=21879&c=1",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/news/21879.jpg",
+   "summary": [
+    "i-PRO, importante produttore di telecamere di sicurezza avanzate, sistemi di videosorveglianza ed edge computing, ha nominato Steve Riley Presidente per l’area EMEA, scelta che segna una nuova fase di espansione e rafforzamento organizzativo nella regione.",
+    "La decisione arriva in un momento di forte crescita, che richiede una struttura di leadership ancor più solida per gestire complessità operative e sviluppo strategico.",
+    "Riley avrà la responsabilità di guidare la strategia regionale, lo sviluppo organizzativo e la governance, mentre la direzione commerciale resterà affidata a Jose Riolobos, Vice President of Sales EMEA, con l’obiettivo di accelerare le attività di vendita e consolidare le relazioni con partner e clienti."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5da1f98731c5",
+   "title": "A secsolutionforum, focus sulla Norma CEI 79-3 con ANIE Sicurezza",
+   "title_original": "A secsolutionforum, focus sulla Norma CEI 79-3 con ANIE Sicurezza",
+   "url": "https://www.secsolution.com/notizia.asp?id=22010&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/news/22010.jpg",
+   "summary": [
+    "​secsolutionforum 2026 – Bologna Fiere, il 7 e 8 ottobre 2026 all'interno di Urban Tech 2026 - The Urban Technology Show non è solo una fiera: è un ecosistema vivo, che quest'anno occuperà 4.000 mq di area espositiva, distribuiti tra 9 sale attive in contemporanea.",
+    "Oltre 100 i relatori di primissimo livello, con un parterre di assoluto spicco, coordinati da 6 moderatori esperti del settore.",
+    "Mercoledì 7 ottobre alle ore 14:30 presso la Sala Portici, ANIE Sicurezza pone il focus sulla Norma CEI 79-3:2024: Responsabilità e Legalità: la regola (dell’Arte) per far crescere la tua impresa.Interverranno: Verranno rilasciati attestati e CFP da vari ordini professionali.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [
+    "CEI 79-3"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0e5d49e90a6d",
+   "title": "Scopri gli interventi RISCO e DOVIT a secsolutionforum, 7-8 ottobre BolognaFiere",
+   "title_original": "Scopri gli interventi RISCO e DOVIT a secsolutionforum, 7-8 ottobre BolognaFiere",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2371",
+   "source": "SecSolution",
+   "date": "2026-09-28T00:35:34.978207+00:00",
+   "added": "2026-09-28T00:35:34.978207+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-09-21_Risco.jpg",
+   "summary": [
+    "Notizie, Tecnologie, Soluzioni, Approfondimenti, Formazione per i professionisti della security in Italia #RiscoGroup #SmartHome #BuildingAutomation #VideosorveglianzaIntelligente #secsolutionforum"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "54ca5db7ad96",
    "title": "dormakaba skyra: controlo accessi per infrastrutture critiche",
