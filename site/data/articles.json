@@ -1,6 +1,70 @@
 {
- "updated": "2026-09-28T21:27:06.936282+00:00",
+ "updated": "2026-09-29T00:34:14.914370+00:00",
  "articles": [
+  {
+   "id": "3be40146f3dc",
+   "title": "A secsolutionforum, incontro con MAIA: l’influenza delle norme tecniche nell’antincendio",
+   "title_original": "A secsolutionforum, incontro con MAIA: l’influenza delle norme tecniche nell’antincendio",
+   "url": "https://www.secsolution.com/notizia.asp?id=22014&c=2",
+   "source": "SecSolution",
+   "date": "2026-09-29T00:34:14.914370+00:00",
+   "added": "2026-09-29T00:34:14.914370+00:00",
+   "image": "https://www.secsolution.com/pict/news/22014.jpg",
+   "summary": [
+    "secsolutionforum 2026 – Bologna Fiere, il 7 e 8 ottobre 2026 all'interno di Urban Tech 2026 - The Urban Technology Show non è solo una fiera: è un ecosistema vivo, che quest'anno occuperà 4.000 mq di area espositiva, distribuiti tra 9 sale attive in contemporanea.",
+    "Oltre 100 i relatori di primissimo livello, con un parterre di assoluto spicco, coordinati da 6 moderatori esperti del settore.",
+    "Mercoledì 7 ottobre alle ore 16:00 presso la Sala Portici, l’Associazione M.A.I.A. parla di Responsabilità penali nell’antincendio: dalla sentenza per il caso all’Archivio di Stato di Arezzo all’entrata in vigore del DM 1/9/2021 art. 4.",
+    "Incontro che analizza i molteplici aspetti delle normative e del loro impatto sul fondamentale processo di manutenzione degli impianti."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f64ebe1643d8",
+   "title": "Infrastrutture critiche e NIS 2: la sfida della sicurezza fisica e logica",
+   "title_original": "Infrastrutture critiche e NIS 2: la sfida della sicurezza fisica e logica",
+   "url": "https://www.secsolution.com/articolo.asp?id=1649",
+   "source": "SecSolution",
+   "date": "2026-09-29T00:34:14.914370+00:00",
+   "added": "2026-09-29T00:34:14.914370+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1649.jpg",
+   "summary": [
+    "Cosa accadrebbe se un hacker violasse i sistemi di governo SCADA e/o i server contenenti le informazioni di gestione per il dosaggio di sostanze chimiche, come il cloro necessario alla sanificazione di un acquedotto pubblico, o i principi attivi per la produzione di farmaci?",
+    "Due articolate “verticalità”, molto complesse, dove l’evoluzione tecnologica - seppur con esigenze applicative diverse - rappresenta un fattore comune nelle soluzioni di security, fisica e logica, funzionali alla protezione di settori infrastrutturali strategici per ogni Paese."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f6066c8d75dd",
+   "title": "CoreSync: video e antintrusione, a un nuovo livello",
+   "title_original": "CoreSync: video e antintrusione, a un nuovo livello",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2385",
+   "source": "SecSolution",
+   "date": "2026-09-29T00:34:14.914370+00:00",
+   "added": "2026-09-29T00:34:14.914370+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-09-29_Inim_01.jpg",
+   "summary": [
+    "Notizie, Tecnologie, Soluzioni, Approfondimenti, Formazione per i professionisti della security in Italia #InimElectronics #CoreSync #videoanalisi #centraledomotica #antintrusione"
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e90a468a11b1",
    "title": "VMS Co. crea una partnership tecnologica con Network Optix",
