@@ -1,6 +1,51 @@
 {
- "updated": "2026-09-29T03:28:54.564747+00:00",
+ "updated": "2026-09-29T06:33:28.114722+00:00",
  "articles": [
+  {
+   "id": "eae4f9c124eb",
+   "title": "Milestone Systems si è classificata al primo posto nel mercato EMEA VMS/sicurezza basata su cloud",
+   "title_original": "Milestone Systems ranked number one in EMEA VMS/cloud-based security market",
+   "url": "https://securityjournaluk.com/milestone-systems-ranked-number-one-in-emea-vms-cloud-based-security-market/",
+   "source": "Security Journal UK",
+   "date": "2026-09-29T06:30:00+00:00",
+   "added": "2026-09-29T06:33:28.114722+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/09/Morten-Illum-Chief-Revenue-Officer-Milestone-Systems.png",
+   "summary": [
+    "Secondo i dati sulle quote di mercato 2025 del gruppo di ricerca e consulenza tecnologica Omdia, Milestone Systems è il più grande fornitore singolo di software di gestione video (VMS) e di videosorveglianza come servizio (VSaaS) in Europa, Medio Oriente e Africa (EMEA).",
+    "Milestone detiene quasi un quinto (19,1%) del mercato EMEA complessivo, che comprende Regno Unito e Irlanda, una posizione di leader di mercato che non è cambiata dal 2021.",
+    "In tutta la regione EMEA, il mercato VMS e videosorveglianza come servizio (VSaaS) è cresciuto del 10% nel 2025 raggiungendo 573 milioni di dollari, e il Medio Oriente e l’Europa orientale hanno registrato una crescita particolare."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "a2b2106a5958",
+   "title": "Telecamere negli spogliatoi di una piscina, Garante sanziona ASIS Trento",
+   "title_original": "Telecamere negli spogliatoi di una piscina, Garante sanziona ASIS Trento",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/telecamere-negli-spogliatoi-di-una-piscina-garante-sanziona-asis-trento/",
+   "source": "Impianti News",
+   "date": "2026-09-29T06:00:41+00:00",
+   "added": "2026-09-29T06:33:28.114722+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/1391.jpg",
+   "summary": [
+    "Home » Telecamere negli spogliatoi di una piscina, Garante sanziona ASIS Trento Il Garante ha sanzionato l’ASIS di Trento per 8.000 euro a causa dell’installazione di telecamere nell’area armadietti degli spogliatoi.",
+    "Il Garante per la protezione dei dati personali ha inviato una sanzione di 8mila euro nei confronti dell’Azienda Speciale per la Gestione degli Impianti Sportivi del Comune di Trento (ASIS), con il provvedimento n. 619 approvato dal Collegio dell’Autorità il 3 settembre 2026 doc. web n. 10294255.",
+    "Le telecamere, installate a partire dal 2007, riprendevano l’area degli armadietti utilizzati dagli utenti per custodire i propri effetti personali.",
+    "Nel determinare l’importo contenuto della sanzione, il Garante ha tenuto conto della collaborazione dell’Azienda e dell’assenza di precedenti violazioni."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3be40146f3dc",
    "title": "A secsolutionforum, incontro con MAIA: l’influenza delle norme tecniche nell’antincendio",
