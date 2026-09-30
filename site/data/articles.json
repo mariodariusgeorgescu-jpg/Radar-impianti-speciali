@@ -1,6 +1,26 @@
 {
- "updated": "2026-09-30T12:37:49.014089+00:00",
+ "updated": "2026-09-30T15:32:10.927166+00:00",
  "articles": [
+  {
+   "id": "af668237eaac",
+   "title": "Teledyne FLIR's Industry-First UL 2684 Listing Strengthens the Case for Thermal Image Fire Detection in Europe",
+   "title_original": "Teledyne FLIR's Industry-First UL 2684 Listing Strengthens the Case for Thermal Image Fire Detection in Europe",
+   "url": "https://www.marketscreener.com/news/teledyne-flir-s-industry-first-ul-2684-listing-strengthens-the-case-for-thermal-image-fire-detection-ce785ad2d08cf22d",
+   "source": "MarketScreener",
+   "date": "2026-09-30T07:20:00+00:00",
+   "added": "2026-09-30T15:32:10.927166+00:00",
+   "image": "",
+   "summary": [
+    "Teledyne FLIR's A40 and A70 (Axx-Series) thermal imaging cameras are the first models to achieve UL 2684 listing. They are listed as thermal image fire detectors under ANSI/CAN/UL 2684, the Standard ..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": false
+  },
   {
    "id": "ce48e1ad8346",
    "title": "Reti di videosorveglianza IP: i tre errori progettuali ricorrenti che ne compromettono l’affidabilità",
@@ -18,6 +38,28 @@
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "8bd8d8aaaac5",
+   "title": "BACS warnt vor Ransomware-Angriffen mittels Fake-Fehlermeldungen",
+   "title_original": "BACS warnt vor Ransomware-Angriffen mittels Fake-Fehlermeldungen",
+   "url": "https://www.it-markt.ch/news/2026-09-30/bacs-warnt-vor-ransomware-angriffen-mittels-fake-fehlermeldungen",
+   "source": "IT-Markt",
+   "date": "2026-09-30T05:02:00+00:00",
+   "added": "2026-09-30T15:32:10.927166+00:00",
+   "image": "https://data.it-markt.ch/styles/np8_full/s3/media/2026/09/30/42389372410_0644368cae_z.jpg?itok=beueUpN_",
+   "summary": [
+    "Bei solchen Angriffen erhalten User einer kompromittierten Website eine gefälschte Mitteilung, dass es ein technisches Problem gebe, oder dass man an einem bestimmten Ort klicken müsse.",
+    "Geht der User auf die Aufforderung ein, wird die Schadsoftware ausgeführt.",
+    "So müssen Cyberkriminelle keine Sicherheitslücken ausnutzen, um die Rechner ihrer Opfer zu infizieren. Das Bundesamt für Cybersicherheit warnt ausserdem vor dem Herunterladen von Apps oder Browser-Erweiterungen von unbekannten Websites. Diese könnten manipuliert sein und Schadsoftware enthalten. Schadsoftware über E-Mail-Anhänge sei hingegen nicht mehr so weit verbreitet."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
@@ -90,6 +132,29 @@
     "tvcc"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7859792f29b4",
+   "title": "BACS warnt vor Clickfix: Gefälschte Fehlermeldungen verbreiten Ransomware",
+   "title_original": "BACS warnt vor Clickfix: Gefälschte Fehlermeldungen verbreiten Ransomware",
+   "url": "https://www.ad-hoc-news.de/wissenschaft/bacs-warnt-vor-clickfix-gefaelschte-fehlermeldungen-verbreiten-ransomware/70204979",
+   "source": "AD HOC NEWS",
+   "date": "2026-09-29T19:21:00+00:00",
+   "added": "2026-09-30T15:32:10.927166+00:00",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2807088_1920_1080.webp",
+   "summary": [
+    "Ein weiterer Vektor betrifft den Arbeitsmarkt.",
+    "Das BACS berichtet von Fällen, in denen Bewerber im Rahmen des Rekrutierungsprozesses dazu bewegt werden, vermeintlich notwendige Software herunterzuladen, die sich im Nachgang als bösartig herausstellt.",
+    "Im Gegensatz dazu stellt die Behörde fest, dass herkömmliche E-Mail-Anhänge als Infektionsweg derzeit rückläufig sind.",
+    "Die Stiftung Warentest warnt aktuell vor Kettenbriefen über WhatsApp, mit denen Konten gekapert werden. Kriminelle fordern Nutzer beispielsweise auf, an Online-Votings für Stipendien teilzunehmen. Über die Funktion „Verbundene Geräte“ erlangen sie Zugriff auf das Konto und fordern im Namen der Opfer Geld von deren Kontakten. Das BACS benennt zudem erhebliche Risiken bei Internet-of-Things-Geräten (IoT)."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
