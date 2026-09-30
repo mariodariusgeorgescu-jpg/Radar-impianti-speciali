@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-09-30T15:32:10.927166+00:00",
+ "updated": "2026-09-30T18:30:54.444852+00:00",
  "articles": [
   {
    "id": "af668237eaac",
@@ -56,6 +56,28 @@ window.NEWS_DATA = {
     "Bei solchen Angriffen erhalten User einer kompromittierten Website eine gefälschte Mitteilung, dass es ein technisches Problem gebe, oder dass man an einem bestimmten Ort klicken müsse.",
     "Geht der User auf die Aufforderung ein, wird die Schadsoftware ausgeführt.",
     "So müssen Cyberkriminelle keine Sicherheitslücken ausnutzen, um die Rechner ihrer Opfer zu infizieren. Das Bundesamt für Cybersicherheit warnt ausserdem vor dem Herunterladen von Apps oder Browser-Erweiterungen von unbekannten Websites. Diese könnten manipuliert sein und Schadsoftware enthalten. Schadsoftware über E-Mail-Anhänge sei hingegen nicht mehr so weit verbreitet."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5c2835876b9c",
+   "title": "Castagnole delle Lanze. Progetto “Building Automation” per le scuole",
+   "title_original": "Castagnole delle Lanze. Progetto “Building Automation” per le scuole",
+   "url": "https://www.100torri.it/2026/09/30/castagnole-delle-lanze-progetto-building-automation-per-le-scuole/",
+   "source": "CentoTorri",
+   "date": "2026-09-30T01:15:00+00:00",
+   "added": "2026-09-30T18:30:54.444852+00:00",
+   "image": "https://www.100torri.it/newsite/wp-content/uploads/2026/09/Municipio-Castagnole.jpg",
+   "summary": [
+    "L’Amministrazione comunale di Castagnole delle Lanze, guidata dal sindaco Carlo Mancuso, è impegnata nello sviluppo di un importante progetto che permetterà a diversi edifici pubblici che hanno già raggiunto alti valori di efficientamento energetico, di ottenere una preziosa qualità ambientale rivolta alla persona, ai fruitori degli spazi e dei locali interessati, preservando così la salute degli stessi.",
+    "Numeri importanti: con l’applicazione delle nuove tecnologie previste si arriva a ottenere fino a un 20% di riduzione del consumo di combustibili fossili e quindi di CO2 in meno, che non viene cioè immessa in atmosfera.",
+    "Viene così salvaguardata la salute degli alunni e degli insegnanti delle scuole castagnolesi: della Scuola Primaria Maria Bogliaccini Aprà e della Scuola Secondaria di Primo grado “C."
    ],
    "refs": [],
    "categories": [
