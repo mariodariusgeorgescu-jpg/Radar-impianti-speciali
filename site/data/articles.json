@@ -1,6 +1,28 @@
 {
- "updated": "2026-09-30T03:28:51.226286+00:00",
+ "updated": "2026-09-30T06:34:04.404511+00:00",
  "articles": [
+  {
+   "id": "ce48e1ad8346",
+   "title": "Reti di videosorveglianza IP: i tre errori progettuali ricorrenti che ne compromettono l’affidabilità",
+   "title_original": "Reti di videosorveglianza IP: i tre errori progettuali ricorrenti che ne compromettono l’affidabilità",
+   "url": "https://www.impiantinews.it/elettro/professione/impianto-di-videosorveglianza-ip-i-tre-errori-progettuali-ricorrenti-che-ne-compromettono-laffidabilita/",
+   "source": "Impianti News",
+   "date": "2026-09-30T06:00:35+00:00",
+   "added": "2026-09-30T06:34:04.404511+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/AdobeStock_882843968_22608121_View-scaled-e1789376565689.jpeg",
+   "summary": [
+    "Home » Reti di videosorveglianza IP: i tre errori progettuali ricorrenti che ne compromettono l’affidabilità La qualità di un impianto di videosorveglianza non si misura solo dalle prestazioni delle telecamere, ma dall’affidabilità della rete che le collega.",
+    "Quando un impianto di videosorveglianza smette di funzionare, la causa non è quasi mai la telecamera, ma la rete che la sostiene.",
+    "L’articolo analizza tre criticità ricorrenti negli impianti IP: l’assenza di un’analisi dei punti singoli di guasto in fase di progettazione, la condivisione della rete di videosorveglianza con il traffico dati aziendale e la mancanza di un monitoraggio continuativo dell’infrastruttura."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "44aabc141f48",
    "title": "Controllo accessi: sicurezza ma anche design e fluidita’",
