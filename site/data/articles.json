@@ -1,6 +1,76 @@
 {
- "updated": "2026-09-29T21:27:37.266302+00:00",
+ "updated": "2026-09-30T00:36:19.340277+00:00",
  "articles": [
+  {
+   "id": "44aabc141f48",
+   "title": "Controllo accessi: sicurezza ma anche design e fluidita’",
+   "title_original": "Controllo accessi: sicurezza ma anche design e fluidita’",
+   "url": "https://www.secsolution.com/notizia.asp?id=22023&c=6",
+   "source": "SecSolution",
+   "date": "2026-09-30T00:36:19.340277+00:00",
+   "added": "2026-09-30T00:36:19.340277+00:00",
+   "image": "https://www.secsolution.com/pict/news/22023.jpg",
+   "summary": [
+    "La reception rappresenta il primo punto di contatto tra un’organizzazione e chi vi accede ogni giorno. Per questo motivo il controllo degli accessi non può più essere considerato un semplice dispositivo di sicurezza, ma un elemento capace di coniugare protezione, fluidità dei percorsi e qualità architettonica.",
+    "Per rispondere a queste esigenze Laserline ha progettato e realizzato un nuovo sistema di controllo accessi basato sugli speed gate Automatic Systems New FirstLane, integrati da un varco AccessLane AL933 dedicato al transito di persone con mobilità ridotta, personale di servizio, movimentazione di materiali e gestione delle vie di esodo.",
+    "Il risultato finale è un sistema nel quale sicurezza, accessibilità e design convivono in modo naturale."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e40f85b10e55",
+   "title": "COMELIT GROUP: centrale antintrusione filare e wireless",
+   "title_original": "COMELIT GROUP: centrale antintrusione filare e wireless",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21956&c=5",
+   "source": "SecSolution",
+   "date": "2026-09-30T00:36:19.340277+00:00",
+   "added": "2026-09-30T00:36:19.340277+00:00",
+   "image": "https://www.secsolution.com/pict/news/21956.jpg",
+   "summary": [
+    "Con VEDO Easy, Comelit rende l’antintrusione più semplice da installare, configurare e gestire, senza rinunciare all’affidabilità di un sistema professionale.",
+    "Pensata per il residenziale e le piccole attività commerciali, gestisce fino a 26 zone e permette di combinare dispositivi filari e radio in base alle esigenze dell’impianto.",
+    "La configurazione guidata tramite APP e l’autoindirizzamento delle periferiche riducono tempi e complessità di messa in servizio.",
+    "Compatibile con l’ecosistema VEDO, il sistema può essere gestito da remoto dall’utilizzatore tramite Comelit App, mentre il software Safe Manager offre all’installatore configurazioni avanzate e diagnostica in tempo reale. maggiori informazioni su: https://comelitgroup.it/installatore/offerta/antintrusione/ Verranno rilasciati attestati e CFP da vari ordini professionali."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5446656ac98d",
+   "title": "La regola dell'arte come vantaggio competitivo: legalita', norme e responsabilita'",
+   "title_original": "La regola dell'arte come vantaggio competitivo: legalita', norme e responsabilita'",
+   "url": "https://www.secsolution.com/articolo.asp?id=1650",
+   "source": "SecSolution",
+   "date": "2026-09-30T00:36:19.340277+00:00",
+   "added": "2026-09-30T00:36:19.340277+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1650.jpg",
+   "summary": [
+    "Nel settore della sicurezza, parlare di impianti, tecnologie e prestazioni non basta più.",
+    "Oggi un sistema di allarme o di videosorveglianza deve essere progettato, installato e mantenuto secondo un preciso quadro di regole tecniche e normative che definiscono responsabilità, obblighi e criteri di qualità.",
+    "Fin dal 1968, con la Legge n. 186, il legislatore ha stabilito che gli impianti elettrici ed elettronici devono essere realizzati a regola d’arte e che il rispetto delle norme tecniche CEI costituisce il riferimento per dimostrarlo.",
+    "In questo scenario assume un ruolo centrale la nuova Norma CEI 79-3:2024, documento di riferimento per la progettazione, la realizzazione e la manutenzione degli impianti di allarme intrusione e rapina."
+   ],
+   "refs": [
+    "CEI79-3:2024"
+   ],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "eae4f9c124eb",
    "title": "Milestone Systems si è classificata al primo posto nel mercato EMEA VMS/sicurezza basata su cloud",
