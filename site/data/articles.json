@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T09:30:00.583698+00:00",
+ "updated": "2026-09-30T12:37:49.014089+00:00",
  "articles": [
   {
    "id": "ce48e1ad8346",
@@ -92,6 +92,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "43a040fb8e70",
+   "title": "I premi XPRIZE Wildfire premiano i progressi nella rilevazione e risposta agli incendi",
+   "title_original": "XPRIZE Wildfire Awards Honor Advances in Fire Detection and Response",
+   "url": "https://greekreporter.com/2026/09/30/xprize-wildfire-awards-2026/",
+   "source": "Greek Reporter",
+   "date": "2026-09-29T17:00:00+00:00",
+   "added": "2026-09-30T12:37:49.014089+00:00",
+   "image": "https://greekreporter.com/wp-content/uploads/2026/09/xprize_winners_credit_xprize-opt.jpg",
+   "summary": [
+    "XPRIZE ha annunciato i vincitori del suo concorso Wildfire da 11 milioni di dollari il 23 settembre 2026, presso il New York City Fire Museum durante la Climate Week NYC, riconoscendo i progressi nelle tecnologie progettate per rilevare tempestivamente gli incendi e rispondere prima che diventino distruttivi.",
+    "I team hanno gareggiato su due percorsi complementari: rilevamento e intelligence degli incendi boschivi basati sullo spazio e risposta autonoma agli incendi.",
+    "Il concorso ha inoltre individuato lacune tecniche che devono essere colmate per consentire un rilevamento affidabile e in tempo reale degli incendi dallo spazio.",
+    "La fase successiva si concentrerà sull’aiutare le tecnologie a superare i test della concorrenza per supportare un rilevamento precoce e una risposta più rapida nella pratica."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "eae4f9c124eb",
