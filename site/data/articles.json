@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T18:30:54.444852+00:00",
+ "updated": "2026-09-30T21:28:48.506126+00:00",
  "articles": [
   {
    "id": "af668237eaac",
@@ -202,6 +202,27 @@
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "5e5b5323a9d2",
+   "title": "Efficienza energetica in edilizia, Enea integra banche dati",
+   "title_original": "Efficienza energetica in edilizia, Enea integra banche dati",
+   "url": "https://www.staffettaonline.com/articolo.aspx?id=407759",
+   "source": "Staffetta Quotidiana",
+   "date": "2026-09-29T17:00:00+00:00",
+   "added": "2026-09-30T21:28:48.506126+00:00",
+   "image": "https://www.staffettaonline.com/foto/fotofb2.ashx?f=&lev=1&t=Efficienza+energetica+in+edilizia%2c+Enea+integra+banche+dati",
+   "summary": [
+    "Il settore civile è responsabile del 36% della domanda energetica globale e del 37% delle emissioni di CO2.",
+    "La nuova Direttiva europea 2024/1275 sulla Prestazione Energetica degli Edifici (Epbd) raffo ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "eae4f9c124eb",
