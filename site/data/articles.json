@@ -1,6 +1,71 @@
 {
- "updated": "2026-09-30T21:28:48.506126+00:00",
+ "updated": "2026-10-01T00:37:47.128744+00:00",
  "articles": [
+  {
+   "id": "68e9c6e99c9b",
+   "title": "secsolutionforum 2026: Ganz, CBC (Europe), e il nuovo modello di sicurezza urbana tra AI e riduzione dei costi",
+   "title_original": "secsolutionforum 2026: Ganz, CBC (Europe), e il nuovo modello di sicurezza urbana tra AI e riduzione dei costi",
+   "url": "https://www.secsolution.com/notizia.asp?id=22048&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-01T00:37:47.128744+00:00",
+   "added": "2026-10-01T00:37:47.128744+00:00",
+   "image": "https://www.secsolution.com/pict/news/22048.jpg",
+   "summary": [
+    "Come trasformare un impianto di videosorveglianza in un modello replicabile, sostenibile ed efficace in molteplici contesti cittadini e aree sensibili?",
+    "È questa la sfida affrontata da Massimo Guerrieri, Sales Manager prodotti Ganz, CBC (Europe), a secsolutionforum 2026 (7-8 ottobre, BolognaFiere).",
+    "La manifestazione si terrà il 7 e 8 ottobre a BolognaFiere, abbinando la rassegna espositiva a un qualificato programma di formazione (con rilascio di crediti), networking, aggiornamento tecnologico e normativo.",
+    "Per partecipare gratuitamente all'evento e seguire lo speech di Ganz-CBC (Europe), registrarsi online a questo link."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "819d5dc6ed6c",
+   "title": "Accessi intelligenti per ospedali e cantieri: la security che evolve",
+   "title_original": "Accessi intelligenti per ospedali e cantieri: la security che evolve",
+   "url": "https://www.secsolution.com/articolo.asp?id=1651",
+   "source": "SecSolution",
+   "date": "2026-10-01T00:37:47.128744+00:00",
+   "added": "2026-10-01T00:37:47.128744+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1651.jpg",
+   "summary": [
+    "di Giovanni Villarosa, Laureato in Scienze dell’Intelligence e della Sicurezza, esperto di Sicurezza Fisica per Infrastrutture, CSO e DPO, membro del comitato tecnico-scientifico del CESPIS, Centro Studi Prevenzione, Investigazione e Sicurezza Nello scorso numero abbiamo affrontato il tema dell’evoluzione tecnologica e normativa nel complesso settore dei sistemi di sicurezza antintrusione.",
+    "Proseguendo nei sottosettori dell’antintrusione, arriviamo alla security perimetrale specializzata, considerata qui come protezione fisica degli accessi: una tecnologia dalle spiccate caratteristiche trasversali."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bca86a50a35f",
+   "title": "Tesoreria, videosorveglianza e tutela scuole di montagna al centro del consiglio provinciale",
+   "title_original": "Tesoreria, videosorveglianza e tutela scuole di montagna al centro del consiglio provinciale",
+   "url": "https://www.piacenzasera.it/2026/10/tesoreria-videosorveglianza-e-tutela-scuole-di-montagna-al-centro-del-consiglio-provinciale/663614/",
+   "source": "PiacenzaSera",
+   "date": "2026-09-30T14:59:00+00:00",
+   "added": "2026-10-01T00:37:47.128744+00:00",
+   "image": "https://www.piacenzasera.it/photogallery_new/images/2026/09/consiglio-provinciale-294696.660x368.jpg",
+   "summary": [
+    "Il Consiglio provinciale di Piacenza si è riunito mercoledì 30 settembre affrontando una serie di temi legati all’attività e all’organizzazione dell’Ente, dalla gestione del servizio di tesoreria alla disciplina della videosorveglianza, fino alla salvaguardia dei presidi scolastici nei territori montani.",
+    "In Aula è stato poi presentato lo schema di convenzione per il servizio di tesoreria della Provincia per il periodo 2027-2031 predisposto in vista della scadenza dell’attuale affidamento che è prevista per il 31 dicembre 2026: il documento disciplina le attività a supporto della gestione finanziaria dell’Ente, con particolare attenzione alla digitalizzazione dei processi e all’interoperabilità dei sistemi."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "af668237eaac",
    "title": "Teledyne FLIR's Industry-First UL 2684 Listing Strengthens the Case for Thermal Image Fire Detection in Europe",
