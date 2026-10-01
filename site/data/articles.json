@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-01T06:35:51.849673+00:00",
+ "updated": "2026-10-01T09:30:38.378000+00:00",
  "articles": [
+  {
+   "id": "4f3d95003866",
+   "title": "A secsolutionforum: Security Integrata nella Smart Land, dall’edificio intelligente alla città sicura",
+   "title_original": "A secsolutionforum: Security Integrata nella Smart Land, dall’edificio intelligente alla città sicura",
+   "url": "https://www.secsolution.com/notizia.asp?id=22062&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-01T03:30:00+00:00",
+   "added": "2026-10-01T09:30:38.378000+00:00",
+   "image": "https://www.secsolution.com/pict/news/22062.jpg",
+   "summary": [
+    "Come si costruisce un sistema di sicurezza urbana che non sia più una somma di telecamere e sensori, ma un organismo intelligente capace di apprendere, anticipare e garantire protezione?",
+    "Se sei un amministratore pubblico, un responsabile della sicurezza urbana, un esponente delle forze dell’ordine, un progettista o un operatore del settore, questa tavola rotonda ti offrirà risposte concrete e visioni operative.",
+    "Scoprirai come IoT, intelligenza artificiale e piattaforme collaborative stiano trasformando la videosorveglianza da strumento reattivo a componente predittiva di un ecosistema integrato che collega smart building, isolati urbani e infrastrutture cittadine."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "68e9c6e99c9b",
    "title": "secsolutionforum 2026: Ganz, CBC (Europe), e il nuovo modello di sicurezza urbana tra AI e riduzione dei costi",
@@ -1968,6 +1990,29 @@
    "refs": [],
    "categories": [
     "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f75fd42fd0fe",
+   "title": "Prevenzione incendi in Sicilia, “azione esecutiva sui privati quando non puliscono i terreni”",
+   "title_original": "Prevenzione incendi in Sicilia, “azione esecutiva sui privati quando non puliscono i terreni”",
+   "url": "https://www.tempostretto.it/news/prevenzione-incendi-in-sicilia-azione-esecutiva-sui-privati-quando-non-puliscono-i-terreni.html",
+   "source": "Tempostretto",
+   "date": "2026-09-18T06:48:00+00:00",
+   "added": "2026-10-01T09:30:38.378000+00:00",
+   "image": "https://www.tempostretto.it/wp-content/uploads/sites/2/2026/09/Conferenza-Sicilia-che-brucia.jpg",
+   "summary": [
+    "Il sindaco De Luca ha lanciato la proposta durante il convegno a Taormina \"La Sicilia brucia\", con fondi ai Comuni.",
+    "Sì dal presidente della Regione Schifani TAORMINA – “La Sicilia brucia e la politica deve agire.",
+    "Un nuovo modello di gestione del territorio a salvaguardia dell’ecosistema siciliano” è il convegno di oggi promosso a Taormina dal sindaco Cateno De Luca.",
+    "Ora, come ha osservato la dirigente, dopo il via libera di Schifani, ci sono tutte le condizioni perché la proposta di legge venga approvata."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
