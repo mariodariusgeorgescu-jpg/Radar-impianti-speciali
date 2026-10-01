@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T15:30:57.839039+00:00",
+ "updated": "2026-10-01T18:33:40.396832+00:00",
  "articles": [
   {
    "id": "d3a8900ef24f",
@@ -23,6 +23,27 @@
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "2b2e6ab8d820",
+   "title": "Case green, l’Ue porta avanti la procedura d’infrazione contro l’Italia…",
+   "title_original": "Case green, l’Ue porta avanti la procedura d’infrazione contro l’Italia: «Manca il piano di ristrutturazione degli edifici»",
+   "url": "https://www.msn.com/it-it/notizie/other/case-green-l-ue-porta-avanti-la-procedura-d-infrazione-contro-l-italia-manca-il-piano-di-ristrutturazione-degli-edifici/ar-AA2dlGdD",
+   "source": "Open on MSN",
+   "date": "2026-10-01T06:10:54+00:00",
+   "added": "2026-10-01T18:33:40.396832+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.Iq_EOlKN9ptCNbO4k5LVCw&pid=News",
+   "summary": [
+    "Il governo ha due mesi di tempo per recepire il testo della direttiva e consegnare a Bruxelles tutti i documenti richiesti.",
+    "Altrimenti, rischia di finire di fronte alla Corte di giustizia Ue L'articol ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
