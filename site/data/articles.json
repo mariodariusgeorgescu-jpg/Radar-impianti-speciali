@@ -1,6 +1,31 @@
 {
- "updated": "2026-10-01T09:30:38.378000+00:00",
+ "updated": "2026-10-01T12:36:09.418764+00:00",
  "articles": [
+  {
+   "id": "d3a8900ef24f",
+   "title": "CoMETA SpA festeggia 40 anni di innovazione nella sicurezza",
+   "title_original": "CoMETA SpA festeggia 40 anni di innovazione nella sicurezza",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/cometa-spa-festeggia-40-anni-di-innovazione-nella-sicurezza/",
+   "source": "Impianti News",
+   "date": "2026-10-01T09:39:55+00:00",
+   "added": "2026-10-01T12:36:09.418764+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/CoMTETA_festa40anni-dipendenti-cop.jpg",
+   "summary": [
+    "Home » CoMETA SpA festeggia 40 anni di innovazione nella sicurezza Fondata nel 1986 dalla famiglia Anselmi, l’azienda ha celebrato il traguardo con un evento nella propria sede, insieme alle persone che ne hanno accompagnato lo sviluppo.",
+    "Quarant’anni di innovazione, ricerca e sviluppo nel settore della sicurezza e del controllo degli accessi.",
+    "CoMETA ha celebrato il traguardo dei 40 anni dalla fondazione con un evento nella propria storica sede toscana, riunendo i dipendenti e le persone che hanno contribuito alla storia dell’azienda.",
+    "Dal 2021 CoMETA fa parte del Gruppo FAAC Technologies, realtà internazionale attiva nell’automazione e nel controllo degli accessi."
+   ],
+   "refs": [
+    "ISO 9001"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "4f3d95003866",
    "title": "A secsolutionforum: Security Integrata nella Smart Land, dall’edificio intelligente alla città sicura",
