@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-02T09:30:36.730309+00:00",
+ "updated": "2026-10-02T12:34:42.005742+00:00",
  "articles": [
   {
    "id": "56ecd6d204d8",
@@ -43,6 +43,49 @@ window.NEWS_DATA = {
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "06a246ae6e7e",
+   "title": "Case green, all’Italia due mesi per presentare il piano o rischio di deferimento alla Corte Ue",
+   "title_original": "Case green, all’Italia due mesi per presentare il piano o rischio di deferimento alla Corte Ue",
+   "url": "https://www.msn.com/it-it/notizie/other/case-green-all-italia-due-mesi-per-presentare-il-piano-o-rischio-di-deferimento-alla-corte-ue/ar-AA2dpi60",
+   "source": "idealista on MSN",
+   "date": "2026-10-02T00:34:51+00:00",
+   "added": "2026-10-02T12:34:42.005742+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.3dwITHUblPUqD44WNXc59g&pid=News",
+   "summary": [
+    "Prosegue la procedura di infrazione Ue contro l’Italia sulla direttiva case green. La Commissione europea ha chiesto al nostro Paese e ad altri otto Stati membri di presentare senza ulteriori ritardi ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "c246a9d91c1f",
+   "title": "Direttiva Case Green, nuovo richiamo UE all’Italia sul Piano di ristrutturazione",
+   "title_original": "Direttiva Case Green, nuovo richiamo UE all’Italia sul Piano di ristrutturazione",
+   "url": "https://www.edilportale.com/news/2026/10/normativa/case-green-nuovo-richiamo-ue-all-italia-sul-piano_112101_15.html",
+   "source": "Edilportale",
+   "date": "2026-10-01T23:00:00+00:00",
+   "added": "2026-10-02T12:34:42.005742+00:00",
+   "image": "https://img.edilportale.com/News/CommissioneUE-kadrby-123rfcom-m-112101_1.jpg",
+   "summary": [
+    "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell’edilizia (Direttiva Case Green) Paga in modo semplice e sicuro con Paypal, Carta di credito, Bonifico bancario o Klarna.",
+    "La tua privacy è garantita da connessioni sicure."
+   ],
+   "refs": [
+    "Direttiva (UE) 2024/1275"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
@@ -1568,6 +1611,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "82d27ec5db56",
+   "title": "Sicurezza beni culturali, videosorveglianza anche al Museo di Lentini che ospita il Kouros",
+   "title_original": "Sicurezza beni culturali, videosorveglianza anche al Museo di Lentini che ospita il Kouros",
+   "url": "https://www.siracusanews.it/sicurezza-beni-culturali-videosorveglianza-anche-al-museo-di-lentini-che-ospita-il-kouros/",
+   "source": "Siracusa News",
+   "date": "2026-09-22T08:01:00+00:00",
+   "added": "2026-10-02T12:34:42.005742+00:00",
+   "image": "https://www.siracusanews.it/cms/wp-content/uploads/2026/09/edd2cdf0b54d8bb4d0d3be5e1e62f592.jpg",
+   "summary": [
+    "“La tutela e la sicurezza del patrimonio culturale siciliano sono e restano una priorità assoluta del governo regionale.",
+    "È bene fare chiarezza: questi luoghi sono monitorati attraverso sistemi di videosorveglianza e antintrusione, in molti casi collegati con le forze dell’ordine, e sono interessati da un processo continuo di aggiornamento e potenziamento tecnologico”.",
+    "La nuova architettura consentirà inoltre di rafforzare la sicurezza delle reti interne attraverso la fibra e l’installazione di un firewall di protezione.",
+    "Il Museo archeologico di Lentini, che ospita il celebre Kouros del VI secolo a.C., è dotato di videosorveglianza e allarme antintrusione, con impianti certificati e collegati alle forze dell’ordine.Anche il Museo dei Relitti Greci di Gela dispone di sistemi antintrusione e videosorveglianza attivi e funzionanti."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
