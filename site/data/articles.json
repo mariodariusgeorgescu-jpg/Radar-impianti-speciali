@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-02T12:34:42.005742+00:00",
+ "updated": "2026-10-02T15:30:58.560446+00:00",
  "articles": [
+  {
+   "id": "f13d528727c5",
+   "title": "Case green, avanza la procedura di infrazione per l’Italia: due mesi per scongiurare le sanzioni e inviare il piano…",
+   "title_original": "Case green, avanza la procedura di infrazione per l’Italia: due mesi per scongiurare le sanzioni e inviare il piano nazionale di ristrutturazione a Bruxelles",
+   "url": "https://www.greenme.it/casa-e-giardino/casa-energia/case-green-avanza-la-procedura-di-infrazione-per-litalia-due-mesi-per-scongiurare-le-sanzioni-e-inviare-il-piano-nazionale-di-ristrutturazione-a-bruxelles/",
+   "source": "greenMe",
+   "date": "2026-10-02T07:24:00+00:00",
+   "added": "2026-10-02T15:30:58.560446+00:00",
+   "image": "https://www.greenme.it/wp-content/uploads/2026/10/Commissione-Europea.jpg",
+   "summary": [
+    "L’Italia rischia di finire davanti alla Corte di giustizia dell’Unione europea perché non ha ancora presentato il Piano nazionale di ristrutturazione degli edifici, il documento con cui deve spiegare a Bruxelles come intende applicare la direttiva “Case green”: quali edifici riqualificare, con quali misure, quanti investimenti e con quali risorse.",
+    "La versione definitiva del piano deve essere presentata entro il 31 dicembre 2026, come stabilisce la direttiva europea 2024/1275.",
+    "Per questa specifica procedura il comunicato del 1° ottobre indica proprio il possibile passaggio davanti alla Corte e non una sanzione finanziaria automatica alla scadenza dei due mesi.",
+    "Il piano definitivo va consegnato entro il 31 dicembre 2026."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "56ecd6d204d8",
    "title": "Comunicazione BUS e diagnostica evoluta per la protezione perimetrale",
@@ -22,6 +45,28 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "e105c1895bf1",
+   "title": "Previsioni di mercato globali dei sistemi antincendio per la difesa 2026-2036 | 1,22 miliardi di dollari entro il 2036 grazie alla modernizzazione della flotta…",
+   "title_original": "Global Defense Fire Suppression Systems Market Forecast 2026-2036 | USD 1.22 Billion by 2036 as Fleet Modernization Accelerates Smart, Clean-Agent Adoption",
+   "url": "https://finance.yahoo.com/technology/articles/global-defense-fire-suppression-systems-084200096.html",
+   "source": "Yahoo Finance",
+   "date": "2026-10-02T05:30:00+00:00",
+   "added": "2026-10-02T15:30:58.560446+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/6ccf2a799eb1d99d0000afc621159db1d5ebad31c9c282d29fdde3757f8458fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F93d5b27580f67db722dd7c112e43e8bc.jpg",
+   "summary": [
+    "La crescita del mercato è supportata dalla modernizzazione della flotta militare, da maggiori requisiti di sicurezza, dalla crescente complessità delle piattaforme e da investimenti sostenuti in tecnologie che migliorano la protezione del personale e la continuità della missione.",
+    "I sistemi antincendio per la difesa proteggono aerei, veicoli blindati, navi militari, infrastrutture militari, personale, sistemi di alimentazione, dispositivi elettronici e altre risorse critiche dai rischi legati agli incendi.",
+    "Le agenzie di approvvigionamento stanno dando priorità a soluzioni antincendio che siano leggere, compatte, economiche e compatibili con le moderne architetture digitali. I rigorosi standard di sicurezza della difesa e il crescente controllo ambientale stanno inoltre accelerando l’adozione di sistemi affidabili che utilizzano agenti estinguenti rispettosi dell’ambiente."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "cefa49ce63c6",
