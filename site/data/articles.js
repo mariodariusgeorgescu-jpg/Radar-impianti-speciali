@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-10-01T21:28:04.050060+00:00",
+ "updated": "2026-10-02T00:35:40.317572+00:00",
  "articles": [
+  {
+   "id": "cefa49ce63c6",
+   "title": "Controllo accessi e antintrusione: frammentare costa",
+   "title_original": "Controllo accessi e antintrusione: frammentare costa",
+   "url": "https://www.secsolution.com/articolo.asp?id=1652",
+   "source": "SecSolution",
+   "date": "2026-10-02T00:35:40.317572+00:00",
+   "added": "2026-10-02T00:35:40.317572+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1652.jpg",
+   "summary": [
+    "L’integrazione tra controllo accessi e antintrusione è la leva strategica per migliorare efficienza, governance e capacità di risposta.",
+    "Ed incarna la nuova frontiera della sicurezza fisica.",
+    "Per questo il mercato guarda con crescente interesse alle piattaforme unificate, capaci di gestire da un’unica interfaccia il controllo accessi, l’antintrusione e, sempre più spesso, anche altre componenti della sicurezza fisica.",
+    "La convergenza tra controllo accessi e antintrusione non deve quindi essere interpretata esclusivamente come un aggiornamento tecnologico, ma come un cambiamento di paradigma nella gestione della sicurezza fisica."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3444e3cc09ec",
+   "title": "Schneider’s Shelly bid opens a lower-cost route into building automation",
+   "title_original": "Schneider’s Shelly bid opens a lower-cost route into building automation",
+   "url": "https://www.fierce-network.com/modernization/schneiders-shelly-bid-opens-lower-cost-route-building-automation",
+   "source": "Fierce Network",
+   "date": "2026-10-01T10:51:00+00:00",
+   "added": "2026-10-02T00:35:40.317572+00:00",
+   "image": "https://qtxasset.com/quartz/qcloud4/media/image/internet_of_things.jpg?VersionId=FJuof8qme0SqzBYGZrcr50XxOtE8nJnl",
+   "summary": [
+    "Schneider Electric’s planned acquisition of Shelly could help it win smaller, installer-led building-automation projects—not immediately displace Siemens at the heart of an automated factory.",
+    "Analysts told FNTV that the near-term opportunity is in homes, retrofits and light-commercial buildings, where Shelly’s low-cost, open platform could broaden Schneider’s reach.",
+    "“Shelly gives Schneider a low-cost, open and highly interoperable IoT platform that strengthens its position against Siemens and other incumbents, particularly in smaller-scale building automation,” said Asad Khan, 5G research director at SNS Telecom & IT.",
+    "Khan said Schneider could gain business in mid-market and small-commercial automation, including from Siemens, by lowering the total cost of ownership (TCO)."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d3a8900ef24f",
    "title": "CoMETA SpA festeggia 40 anni di innovazione nella sicurezza",
@@ -23,6 +69,33 @@ window.NEWS_DATA = {
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "10cb0fd37b5c",
+   "title": "Manutenzione estintori: quali requisiti deve avere l’azienda? La nuova UNI 9994-3",
+   "title_original": "Manutenzione estintori: quali requisiti deve avere l’azienda? La nuova UNI 9994-3",
+   "url": "https://www.ingenio-web.it/articoli/uni-9994-3-requisiti-aziende-manutenzione-estintori/",
+   "source": "Ingenio",
+   "date": "2026-10-01T08:44:00+00:00",
+   "added": "2026-10-02T00:35:40.317572+00:00",
+   "image": "https://www.ingenio-web.it/upload/blog/2/3/6/b505a5c2a851f47dec6852dedef6baaa6c304e0f.jpg",
+   "summary": [
+    "La UNI 9994-3 definisce requisiti per le aziende di manutenzione degli estintori, affiancando alle competenze del personale criteri su organizzazione, processi e attrezzature.",
+    "La pubblicazione della UNI 9994-3 avvenuta oggi 1 ottobre 2026, introduce per la prima volta requisiti specifici per le aziende che operano nella manutenzione degli estintori d’incendio.",
+    "È proprio da questo contesto che nasce la UNI 9994-3, pubblicata il 1° ottobre 2026.",
+    "La UNI 9994-1 riguarda le attività di controllo e manutenzione degli estintori."
+   ],
+   "refs": [
+    "UNI 9994-3",
+    "UNI 9994-2",
+    "UNI 9994-1"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
