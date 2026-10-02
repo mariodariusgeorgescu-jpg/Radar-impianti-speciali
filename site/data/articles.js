@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-02T00:35:40.317572+00:00",
+ "updated": "2026-10-02T03:29:03.190979+00:00",
  "articles": [
   {
    "id": "cefa49ce63c6",
@@ -23,6 +23,52 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "88cfc4da4431",
+   "title": "Tecnici manutentori antincendio: le novità sulla fase transitoria",
+   "title_original": "Tecnici manutentori antincendio: le novità sulla fase transitoria",
+   "url": "https://www.puntosicuro.it/normativa-antincendio-C-87/tecnici-manutentori-antincendio-le-novita-sulla-fase-transitoria-AR-26783/",
+   "source": "PuntoSicuro",
+   "date": "2026-10-01T16:59:00+00:00",
+   "added": "2026-10-02T03:29:03.190979+00:00",
+   "image": "https://www.puntosicuro.it/_resources/images/__PS_IMMAGINI/antincendio-3.jpg",
+   "summary": [
+    "D.M. 22 settembre 2026 e Circolare VVF 20188/2026: indicazioni operative sulla fase transitoria per la qualificazione dei tecnici manutentori antincendio, tra termini, istanze e controlli.",
+    "È stato pubblicato nella Gazzetta Ufficiale n. 222 del 24 settembre 2026 il D.M. 22 settembre 2026, emanato dal Ministro dell’Interno di concerto con il Ministro del Lavoro e delle Politiche Sociali, che interviene sulla disciplina della qualificazione dei tecnici manutentori antincendio prevista dal D.M. 1° settembre 2021.",
+    "La disposizione non determina una proroga generalizzata del termine per conseguire la qualificazione, ma disciplina una specifica fase transitoria riferita ai tecnici che abbiano presentato, entro il 25 settembre 2026, una regolare istanza di valutazione dei requisiti."
+   ],
+   "refs": [
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b4aac4464a10",
+   "title": "Troman Industries e HCT annunciano una partnership globale per promuovere la protezione antincendio delle batterie per il trasporto pubblico",
+   "title_original": "Troman Industries and HCT announce global partnership to advance battery fire protection for public transit",
+   "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/troman-industries-and-hct-announce-global-partnership-to-advance-battery-fire-protection-for-public-transit/2437728",
+   "source": "The Manila Times",
+   "date": "2026-10-01T16:59:00+00:00",
+   "added": "2026-10-02T03:29:03.190979+00:00",
+   "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/02/1243206.png",
+   "summary": [
+    "Man mano che le agenzie di trasporto pubblico espandono le loro operazioni di autobus elettrici a batteria, rilevare e rispondere allo sviluppo di rischi legati alle batterie diventa sempre più importante.",
+    "Gli incendi delle batterie agli ioni di litio presentano sfide che vanno oltre le fiamme visibili, compreso il calore intenso, la propagazione termica tra le celle, i gas tossici e il potenziale di riaccensione. Una risposta efficace richiede sia tecnologie di allerta precoce che di soppressione adatte a tali rischi.",
+    "\"Per le agenzie di trasporto pubblico, la domanda cruciale non è semplicemente come rispondere a un incendio di una batteria, ma quanto tempestivamente è possibile identificare le condizioni che portano a un incendio e agire\", ha affermato Brandon Curtis, Vicepresidente esecutivo delle vendite, del business e dello sviluppo del prodotto presso Troman Industries. \"Trident fornisce il rilevamento precoce e informazioni in tempo reale. HCT offre una tecnologia di soppressione comprovata."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "3444e3cc09ec",
