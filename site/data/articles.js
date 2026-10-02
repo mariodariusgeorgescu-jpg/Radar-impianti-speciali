@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-02T03:29:03.190979+00:00",
+ "updated": "2026-10-02T06:34:13.308623+00:00",
  "articles": [
+  {
+   "id": "56ecd6d204d8",
+   "title": "Comunicazione BUS e diagnostica evoluta per la protezione perimetrale",
+   "title_original": "Comunicazione BUS e diagnostica evoluta per la protezione perimetrale",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/comunicazione-bus-e-diagnostica-evoluta-per-la-protezione-perimetrale/",
+   "source": "Impianti News",
+   "date": "2026-10-02T06:00:49+00:00",
+   "added": "2026-10-02T06:34:13.308623+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/PESS_Horus_4_26-e1789736125412.jpg",
+   "summary": [
+    "Home » Comunicazione BUS e diagnostica evoluta per la protezione perimetrale Il rilevatore volumetrico Pess Horus bus affronta le criticità tipiche degli ambienti esterni combinando tre sensori indipendenti (doppio PIR e microonde Doppler) in logica AND, algoritmi di compensazione termica e un sistema di masking detection indipendente.",
+    "La protezione perimetrale esterna rappresenta uno degli scenari più impegnativi nella progettazione di un impianto di rilevazione intrusione.",
+    "La comunicazione BUS non si limita alla trasmissione degli eventi di allarme, ma permette alla centrale e al rilevatore di dialogare costantemente, rendendo disponibili funzioni evolute di configurazione, diagnostica e monitoraggio."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "cefa49ce63c6",
    "title": "Controllo accessi e antintrusione: frammentare costa",
