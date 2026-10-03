@@ -1,6 +1,52 @@
 {
- "updated": "2026-10-03T15:06:03.686648+00:00",
+ "updated": "2026-10-03T19:36:06.751924+00:00",
  "articles": [
+  {
+   "id": "74f11aa41d03",
+   "title": "Asilo nido Il Girasole, completato l’adeguamento antincendio",
+   "title_original": "Asilo nido Il Girasole, completato l’adeguamento antincendio",
+   "url": "https://www.veronanews.net/asilo-nido-il-girasole-completato-ladeguamento-antincendio/",
+   "source": "veronanews",
+   "date": "2026-10-03T05:18:00+00:00",
+   "added": "2026-10-03T19:36:06.751924+00:00",
+   "image": "https://www.veronanews.net/wp-content/uploads/2026/10/img_0497.jpeg",
+   "summary": [
+    "Si è conclusa la prima fase dei lavori di adeguamento alla normativa antincendio dell’asilo nido comunale “Il Girasole”, che è stato riconsegnato al Servizio Istruzione nei tempi previsti, così da consentire la regolare ripresa delle attività educative.",
+    "L’intervento ha riguardato sia la sicurezza antincendio sia il miglioramento degli ambienti utilizzati quotidianamente dai bambini e dal personale educativo.",
+    "Una parte delle lavorazioni sarà completata successivamente, individuando insieme al Servizio Istruzione una finestra temporale compatibile con la presenza dei bambini nella struttura.",
+    "L’intervento, sottolinea l’assessora alle Politiche Educative e Scolastiche Elisa La Paglia, non si è limitato agli aspetti legati alla normativa antincendio."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "40e691b0729c",
+   "title": "Nota DCPREV prot. 19672 del 21 settembre 2026",
+   "title_original": "Nota DCPREV prot. 19672 del 21 settembre 2026",
+   "url": "https://www.certifico.com/prevenzione-incendi/nota-dcprev-prot-19672-del-21-settembre-2026",
+   "source": "Certifico",
+   "date": "2026-10-03T03:59:06+00:00",
+   "added": "2026-10-03T19:36:06.751924+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Nota%20DCPREV%20prot.%2019672%20del%2021%20settembre%202026.png",
+   "summary": [
+    "Nota DCPREV prot. 19672 del 21 settembre 2026 Assoggettabilità degli impianti di stoccaggio o trattamento rifiuti ai procedimenti di prevenzione incendi del DPR 151/11.",
+    "Con riferimento all’oggetto, sono pervenute alla scrivente Direzione Centrale richieste di chiarimento in merito all’assoggettabilità alle procedure di prevenzione incendi di cui al D.P.R. 151/2011 degli impianti destinati allo stoccaggio o al trattamento dei rifiuti.",
+    "Al riguardo, in continuità con le indicazioni già fornite in precedenza, si rappresenta che gli impianti di stoccaggio o trattamento dei rifiuti non risultano espressamente ricompresi tra le attività elencate nell’Allegato I al D.P.R. 151/2011.",
+    "Oggetto: emergenza epidemiologica COVID-19: aggiornamento sulla proroga delle scadenze in materia di si..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "50428a8a5881",
    "title": "SETI a secsolutionforum 2026",
@@ -65,6 +111,34 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "70757f204b29",
+   "title": "Eurocodici: cronistoria",
+   "title_original": "Eurocodici: cronistoria",
+   "url": "https://www.certifico.com/costruzioni/eurocodici/eurocodici-cronistoria",
+   "source": "Certifico",
+   "date": "2026-10-02T23:00:00+00:00",
+   "added": "2026-10-03T19:36:06.751924+00:00",
+   "image": "https://www.certifico.com/images/articoli/news2018/09/eurocodici-cronistoria.png",
+   "summary": [
+    "ID 4889 | Update 03.10.2026 / In allegato documento completo Rev. 26.0 Ottobre 2026 Gli Eurocodici stabiliscono un insieme di regole tecniche armonizzate per la progettazione delle opere di costruzione.",
+    "Download Cronitoria e Status Eurocodici - Riservato Abbonati La Commissione delle Comunità Europee decise nel 1975 di avviare un programma di armonizzazione delle norme relative alle strutture, in base al quale i primi Eurocodici Strutturali (EC), limitati ad alcuni tipi di strutture, furono redatti tra il 1977 e il 1989 direttamente a cura della Commissione, ma non divennero mai operativi."
+   ],
+   "refs": [
+    "Regolamento n. 305/2011",
+    "EN 19100",
+    "UNI EN 1990:2006",
+    "UNI EN 1990-1:2026",
+    "UNI EN 1990-2:2026",
+    "UNI EN 1991-1-1:2025"
+   ],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
@@ -386,6 +460,32 @@
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3892f4fb3c8a",
+   "title": "UNI 9994-3:2026 / Estintori di incendio - Parte 3",
+   "title_original": "UNI 9994-3:2026 / Estintori di incendio - Parte 3",
+   "url": "https://www.certifico.com/normazione/documenti-riservati-normazione/organismi-normazione/documenti-uni/uni-9994-3-2026-estintori-di-incendio-parte-3",
+   "source": "Certifico",
+   "date": "2026-10-01T04:54:47+00:00",
+   "added": "2026-10-03T19:36:06.751924+00:00",
+   "image": "https://www.certifico.com/images/content/2026/09/UNI%209994-3_2026_Estintori%20di%20incendio%20-%20Parte%203.png",
+   "summary": [
+    "UNI 9994-3:2026Apparecchiature per estinzione incendi - Estintori di incendio - Parte 3: Requisiti relativi alle aziende che erogano servizi di controllo e manutenzione di estintori La norma descrive i requisiti dell'azienda che eroga il servizio di controllo e manutenzione di estintori d’incendio portatili e carrellati.",
+    "CollegatiUNI 9994-1:2024 | Estintori di incendio: Controllo iniziale e manutenzioneUNI 9994-2:2015Vademecum estintori: Controllo | Manutenzione | Uso Decisione di esecuzione (UE) 2024/2599 della Commissione, del 4 ottobre 2024, che modifica la decisione...",
+    "Sorveglianza della concentrazione di attività delle sostanze radioattive aerodisperse negli ambienti di lavoro di installazioni nucleariData entrata in vigore: 07 agosto 2019 Testata editoriale iscritta al n. 22/2024 del registro periodici della cancelleria del Tribunale di Perugia in data 19.11.2024"
+   ],
+   "refs": [
+    "UNI 9994-3:2026",
+    "UNI 9994-1:2024",
+    "UNI 9994-2:2015"
+   ],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": true,
    "lang": "it",
