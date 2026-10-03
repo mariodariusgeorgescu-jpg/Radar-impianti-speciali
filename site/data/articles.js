@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-03T00:34:05.952706+00:00",
+ "updated": "2026-10-03T03:34:06.610124+00:00",
  "articles": [
   {
    "id": "50428a8a5881",
@@ -761,6 +761,28 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "18d76b7417d8",
+   "title": "Hochiki Europe espande la rilevazione incendi a Gillingham",
+   "title_original": "Hochiki Europe expands fire detection in Gillingham",
+   "url": "https://www.sourcesecurity.com/news/hochiki-europe-expands-fire-detection-gillingham-co-10580-ga.1790679445.html",
+   "source": "SourceSecurity.com",
+   "date": "2026-09-28T16:59:00+00:00",
+   "added": "2026-10-03T03:34:06.610124+00:00",
+   "image": "https://www.sourcesecurity.com/img/news/920/hochiki-europe-expands-fire-detection-in-gillingham-920x533.jpg",
+   "summary": [
+    "Hochiki Europe ha recentemente ospitato Sua Eccellenza Hiroshi Suzuki, Ambasciatore del Giappone nel Regno Unito, presso la sua sede di Gillingham.",
+    "Gillingham occupa un posto speciale nella storia dei nostri due paesi in quanto luogo di nascita di William Adams ed è un piacere vedere questo legame continuare attraverso aziende come Hochiki.\" Dopo la sua visita a Hochiki, l'Ambasciatore Suzuki si è recato al MidKent College come parte del suo itinerario Medway.",
+    "Sua Eccellenza Hiroshi Suzuki ha visitato la sede centrale di Gillingham del produttore di sistemi di rivelazione incendio nell'ambito della sua visita a Medway. Hochiki Europe ha dato il benvenuto a Sua Eccellenza Hiroshi Suzuki, Ambasciatore del Giappone nel Regno Unito, presso la sede centrale di Gillingham giovedì 24 settembre 2026."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "e90a468a11b1",
