@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-03T03:34:06.610124+00:00",
+ "updated": "2026-10-03T06:35:21.865093+00:00",
  "articles": [
   {
    "id": "50428a8a5881",
@@ -65,6 +65,29 @@ window.NEWS_DATA = {
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6edbb0af2169",
+   "title": "Case green: cosa succede se non ristrutturo e se l’Italia non rispetta la Direttiva europea?",
+   "title_original": "Case green: cosa succede se non ristrutturo e se l’Italia non rispetta la Direttiva europea?",
+   "url": "https://www.cosedicasa.com/normativa-legge/legge/direttiva-case-green-cosa-succede-se-non-ristrutturo-e-litalia-non-rispetta-gli-obiettivi-87021",
+   "source": "Cose di Casa",
+   "date": "2026-10-02T17:00:00+00:00",
+   "added": "2026-10-03T06:35:21.865093+00:00",
+   "image": "https://cdn.cosedicasa.com/wp-content/uploads/2019/08/shutterstock_232455202.jpg",
+   "summary": [
+    "L'Unione Europea ha lasciato ai singoli Paesi la facoltà di decidere nel dettaglio su come muoversi per ciò che riguarda la Direttiva Case Green. L'Italia però è in ritardo e ora Bruxelles ha fissato un ultimatum.",
+    "La direttiva europea sulle Case green entra in una nuova fase per l’Italia.",
+    "Ad oggi, la direttiva europea non prevede una sanzione automatica per il singolo proprietario che non ristruttura la propria casa.",
+    "La direttiva Case green indica la direzione da seguire, ma non impone oggi a ogni proprietario di ristrutturare la propria abitazione né introduce automaticamente sanzioni o divieti di vendita e affitto."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
