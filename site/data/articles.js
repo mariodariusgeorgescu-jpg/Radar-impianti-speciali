@@ -1,6 +1,73 @@
 window.NEWS_DATA = {
- "updated": "2026-10-02T21:27:39.861784+00:00",
+ "updated": "2026-10-03T00:34:05.952706+00:00",
  "articles": [
+  {
+   "id": "50428a8a5881",
+   "title": "SETI a secsolutionforum 2026",
+   "title_original": "SETI a secsolutionforum 2026",
+   "url": "https://www.secsolution.com/notizia.asp?id=22072&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-03T00:34:05.952706+00:00",
+   "added": "2026-10-03T00:34:05.952706+00:00",
+   "image": "https://www.secsolution.com/pict/news/22072.jpg",
+   "summary": [
+    "A secsolutionforum, la Mostra-Convegno rivolta ai professionisti della sicurezza fisica e logica (7-8 ottobre, BolognaFiere), sarà presente SETI, system integrator che opera da oltre trent’anni nel settore della sicurezza.",
+    "SETI è specializzato nella progettazione, realizzazione, gestione e manutenzione di sistemi di videosorveglianza in possesso delle più importanti certificazioni e attestazioni necessarie per la partecipazione agli appalti pubblici e per la realizzazione degli impianti di sicurezza.",
+    "Verranno rilasciati attestati e CFP da vari ordini professionali.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b3e80a19d3e3",
+   "title": "L’ecosistema per i mercati Mission Critical e Business Critical: il \"Motorola Solutions Village\" a secsolutionforum 2026",
+   "title_original": "L’ecosistema per i mercati Mission Critical e Business Critical: il \"Motorola Solutions Village\" a secsolutionforum 2026",
+   "url": "https://www.secsolution.com/notizia.asp?id=22051&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-03T00:34:05.952706+00:00",
+   "added": "2026-10-03T00:34:05.952706+00:00",
+   "image": "https://www.secsolution.com/pict/news/22051.jpg",
+   "summary": [
+    "A secsolutionforum, la Mostra-Convegno per tutta la filiera della sicurezza fisica e logica (7 e 8 ottobre, BolognaFiere), riflettori puntati sull'integrazione tecnologica come leva per rendere più sicure le città, più efficienti le industrie, più resiliente il retail e più protette le persone che operano ogni giorno sul campo, nei diversi mercati verticali.",
+    "Al “Motorola Solutions Village”, uno spazio curato da Motorola Solutions insieme alla propria rete di partner d'eccellenza: Aikom Technology, Elmat, Radiotrans e Trans Audio Video."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "16e2cb1351b1",
+   "title": "Piattaforma integrata per la videosorveglianza: security, AI e compliance",
+   "title_original": "Piattaforma integrata per la videosorveglianza: security, AI e compliance",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22026&c=3",
+   "source": "SecSolution",
+   "date": "2026-10-03T00:34:05.952706+00:00",
+   "added": "2026-10-03T00:34:05.952706+00:00",
+   "image": "https://www.secsolution.com/pict/news/22026.jpg",
+   "summary": [
+    "TAV Group, tra le realtà più innovative nella progettazione e distribuzione di soluzioni integrate per la videosorveglianza industriale e professionale, nonché Distributore ufficiale di Motorola Solutions, presenta la piattaforma integrata Avigilon Unity, un sistema avanzato che unifica la gestione video intelligente (VMS), il controllo degli accessi e i dispositivi IoT in un’unica interfaccia centralizzata.",
+    "Avigilon Unity si arricchisce di integrazioni che pffrono funzionalità innovative ed applicazioni evolute.",
+    "Partiamo dall’integrazione tra Avigilon Unity Video e FACIT ai – Video Redaction Software.",
+    "Per monitorare e gestire gli switch AETEK L2 PRO, Avigilon Unity Video si integra poi con ACC7 AETEK InterLink Unity."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "f13d528727c5",
    "title": "Case green, avanza la procedura di infrazione per l’Italia: due mesi per scongiurare le sanzioni e inviare il piano…",
