@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-03T06:35:21.865093+00:00",
+ "updated": "2026-10-03T09:28:26.682702+00:00",
  "articles": [
   {
    "id": "50428a8a5881",
@@ -198,6 +198,31 @@ window.NEWS_DATA = {
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7e86cd77b538",
+   "title": "Impianti antincendio nei capannoni industriali: sprinkler, water mist o spegnimento a gas…",
+   "title_original": "Impianti antincendio nei capannoni industriali: sprinkler, water mist o spegnimento a gas, come si sceglie il sistema giusto",
+   "url": "https://www.targatocn.it/2026/10/02/leggi-notizia/argomenti/economia-7/articolo/impianti-antincendio-nei-capannoni-industriali-sprinkler-water-mist-o-spegnimento-a-gas-come-si-s.html",
+   "source": "Targatocn.it",
+   "date": "2026-10-02T00:01:00+00:00",
+   "added": "2026-10-03T09:28:26.682702+00:00",
+   "image": "https://www.targatocn.it/fileadmin/archivio/targatocn/2026/10/Impianti_antincendio_nei_capannoni_industriali_sprinkler__water_mist_o_spegnimento_a_gas__come_si_sceglie_il_sistema_giusto.jpg",
+   "summary": [
+    "Chi ha visitato almeno una volta un capannone della pianura cuneese, uno di quelli costruiti negli anni Ottanta e poi ampliati a pezzi man mano che l'azienda cresceva, conosce il paesaggio: scaffalature che sfiorano il tetto, un reparto verniciatura ricavato in un angolo, l'ufficio tecnico al piano ammezzato, magari una sala server nata come ripostiglio.",
+    "Il riferimento normativo è la serie UNI EN 14972, e qui conviene essere chiari su un punto: il water mist non si progetta con tabelle generiche come lo sprinkler, ogni sistema va validato con prove al fuoco sul tipo di rischio specifico.",
+    "Questo lo rende più costoso da progettare, più rigido nelle modifiche successive (spostare una linea produttiva può richiedere una revisione dell'impianto) e meno adatto a chi cambia spesso layout."
+   ],
+   "refs": [
+    "UNI EN 12845",
+    "UNI EN 14972"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
