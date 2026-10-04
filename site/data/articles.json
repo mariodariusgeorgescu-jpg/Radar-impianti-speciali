@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-03T19:36:06.751924+00:00",
+ "updated": "2026-10-04T02:47:49.309880+00:00",
  "articles": [
+  {
+   "id": "4684471f2a76",
+   "title": "HikCentral Mini Cube: sicurezza per le PMI",
+   "title_original": "HikCentral Mini Cube: sicurezza per le PMI",
+   "url": "https://www.secsolution.com/notizia.asp?id=22071&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-04T01:30:00+00:00",
+   "added": "2026-10-04T02:47:49.309880+00:00",
+   "image": "https://www.secsolution.com/pict/news/22071.jpg",
+   "summary": [
+    "Hikvision lancia HikCentral Mini Cube, una piattaforma All‑in‑One pensata per le PMI che cercano una gestione avanzata della sicurezza senza la complessità dei server tradizionali.",
+    "La nuova architettura Hybrid Cloud combina protezione dei dati in locale e flessibilità dell’accesso remoto.",
+    "Con l’app HikCentral Mobile (Android e iOS) è possibile visualizzare live e playback, ricevere allarmi, gestire i varchi e utilizzare il Video Intercom senza configurazioni di port mapping. Pensato per retail, uffici, hotel, magazzini e piccoli siti industriali, HikCentral Mini Cube offre scalabilità nativa e tempi di avvio ridotti, accompagnando la crescita dell’impianto senza sostituzioni infrastrutturali."
+   ],
+   "refs": [
+    "EN 303",
+    "ISO 27701",
+    "ISO 27001"
+   ],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "74f11aa41d03",
    "title": "Asilo nido Il Girasole, completato l’adeguamento antincendio",
