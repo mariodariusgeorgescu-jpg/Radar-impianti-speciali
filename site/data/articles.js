@@ -1,6 +1,27 @@
 window.NEWS_DATA = {
- "updated": "2026-10-05T06:40:15.715717+00:00",
+ "updated": "2026-10-05T09:33:46.415577+00:00",
  "articles": [
+  {
+   "id": "394a2af50c7d",
+   "title": "ANIE CSI a mcTER EXPO 2026: focus su efficienza energetica e Smart Building",
+   "title_original": "ANIE CSI a mcTER EXPO 2026: focus su efficienza energetica e Smart Building",
+   "url": "https://anie.it/anie-csi-a-mcter-expo-2026-focus-su-efficienza-energetica-e-smart-building/",
+   "source": "ANIE",
+   "date": "2026-10-05T08:55:15+00:00",
+   "added": "2026-10-05T09:33:46.415577+00:00",
+   "image": "",
+   "summary": [
+    "ANIE CSI parteciperà a mcTER EXPO 2026, la manifestazione dedicata all’efficienza energetica e alle energie rinnovabili, in programma il 7 e 8 ottobre 2026 a Veronafiere.",
+    "Nell’ambito del programma convegnistico, Massimiliano Magri, Vicepresidente ANIE CSI, interverrà l’8 ottobre nel convegno “Smart Building – Quando l’edificio diventa adattivo: tecnologie, AI ed energia per lo Smart Building 5.0”, dedicato all’evoluzione degli edifici attraverso l’integrazione di automazione, intelligenza artificiale e tecnologie per l’efficienza energetica."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "cd9bce5272f4",
    "title": "Buone pratiche per la sicurezza dell’impianto antintrusione",
