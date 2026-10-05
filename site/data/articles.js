@@ -1,6 +1,51 @@
 window.NEWS_DATA = {
- "updated": "2026-10-04T21:38:19.924850+00:00",
+ "updated": "2026-10-05T00:38:27.480000+00:00",
  "articles": [
+  {
+   "id": "5f211ae6c2f4",
+   "title": "HANWHA VISION: telecamere AI compatte",
+   "title_original": "HANWHA VISION: telecamere AI compatte",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21923&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-05T00:38:27.480000+00:00",
+   "added": "2026-10-05T00:38:27.480000+00:00",
+   "image": "https://www.secsolution.com/pict/news/21923.jpg",
+   "summary": [
+    "Alimentate dal Wisenet 9 SoC e da un Dual NPU, le telecamere AI compatte della serie X offrono un'avanzata miglioramento dell'immagine basata su AI e analisi degli oggetti ad alta precisione.",
+    "Nonostante il loro design compatto, offrono una flessibilità di installazione superiore in spazi ristretti o non convenzionali, rendendole la soluzione ideale per ambienti che vanno dal retail di alta gamma a complessi edifici commerciali, sia per uso interno che esterno. Presentano un motore AI ad alte prestazioni per una classificazione precisa degli oggetti.",
+    "Questa potenza consente il Dynamic Privacy Masking (DPM), che maschera automaticamente persone e veicoli, volti o targhe in tempo reale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a3157b627b5a",
+   "title": "Telecamere negli spogliatoi: il Garante multa ASIS Trento",
+   "title_original": "Telecamere negli spogliatoi: il Garante multa ASIS Trento",
+   "url": "https://www.secsolution.com/notizia.asp?id=22063&c=4",
+   "source": "SecSolution",
+   "date": "2026-10-05T00:38:27.480000+00:00",
+   "added": "2026-10-05T00:38:27.480000+00:00",
+   "image": "https://www.secsolution.com/pict/news/22063.jpg",
+   "summary": [
+    "Il Garante per la protezione dei dati personali ha sanzionato con 8mila euro l’Azienda Speciale per la Gestione degli Impianti Sportivi di Trento (ASIS) per aver installato telecamere negli spogliatoi della piscina del Centro sportivo Trento Nord.",
+    "Le verifiche sono partite dopo segnalazioni e articoli di stampa.",
+    "Le telecamere, attive dal 2007, riprendevano l’area degli armadietti per contrastare furti, senza inquadrare cabine, docce o servizi igienici.",
+    "Tuttavia, secondo il Garante, gli spogliatoi restano ambienti con un’elevata aspettativa di riservatezza: il trattamento dei dati risultava privo di una base giuridica valida e non conforme ai principi di liceità e trasparenza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "4684471f2a76",
    "title": "HikCentral Mini Cube: sicurezza per le PMI",
