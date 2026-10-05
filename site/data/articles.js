@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-05T12:36:46.666051+00:00",
+ "updated": "2026-10-05T15:32:40.549377+00:00",
  "articles": [
+  {
+   "id": "6f337dc50ec6",
+   "title": "Genetec innova Cairo Bank con una piattaforma intelligente in tempo reale",
+   "title_original": "Genetec innova Cairo Bank con una piattaforma intelligente in tempo reale",
+   "url": "https://www.impiantinews.it/sicurezza/realizzazioni/genetec-innova-cairo-bank-con-una-piattaforma-intelligente-in-tempo-reale/",
+   "source": "Impianti News",
+   "date": "2026-10-05T13:39:06+00:00",
+   "added": "2026-10-05T15:32:40.549377+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/unnamed.jpg",
+   "summary": [
+    "Home » Genetec innova Cairo Bank con una piattaforma intelligente in tempo reale Un’unica sala di comando e controllo unificato per garantire conformità normativa, processi operativi innovativi e un’esperienza cliente avanzata per una delle più grandi reti bancarie dell’Egitto.",
+    "Genetec Inc. (“Genetec”), fornitore leader a livello mondiale per soluzioni software di sicurezza fisica, ha completato con successo l’implementazione della piattaforma Security Center presso Cairo Bank, rivoluzionando i processi di monitoraggio, gestione e ottimizzazione operativa dell’istituto su tutta la rete di filiali del Paese.",
+    "Cairo Bank è uno dei maggiori e più storici istituti finanziari dell’Egitto, con oltre tre milioni di clienti serviti attraverso una rete di più di 230 filiali."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "394a2af50c7d",
    "title": "ANIE CSI a mcTER EXPO 2026: focus su efficienza energetica e Smart Building",
