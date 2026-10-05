@@ -1,6 +1,49 @@
 window.NEWS_DATA = {
- "updated": "2026-10-05T03:31:07.273492+00:00",
+ "updated": "2026-10-05T06:40:15.715717+00:00",
  "articles": [
+  {
+   "id": "cd9bce5272f4",
+   "title": "Buone pratiche per la sicurezza dell’impianto antintrusione",
+   "title_original": "Buone pratiche per la sicurezza dell’impianto antintrusione",
+   "url": "https://www.impiantinews.it/sicurezza/professione/buone-pratiche-per-la-sicurezza-dellimpianto-antintrusione/",
+   "source": "Impianti News",
+   "date": "2026-10-05T06:00:15+00:00",
+   "added": "2026-10-05T06:40:15.715717+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/ALLARME_AdobeStock_434077014_35861112_View-scaled-e1790071509828.jpeg",
+   "summary": [
+    "Home » Buone pratiche per la sicurezza dell’impianto antintrusione Il codice tecnico rappresenta la chiave che consente di accedere alla programmazione dell’impianto antintrusione: ecco perché nessun installatore dovrebbe lasciare tutte le porte dei propri clienti aperte con lo stesso codice.",
+    "Il documento affrontava diversi aspetti: dalla necessità di sostituire il codice di default, così da evitare che un utente particolarmente intraprendente potesse modificare involontariamente la programmazione dell’impianto, almeno durante il periodo di garanzia, fino all’eventuale rilascio del codice al cliente, previa richiesta esplicita e sottoscrizione di una manleva che ne definisse responsabilità e conseguenze."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "38e0b8905f98",
+   "title": "secsolutionforum 2026: Annalicia Vitullo apre i lavori sul futuro della sicurezza antincendio",
+   "title_original": "secsolutionforum 2026: Annalicia Vitullo apre i lavori sul futuro della sicurezza antincendio",
+   "url": "https://www.secsolution.com/notizia.asp?id=22076&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-05T02:30:00+00:00",
+   "added": "2026-10-05T06:40:15.715717+00:00",
+   "image": "https://www.secsolution.com/pict/news/22076.jpg",
+   "summary": [
+    "Sarà Annalicia Vitullo, della Direzione Regionale dei Vigili del Fuoco dell’Emilia-Romagna, ad aprire i lavori del seminario dedicato all’evoluzione dei sistemi IRAI ed EVAC, in programma a BolognaFiere giovedì 8 ottobre alle ore 14:00, presso la Sala Maggiore (padiglione 22) nell’ambito di secsolutionforum 2026.",
+    "Il seminario, curato da ANIE Sicurezza, affronterà le IRAI ed EVAC nella progettazione antincendio, con interventi di esperti del settore.",
+    "L’appuntamento è valido ai fini del mantenimento dell’iscrizione negli Elenchi del Ministero dell’Interno per la Prevenzione Incendi, ai sensi del DM 05/08/11."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "5f211ae6c2f4",
    "title": "HANWHA VISION: telecamere AI compatte",
