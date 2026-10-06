@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-05T21:31:59.589010+00:00",
+ "updated": "2026-10-06T00:39:24.933928+00:00",
  "articles": [
+  {
+   "id": "6c06f5e9c037",
+   "title": "Si apre domani secsolutionforum 2026 (BolognaFiere): registrati online per ottenere il pass",
+   "title_original": "Si apre domani secsolutionforum 2026 (BolognaFiere): registrati online per ottenere il pass",
+   "url": "https://www.secsolution.com/notizia.asp?id=22078&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-06T00:39:24.933928+00:00",
+   "added": "2026-10-06T00:39:24.933928+00:00",
+   "image": "https://www.secsolution.com/pict/news/22078.jpg",
+   "summary": [
+    "Mancano poche ore al kick off di secsolutionforum, l’evento di riferimento per tutta la filiera della sicurezza fisica e logica, a partecipazione gratuita (7-8 ottobre, BolognaFiere).",
+    "Si comincia domani, 7 ottobre, con un opening d’eccezione che vede sul palco il keynote speaker Manuel Di Casoli, Global Strategic Advisor, e a seguire i panelist Alessandro Manfredini, Presidente AIPSA – Associazione Italiana Professionisti Security Aziendale, Andrea Monteleone, Presidente ANIE SICUREZZA, e Andrea Venanzoni, Vicepresidente Assocyber.",
+    "La conduzione è affidata a Ilaria Garaffoni, responsabile di questa testata.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "6f337dc50ec6",
    "title": "Genetec innova Cairo Bank con una piattaforma intelligente in tempo reale",
