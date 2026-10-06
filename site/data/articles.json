@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:39:24.933928+00:00",
+ "updated": "2026-10-06T03:28:51.174915+00:00",
  "articles": [
   {
    "id": "6c06f5e9c037",
@@ -64,6 +64,28 @@
     "bms"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "4ec26cb5fe5f",
+   "title": "Impianto di videosorveglianza per la curva sud. Ecco i lavori e la definizione dei tempi",
+   "title_original": "Impianto di videosorveglianza per la curva sud. Ecco i lavori e la definizione dei tempi",
+   "url": "https://www.corriereadriatico.it/ascoli_piceno/ascoli_impianto_videosorveglianza_curva_sud-9805806.html",
+   "source": "Corriere Adriatico",
+   "date": "2026-10-05T07:20:00+00:00",
+   "added": "2026-10-06T03:28:51.174915+00:00",
+   "image": "https://statics.cedscdn.it/photos/MED_HIGH/2026/10/05/9805806_05194307_32_05102026_194303.jpg",
+   "summary": [
+    "ASCOLI Il tema della sicurezza, nel rispetto delle normative, riguarda anche lo stadio Del Duca.",
+    "In particolare, si metterà mano alla videosorveglianza per la nuova curva sud Rozzi, approfittando della pausa del campionato e del calendario che non prevede gare dell’Ascoli calcio in casa fino al 17 ottobre.",
+    "Se, infatti, su pungolo dell’amministrazione comunale e con una ulteriore accelerazione dei lavori da parte dell’impresa Ubaldi, aggiudicataria dell’appalto, si è riusciti ad inaugurare e mettere a disposizione dei sostenitori bianconeri la nuova curva, si stanno ora definendo tutti quegli interventi di dettaglio che serviranno a completare l’opera nelle sue parti accessorie."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
@@ -688,6 +710,28 @@
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "72f2c79624c9",
+   "title": "Monte Porzio punta sulla sicurezza: previste nuove telecamere su scuole, parcheggi e aree della movida",
+   "title_original": "Monte Porzio punta sulla sicurezza: previste nuove telecamere su scuole, parcheggi e aree della movida",
+   "url": "https://www.castellinotizie.it/2026/10/01/monte-porzio-punta-sulla-sicurezza-previste-nuove-telecamere-su-scuole-parcheggi-e-aree-della-movida/",
+   "source": "Castelli Notizie",
+   "date": "2026-10-01T01:29:00+00:00",
+   "added": "2026-10-06T03:28:51.174915+00:00",
+   "image": "https://www.castellinotizie.it/photogallery_new/images/2015/10/telecamere-78845.jpg",
+   "summary": [
+    "Monte Porzio Catone, tra i comuni più videosorvegliati del Lazio, con oltre 120 dispositivi già installati, punta ancora sulle telecamere come strumento di prevenzione e controllo del territorio.",
+    "Monte Porzio Catone può infatti già contare già su 16 telecamere installate negli anni precedenti, mentre con il nuovo progetto è prevista l’installazione di ulteriori telecamere, portando il sistema verso una copertura ancora più capillare delle aree considerate sensibili.",
+    "Per il nuovo parcheggio l’amministrazione prevede l’installazione di telecamere con l’obiettivo di evitare che la nuova infrastruttura possa diventare un’area scarsamente presidiata, integrando inoltre il sistema di videosorveglianza già presente nel parcheggio limitrofo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
