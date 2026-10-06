@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-06T12:35:04.495900+00:00",
+ "updated": "2026-10-06T15:29:28.540540+00:00",
  "articles": [
+  {
+   "id": "ccf062eab6b0",
+   "title": "TP-Link amplia la gamma professionale VIGI con la Speed Dome InSight PTZ5425",
+   "title_original": "TP-Link amplia la gamma professionale VIGI con la Speed Dome InSight PTZ5425",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/tp-link-amplia-la-gamma-professionale-vigi-con-la-speed-dome-insight-ptz5425/",
+   "source": "Impianti News",
+   "date": "2026-10-06T15:24:08+00:00",
+   "added": "2026-10-06T15:29:28.540540+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/PTZ_ambientata-cop.jpg",
+   "summary": [
+    "Grazie al movimento Pan/Tilt ad alta velocità, InSight PTZ5425 permette di controllare ampie aree con un unico dispositivo.",
+    "La tecnologia della nuova InSight PTZ5425 spinge le prestazioni ancora più in alto grazie a un cuore fortemente tecnologico, progettato per automatizzare e semplificare ogni attività di sorveglianza.",
+    "La nuova VIGI InSight PTZ5425 amplia così l’offerta professionale TP-Link con una soluzione pensata per centralizzare in un unico dispositivo copertura a 360°, monitoraggio intelligente, capacità di deterrenza e visione a lunga distanza, riducendo al tempo stesso la complessità di installazione e gestione negli scenari che richiedono il controllo di aree particolarmente ampie.",
+    "InSight PTZ5425 si inserisce nell’ecosistema di gestione VIGI, offrendo diverse modalità di configurazione e monitoraggio."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "8ca763c0d543",
    "title": "La domotica intelligente per il comfort quotidiano, Watts Vision® 2.0",
@@ -44,6 +67,28 @@ window.NEWS_DATA = {
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "9b6df3733bf0",
+   "title": "Sicurezza urbana integrata e videosorveglianza: operatori a confronto tra innovazione e privacy",
+   "title_original": "Sicurezza urbana integrata e videosorveglianza: operatori a confronto tra innovazione e privacy",
+   "url": "https://www.cuneodice.it/varie/cuneo-e-valli/sicurezza-urbana-integrata-e-videosorveglianza-operatori-a-confronto-tra-innovazione-e-privacy_128191.html",
+   "source": "Cuneodice.it",
+   "date": "2026-10-05T19:09:00+00:00",
+   "added": "2026-10-06T15:29:28.540540+00:00",
+   "image": "https://static.cuneodice.it/cuneo/foto/128191/159951.jpg",
+   "summary": [
+    "Ha richiamato 110 partecipanti tra personale della Polizia Locale, Guardie dei Parchi e Carabinieri Forestali il convegno dedicato alla sicurezza urbana integrata e alla videosorveglianza che si è svolto nella sala Falco del Centro Incontri della Provincia di Cuneo.",
+    "L’appuntamento ha rappresentato un momento di aggiornamento e confronto sui sistemi di controllo del territorio e sulle problematiche connesse alla tutela dei dati personali.",
+    "Particolare attenzione è stata dedicata all’utilizzo degli impianti di videosorveglianza urbana e delle fototrappole alla luce delle più recenti indicazioni e sanzioni emanate dal Garante per la protezione dei dati personali."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
