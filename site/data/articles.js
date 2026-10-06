@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-06T09:31:00.785412+00:00",
+ "updated": "2026-10-06T12:35:04.495900+00:00",
  "articles": [
+  {
+   "id": "8ca763c0d543",
+   "title": "La domotica intelligente per il comfort quotidiano, Watts Vision® 2.0",
+   "title_original": "La domotica intelligente per il comfort quotidiano, Watts Vision® 2.0",
+   "url": "https://www.impiantinews.it/ci/prodotti/la-domotica-intelligente-per-il-comfort-quotidiano-watts-vision-2-0/",
+   "source": "Impianti News",
+   "date": "2026-10-06T10:32:44+00:00",
+   "added": "2026-10-06T12:35:04.495900+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/BT-SRT03-RF-cp.jpg",
+   "summary": [
+    "Home » La domotica intelligente per il comfort quotidiano, Watts Vision® 2.0 Efficienza energetica e sostenibilità abitativa sono oggi una priorità.",
+    "La gestione del comfort domestico è sempre più complessa, con esigenze che spaziano dal controllo della temperatura alla qualità dell’aria fino alla gestione dei consumi.",
+    "Il sistema Watts Vision® 2.0 di Watts Wireless offre una soluzione completa e modulare per la gestione intelligente del comfort.",
+    "A completare l’offerta (novità 2026), il nuovo termostato elettronico per il controllo dei singoli radiatori (BT SRT03 RF), premiato agli MCE Excellence Awards 2026, che si integra in architetture di regolazione RF e consente una regolazione ancora più puntuale ed efficiente del comfort domestico."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "6c06f5e9c037",
    "title": "Si apre domani secsolutionforum 2026 (BolognaFiere): registrati online per ottenere il pass",
