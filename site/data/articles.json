@@ -1,6 +1,128 @@
 {
- "updated": "2026-10-07T03:30:08.443205+00:00",
+ "updated": "2026-10-07T06:34:32.230856+00:00",
  "articles": [
+  {
+   "id": "c90e9f237ce9",
+   "title": "Sistema antintrusione multifunzione per casa e condominio",
+   "title_original": "Sistema antintrusione multifunzione per casa e condominio",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/sistema-antintrusione-multifunzione-per-casa-e-condominio/",
+   "source": "Impianti News",
+   "date": "2026-10-07T06:00:19+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/Urmet-Skudo_4_26-e1790242303187.jpg",
+   "summary": [
+    "Home » Sistema antintrusione multifunzione per casa e condominio Il sistema Urmet Skudo presenta due modelli di centrale, con possibilità di integrazione con i dispositivi della linea antintrusione Zeno Pro per realizzare impianti di sicurezza funzionali anche in contesti professionali complessi.",
+    "Skudo è il nuovo sistema antintrusione multifunzione di Urmet, progettato per offrire massima flessibilità, integrazione e scalabilità nei contesti residenziale e terziario.",
+    "Il sistema Skudo, dotato di centrali certificate EN50131 grado 2, introduce una serie di funzioni avanzate che arricchiscono le modalità di gestione dell’impianto.",
+    "Il web server integrato consente un accesso immediato alla configurazione, mentre l’aggiornamento del firmware da remoto garantisce un sistema sempre aggiornato e sicuro."
+   ],
+   "refs": [
+    "EN50131"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "559794589267",
+   "title": "Vademecum Gruppi elettrogeni",
+   "title_original": "Vademecum Gruppi elettrogeni",
+   "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/documenti-riservati-sicurezza/vademecum-gruppi-elettrogeni",
+   "source": "Certifico",
+   "date": "2026-10-07T03:57:05+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://www.certifico.com/images/content/2026/08/Vademecum%20gruppi%20elettrogeni_2026.png",
+   "summary": [
+    "Qualifica sismica dei gruppi elettrogeni (CEI 45-100)12.",
+    "Gruppi elettrogeni P ≤ 25 kW: gli obblighi per l'installazione 1.",
+    "CEI 11-20 Norma abrogata da marzo 2022Impianti di produzione di energia elettrica e gruppi di continuità collegati a reti di I e II categoria l gruppo elettrogeno, è l'interconnessione di un motore e di un generatore di energia elettrica.",
+    "Qualifica sismica dei gruppi elettrogeni (CEI 45-100)12."
+   ],
+   "refs": [
+    "EN ISO 8528-13:2026",
+    "D.Lgs 152/2006",
+    "D.Lgs 504/1995",
+    "Regolamento (UE) 2016/1628",
+    "UNI EN ISO 8528-13:2026",
+    "EN 60204"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "ef6983df65ba",
+   "title": "KSENIA SECURITY: tastiera IP touchscreen",
+   "title_original": "KSENIA SECURITY: tastiera IP touchscreen",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=21958&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-07T01:30:00+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://www.secsolution.com/pict/news/21958.jpg",
+   "summary": [
+    "conexa è la tastiera IP touchscreen di Ksenia Security ideale per il controllo dell’impianto di sicurezza e domotica.",
+    "Il suo spessore ridotto e lo schermo HD da 10,1″ le permettono di integrarsi con armonia in ogni ambiente.",
+    "Verranno rilasciati attestati e CFP da vari ordini professionali.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "833413394264",
+   "title": "secsolutionforum: al via, a BolognaFiere, la kermesse espositiva e congressuale della sicurezza",
+   "title_original": "secsolutionforum: al via, a BolognaFiere, la kermesse espositiva e congressuale della sicurezza",
+   "url": "https://www.secsolution.com/notizia.asp?id=22080&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-07T01:00:00+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://www.secsolution.com/pict/news/22080.jpg",
+   "summary": [
+    "Il padiglione 22 di BolognaFiere diventa per due giorni il centro della sicurezza fisica e logica.",
+    "In programma oltre 100 eventi che copriranno i temi focali della sicurezza, con approfondimenti verticali sui diversi segmenti, dalla videosorveglianza alla cybersecurity, dal controllo accessi all’antincendio, su tecnologie e applicazioni, nuove norme comunitarie e nazionali, fino a dibattiti sull’utilizzo dell’intelligenza artificiale, tra esigenze di sicurezza, etica e diritto alla privacy.",
+    "Il programma odierno prevede approfondimenti strategici, normativi e pillole formative."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "60ffd07d3ea6",
+   "title": "Bodycam fai-da-te: la buona fede non basta se si trattano dati personali",
+   "title_original": "Bodycam fai-da-te: la buona fede non basta se si trattano dati personali",
+   "url": "https://www.secsolution.com/articolo.asp?id=1656",
+   "source": "SecSolution",
+   "date": "2026-10-07T01:00:00+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1656.jpg",
+   "summary": [
+    "Consulente in materia di protezione dati personali e Privacy Officer L’agente coinvolto nel decesso di Fakir aveva acquistato, indossato e acceso la bodycam: i filmati sono ora al vaglio degli inquirenti.",
+    "Tuttavia, nel trattamento dei dati personali, la buona fede non è sufficiente a rendere legittimo uno strumento utilizzato al di fuori delle procedure previste dall’amministrazione, che è tenuta a rispettare la normativa applicabile sulla protezione dei dati personali.",
+    "Ogni trattamento di dati personali richiede un soggetto che ne mantenga il pieno controllo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "ccf062eab6b0",
    "title": "TP-Link amplia la gamma professionale VIGI con la Speed Dome InSight PTZ5425",
@@ -867,6 +989,29 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e7408e2bc758",
+   "title": "Fare o non fare? A Torino l’edilizia del futuro impara a mettere tutto in connessione",
+   "title_original": "Fare o non fare? A Torino l’edilizia del futuro impara a mettere tutto in connessione",
+   "url": "https://www.giornalelavoce.it/news/attualita/741891/fare-o-non-fare-a-torino-ledilizia-del-futuro-impara-a-mettere-tutto-in-connessione.html",
+   "source": "Giornale La Voce",
+   "date": "2026-09-30T09:52:00+00:00",
+   "added": "2026-10-07T06:34:32.230856+00:00",
+   "image": "https://giornalelavoce.cdn.m33cloud.com/resizer/600/315/true/2026_09_30/cristina-valentino-fresia-240926-1790779724954_1790779749.jpg--fare_o_non_fare__a_torino_l_edilizia_del_futuro_impara_a_mettere_tutto_in_connessione.webp?1790802936000",
+   "summary": [
+    "Detta così sembra quasi una domanda filosofica.",
+    "Progettare l’abitare del futuro”, andato in scena il 24 settembrenella sala Atlas di Combo, a Torino, e organizzato da Fresia Alluminio Spa di Volpiano insieme a Infoprogetto di Milano. Davanti a una platea di professionisti si è parlato di architettura, riqualificazione edilizia, efficienza energetica e, soprattutto, di un modo diverso di pensare gli edifici.",
+    "Guido Callegari, professore associato del Dipartimento di Architettura e Design del Politecnico di Torino, ha invece affrontato il nuovo modo di progettare nel campo dell’edilizia industrializzata.",
+    "Perché, alla fine, la vera domanda non è più soltanto fare o non fare."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
