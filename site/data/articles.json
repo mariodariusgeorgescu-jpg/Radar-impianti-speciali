@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:39:39.015207+00:00",
+ "updated": "2026-10-07T18:33:56.551514+00:00",
  "articles": [
   {
    "id": "164047ce9265",
@@ -903,6 +903,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "bd47a5c8bf4f",
+   "title": "Pioniere della rilevazione tempestiva degli incendi nelle infrastrutture del Golfo",
+   "title_original": "Pioneering early fire detection in gulf infrastructure",
+   "url": "https://technicalreviewmiddleeast.com/manufacturing/pioneering-early-fire-detection-in-gulf-infrastructure",
+   "source": "Technical Review Middle East",
+   "date": "2026-10-01T05:51:00+00:00",
+   "added": "2026-10-07T18:33:56.551514+00:00",
+   "image": "https://technicalreviewmiddleeast.com/",
+   "summary": [
+    "Teledyne FLIR ha introdotto le prime termocamere a ottenere la certificazione ANSI/CAN/UL 2684, fornendo un punto di riferimento valutato in modo indipendente per il rilevamento di incendi con immagini termiche per supportare operazioni industriali resilienti.",
+    "La sicurezza antincendio industriale in tutto il Consiglio di Cooperazione del Golfo (GCC) si sta spostando dalla risposta reattiva alle emergenze alla gestione proattiva del rischio.",
+    "Le tradizionali tecnologie di rilevamento incendi si basano da tempo sull'identificazione dei prodotti della combustione, come fumo o fiamme, il che significa che un incendio è già scoppiato prima che scatti l'allarme.",
+    "Per il GCC, dove i quadri di protezione antincendio consolidati si basano fortemente sui codici NFPA e sulle apparecchiature elencate UL, ciò stabilisce un percorso più chiaro per specificare soluzioni di rilevamento precoce."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "3892f4fb3c8a",
