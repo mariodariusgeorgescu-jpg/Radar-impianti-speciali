@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-07T06:34:32.230856+00:00",
+ "updated": "2026-10-07T09:31:04.925977+00:00",
  "articles": [
+  {
+   "id": "164047ce9265",
+   "title": "Testo coordinato VVF sulla sicurezza antincendio sui luoghi di lavoro",
+   "title_original": "Testo coordinato VVF sulla sicurezza antincendio sui luoghi di lavoro",
+   "url": "https://www.certifico.com/prevenzione-incendi/testo-coordinato-vvf-sulla-sicurezza-antincendio-sui-luoghi-di-lavoro",
+   "source": "Certifico",
+   "date": "2026-10-07T06:09:00+00:00",
+   "added": "2026-10-07T09:31:04.925977+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Testo%20coordinato%20sulla%20sicurezza%20antincendio%20sui%20luoghi%20di%20lavoro.png",
+   "summary": [
+    "N.d.R.) DM 02/09/2021Criteri per la gestione dei luoghi di lavoro in esercizio ed in emergenza e caratteristiche dello specifico servizio di prevenzione e protezione antincendio, ai sensi dell’articolo 46, comma 3, lettera a) , punto 4 e lettera b) del decreto legislativo 9 aprile 2008, n. 81.(Decreto in vigore un anno dopo la sua pubblicazione nella Gazzetta Ufficiale avvenuta il 04/10/2021.",
+    "N.d.R.) DM 03/09/2021Criteri generali di progettazione, realizzazione ed esercizio della sicurezza antincendio per luoghi di lavoro, ai sensi dell’articolo 46, comma 3, lettera a) , punti 1 e 2, del decreto legislativo 9 aprile 2008, n. 81.(Decreto in vigore un anno dopo la sua pubblicazione nella Gazzetta Ufficiale avvenuta il 29/10/2021.",
+    "N.d.R.) Il DM 10/03/1998 regolamenta, ai sensi del D."
+   ],
+   "refs": [
+    "D. Lgs 09/04",
+    "D. Lgs 81/08",
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "c90e9f237ce9",
    "title": "Sistema antintrusione multifunzione per casa e condominio",
@@ -53,6 +79,27 @@
     "antincendio"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "05b61455e25e",
+   "title": "Building Automation For Facilities Management Professionals",
+   "title_original": "Building Automation For Facilities Management Professionals",
+   "url": "https://www.facilitiesnet.com/buildingautomation/",
+   "source": "facilitiesnet",
+   "date": "2026-10-07T02:30:00+00:00",
+   "added": "2026-10-07T09:31:04.925977+00:00",
+   "image": "https://www.facilitiesnet.com/graphics/logo-bom-article.png",
+   "summary": [
+    "Nominate a Facility Champion » Podcast: Hurricane Katrina 20 Years Later » Embracing Autonomous Mowers » Develop Your Career at Elevate Leadership Summit » The Building Automation landing page for Facility Professionals.",
+    "Related Topics: Retrocommissioning, BAS, EMS, BACnet, Lonmark, Interoperability, Intelligent buildings, Commissioning, Modbus View by Type: Contributed • Quick Reads • Products • Alerts • Case Studies View by Year: Recent 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 09 08 07 06 05 04 03 02"
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
