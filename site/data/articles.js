@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-08T18:33:44.571705+00:00",
+ "updated": "2026-10-08T21:29:57.498096+00:00",
  "articles": [
   {
    "id": "3771e1b88b18",
@@ -153,6 +153,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6b4d234633aa",
+   "title": "Costellazioni Modena, da Platis (Fi) documento choc: 'I lavori antincendio sono stati fatti?'. Interrogazione in Senato",
+   "title_original": "Costellazioni Modena, da Platis (Fi) documento choc: 'I lavori antincendio sono stati fatti?'. Interrogazione in Senato",
+   "url": "https://www.lapressa.it/articoli/politica/costellazioni-modena-da-platis-fi-documento-choc-i-lavori-antincendio-sono-stati-fatti-interrogazione-in-senato",
+   "source": "LaPressa.it",
+   "date": "2026-10-07T17:00:00+00:00",
+   "added": "2026-10-08T21:29:57.498096+00:00",
+   "image": "https://www.lapressa.it/articles/082688/modena-costellazioni-forza-italia-platis_1260x708.jpg",
+   "summary": [
+    "La Pressa è un quotidiano on-line indipendente fondato da Cinzia Franchini, Gianni Galeotti e Giuseppe Leonelli.",
+    "Propone approfondimenti, inchieste e commenti sulla situazione politica, sociale ed ec...",
+    "Da anni Lapressa.it offre una informazione indipendente ai lettori, senza nessun finanziamento pubblico.",
+    "Anche un piccolo sostegno, moltiplicato per le decine di migliaia di lettori, è fondamentale."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
