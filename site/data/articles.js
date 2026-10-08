@@ -1,6 +1,50 @@
 window.NEWS_DATA = {
- "updated": "2026-10-07T21:29:32.077770+00:00",
+ "updated": "2026-10-08T00:38:58.241273+00:00",
  "articles": [
+  {
+   "id": "3cf53ebd4f2e",
+   "title": "Aeroporti: il video AI-powered e’ la chiave per sicurezza e operazioni",
+   "title_original": "Aeroporti: il video AI-powered e’ la chiave per sicurezza e operazioni",
+   "url": "https://www.secsolution.com/notizia.asp?id=22068&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-08T00:38:58.241273+00:00",
+   "added": "2026-10-08T00:38:58.241273+00:00",
+   "image": "https://www.secsolution.com/pict/news/22068.jpg",
+   "summary": [
+    "Con l’aumento dei viaggiatori – oltre 1,1 miliardi previsti negli scali UE nel 2025 – gli aeroporti devono garantire sicurezza, efficienza e un’esperienza fluida.",
+    "A questo si aggiunge l’impatto del nuovo sistema EES, che aumenta le code ai controlli di frontiera.",
+    "Secondo Hanwha Vision, integrare il video AI-Powered può creare una visione più connessa tra IT, sicurezza fisica e operazioni, aiutando i team a condividere informazioni e prendere decisioni più rapide e informate.",
+    "Integrato con le tecnologie smart-airport – biometria, automazione dei bagagli, sistemi IT – il video crea una visione condivisa tra sicurezza, operazioni e manutenzione, migliorando resilienza e continuità operativa."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "8f13771a4733",
+   "title": "secsolutionforum, seconda giornata: ti aspettiamo a BolognaFiere!",
+   "title_original": "secsolutionforum, seconda giornata: ti aspettiamo a BolognaFiere!",
+   "url": "https://www.secsolution.com/notizia.asp?id=22081&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-08T00:38:58.241273+00:00",
+   "added": "2026-10-08T00:38:58.241273+00:00",
+   "image": "https://www.secsolution.com/pict/news/22081.jpg",
+   "summary": [
+    "Dopo una prima giornata con una grande partecipazione degli operatori, che conferma secsolutionforum quale solido punto di riferimento per la filiera della sicurezza fisica e logica, la seconda giornata (8 ottobre) rilancia con un palinsesto di altissimo profilo istituzionale e scientifico.",
+    "Tra i temi portanti di oggi spiccano i confronti strategici sulla cyber resilienza delle infrastrutture e delle imprese, la gestione dei dati e la protezione delle filiere alla luce delle direttive europee, obblighi e responsabilità nell’impiego dei droni, con il contributo di ENAC."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "164047ce9265",
    "title": "Testo coordinato VVF sulla sicurezza antincendio sui luoghi di lavoro",
