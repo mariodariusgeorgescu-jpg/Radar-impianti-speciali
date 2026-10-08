@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:37:31.144981+00:00",
+ "updated": "2026-10-08T15:32:41.130494+00:00",
  "articles": [
   {
    "id": "3771e1b88b18",
@@ -43,6 +43,50 @@
     "bms"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "868b29e3c21b",
+   "title": "Videosorveglianza urbana: a Legnano un convegno di alta formazione per il corretto governo dei dati",
+   "title_original": "Videosorveglianza urbana: a Legnano un convegno di alta formazione per il corretto governo dei dati",
+   "url": "https://www.legnanonews.com/aree-geografiche/legnano/2026/10/08/videosorveglianza-urbana-a-legnano-un-convegno-di-alta-formazione-per-il-corretto-governo-dei-dati/1479136/",
+   "source": "LegnanoNews",
+   "date": "2026-10-08T05:21:00+00:00",
+   "added": "2026-10-08T15:32:41.130494+00:00",
+   "image": "https://www.varesenews.it/photogallery_new/images/2026/01/generico-26-jan-2026-2027239.610x431.jpg",
+   "summary": [
+    "Il problema non è quello di avere ancora più informazioni ma di governarle correttamente: è il focus del convegno di alta formazione gratuito organizzato dalla Polizia locale di Legnano con il gruppo Sicurezza Urbana Integrata e rivolto a forze di polizia, enti pubblici e privati in programma nella mattinata giovedì 15 ottobre, dalle 9 alle 13, a Palazzo Leone da Perego.",
+    "Le recenti sanzioni del Garante per la Privacy hanno infatti evidenziato come il problema non sia più soltanto quello di rispettare formalmente la normativa sulla protezione dei dati; occorre sapere anche quali informazioni si raccolgono, per quale finalità, chi può utilizzarle, con quali strumenti, per quanto tempo e secondo quali responsabilità."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7581d2f6fd2c",
+   "title": "Scuola Roncalli: 380mila euro per la messa a norma antincendio",
+   "title_original": "Scuola Roncalli: 380mila euro per la messa a norma antincendio",
+   "url": "https://www.reportpistoia.com/scuola-roncalli-380mila-euro-per-la-messa-a-norma-antincendio/",
+   "source": "reportpistoia",
+   "date": "2026-10-08T04:42:00+00:00",
+   "added": "2026-10-08T15:32:41.130494+00:00",
+   "image": "https://www.reportpistoia.com/wp-content/uploads/2022/07/scuola-media-Roncalli-ingresso_2R.jpg",
+   "summary": [
+    "PISTOIA – La scuola “Angelo Roncalli” sarà presto interessata da un intervento di messa a norma antincendio, che coinvolgerà sia la struttura dell’edificio sia gli impianti.",
+    "I lavori, affidati dall’Amministrazione comunale all’impresa Costruzioni e Restauri Diddi Srl, puntano dunque a rafforzare le condizioni di sicurezza della scuola di via delle Pentole, intervenendo sulle vie di esodo e sui sistemi necessari per rilevare e gestire eventuali emergenze.",
+    "“Con questo intervento facciamo un passo avanti nella sicurezza antincendio della Roncalli – dichiara l’assessore ai Lavori pubblici, Matteo Giusti –.",
+    "Saranno potenziati gli strumenti per la gestione delle emergenze, con l’installazione di nuovi estintori e la realizzazione di una nuova rete di idranti."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
