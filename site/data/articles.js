@@ -1,6 +1,51 @@
 window.NEWS_DATA = {
- "updated": "2026-10-08T06:36:55.001846+00:00",
+ "updated": "2026-10-08T09:31:20.470219+00:00",
  "articles": [
+  {
+   "id": "3771e1b88b18",
+   "title": "Viessmann porta a SAIE la “nuova era dell’energia”",
+   "title_original": "Viessmann porta a SAIE la “nuova era dell’energia”",
+   "url": "https://www.impiantinews.it/gt/attualita/viessmann-porta-a-saie-la-nuova-era-dellenergia/",
+   "source": "Impianti News",
+   "date": "2026-10-08T08:21:53+00:00",
+   "added": "2026-10-08T09:31:20.470219+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/4028720_639269579765760840.jpeg",
+   "summary": [
+    "L’efficienza energetica degli edifici passa sempre più dalla capacità di integrare tecnologie, fonti e sistemi diversi, in risposta a un quadro normativo europeo, guidato dalla Direttiva EPBD (“Case Verdi”) e dal Regolamento UE F-Gas (2024/573), che accelera l’elettrificazione e la progressiva adozione di refrigeranti naturali.",
+    "A supporto della proposta tecnologica in esposizione, Viessmann porta a SAIE 2026 un ricco calendario di speech, pensati per approfondire i temi dell’innovazione, della sostenibilità e dell’evoluzione normativa nel settore dell’edilizia.",
+    "Sabato 10 ottobre, alle 12:30, Giovanni Finarelli, Product Manager Pompe di calore residenziali Viessmann Climate Solutions Italia, approfondirà il tema “Pompe di calore residenziali: soluzioni tecnologiche per il contesto normativo e incentivante in vigore”."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "42772a72c7c2",
+   "title": "Domotica AVE per un appartamento sul lungomare di Giulianova",
+   "title_original": "Domotica AVE per un appartamento sul lungomare di Giulianova",
+   "url": "https://www.impiantinews.it/elettro/realizzazioni/domotica-ave-per-un-appartamento-sul-lungomare-di-giulianova/",
+   "source": "Impianti News",
+   "date": "2026-10-08T06:55:55+00:00",
+   "added": "2026-10-08T09:31:20.470219+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/COVER-comando-domotico-sfioro-simboli-retroilluminati.jpg",
+   "summary": [
+    "Home » Domotica AVE per un appartamento sul lungomare di Giulianova Il sistema domotico AveBus integra automazioni, videocitofonia e gestione degli ambienti in un appartamento sul lungomare di Giulianova.",
+    "In questo appartamento sul lungomare di Giulianova (TE), il sistema domotico AveBus assicura funzionalità e comfort avanzato, integrando tecnologia, design e gestione intelligente degli ambienti.",
+    "La videocitofonia si integra così con il sistema domotico dell’appartamento, contribuendo a completare la gestione tecnologica e la sicurezza dell’abitazione.",
+    "L’impianto elettrico dell’appartamento si completa con placche in vetro dal design esclusivo."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3cf53ebd4f2e",
    "title": "Aeroporti: il video AI-powered e’ la chiave per sicurezza e operazioni",
