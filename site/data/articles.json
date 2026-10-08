@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:31:20.470219+00:00",
+ "updated": "2026-10-08T12:37:31.144981+00:00",
  "articles": [
   {
    "id": "3771e1b88b18",
@@ -41,6 +41,30 @@
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "2715bb7cd943",
+   "title": "CoreSync: antintrusione e videosorveglianza a nuovo livello di integrazione",
+   "title_original": "CoreSync: antintrusione e videosorveglianza a nuovo livello di integrazione",
+   "url": "https://www.secsolution.com/notizia.asp?id=22082&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-08T02:30:00+00:00",
+   "added": "2026-10-08T12:37:31.144981+00:00",
+   "image": "https://www.secsolution.com/pict/news/22082.jpg",
+   "summary": [
+    "CoreSync porta la videoanalisi InVista nel cuore della logica delle centrali Prime e PrimeX.",
+    "Gli eventi configurati sull’NVR possono essere importati come video ZONE AI e utilizzati dalla centrale per logiche, conferme e attivazioni, insieme agli eventi generati dai sensori tradizionali.",
+    "Un’integrazione pensata sia per nuovi impianti sia per interventi di retrofit, con fino a 200 video ZONE AI senza utilizzare le zone fisiche della centrale.",
+    "CoreSync amplia anche le possibilità di gestione da remoto, consentendo all’installatore di intervenire sulla configurazione degli NVR InVista in modo più semplice e controllato, con l’autorizzazione dell’utente."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc",
+    "antintrusione"
    ],
    "is_norm": false,
    "lang": "it",
