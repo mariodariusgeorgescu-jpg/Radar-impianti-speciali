@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:36:44.367426+00:00",
+ "updated": "2026-10-09T09:31:41.778723+00:00",
  "articles": [
   {
    "id": "7700869da66d",
@@ -63,6 +63,26 @@
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bbd7c5c1dc73",
+   "title": "Via delle Costellazioni: \"Lavori antincendio nel palazzo. Necessario fare chiarezza\"",
+   "title_original": "Via delle Costellazioni: \"Lavori antincendio nel palazzo. Necessario fare chiarezza\"",
+   "url": "https://www.msn.com/it-it/notizie/other/via-delle-costellazioni-lavori-antincendio-nel-palazzo-necessario-fare-chiarezza/ar-AA2dRMCH",
+   "source": "Il Resto del Carlino on MSN",
+   "date": "2026-10-08T21:23:21+00:00",
+   "added": "2026-10-09T09:31:41.778723+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.J4sspeRxznmOoEFEnCX10g&pid=News",
+   "summary": [
+    "Antonio Platis, Enrico Fontana e Giovanni Botti di Forza Italia portano il caso a Roma \"Il senatore Gasparri presenterà un’interrogazione in Senato, servono risposte immediate\" ."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
