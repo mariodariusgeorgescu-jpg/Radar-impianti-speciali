@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-09T03:30:35.114823+00:00",
+ "updated": "2026-10-09T06:36:44.367426+00:00",
  "articles": [
+  {
+   "id": "7700869da66d",
+   "title": "Ferrara, telecamere di sicurezza in spolvero per Vasco",
+   "title_original": "Ferrara, telecamere di sicurezza in spolvero per Vasco",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/ferrara-telecamere-di-sicurezza-in-spolvero-per-vasco/",
+   "source": "Impianti News",
+   "date": "2026-10-09T06:00:22+00:00",
+   "added": "2026-10-09T06:36:44.367426+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/09/FotodiFrosinonebassa-e1790599688293.jpg",
+   "summary": [
+    "Home » Ferrara, telecamere di sicurezza in spolvero per Vasco Il doppio concerto di Vasco Rossi a Ferrara nel mese di giugno ha fatto da campo di prova per l’impiego di una vasta rete di telecamere di videosorveglianza, alcune installate per l’occasione, altre appena da poco montate e pronte ad attivarsi.",
+    "Si tratta di circa 170 telecamere per un valore di 1,2 milioni di euro: 19 sono state posizionate espressamente per i concerti, mentre le altre, appartenenti al sistema Tia, sono collocate in città (117) e intorno allo stadio (30)."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "c1ac65cc95e4",
    "title": "Manufacturing: attacchi OT minacciano anche la sicurezza fisica",
