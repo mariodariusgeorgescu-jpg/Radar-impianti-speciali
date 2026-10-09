@@ -1,6 +1,52 @@
 {
- "updated": "2026-10-08T21:29:57.498096+00:00",
+ "updated": "2026-10-09T00:41:55.654645+00:00",
  "articles": [
+  {
+   "id": "c1ac65cc95e4",
+   "title": "Manufacturing: attacchi OT minacciano anche la sicurezza fisica",
+   "title_original": "Manufacturing: attacchi OT minacciano anche la sicurezza fisica",
+   "url": "https://www.secsolution.com/notizia.asp?id=22069&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-09T00:41:55.654645+00:00",
+   "added": "2026-10-09T00:41:55.654645+00:00",
+   "image": "https://www.secsolution.com/pict/news/22069.jpg",
+   "summary": [
+    "La sicurezza informatica del Manufacturing è ormai inseparabile dalla sicurezza fisica.",
+    "Nel primo semestre 2026 il Manufacturing rappresenta quasi un incidente su cinque in Italia (18,4%), in forte crescita rispetto al 12,4% del 2025.",
+    "A preoccupare è soprattutto l’escalation del ransomware, passato dal 76% degli incidenti del 2025 all’89% nel primo semestre 2026.",
+    "Una crescita che Clusit collega ai nuovi obblighi di notifica della direttiva NIS2, che stanno portando alla luce attacchi prima non classificati."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3430218d26f1",
+   "title": "PRASSEL: soluzione Plug & Play di videoanalisi AI",
+   "title_original": "PRASSEL: soluzione Plug & Play di videoanalisi AI",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22000&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-09T00:41:55.654645+00:00",
+   "added": "2026-10-09T00:41:55.654645+00:00",
+   "image": "https://www.secsolution.com/pict/news/22000.jpg",
+   "summary": [
+    "MagicBox è la soluzione Plug & Play di Prassel che attiva la video analisi AI in qualsiasi infrastruttura di videosorveglianza, nuova o preesistente.",
+    "Disponibile in versione stand-alone o integrata in piattaforme di gestione della Safety & Security, MagicBox consente la rapida implementazione delle analisi AI per classificare automaticamente gli eventi di interesse, elaborare statistiche operative e instaurare un’efficace sinergia I/O con gli altri sistemi di sicurezza in campo.",
+    "MagicBox trasforma la videosorveglianza in uno strumento proattivo di gestione della sicurezza: l’analisi automatizzata dei flussi video permette di notificare tempestivamente gli eventi rilevanti, semplificare le attività di monitoraggio e ottimizzare le tempistiche di intervento, incrementando l’efficienza delle Sale Operative.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3771e1b88b18",
    "title": "Viessmann porta a SAIE la “nuova era dell’energia”",
