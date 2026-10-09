@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-09T09:31:41.778723+00:00",
+ "updated": "2026-10-09T12:34:15.923507+00:00",
  "articles": [
+  {
+   "id": "0f6853bd7bc1",
+   "title": "Basler presenta le telecamere 10GigE compatte",
+   "title_original": "Basler presenta le telecamere 10GigE compatte",
+   "url": "https://automazione-plus.it/10gige-basler-telecamere-visione_176314/",
+   "source": "Automazione Plus",
+   "date": "2026-10-09T10:31:28+00:00",
+   "added": "2026-10-09T12:34:15.923507+00:00",
+   "image": "https://automazione-plus.it/wp-content/uploads/sites/3/2026/10/BASLER_2609_PR_10GigE-System-rgb-online-150x150.jpg",
+   "summary": [
+    "Basler integra una nuova generazione di telecamere 10GigE con funzionalità RDMA e PoE, insieme a tutti i componenti necessari.",
+    "Ciò riduce la complessità del sistema, lo sforzo di integrazione e i costi complessivi Basler offre un sistema di visione 10GigE ad alte prestazioni, compatto e scalabile per applicazioni ad alta intensità di dati, caratterizzato da una trasmissione dati stabile, un carico ridotto sulla CPU e un basso consumo energetico.",
+    "“Basler Vision Simulation” di Basler, fornitore di prodotti e soluzioni per la visione artificiale, è un nuovo strumento per il processo di sviluppo digitale dei sistemi di visione che consente agli utenti di sviluppare e testare immediatamente...",
+    "Basler offre un sistema di visione 10GigE ad alte prestazioni, compatto e scalabile per..."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7700869da66d",
    "title": "Ferrara, telecamere di sicurezza in spolvero per Vasco",
