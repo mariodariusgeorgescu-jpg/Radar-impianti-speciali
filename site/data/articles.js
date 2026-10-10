@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-09T21:29:11.691228+00:00",
+ "updated": "2026-10-10T00:40:06.505431+00:00",
  "articles": [
+  {
+   "id": "d5600ea01a1d",
+   "title": "i‑PRO e Kepler Vision insieme per migliorare il monitoraggio dei pazienti",
+   "title_original": "i‑PRO e Kepler Vision insieme per migliorare il monitoraggio dei pazienti",
+   "url": "https://www.secsolution.com/notizia.asp?id=22070&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-10T00:40:06.505431+00:00",
+   "added": "2026-10-10T00:40:06.505431+00:00",
+   "image": "https://www.secsolution.com/pict/news/22070.jpg",
+   "summary": [
+    "i‑PRO ha annunciato una partnership con Kepler Vision Technologies per portare l’applicazione Kepler Night Nurse direttamente sulle telecamere i‑PRO GenAI Fisheye, migliorando la sicurezza dei pazienti e supportando il personale sanitario, soprattutto durante i turni notturni segnati da carenza di operatori.",
+    "La soluzione sfrutta il processore Ambarella CV72 e le capacità edge‑AI delle telecamere i‑PRO per riconoscere in tempo reale eventi che richiedono attenzione immediata: tentativi di alzarsi dal letto, cadute o movimenti anomali.",
+    "Quando viene rilevata una situazione critica, il sistema invia un alert al nurse call, permettendo agli operatori di intervenire rapidamente e riducendo al contempo i controlli di routine che disturbano i pazienti e appesantiscono il lavoro del personale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "0f6853bd7bc1",
    "title": "Basler presenta le telecamere 10GigE compatte",
