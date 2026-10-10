@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:27:24.844050+00:00",
+ "updated": "2026-10-10T18:31:01.239058+00:00",
  "articles": [
   {
    "id": "d5600ea01a1d",
@@ -62,6 +62,29 @@
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "270e862545fc",
+   "title": "MotoGP à Mandalika : Quartararo réclame des changements urgents sur les bacs à gravier après sa chute",
+   "title_original": "MotoGP à Mandalika : Quartararo réclame des changements urgents sur les bacs à gravier après sa chute",
+   "url": "https://blog.joinsteer.com/article/motogp-a-mandalika-quartararo-reclame-des-changements-urgents-sur-les-bacs-a-gravier-apres-sa-chute",
+   "source": "blog.joinsteer",
+   "date": "2026-10-09T05:58:00+00:00",
+   "added": "2026-10-10T18:31:01.239058+00:00",
+   "image": "https://cdn.prod.website-files.com/67ab23d0fbb5b24523b79712/6ac8e4b57c913217a1f53e90_GnG_1352121_HiRes.jpeg",
+   "summary": [
+    "Fabio Quartararo a appelé à des modifications des bacs à gravier du circuit de Mandalika après sa chute lors des essais MotoGP du Grand Prix d’Indonésie.",
+    "Le pilote Yamaha estime que la configuration actuelle peut aggraver les conséquences d’une sortie de piste, en particulier dans une zone très rapide.",
+    "Quartararo est tombé au virage 8, dans la partie gauche de la section rapide des « Esses ».",
+    "Marquez a insisté sur la vitesse du secteur : dans une zone « super rapide », entrer dans le gravier à haute vitesse entraîne presque inévitablement des dégâts."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
@@ -308,6 +331,29 @@
    "refs": [],
    "categories": [
     "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "80668ee7caca",
+   "title": "BACS räumt mit verbreiteten Mythen über Schadsoftware auf",
+   "title_original": "BACS räumt mit verbreiteten Mythen über Schadsoftware auf",
+   "url": "https://www.it-markt.ch/news/2026-10-07/bacs-raeumt-mit-verbreiteten-mythen-ueber-schadsoftware-auf",
+   "source": "IT-Markt",
+   "date": "2026-10-07T06:50:00+00:00",
+   "added": "2026-10-10T18:31:01.239058+00:00",
+   "image": "https://data.it-markt.ch/styles/np8_full/s3/media/2026/10/07/vector-1751914321386-048a53bc63b9.jpg?itok=3odkiLOB",
+   "summary": [
+    "Rund um Schadsoftware halten sich laut BACS zahlreiche Annahmen, die heute nicht mehr aktuell sind.",
+    "Dazu sagt das BACS, dass das Öffnen einer E-Mail, Whatsapp-Nachricht oder Website heutzutage nur noch selten eine Infektion ermöglicht.",
+    "Sind Betriebssystem und Browser auf dem aktuellen Stand, verhindern die zahlreichen Sicherheitsmechanismen im System eine Infektion in der Regel.",
+    "Übrigens: Im Rahmen des Cyber Security Month informiert das BACS über den bewussten Umgang mit persönlichen Daten und sichere Nutzung von KI-Tools."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
@@ -913,6 +959,29 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a7aca1b4b8b6",
+   "title": "BACS sensibilisiert für Risiken von zu viel Offenheit im Netz",
+   "title_original": "BACS sensibilisiert für Risiken von zu viel Offenheit im Netz",
+   "url": "https://www.netzwoche.ch/news/2026-10-02/bacs-sensibilisiert-fuer-risiken-von-zu-viel-offenheit-im-netz",
+   "source": "Netzwoche",
+   "date": "2026-10-02T10:07:00+00:00",
+   "added": "2026-10-10T18:31:01.239058+00:00",
+   "image": "https://data.netzwoche.ch/styles/share_image/s3/media/2026/10/02/bacs.jpg?itok=kzpZOTyS",
+   "summary": [
+    "Den diesjährigen Cyber Security Month widmet das Bundesamt für Cybersicherheit dem Thema \"Oversharing - Bewusst teilen\".",
+    "Im Fokus stehen der bewusste Umgang mit persönlichen Daten im Alltag und die sichere Nutzung von KI-Tools im Arbeitsalltag.",
+    "Es reicht schon, scheinbar harmlose Informationen im Internet zu veröffentlichen, um Kriminellen Ansatzpunkte für Cyberangriffe zu geben. Ein Bild, eine Telefonnummer oder ein Name können in Kombination bereits ein detailliertes Profil einer Person ergeben, wie das Bundesamt für Cybersicherheit (BACS) schreibt.",
+    "Aufgepasst beim Posten von Kinderfotos in sozialen Medien: Anfang 2026 sorgten Nutzende für Aufsehen, als sie mit dem KI-Chatbot Grok sexualisierte Bilder von Erwachsenen und Minderjährigen erstellten. Welche weiteren Risiken das sogenannte \"Sharenting\" birgt, lesen Sie hier."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
