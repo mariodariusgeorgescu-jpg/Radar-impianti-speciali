@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-11T03:30:15.280577+00:00",
+ "updated": "2026-10-11T06:34:30.863718+00:00",
  "articles": [
   {
    "id": "d5600ea01a1d",
@@ -1417,6 +1417,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0e14ef1f2e60",
+   "title": "A Verviers, 250.000 euros pour fabriquer des bacs en béton, puis pour les casser",
+   "title_original": "A Verviers, 250.000 euros pour fabriquer des bacs en béton, puis pour les casser",
+   "url": "https://www.rtbf.be/article/a-verviers-250-000-euros-pour-fabriquer-des-bacs-en-beton-puis-pour-les-casser-11793181",
+   "source": "RTBF",
+   "date": "2026-10-01T00:34:00+00:00",
+   "added": "2026-10-11T06:34:30.863718+00:00",
+   "image": "https://static-content.rtbf.be/article/image/1920x1080/b/1/1/158642577d1056283cb5751508ff2609.jpg",
+   "summary": [
+    "Ils devaient séparer les racines des canalisations et des câbles et être enterrés à 70 centimètres de profondeur.",
+    "Ensuite, les autres gestionnaires de réseaux ont estimé qu’ils ne pourraient plus intervenir sous de tels bacs.",
+    "Ores ne se sent pas concernée : ses câbles pouvaient passer dans des gaines, sous les bacs.",
+    "Unifiber nous annonce un accord verbal pour répartir entre les opérateurs le paiement de ces 250.000 euros de béton neuf déjà réduit en gravats."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
