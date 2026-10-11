@@ -1,6 +1,54 @@
 window.NEWS_DATA = {
- "updated": "2026-10-11T06:34:30.863718+00:00",
+ "updated": "2026-10-11T09:29:16.072388+00:00",
  "articles": [
+  {
+   "id": "57962777744d",
+   "title": "DKC presenta il catalogo per la protezione antincendio a Passive Fire Protection",
+   "title_original": "DKC presenta il catalogo per la protezione antincendio a Passive Fire Protection",
+   "url": "https://www.impiantinews.it/elettro/attualita/dkc-presenta-il-catalogo-per-la-protezione-antincendio-a-passive-fire-protection/",
+   "source": "Impianti News",
+   "date": "2026-10-11T08:27:36+00:00",
+   "added": "2026-10-11T09:29:16.072388+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/Nuovo-catalogo-Soluzioni-integrate-per-la-protezione-antincendio-Gruppo-DKC-Europe-scaled.jpg",
+   "summary": [
+    "Home » DKC presenta il catalogo per la protezione antincendio a Passive Fire Protection In occasione della conferenza Passive Fire Protection di Torino, DKC ha presentato il nuovo catalogo che raccoglie soluzioni integrate per la sicurezza e la continuità operativa degli impianti.",
+    "Il Gruppo DKC Europe ha partecipato come partner tecnico e co-organizzatore alla sesta edizione di Passive Fire Protection, conferenza dedicata all’analisi delle normative e delle tecnologie di riferimento nel campo della protezione passiva antincendio."
+   ],
+   "refs": [
+    "CEI 64-20",
+    "IEC 60331-1",
+    "Direttiva 2014/34"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0b33c4eb4c1a",
+   "title": "NUOVO IMPIANTO ANTINTRUSIONE AL MERCATO ORTOFRUTTICOLO: STANZIATI OLTRE 39MILA EURO",
+   "title_original": "NUOVO IMPIANTO ANTINTRUSIONE AL MERCATO ORTOFRUTTICOLO: STANZIATI OLTRE 39MILA EURO",
+   "url": "https://ilfattodimolfetta.it/2026/10/11/nuovo-impianto-antintrusione-al-mercato-ortofrutticolo-stanziati-oltre-39mila-euro/",
+   "source": "ilfattodimolfetta",
+   "date": "2026-10-11T00:42:00+00:00",
+   "added": "2026-10-11T09:29:16.072388+00:00",
+   "image": "https://ilfattodimolfetta.it/wp-content/uploads/molfettamercatoortofrutticolo24.jpg",
+   "summary": [
+    "Il Comune di Molfetta ha avuto accesso all’elenco provvisorio predisposto dall’INPS per la Carta Dedicata a Te 2026: sono 1.380 i nuclei familiari beneficiari individuati sul territorio cittadino. L’operazione è stata condotta dai militari della Capitaneria di Porto di Molfetta sotto il coordinamento della Procura di Bari.",
+    "Le analisi dell’ARPA Puglia hanno rilevato elevate concentrazioni di metalli pesanti nel sottosuolo.",
+    "Allenamenti pomeridiani, fischietti, partite serali e schiamazzi fino quasi alle 23.",
+    "È quanto segnala un cittadino residente nei pressi del campetto da calcio della Chiesa Madonna delle Rose, in via Giuseppe Moscati."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d5600ea01a1d",
    "title": "i‑PRO e Kepler Vision insieme per migliorare il monitoraggio dei pazienti",
