@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-12T15:32:40.307485+00:00",
+ "updated": "2026-10-12T18:34:42.536547+00:00",
  "articles": [
+  {
+   "id": "3f25d89f06d6",
+   "title": "Case Green, nuove regole in arrivo? A che punto è il Governo",
+   "title_original": "Case Green, nuove regole in arrivo? A che punto è il Governo",
+   "url": "https://www.pgcasa.it/articoli/risparmio-energetico-e-fotovoltaico/case-green-nuove-regole-situazione-italia__50247",
+   "source": "pgcasa",
+   "date": "2026-10-12T05:25:00+00:00",
+   "added": "2026-10-12T18:34:42.536547+00:00",
+   "image": "https://wips.plug.it/cips/paginegiallecasa/cms/2024/05/direttiva-case-green.jpg?w=832&h=468&a=c",
+   "summary": [
+    "Quando arriverà il decreto sulle Case Green Cosa cambia per le case degli italiani con la direttiva UE Ci saranno nuovi incentivi per l'efficienza energetica Le nuove regole sulle Case Green non sono ancora operative.",
+    "Per i proprietari di casa significa nessun obbligo immediato di intervento e nessun nuovo bonus ufficiale, almeno per ora.",
+    "L’Italia non ha ancora consegnato il Piano nazionale di ristrutturazione degli edifici, atteso entro il 31 dicembre 2025.",
+    "Per ora nulla, perché il 2030 non è una scadenza per ogni singola casa ma un obiettivo medio nazionale: consumi di energia primaria in calo del 16%."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "4f4b47dcede6",
    "title": "Videosorveglianza a bordo: sperimentazione sui vaporetti",
