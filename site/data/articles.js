@@ -1,6 +1,72 @@
 window.NEWS_DATA = {
- "updated": "2026-10-12T03:33:39.017058+00:00",
+ "updated": "2026-10-12T06:41:11.030282+00:00",
  "articles": [
+  {
+   "id": "4f4b47dcede6",
+   "title": "Videosorveglianza a bordo: sperimentazione sui vaporetti",
+   "title_original": "Videosorveglianza a bordo: sperimentazione sui vaporetti",
+   "url": "https://www.secsolution.com/notizia.asp?id=22086&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-12T02:00:00+00:00",
+   "added": "2026-10-12T06:41:11.030282+00:00",
+   "image": "https://www.secsolution.com/pict/news/22086.jpg",
+   "summary": [
+    "Sono entrati in servizio i primi vaporetti Actv dotati di sistemi di videosorveglianza.",
+    "L’iniziativa rientra nel Protocollo per la sicurezza del trasporto pubblico locale della Città Metropolitana di Venezia e segue il recente tavolo di monitoraggio convocato in Prefettura, dedicato alle misure per prevenire aggressioni e atti di microcriminalità a bordo.",
+    "La nuova dotazione rappresenta la prima fase di una sperimentazione che coinvolgerà progressivamente l’intera flotta navale e destinata a estendersi entro il 2027 anche ai mezzi terrestri, per un totale di oltre 4000 telecamere.",
+    "Nei prossimi mesi circa 20 unità saranno equipaggiate con gli apparati, mentre una gara prevista nel 2027 consentirà di completare l’installazione entro il 2028, raggiungendo quota 1.300 telecamere."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "c176d3429a91",
+   "title": "secsolutionforum 2026: a Bologna due giornate di confronto, innovazione e formazione",
+   "title_original": "secsolutionforum 2026: a Bologna due giornate di confronto, innovazione e formazione",
+   "url": "https://www.secsolution.com/notizia.asp?id=22085&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-12T01:30:00+00:00",
+   "added": "2026-10-12T06:41:11.030282+00:00",
+   "image": "https://www.secsolution.com/pict/news/22085.jpg",
+   "summary": [
+    "La sicurezza torna protagonista in presenza con secsolutionforum, la Mostra-Convegno dedicata alla sicurezza fisica e logica il 7 e 8 ottobre a BolognaFiere, all’interno di Urban Tech – The Urban Technology Show, confermando il valore del confronto diretto tra professionisti, imprese, istituzioni e mondo della ricerca.",
+    "Con un programma articolato in oltre 100 appuntamenti, nove sale attive contemporaneamente e più di 130 relatori, la manifestazione ha offerto un’occasione di aggiornamento e approfondimento sui principali cambiamenti che stanno interessando il comparto della sicurezza.",
+    "L’area espositiva di 4.000 metri quadrati ha completato un’offerta che ha affiancato formazione, dibattito, presentazione di tecnologie e confronto sulle applicazioni concrete."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "eaf75588595e",
+   "title": "Direttiva Case Green, Governo al lavoro sul decreto di recepimento",
+   "title_original": "Direttiva Case Green, Governo al lavoro sul decreto di recepimento",
+   "url": "https://www.edilportale.com/news/2026/10/risparmio-energetico/direttiva-case-green-a-che-punto-e-il-recepimento_112238_27.html",
+   "source": "Edilportale",
+   "date": "2026-10-11T17:00:00+00:00",
+   "added": "2026-10-12T06:41:11.030282+00:00",
+   "image": "https://img.edilportale.com/News/palazzochigi-tktktk-123rfcom-m-112238_1.jpg",
+   "summary": [
+    "Paga in modo semplice e sicuro con Paypal, Carta di credito, Bonifico bancario o Klarna.",
+    "La tua privacy è garantita da connessioni sicure."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "57962777744d",
    "title": "DKC presenta il catalogo per la protezione antincendio a Passive Fire Protection",
