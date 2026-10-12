@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T06:41:11.030282+00:00",
+ "updated": "2026-10-12T09:35:03.268628+00:00",
  "articles": [
   {
    "id": "4f4b47dcede6",
@@ -64,6 +64,29 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a8f1dd31a9de",
+   "title": "Efficienza energetica degli edifici: doppio richiamo UE all’Italia",
+   "title_original": "Efficienza energetica degli edifici: doppio richiamo UE all’Italia",
+   "url": "https://www.infobuildenergia.it/approfondimenti/efficienza-energetica-edifici-doppio-richiamo-ue-italia/",
+   "source": "Infobuildenergia",
+   "date": "2026-10-11T17:00:00+00:00",
+   "added": "2026-10-12T09:35:03.268628+00:00",
+   "image": "https://www.infobuildenergia.it/wp-content/uploads/2026/10/efficienza-energetica-edifici-infrazione-UE-italia.jpg",
+   "summary": [
+    "Doppio monito della Commissione europea all’Italia in tema di norme per l’efficienza energetica degli edifici.",
+    "In assenza di una risposta soddisfacente entro due mesi, la Commissione può decidere di deferire l’Italia alla Corte di giustizia dell’Unione europea con possibili sanzioni pecuniarie; al momento, «anche se la procedura di infrazione non si è ancora conclusa», segnalano Giovanni Ferasin e Andrea Pellizzari, avvocati dello studio Casa & Associati.",
+    "«Se l’Italia prosegue su questa linea, la Commissione potrebbe decidere di deferire il caso alla Corte di giustizia dell’Unione europea, con la possibilità di sanzioni pecuniarie».",
+    "Secondo i due legali, è probabile che l’Italia privilegi un sistema di incentivi pubblici rispetto all’introduzione di obblighi diretti generalizzati per i proprietari privati."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
