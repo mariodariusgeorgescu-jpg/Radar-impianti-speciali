@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-13T06:39:48.053724+00:00",
+ "updated": "2026-10-13T09:33:36.637800+00:00",
  "articles": [
   {
    "id": "a4a279ce02f2",
@@ -65,6 +65,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bea1ab4901b9",
+   "title": "EPBD alias Case green. Il ministro Pichetto Fratin: “Eppur si muove”",
+   "title_original": "EPBD alias Case green. Il ministro Pichetto Fratin: “Eppur si muove”",
+   "url": "https://www.cosmoserr.it/epbd-alias-case-green-il-ministro-pichetto-fratin-eppur-si-muove/",
+   "source": "Cosmoserr",
+   "date": "2026-10-12T23:49:00+00:00",
+   "added": "2026-10-13T09:33:36.637800+00:00",
+   "image": "https://www.cosmoserr.it/wp-content/uploads/2026/03/EPBD-CASE-GREEN.jpeg",
+   "summary": [
+    "Home » Attualità » EPBD alias Case green. Il ministro Pichetto Fratin: “Eppur si muove” Il Ministro dell’ambiente e della sicurezza energetica ha fatto il punto in Senato sul (mancato) recepimento della Direttiva EPBD alias Case green. Per adottarla il Governo farà leva ora sulla legge di delegazione europea 2026.",
+    "Parliamo della Direttiva EPBD alias Case green. E ‘ la versione 4 della direttiva sull’efficienza energetica degli edifici che dagli inizi degli anni duemila ci accompagna nei processi di ottimizzazione del risparmio energetico in edilizia.",
+    "A rotta di collo il Governo sta cercando di evitare l‘ennesima multa targata EU per il mancato recepimento del provvedimento, vedi news.",
+    "Ne va anche della nostra indipendenza energetica."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": true,
    "lang": "it",
