@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-12T21:28:50.307623+00:00",
+ "updated": "2026-10-13T00:43:33.543361+00:00",
  "articles": [
+  {
+   "id": "a4a279ce02f2",
+   "title": "Inim Home 3.0: nuovo motore, nuova esperienza su Android",
+   "title_original": "Inim Home 3.0: nuovo motore, nuova esperienza su Android",
+   "url": "https://www.secsolution.com/notizia.asp?id=22083&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-13T00:43:33.543361+00:00",
+   "added": "2026-10-13T00:43:33.543361+00:00",
+   "image": "https://www.secsolution.com/pict/news/22083.jpg",
+   "summary": [
+    "Inim Home evolve su Android con un nuovo motore progettato per offrire prestazioni superiori.",
+    "Sviluppata nativamente per il sistema operativo Google, la versione 3.0 conserva interfaccia, funzioni e modalità di utilizzo già familiari, rendendo l’esperienza più fluida e affidabile.",
+    "L’evoluzione è particolarmente evidente nella videosorveglianza InVista: visualizzazione e gestione delle telecamere tramite MultiView raggiungono un nuovo livello di stabilità e reattività, per una maggiore continuità operativa.",
+    "Inim Home continua a riunire in un’unica app gratuita antintrusione, domotica, controllo accessi e videosorveglianza, in dialogo con Prime, PrimeX e l’ecosistema Inim."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b55708703627",
+   "title": "Sicurezza firmata Urmet per la Casa della Musica ad Amatrice",
+   "title_original": "Sicurezza firmata Urmet per la Casa della Musica ad Amatrice",
+   "url": "https://www.secsolution.com/notizia.asp?id=22087&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-13T00:43:33.543361+00:00",
+   "added": "2026-10-13T00:43:33.543361+00:00",
+   "image": "https://www.secsolution.com/pict/news/22087.jpg",
+   "summary": [
+    "A dieci anni dal terremoto del 2016, la Casa della Musica di Amatrice continua a essere il principale punto di riferimento culturale e formativo del territorio.",
+    "Nel 2021 la torinese Urmet ha contribuito alla piena operatività della struttura donando un impianto antintrusione con videosorveglianza e componenti elettrici, permettendo ai giovani musicisti di tornare a disporre di spazi adeguati.",
+    "La Casa della Musica, situata vicino all’insediamento Colle Magrone 2, comprende tre sale prova e una sala dedicata alla banda cittadina.",
+    "L’associazione APS Lo Spirito nel Tempo ha promosso il progetto della nuova Casa della Musica, sostenuta fin da subito dalla Banda Musicale Città dell’Amatrice."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "19ccc6d39fe0",
+   "title": "VIMAR: telecamere IP termiche e touch view",
+   "title_original": "VIMAR: telecamere IP termiche e touch view",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22002&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-13T00:43:33.543361+00:00",
+   "added": "2026-10-13T00:43:33.543361+00:00",
+   "image": "https://www.secsolution.com/pict/news/22002.jpg",
+   "summary": [
+    "Oltre alle telecamere IP standard, la gamma Vimar include versioni Plus con sensore termico, capaci di rilevare il calore emesso dagli oggetti e adatte in condizioni di scarsa visibilità, le nuove telecamere Color, tra cui la Panoramica Plus con visione a 180° e doppia ottica, e la Bullet Color Plus ad elevatissima sensibilità.",
+    "Associate ai supervisori per la videoverifica e, in particolare, ai nuovi Touch View, in caso di allarme, è possibile accedere immediatamente alle immagini della zona interessata, rendendo più rapide ed efficaci le attività di controllo.",
+    "Grazie alla piena integrazione con i sistemi di videosorveglianza Elvox TVCC e antintrusione By-alarm Plus, i Touch View permettono di visualizzare in tempo reale i flussi video e gestire gli allarmi da un unico punto di controllo.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3f25d89f06d6",
    "title": "Case Green, nuove regole in arrivo? A che punto è il Governo",
