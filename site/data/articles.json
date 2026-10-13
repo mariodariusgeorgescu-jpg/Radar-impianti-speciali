@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T03:32:11.436883+00:00",
+ "updated": "2026-10-13T06:39:48.053724+00:00",
  "articles": [
   {
    "id": "a4a279ce02f2",
@@ -67,6 +67,28 @@
     "tvcc"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "49f7d52bfa0f",
+   "title": "Sicurezza e controllo degli accessi. Implementare la videosorveglianza. Ecco nuove telecamere in centro",
+   "title_original": "Sicurezza e controllo degli accessi. Implementare la videosorveglianza. Ecco nuove telecamere in centro",
+   "url": "https://www.msn.com/it-it/notizie/other/sicurezza-e-controllo-degli-accessi-implementare-la-videosorveglianza-ecco-nuove-telecamere-in-centro/ar-AA2e7cxp",
+   "source": "La Nazione on MSN",
+   "date": "2026-10-12T20:42:45+00:00",
+   "added": "2026-10-13T06:39:48.053724+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.8FfrGzwU6lRkKbUVeRI8og&pid=News",
+   "summary": [
+    "Un’opera da 7mila euro legata all’idea di pedonalizzare piazza Roma.",
+    "Il sindaco: \"Questo inverno avvieremo un percorso partecipativo\"."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc",
+    "antintrusione"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
