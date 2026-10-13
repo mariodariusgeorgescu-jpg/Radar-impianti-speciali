@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-13T12:40:39.359254+00:00",
+ "updated": "2026-10-13T15:34:20.059250+00:00",
  "articles": [
+  {
+   "id": "c70ef56685ae",
+   "title": "Supervisore per la gestione integrata della sicurezza: DS-KH9570",
+   "title_original": "Supervisore per la gestione integrata della sicurezza: DS-KH9570",
+   "url": "https://www.impiantinews.it/elettro/prodotti/supervisore-per-la-gestione-integrata-della-sicurezza-ds-kh9570/",
+   "source": "Impianti News",
+   "date": "2026-10-13T14:28:36+00:00",
+   "added": "2026-10-13T15:34:20.059250+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/2026_10_06-monitor-supervisore.jpg",
+   "summary": [
+    "Home » Supervisore per la gestione integrata della sicurezza: DS-KH9570 Con il nuovo DS-KH9570-WTE1/S Hikvision (Vittorio Veneto, TV) evolve il concetto di posto interno videocitofonico trasformandolo in un vero supervisore per la gestione integrata della sicurezza.",
+    "Un dispositivo pensato per l’installatore professionista che consente di riunire in un unico punto di controllo videocitofonia IP, videosorveglianza e sistema antintrusione, semplificando l’interazione quotidiana dell’utente con l’impianto.",
+    "La stessa logica vale anche per i sistemi di videosorveglianza: il supervisore DS-KH9570-WTE1/S può collegare fino a 16 telecamere IP presenti sulla stessa rete, affiancandone la visualizzazione alle funzioni intercom e antintrusione."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a4a279ce02f2",
    "title": "Inim Home 3.0: nuovo motore, nuova esperienza su Android",
