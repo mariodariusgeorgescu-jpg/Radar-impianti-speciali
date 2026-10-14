@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:51:00.125970+00:00",
+ "updated": "2026-10-14T15:47:46.586100+00:00",
  "articles": [
   {
    "id": "11a34c4c9725",
@@ -23,6 +23,28 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "f69687765104",
+   "title": "Chicago Faucets porta i dati sull'acqua nell'automazione degli edifici",
+   "title_original": "Chicago Faucets Brings Water Data to Building Automation",
+   "url": "https://ccr-mag.com/chicago-faucets-brings-water-data-to-building-automation/",
+   "source": "CCR-Mag.com",
+   "date": "2026-10-13T18:26:00+00:00",
+   "added": "2026-10-14T15:47:46.586100+00:00",
+   "image": "https://ccr-mag.com/wp-content/uploads/2026/10/Chicago-Faucets-CF-Connect-PLUS-Intelligent-Water-Management.png",
+   "summary": [
+    "Chicago Faucets è entrata a far parte di BACnet International come parte del suo continuo investimento nelle tecnologie idrauliche connesse e di gestione dell'acqua. L'annuncio coincide con l'introduzione di CF Connect PLUS, una soluzione che integra i rubinetti elettronici con i sistemi di building automation attraverso la connettività nativa BACnet/IP.",
+    "“L’adesione a BACnet International offre a Chicago Faucets l’opportunità di collaborare più da vicino con i professionisti che progettano, integrano e gestiscono i sistemi di costruzione di oggi.",
+    "Supporta inoltre il nostro lavoro per creare modi migliori per collegare le infrastrutture idrauliche ai sistemi di automazione degli edifici attraverso tecnologie abilitate a BACnet. Siamo lieti di presentare CF Connect PLUS, una soluzione innovativa progettata per semplificare la gestione dell’acqua”, ha affermato Richard Nortier, Vice Presidente Prodotti e Marketing presso Chicago Faucets."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "c70ef56685ae",
