@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-10-14T21:40:48.629027+00:00",
+ "updated": "2026-10-15T00:50:56.759886+00:00",
  "articles": [
+  {
+   "id": "fe1922cce49b",
+   "title": "PELCO: telecamera PTZ rinforzata",
+   "title_original": "PELCO: telecamera PTZ rinforzata",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22017&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-15T00:50:56.759886+00:00",
+   "added": "2026-10-15T00:50:56.759886+00:00",
+   "image": "https://www.secsolution.com/pict/news/22017.jpg",
+   "summary": [
+    "Quando la sicurezza richiede visibilità e affidabilità anche in condizioni ambientali impegnative, Esprit Compact PTZ di Pelco offre una risposta concreta.",
+    "Disponibile con risoluzione fino a 8 MP e zoom fino a 40x, la telecamera permette di osservare aree estese e acquisire dettagli utili all’identificazione.",
+    "Le funzionalità Smart Analytics, con rilevamento e classificazione di persone e veicoli e tracciamento automatico, aiutano gli operatori a individuare più rapidamente ciò che conta.",
+    "Robusta e resistente a polvere, acqua e urti, Esprit Compact PTZ è progettata per operare da -40 °C a 65 °C, offrendo continuità di protezione in contesti come aree industriali, porti, aeroporti e infrastrutture critiche."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "68b31af9a653",
+   "title": "Webinar AIPS - TAV: guida agli apparati di rete",
+   "title_original": "Webinar AIPS - TAV: guida agli apparati di rete",
+   "url": "https://www.secsolution.com/notizia.asp?id=22102&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-15T00:50:56.759886+00:00",
+   "added": "2026-10-15T00:50:56.759886+00:00",
+   "image": "https://www.secsolution.com/pict/news/22102.jpg",
+   "summary": [
+    "Progettare un impianto TVCC IP professionale richiede molto più della semplice scelta delle telecamere.",
+    "La vera sfida è l’infrastruttura di rete: un solo errore nella selezione degli apparati attivi può generare colli di bottiglia, disconnessioni o, nei casi peggiori, guasti distruttivi.",
+    "Per questo AIPS, in collaborazione con TAV - Trans Audio Video, organizza un webinar gratuito dedicato alla progettazione delle infrastrutture di rete per la videosorveglianza IP professionale.",
+    "Nel contesto della videosorveglianza IP professionale e industriale, la corretta selezione degli apparati attivi è infatti un fattore determinante per garantire continuità, sicurezza e scalabilità."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "11a34c4c9725",
    "title": "i‑PRO festeggia 7 anni di innovazione e crescita",
