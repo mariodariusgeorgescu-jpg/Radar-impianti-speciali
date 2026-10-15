@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-15T03:41:47.937664+00:00",
+ "updated": "2026-10-15T06:53:10.492061+00:00",
  "articles": [
+  {
+   "id": "e069d73e7ffb",
+   "title": "Trattamento dati nell’ambito della sicurezza urbana",
+   "title_original": "Trattamento dati nell’ambito della sicurezza urbana",
+   "url": "https://www.impiantinews.it/sicurezza/norme-leggi/trattamento-dati-nellambito-della-sicurezza-urbana/",
+   "source": "Impianti News",
+   "date": "2026-10-15T06:00:49+00:00",
+   "added": "2026-10-15T06:53:10.492061+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/TVCC_AdobeStock_84777325_36242382_View-scaled-e1791792564534.jpeg",
+   "summary": [
+    "Nell’epoca dell’AI, che trasforma le telecamere in strumenti di sicurezza proattiva, la smart city si trova ad affrontare il rischio di un utilizzo in­discriminato delle tecnologie di monitoraggio, a scapito dei diritti fondamentali della persona.",
+    "Tuttavia, il quadro normativo europeo e nazionale è rigoroso: i soggetti pubblici possono trattare dati personali solo se il trattamento è strettamente necessario per adempiere a una funzione istituzionale, a un obbligo legale o per l’esecuzione di un compito di interesse pubblico stabilito da una norma di legge di rango primario."
+   ],
+   "refs": [
+    "D.Lgs. 51/2018"
+   ],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "fe1922cce49b",
    "title": "PELCO: telecamera PTZ rinforzata",
