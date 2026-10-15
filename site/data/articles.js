@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-15T09:43:37.198371+00:00",
+ "updated": "2026-10-15T12:53:44.814850+00:00",
  "articles": [
+  {
+   "id": "500bc9fda1e1",
+   "title": "Hikvision Serie S, l’NVR che porta l’intelligenza al centro dell’impianto",
+   "title_original": "Hikvision Serie S, l’NVR che porta l’intelligenza al centro dell’impianto",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/hikvision-serie-s-lnvr-che-porta-lintelligenza-al-centro-dellimpianto/",
+   "source": "Impianti News",
+   "date": "2026-10-15T10:49:46+00:00",
+   "added": "2026-10-15T12:53:44.814850+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/News-solution-nvr-serie-s.jpg",
+   "summary": [
+    "Home » Hikvision Serie S, l’NVR che porta l’intelligenza al centro dell’impianto Registrazione fino a 8K, architettura scalabile fino a 256 canali, analisi video a bordo e ridondanza hardware: con la nuova famiglia di registratori di rete, Hikvision risponde alle esigenze dei grandi impianti mission critical.",
+    "Hikvision ha scelto di integrare le funzioni di analisi direttamente nel registratore, che da archivio passivo diventa il centro di elaborazione dell’intero sistema.",
+    "Il valore della Serie S si misura lungo l’intero ciclo di vita dell’impianto.",
+    "Con questa famiglia di NVR, Hikvision propone dunque non semplicemente un registratore più potente, ma un’infrastruttura in grado di elevare le prestazioni dell’intero impianto e di accompagnarne l’evoluzione."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e069d73e7ffb",
    "title": "Trattamento dati nell’ambito della sicurezza urbana",
