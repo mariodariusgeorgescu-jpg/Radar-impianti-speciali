@@ -1,6 +1,27 @@
 window.NEWS_DATA = {
- "updated": "2026-10-16T18:47:00.840138+00:00",
+ "updated": "2026-10-16T21:39:57.822681+00:00",
  "articles": [
+  {
+   "id": "b200d9faa9ea",
+   "title": "Il mercato del rilevamento e della soppressione degli incendi nei data center raggiungerà i 10,35 miliardi di dollari entro il 2035 poiché i rischi legati alle batterie e all'intelligenza artificiale guidano...",
+   "title_original": "Data Center Fire Detection and Suppression Market to Reach USD 10.35 Billion by 2035 as Battery and AI Risks Drive Protection Upgrades - DC Market Insights",
+   "url": "https://finance.yahoo.com/technology/articles/data-center-fire-detection-suppression-190900646.html",
+   "source": "Yahoo Finance",
+   "date": "2026-10-16T12:09:00+00:00",
+   "added": "2026-10-16T21:39:57.822681+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/42c5f383a3f322ec883f23075cfa6bde4db316bc74e837a23a021f9eb5c9f5b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fce3828bacf126bcdc30fce275cfedd2c.jpg",
+   "summary": [
+    "Densità di rack più elevate, sistemi di batterie agli ioni di litio e regole più severe sugli agenti puliti stanno cambiando la progettazione della protezione antincendio nelle strutture iperscala, in colocation, aziendali ed edge. Nuovi aumenti di capacità di circa 12,0 GW all’anno sostengono circa 2,95 miliardi di dollari di spesa per la protezione antincendio di nuove costruzioni. Si prevede che i sistemi water mist e di soppressione ibridi raggiungeranno 1,14 miliardi di dollari entro il 2035.",
+    "Si prevede che i servizi di ispezione, test e manutenzione raggiungeranno i 2,66 miliardi di dollari entro il 2035, creando un flusso di entrate ricorrenti oltre alle vendite di apparecchiature. Il Nord America deteneva il 40% del valore di mercato nel 2025, seguito dall’Asia Pacifico al 28% e dall’Europa al 23,5%."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "28a512108c20",
    "title": "URMET: telecamera professionale per ambienti alto rischio",
