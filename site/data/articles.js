@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-15T21:42:26.549757+00:00",
+ "updated": "2026-10-16T00:50:34.112911+00:00",
  "articles": [
+  {
+   "id": "28a512108c20",
+   "title": "URMET: telecamera professionale per ambienti alto rischio",
+   "title_original": "URMET: telecamera professionale per ambienti alto rischio",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22043&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-16T00:50:34.112911+00:00",
+   "added": "2026-10-16T00:50:34.112911+00:00",
+   "image": "https://www.secsolution.com/pict/news/22043.jpg",
+   "summary": [
+    "La telecamera professionale 1099/901 serie Extreme è adatta per impieghi in ambienti aggressivi e ad alto rischio.",
+    "Il grado di protezione IP67 fornisce una resistenza estrema a polveri e acqua.",
+    "L’IK10 assicura una resistenza ad atti vandalici e la certificazione NEMA4X garantisce protezione dalla corrosione, da polvere portata dal vento e dalla pioggia, da potenti getti d’acqua diretti e indiretti, da danni da formazione di ghiaccio.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "500bc9fda1e1",
    "title": "Hikvision Serie S, l’NVR che porta l’intelligenza al centro dell’impianto",
