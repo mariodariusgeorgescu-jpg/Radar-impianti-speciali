@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-16T03:42:09.970127+00:00",
+ "updated": "2026-10-16T06:52:23.892612+00:00",
  "articles": [
   {
    "id": "28a512108c20",
@@ -21,6 +21,29 @@ window.NEWS_DATA = {
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0ee7fac59776",
+   "title": "Quando serve il certificato antincendio nel condominio?",
+   "title_original": "Quando serve il certificato antincendio nel condominio?",
+   "url": "https://www.laleggepertutti.it/782217_quando-serve-il-certificato-antincendio-nel-condominio",
+   "source": "La Legge per Tutti",
+   "date": "2026-10-15T17:01:00+00:00",
+   "added": "2026-10-16T06:52:23.892612+00:00",
+   "image": "https://www.laleggepertutti.it/wp-content/uploads/2026/02/condominio-sicurezza-antincendio-estintore.jpg",
+   "summary": [
+    "Guida agli obblighi di prevenzione incendi per edifici sopra i 12 metri: dalle categorie di rischio alla sicurezza delle facciate e alle sanzioni.",
+    "Molti proprietari non sanno esattamente quando serve il certificato antincendio nel condominio e quali siano i parametri per calcolare l’altezza del proprio palazzo.",
+    "Prima di capire quali obblighi gravino sulla compagine condominiale, è necessario definire con precisione un parametro tecnico fondamentale: l’altezza antincendio.",
+    "Le nuove norme (d.m. 25 gennaio 2019) stabiliscono che le facciate degli edifici di nuova costruzione o quelle sottoposte a modifiche sostanziali devono possedere requisiti specifici se l’altezza antincendio supera i 24 metri."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
