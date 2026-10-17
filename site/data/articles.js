@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-17T09:39:09.995694+00:00",
+ "updated": "2026-10-17T12:44:53.550140+00:00",
  "articles": [
   {
    "id": "b200d9faa9ea",
