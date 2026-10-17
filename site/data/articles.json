@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:39:38.822041+00:00",
+ "updated": "2026-10-17T21:37:19.824722+00:00",
  "articles": [
   {
    "id": "81923f409214",
@@ -1875,6 +1875,26 @@
     "Come si costruisce un sistema di sicurezza urbana che non sia più una somma di telecamere e sensori, ma un organismo intelligente capace di apprendere, anticipare e garantire protezione?",
     "Se sei un amministratore pubblico, un responsabile della sicurezza urbana, un esponente delle forze dell’ordine, un progettista o un operatore del settore, questa tavola rotonda ti offrirà risposte concrete e visioni operative.",
     "Scoprirai come IoT, intelligenza artificiale e piattaforme collaborative stiano trasformando la videosorveglianza da strumento reattivo a componente predittiva di un ecosistema integrato che collega smart building, isolati urbani e infrastrutture cittadine."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "df8826e3db61",
+   "title": "Automated Logic launches latest version of WebCTRL at Smart Buildings Show 2026",
+   "title_original": "Automated Logic launches latest version of WebCTRL at Smart Buildings Show 2026",
+   "url": "https://www.heatingandventilating.net/automated-logic-launches-latest-version-of-webctrl-at-smart-buildings-show-2026",
+   "source": "Heating and Ventilating",
+   "date": "2026-10-01T02:03:00+00:00",
+   "added": "2026-10-17T21:37:19.824722+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.HUtGjKoB4SoS7sPtXMj24Q&pid=News",
+   "summary": [
+    "Automated Logic, a provider of innovative building-management solutions, will launch the latest version of its building automation platform WebCTRL® on Stand A1 at Smart Buildings Show, 14-15 October ..."
    ],
    "refs": [],
    "categories": [
