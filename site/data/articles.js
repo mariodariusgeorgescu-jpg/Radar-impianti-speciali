@@ -1,6 +1,34 @@
 window.NEWS_DATA = {
- "updated": "2026-10-17T15:37:38.010400+00:00",
+ "updated": "2026-10-17T18:39:38.822041+00:00",
  "articles": [
+  {
+   "id": "81923f409214",
+   "title": "Interpelli ambientali - Art. 3 septies D.Lgs. 152/2006",
+   "title_original": "Interpelli ambientali - Art. 3 septies D.Lgs. 152/2006",
+   "url": "https://www.certifico.com/interpelli-ambientali",
+   "source": "Certifico",
+   "date": "2026-10-17T16:57:26+00:00",
+   "added": "2026-10-17T18:39:38.822041+00:00",
+   "image": "https://www.certifico.com/images/articoli/news2021/11/cover-interpelli-ambientali-152-2006.png",
+   "summary": [
+    "ID 14917 | Rev. 117.0 del 17 Ottobre 2026 / Pagina riepilogativa / PDF allegato In allegato Documento PDF aggiornato con tutti gli Interpelli ambientali di cui all'Art. 3 septies D.lgs 152/2006 relativi agli anni 2021/2026.",
+    "Pertanto le istanze dovranno essere presentate, ai fini dell’esame delle direzioni competenti, unicamente dal legale rappresentante dell’Ente o associazione richiedente.",
+    "Art. 3-septies (Interpello in materia ambientale)1.",
+    "Resta salvo l'obbligo di ottenere gli atti di consenso, comunque denominati, prescritti dalla vigente normativa."
+   ],
+   "refs": [
+    "D.Lgs. 152/2006",
+    "D.Lgs. 121/2020",
+    "D. Lgs 152/2006",
+    "D. Lgs. n. 152/2006"
+   ],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "b200d9faa9ea",
    "title": "Il mercato del rilevamento e della soppressione degli incendi nei data center raggiungerà i 10,35 miliardi di dollari entro il 2035 poiché i rischi legati alle batterie e all'intelligenza artificiale guidano...",
