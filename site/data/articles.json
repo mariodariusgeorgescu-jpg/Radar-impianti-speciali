@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-17T21:37:19.824722+00:00",
+ "updated": "2026-10-18T00:52:55.560196+00:00",
  "articles": [
+  {
+   "id": "103ea60b9380",
+   "title": "Supervisore che unifica videocitofonia, intrusione e video",
+   "title_original": "Supervisore che unifica videocitofonia, intrusione e video",
+   "url": "https://www.secsolution.com/notizia.asp?id=22098&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-18T00:52:55.560196+00:00",
+   "added": "2026-10-18T00:52:55.560196+00:00",
+   "image": "https://www.secsolution.com/pict/news/22098.jpg",
+   "summary": [
+    "Hikvision presenta DS‑KH9570‑WTE1/S, un posto interno videocitofonico che evolve in un vero supervisore di sicurezza, capace di integrare intercom IP, videosorveglianza e antintrusione in un’unica interfaccia.",
+    "Una soluzione pensata per l’installatore professionista e per impianti residenziali evoluti, ville e contesti corporate.",
+    "La novità principale è la convergenza con l’ecosistema intrusion Hikvision: tramite TCP/IP il supervisore dialoga con le centrali MX Hybrid, AX Hybrid 64 e AXPro, permettendo di gestire direttamente dal pannello le funzioni principali dell’impianto.",
+    "Il nuovo supervisore permette così di gestire tutta la sicurezza da un’unica interfaccia, semplificando l’esperienza dell’utente e offrendo all’installatore un punto di controllo evoluto e personalizzabile."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "81923f409214",
    "title": "Interpelli ambientali - Art. 3 septies D.Lgs. 152/2006",
