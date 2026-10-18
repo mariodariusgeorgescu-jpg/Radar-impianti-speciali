@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-18T00:52:55.560196+00:00",
+ "updated": "2026-10-18T03:39:57.276131+00:00",
  "articles": [
   {
    "id": "103ea60b9380",
@@ -141,6 +141,28 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "1323465d3fcd",
+   "title": "La partnership tra Everon e Teledyne FLIR crea la prima soluzione di immagini termiche certificata UL per il rilevamento precoce degli incendi",
+   "title_original": "Everon, Teledyne FLIR partnership creates first UL-Listed thermal image solution for early fire detection",
+   "url": "https://losspreventionmedia.com/everon-teledyne-flir-partnership-creates-first-ul-listed-thermal-image-solution-for-early-fire-detection/",
+   "source": "Loss Prevention Media",
+   "date": "2026-10-15T08:18:00+00:00",
+   "added": "2026-10-18T03:39:57.276131+00:00",
+   "image": "https://assets.losspreventionmedia.com/2025/12/new.png",
+   "summary": [
+    "Attraverso questo impegno leader del settore, Everon offrirà la prima soluzione di imaging termico FLIR conforme a UL 2684 e NFPA 72 per il rilevamento tempestivo di incendi, soddisfacendo i requisiti per l'attivazione dei dispositivi (Capitolo 17) e l'ispezione, i test e la manutenzione (Capitolo 14).",
+    "FLIR ha ottenuto la certificazione UL per le sue termocamere Serie A a partire dal 21 settembre 2026, consentendo alla soluzione combinata di soddisfare i severi requisiti delle norme antincendio e di sicurezza.",
+    "A differenza dei tradizionali dispositivi di rilevamento, la soluzione di imaging termico FLIR è in grado di identificare segni di calore anomali ed eventi termici correlati all'incendio non appena iniziano, fornendo notifiche di allarme tempestive e avviando un evento di allarme incendio direttamente sulla centrale di allarme antincendio."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "e069d73e7ffb",
