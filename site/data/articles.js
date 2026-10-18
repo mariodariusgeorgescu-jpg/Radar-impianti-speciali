@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-18T06:47:24.711241+00:00",
+ "updated": "2026-10-18T09:39:24.943890+00:00",
  "articles": [
   {
    "id": "103ea60b9380",
@@ -232,6 +232,27 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "aab24bc0a9fa",
+   "title": "Non perdere i piccoli cambiamenti: suggerimenti per migliorare le operazioni nell'assistenza infermieristica e medica dal fuoco AI di Google...",
+   "title_original": "Don't Miss the Small Changes: Tips for Improving Operations in Nursing and Medical Care from Google's AI Fire Detection System",
+   "url": "https://note.com/kosenlink_id/n/ne6f5ef6103e9?hl=en",
+   "source": "note",
+   "date": "2026-10-14T07:08:00+00:00",
+   "added": "2026-10-18T09:39:24.943890+00:00",
+   "image": "https://assets.st-note.com/production/uploads/images/324426064/rectangle_large_type_2_1f246c7a8dc678e15e55d1811e25a1df.png?fit=bounds&quality=85&width=1280",
+   "summary": [
+    "Sebbene questa tecnologia per il rilevamento precoce degli incendi si trovi in un campo che sembra completamente diverso dall’assistenza infermieristica e medica, il concetto di base di “rilevare tempestivamente piccoli cambiamenti e fornire informazioni appropriate in tempo reale senza essere fuorviati da falsi allarmi” contiene suggerimenti significativi che possono essere applicati al nostro settore.",
+    "Ottimizzazione del personale: facendo in modo che l’intelligenza artificiale analizzi le condizioni degli utenti e il livello di assistenza richiesto in tempo reale e proponga un’allocazione ottimale del personale sulla base di ciò, potrebbe essere possibile massimizzare l’uso di risorse limitate e migliorare l’efficienza operativa."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "11a34c4c9725",
