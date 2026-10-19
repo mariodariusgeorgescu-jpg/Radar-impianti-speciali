@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-19T09:47:06.951758+00:00",
+ "updated": "2026-10-19T12:52:45.656233+00:00",
  "articles": [
+  {
+   "id": "755c1394b9a1",
+   "title": "Urmet, centrali EVAC: la soluzione per installatori e progettisti",
+   "title_original": "Urmet, centrali EVAC: la soluzione per installatori e progettisti",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/urmet-centrali-evac-la-soluzione-per-installatori-e-progettisti/",
+   "source": "Impianti News",
+   "date": "2026-10-19T11:01:16+00:00",
+   "added": "2026-10-19T12:52:45.656233+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/Urmet_centrale_EVAC_1043-4510-webcop.jpg",
+   "summary": [
+    "Home » Urmet, centrali EVAC: la soluzione per installatori e progettisti Le centrali EVAC, acronimo di Emergency Voice Alarm Communication, sono sistemi avanzati e progettati per garantire un’evacuazione sicura durante situazioni di emergenza, come un incendio.",
+    "È in questo contesto che si inseriscono i nuovi sistemi EVAC di Urmet, progettati per garantire un livello di protezione avanzato negli edifici pubblici e privati più complessi.",
+    "I nuovi sistemi EVAC sono conformi alle normative EN54 e garantiscono elevata affidabilità ed efficienza operativa.",
+    "Le centrali sono certificate EN54-4 e EN54-16, mentre le postazioni microfoniche hanno certificazione EN54-16."
+   ],
+   "refs": [
+    "EN54",
+    "EN54-4",
+    "EN54-16"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7c5aff448855",
    "title": "Le infrastrutture AI ottimizzate iniziano e finiscono con i dati",
@@ -51,6 +78,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "ee25a9afd8a3",
+   "title": "Dimensioni, quota, tendenze e previsioni del mercato globale della videosorveglianza 2026-2031 | Analisi dell'intelligenza artificiale, VSaaS…",
+   "title_original": "Global Video Surveillance Market Size, Share, Trends, and Forecast 2026-2031 | AI Analytics, VSaaS, and IP-Based Systems Propel Market to US$88.1Bn by 2031",
+   "url": "https://finance.yahoo.com/technology/ai/articles/global-video-surveillance-market-size-110700323.html",
+   "source": "Yahoo Finance",
+   "date": "2026-10-19T04:07:00+00:00",
+   "added": "2026-10-19T12:52:45.656233+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/6ccf2a799eb1d99d0000afc621159db1d5ebad31c9c282d29fdde3757f8458fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F93d5b27580f67db722dd7c112e43e8bc.jpg",
+   "summary": [
+    "Secondo il rapporto, la continua migrazione dalle infrastrutture analogiche ai sistemi basati su IP, l’aumento della spesa per la sicurezza e l’espansione dei programmi per le città intelligenti hanno sostenuto un forte sviluppo del mercato.",
+    "L’espansione del mercato sarà supportata dalla ricerca video con intelligenza artificiale generativa, dall’analisi edge-based, dall’adozione del cloud e dalla crescente domanda di Video Surveillance as a Service (VSaaS).",
+    "Oltre a questi sviluppi, l’adozione di VSaaS continuerà a spostare le entrate del settore verso modelli basati su abbonamento.",
+    "I fornitori che dimostrano una progettazione sicura dei prodotti, conformità normativa e catene di fornitura trasparenti saranno in una posizione migliore per competere mentre il mercato globale della videosorveglianza avanza verso il 2031."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "332fade23a4e",
