@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:07:26.472385+00:00",
+ "updated": "2026-10-19T18:50:52.966393+00:00",
  "articles": [
   {
    "id": "c12c7f187902",
@@ -73,6 +73,29 @@
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "10991c6d52e1",
+   "title": "Prevenzione incendi in azienda: come cambia la formazione in base al livello di esposizione",
+   "title_original": "Prevenzione incendi in azienda: come cambia la formazione in base al livello di esposizione",
+   "url": "https://primamilanoovest.it/rubriche/idee-e-consigli/prevenzione-incendi-in-azienda-come-cambia-la-formazione-in-base-al-livello-di-esposizione/",
+   "source": "Prima Milano Ovest",
+   "date": "2026-10-19T09:06:00+00:00",
+   "added": "2026-10-19T18:50:52.966393+00:00",
+   "image": "https://primamilanoovest.it/media/2022/07/Estintori.jpg",
+   "summary": [
+    "Gestire il rischio incendi è importante nell’organizzazione di qualsiasi attività lavorativa.",
+    "Ogni azienda ha le sue caratteristiche: cambiano gli spazi, i materiali utilizzati e le operazioni che i dipendenti svolgono ogni giorno. Di conseguenza, anche la preparazione del personale deve essere cucita su misura per le reali emergenze che potrebbero verificarsi sul posto di lavoro.",
+    "Da quando è entrato in vigore il Decreto Ministeriale del 2 settembre 2021, il modo di catalogare i corsi è cambiato.",
+    "Per rispondere a queste esigenze, il corso antincendio ad alto rischio di Scanavino & Partners offre un percorso formativo di Livello 3 della durata complessiva di 16 ore."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "d5fabcefbe58",
