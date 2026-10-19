@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-19T12:52:45.656233+00:00",
+ "updated": "2026-10-19T16:07:26.472385+00:00",
  "articles": [
+  {
+   "id": "c12c7f187902",
+   "title": "Weidmüller presenta OMNIMATE® 4.0, connettori PCB con tecnologia SNAP IN",
+   "title_original": "Weidmüller presenta OMNIMATE® 4.0, connettori PCB con tecnologia SNAP IN",
+   "url": "https://www.impiantinews.it/te/prodotti/weidmuller-presenta-omnimate-4-0-connettori-pcb-con-tecnologia-snap-in/",
+   "source": "Impianti News",
+   "date": "2026-10-19T14:30:06+00:00",
+   "added": "2026-10-19T16:07:26.472385+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/OMNIMATE_4_0_MPS_MHS-6_gr_02_cms-dap_master_pp.jpg",
+   "summary": [
+    "Home » Weidmüller presenta OMNIMATE® 4.0, connettori PCB con tecnologia SNAP IN La nuova piattaforma di connettori e morsetti per circuito stampato punta a ridurre i tempi di cablaggio e a facilitare l’automazione dei processi di assemblaggio.",
+    "Weidmüller ha presentato OMNIMATE® 4.0, una nuova piattaforma di connettori e morsetti per circuito stampato destinata all’elettronica per l’automazione industriale.",
+    "Gli obiettivi dichiarati sono tre: ridurre i tempi di cablaggio, contenere i costi di assemblaggio e ampliare le possibilità di configurazione in fase di progetto.",
+    "L’elemento centrale della piattaforma è la tecnologia di connessione SNAP IN. Il conduttore spelato si inserisce nel punto di connessione, che è già aperto."
+   ],
+   "refs": [],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "755c1394b9a1",
    "title": "Urmet, centrali EVAC: la soluzione per installatori e progettisti",
@@ -73,6 +96,31 @@
    ],
    "categories": [
     "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1998f7085dfc",
+   "title": "Beghelli, l’evoluzione della segnaletica di sicurezza",
+   "title_original": "Beghelli, l’evoluzione della segnaletica di sicurezza",
+   "url": "https://www.impiantinews.it/elettro/professione/l-evoluzione-della-segnaletica-di-sicurezza/",
+   "source": "Impianti News",
+   "date": "2026-10-19T06:00:29+00:00",
+   "added": "2026-10-19T16:07:26.472385+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/08/sell_in_Beghelli_7_26_1.jpg",
+   "summary": [
+    "Home » Beghelli, l’evoluzione della segnaletica di sicurezza Versatile, facile da installare e progettata per rispondere alle più recenti normative sulla sicurezza, la gamma EXIT PRO di Beghelli, che nella versione Combo, integra segnaletica luminosa e illuminazione d’emergenza in soluzioni evolute.",
+    "In un contesto di costante evoluzione delle normati­ve europee sulla sicurezza (standard EN 1838 e CEI EN 50172), la segnaletica luminosa e l’illuminazione d’emergenza sono imprescindibili per garantire pro­tezione e orientamento in spazi civili e industriali.",
+    "La configurazione EXIT PRO COMBO rappresenta la versio­ne più evoluta della gamma, inte­grando in un solo dispositivo sia la segnaletica di sicurezza che l’illuminazione d’emergenza."
+   ],
+   "refs": [
+    "EN 1838",
+    "CEI EN 50172"
+   ],
+   "categories": [
     "evac"
    ],
    "is_norm": true,
