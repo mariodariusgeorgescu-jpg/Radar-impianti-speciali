@@ -1,6 +1,80 @@
 window.NEWS_DATA = {
- "updated": "2026-10-19T06:56:12.705916+00:00",
+ "updated": "2026-10-19T09:47:06.951758+00:00",
  "articles": [
+  {
+   "id": "7c5aff448855",
+   "title": "Le infrastrutture AI ottimizzate iniziano e finiscono con i dati",
+   "title_original": "Optimised AI infrastructures start and end with data",
+   "url": "https://securityjournaluk.com/optimised-ai-starts-and-ends-with-data/",
+   "source": "Security Journal UK",
+   "date": "2026-10-19T09:28:55+00:00",
+   "added": "2026-10-19T09:47:06.951758+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/10/Optimised-AI-infrastructures-start-and-end-with-data.jpg",
+   "summary": [
+    "Nell’ambito del GDPR europeo e dell’EU AI Act, le organizzazioni devono essere in grado di dimostrare dove sono conservati i dati personali, come vi si accede e per quanto tempo vengono conservati.",
+    "A livello di capacità, dove i dati devono essere conservati per scopi di conformità o di archiviazione per periodi prolungati, gli HDD ad alta densità forniscono la scalabilità e i costi economici richiesti dalla conservazione a lungo termine.",
+    "Saranno quelli che riconosceranno i dati come una risorsa strategica e costruiranno un’infrastruttura adeguata.",
+    "Coloro che possono archiviare, governare e scalare tali dati in modo efficace saranno nella posizione migliore per realizzarlo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "d5fabcefbe58",
+   "title": "Seminario “L’evoluzione dei Sistemi IRAI ed EVAC: nuove Norme e integrazione nella Progettazione Antincendio”",
+   "title_original": "Seminario “L’evoluzione dei Sistemi IRAI ed EVAC: nuove Norme e integrazione nella Progettazione Antincendio”",
+   "url": "https://anie.it/convegno-levoluzione-dei-sistemi-irai-ed-evac-nuove-norme-e-integrazione-nella-progettazione-antincendio/",
+   "source": "ANIE",
+   "date": "2026-10-19T08:41:40+00:00",
+   "added": "2026-10-19T09:47:06.951758+00:00",
+   "image": "https://anie.it/wp-content/uploads/2026/10/MIBA_MIBA-Levante_header_ita-scaled.jpg",
+   "summary": [
+    "L’attenzione sarà focalizzata sulla nuova norma UNI 11988:2025, che disciplina i sistemi di allarme vocale (EVAC), sul rapporto tecnico UNI TR 11924:2023, relativo alle interfacce di comando tra impianti IRAI e sistemi di protezione attiva e sulla norma UNI 11224:2026, aggiornamento inerente alla Manutenzione e al Controllo Iniziale degli Impianti di Rivelazione Automatica di Incendio.",
+    "L’incontro intende superare la visione dei singoli impianti, promuovendo un approccio integrato alla progettazione che consideri l’intero ciclo di vita del sistema: dalla pianificazione basata sul piano di gestione delle emergenze, fino alla direzione lavori e alla manutenzione periodica.",
+    "Attraverso l’analisi di case histories reali, verranno illustrate le soluzioni tecniche per garantire l’intelligibilità dei messaggi e l’efficacia delle attivazioni automatiche in diversi scenari.",
+    "La partecipazione riconoscerà i seguenti Crediti Formativi Professionali: Il Seminario – la cui partecipazione è gratuita previa iscrizione obbligatoria – si terrà in presenza: c/o Nuova Fiera del Levante Bari Viale Vittorio Emanuele Orlando – BARI"
+   ],
+   "refs": [
+    "UNI 11988:2025",
+    "UNI TR 11924:2023",
+    "UNI 11224:2026"
+   ],
+   "categories": [
+    "antincendio",
+    "evac"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "332fade23a4e",
+   "title": "Vimar: le novità nel mondo hospitality",
+   "title_original": "Vimar: le novità nel mondo hospitality",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2395",
+   "source": "SecSolution",
+   "date": "2026-10-19T01:00:00+00:00",
+   "added": "2026-10-19T09:47:06.951758+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-10-19_Vimar_1.jpg",
+   "summary": [
+    "Nel settore Hospitality, la sicurezza rappresenta un elemento fondamentale per garantire il comfort degli ospiti, la tutela degli ambienti e l'efficienza operativa della struttura.",
+    "In questo ambito, Vimar si distingue per un'offerta completa dedicata alla supervisione centralizzata dell'intero edificio, all'automazione delle camere e al controllo accessi, assicurando al contempo una perfetta coerenza estetica tra tutti i dispositivi.",
+    "View Suite è il nuovo software sviluppato da Vimar per una gestione sicura ed efficiente della struttura, consentendo il controllo integrato di ambienti, impianti e servizi.",
+    "Tra le novità dedicate al controllo accessi spicca il nuovo pannello fuoriporta Tactil che, basato sulla tecnologia KNX Secure, è stato progettato per garantire elevati standard di protezione nella gestione degli accessi alle camere."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "9055049358a7",
    "title": "Prime 5.00 con CoreSync: antintrusione e videosorveglianza, un unico sistema",
