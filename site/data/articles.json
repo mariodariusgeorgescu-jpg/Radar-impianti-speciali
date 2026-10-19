@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:50:52.966393+00:00",
+ "updated": "2026-10-19T21:41:31.982497+00:00",
  "articles": [
   {
    "id": "c12c7f187902",
@@ -472,6 +472,26 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "8ce178e071e6",
+   "title": "All American Fire Protection lancia sistemi avanzati di rilevamento multicriterio per strutture commerciali e industriali",
+   "title_original": "All American Fire Protection Launches Advanced Multi-Criteria Detection Systems for Commercial and Industrial Facilities",
+   "url": "https://www.oklahoman.com/press-release/story/242879/all-american-fire-protection-launches-advanced-multi-criteria-detection-systems-for-commercial-and-industrial-facilities/",
+   "source": "The Oklahoman",
+   "date": "2026-10-14T14:43:00+00:00",
+   "added": "2026-10-19T21:41:31.982497+00:00",
+   "image": "",
+   "summary": [
+    "Spring Lake, Carolina del Nord - 14 ottobre 2026 - PRESSADVANTAGE - All American Fire Protection, azienda leader nel Nord..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "aab24bc0a9fa",
