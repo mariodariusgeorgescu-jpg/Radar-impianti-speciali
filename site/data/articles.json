@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-20T09:41:43.432266+00:00",
+ "updated": "2026-10-20T12:52:43.934298+00:00",
  "articles": [
+  {
+   "id": "0c4f17ae4652",
+   "title": "Vimar amplia l’offerta per il settore hospitality",
+   "title_original": "Vimar amplia l’offerta per il settore hospitality",
+   "url": "https://www.impiantinews.it/elettro/prodotti/vimar-amplia-lofferta-per-il-settore-hospitality/",
+   "source": "Impianti News",
+   "date": "2026-10-20T06:25:20+00:00",
+   "added": "2026-10-20T12:52:43.934298+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/Vimar_Ambientata_Fuoriporta-Tactil-nero_mod-2.jpg",
+   "summary": [
+    "Dalla supervisione centralizzata al controllo accessi, Vimar amplia la propria offerta per il settore hospitality con nuove soluzioni integrate e scalabili.",
+    "Nel settore hospitality, Vimar si distingue per un’offerta completa dedicata all’automazione di camera e alla supervisione dell’intera struttura ricettiva, garantendo al tempo stesso una piena coerenza estetica tra tutti i dispositivi.",
+    "Tra le novità dedicate al controllo accessi spicca il nuovo pannello fuoriporta Tactil, che, basato sulla tecnologia KNX Secure, combina design, sicurezza e semplicità di utilizzo.",
+    "L’integrazione tra supervisione centralizzata, automazione degli ambienti e controllo accessi permette infatti di migliorare l’esperienza degli utenti e, allo stesso tempo, di ottimizzare la gestione operativa della struttura."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e248aac0b5e6",
    "title": "Sprinkler: nuovi requisiti per le pompe antincendio nel 2026",
