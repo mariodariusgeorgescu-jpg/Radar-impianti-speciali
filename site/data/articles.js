@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-20T18:47:53.180301+00:00",
+ "updated": "2026-10-20T23:52:07.138273+00:00",
  "articles": [
   {
    "id": "bb97be60238f",
@@ -2253,6 +2253,30 @@ window.NEWS_DATA = {
    ],
    "categories": [
     "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1c962218bd8c",
+   "title": "Direttiva Case Green, Bruxelles richiama ancora l’Italia",
+   "title_original": "Direttiva Case Green, Bruxelles richiama ancora l’Italia",
+   "url": "https://www.qualenergia.it/articoli/direttiva-case-green-bruxelles-richiama-ancora-italia/",
+   "source": "energia",
+   "date": "2026-10-01T07:15:00+00:00",
+   "added": "2026-10-20T23:52:07.138273+00:00",
+   "image": "https://www.qualenergia.it/wp-content/uploads/2026/10/qualenergia-it-direttiva-case-green-bruxelles-richiama-ancora-italia.jpg",
+   "summary": [
+    "L’Italia, insieme ad altri otto Stati membri, continua a essere nel mirino della Commissione europea per non aver presentato a Bruxelles il progetto del Piano nazionale di ristrutturazione degli edifici, considerato un pilastro della direttiva Epbd 2024/1275 (Energy Performance of Buildings Directive), la cosiddetta “Case Green”.",
+    "La Commissione Ue ha inviato oggi, giovedì 1° ottobre, un parere motivato al nostro Paese per la “persistente mancata presentazione” del progetto del Piano entro il termine del 31 dicembre 2025.",
+    "Nessun Paese ha rispettato la scadenza: per questo motivo, la Commissione europea ha inviato a luglio le lettere di costituzione in mora a tutti i 27 Stati membri."
+   ],
+   "refs": [
+    "direttiva 2023/1791"
+   ],
+   "categories": [
+    "bms"
    ],
    "is_norm": true,
    "lang": "it",
