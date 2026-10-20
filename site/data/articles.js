@@ -1,6 +1,54 @@
 window.NEWS_DATA = {
- "updated": "2026-10-19T21:41:31.982497+00:00",
+ "updated": "2026-10-20T00:54:09.804932+00:00",
  "articles": [
+  {
+   "id": "ffccb1059261",
+   "title": "Ajax Superior: antintrusione e videosorveglianza per progetti complessi",
+   "title_original": "Ajax Superior: antintrusione e videosorveglianza per progetti complessi",
+   "url": "https://www.secsolution.com/notizia.asp?id=22094&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-20T00:54:09.804932+00:00",
+   "added": "2026-10-20T00:54:09.804932+00:00",
+   "image": "https://www.secsolution.com/pict/news/22094.jpg",
+   "summary": [
+    "I siti commerciali, industriali e le infrastrutture ad alta sicurezza richiedono sistemi capaci di integrare rilevazione delle intrusioni, videosorveglianza, verifica degli allarmi e gestione degli eventi.",
+    "Ajax Systems risponde con Ajax Superior, ecosistema che unisce protezione antintrusione ad alta sicurezza e videosorveglianza professionale, integrando dispositivi wireless e cablati in un ambiente di gestione unico.",
+    "La linea Superior adotta un approccio ibrido: la comunicazione wireless Superior Jeweller, con crittografia avanzata e frequency hopping, è utilizzata nel primo sistema antintrusione wireless conforme ai requisiti EN 50131 Grado 3 per siti ad alta sicurezza."
+   ],
+   "refs": [
+    "EN 50131"
+   ],
+   "categories": [
+    "antintrusione",
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "715a262bf642",
+   "title": "BAUWATCH: soluzione di videosorveglianza per cantieri",
+   "title_original": "BAUWATCH: soluzione di videosorveglianza per cantieri",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22105&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-20T00:54:09.804932+00:00",
+   "added": "2026-10-20T00:54:09.804932+00:00",
+   "image": "https://www.secsolution.com/pict/news/22105.jpg",
+   "summary": [
+    "Flex è il nuovo sistema wireless progettato per garantire la protezione di piccoli cantieri residenziali, immobili vacanti e ambienti interni.",
+    "Ogni kit comprende un'unità centrale collegata a rilevatori di movimento con fotocamera, tastierino e sirena.",
+    "In caso di allarme, le immagini vengono immediatamente trasmesse a una Centrale Operativa di Ricezione Allarmi certificata, dove operatori specializzati verificano l'evento prima di attivare eventuali procedure di intervento.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "c12c7f187902",
    "title": "Weidmüller presenta OMNIMATE® 4.0, connettori PCB con tecnologia SNAP IN",
