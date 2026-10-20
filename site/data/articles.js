@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-20T12:52:43.934298+00:00",
+ "updated": "2026-10-20T15:42:44.491501+00:00",
  "articles": [
   {
    "id": "0c4f17ae4652",
@@ -571,6 +571,26 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "f57742980b5a",
+   "title": "La guida definitiva agli standard di sicurezza antincendio BESS per le batterie agli ioni di litio",
+   "title_original": "The ultimate guide to li-ion BESS fire safety standards",
+   "url": "https://www.datacenterdynamics.com/en/whitepapers/the-ultimate-guide-to-li-ion-bess-fire-safety-standards/",
+   "source": "DatacenterDynamics",
+   "date": "2026-10-14T17:00:00+00:00",
+   "added": "2026-10-20T15:42:44.491501+00:00",
+   "image": "https://media.datacenterdynamics.com/media/images/HON_BA_Li-ion_Tamer_BESS_Fire_Saf.2e16d0ba.fill-1200x630.jpg",
+   "summary": [
+    "In che modo gli standard di sicurezza antincendio aggiornati e il rilevamento tempestivo dei gas di scarico possono migliorare la sicurezza delle batterie agli ioni di litio, supportare la conformità e prevenire l'instabilità termica"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "8ce178e071e6",
