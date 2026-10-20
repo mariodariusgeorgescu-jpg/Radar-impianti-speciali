@@ -1,6 +1,34 @@
 window.NEWS_DATA = {
- "updated": "2026-10-20T06:50:59.155879+00:00",
+ "updated": "2026-10-20T09:41:43.432266+00:00",
  "articles": [
+  {
+   "id": "e248aac0b5e6",
+   "title": "Sprinkler: nuovi requisiti per le pompe antincendio nel 2026",
+   "title_original": "Sprinkler: nuovi requisiti per le pompe antincendio nel 2026",
+   "url": "https://unasf.conflavoro.it/news/sprinkler-nuovi-requisiti/",
+   "source": "unasf.conflavoro",
+   "date": "2026-10-20T01:34:00+00:00",
+   "added": "2026-10-20T09:41:43.432266+00:00",
+   "image": "https://unasf.conflavoro.it/wp-content/uploads/2026/10/sprinkler.jpg",
+   "summary": [
+    "Dal 24 settembre 2026 è in vigore la norma UNI EN 12259-12:2026, che aggiorna i requisiti tecnici delle pompe impiegate negli impianti sprinkler, sostituendo la precedente edizione del 2023.",
+    "Il documento recepisce la norma europea EN 12259-12:2023+A1:2026 e costituisce un riferimento per la progettazione, la realizzazione e la verifica dei componenti degli impianti antincendio.",
+    "La norma UNI EN 12259-12:2026 definisce i requisiti applicabili alle pompe centrifughe monostadio e multistadio, dotate di tenuta meccanica o a baderna morbida, destinate ai sistemi automatici sprinkler.",
+    "Per le imprese, l’aggiornamento della norma UNI EN 12259-12:2026 richiama l’importanza di utilizzare componenti adeguati alle caratteristiche degli impianti antincendio e alle esigenze di protezione delle attività produttive."
+   ],
+   "refs": [
+    "UNI EN 12259-12:2026",
+    "EN 12259-12:2023",
+    "EN 12845",
+    "EN 17451"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "ffccb1059261",
    "title": "Ajax Superior: antintrusione e videosorveglianza per progetti complessi",
