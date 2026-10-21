@@ -1,6 +1,57 @@
 {
- "updated": "2026-10-21T04:44:28.279032+00:00",
+ "updated": "2026-10-21T11:47:19.473625+00:00",
  "articles": [
+  {
+   "id": "383544c926c1",
+   "title": "Vademecum estintori: Controllo | Manutenzione | Uso",
+   "title_original": "Vademecum estintori: Controllo | Manutenzione | Uso",
+   "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/documenti-riservati-sicurezza/vademecum-estintori-controllo-manutenzione-uso",
+   "source": "Certifico",
+   "date": "2026-10-21T09:39:00+00:00",
+   "added": "2026-10-21T11:47:19.473625+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Vademecum%20estintori_Rev_6.0_2026.png",
+   "summary": [
+    "ID 4309 | Rev. 6.0 del 21 Ottobre 2026 / Vademecum completo in allegato Documento di raccordo sulla legislazione (D.",
+    "Lgs. 81/2008 TUS, Decreto 1 Settembre 2021, ADR) e norme tecniche sugli estintori: - UNI 9994-1:2024 - Apparecchiature per estinzione incendi - Estintori di incendio - Parte 1: Controllo iniziale e manutenzione.",
+    "La manutenzione degli estintori è regolamentata nei tempi e nei metodi dalla norma UNI 9994-1 “Apparecchiature per estinzione incendi - Estintori di incendio - Parte 1: Controllo iniziale e manutenzione”.",
+    "La manutenzione degli estintori è strutturata in attività distinte, deve essere effettuata con la periodicità massima indicata nel prospetto 1. - sorveglianza;- controllo iniziale;- controllo periodico;- revisione programmata;- collaudo;- manutenzione straordinaria."
+   ],
+   "refs": [
+    "D. Lgs. 81/2008",
+    "UNI 9994-1:2024",
+    "UNI 9994-2:2015",
+    "UNI 9994-3:2026",
+    "UNI EN 2:2005",
+    "ISO 3941:2026"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e100e3ad54c6",
+   "title": "Risk assessment per la sicurezza cloud, pubblicate le nuove linee guida",
+   "title_original": "Risk assessment per la sicurezza cloud, pubblicate le nuove linee guida",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/risk-assessment-per-la-sicurezza-cloud-pubblicate-le-nuove-linee-guida/",
+   "source": "Impianti News",
+   "date": "2026-10-21T06:00:21+00:00",
+   "added": "2026-10-21T11:47:19.473625+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/Soverign-Cloud_WEB.jpg",
+   "summary": [
+    "Home » Risk assessment per la sicurezza cloud, pubblicate le nuove linee guida A fronte della sempre maggiore importanza che la resilienza digitale, la conformità normativa e la cybersecurity stanno assumendo per il settore della sicurezza fisica e antincendio, Euralarm ha reso disponibile un nuovo documen­to in cui analizza i diversi aspetti che entrano in gioco quando si parla di sovranità del cloud.",
+    "La sicurezza fisica fa sempre più spesso affidamento sulla tecnologia cloud per migliorare efficienza, performance e affidabilità e per offrire nuovi servizi in remoto, dal controllo delle telecamere alla trasmissione dei dati, fino alla diagnostica e alla manutenzione."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "bb97be60238f",
    "title": "Manutenzione antincendio in condominio: cosa cambia con il Decreto controlli",
