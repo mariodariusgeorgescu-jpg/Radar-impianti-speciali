@@ -1,6 +1,27 @@
 window.NEWS_DATA = {
- "updated": "2026-10-21T11:47:19.473625+00:00",
+ "updated": "2026-10-21T17:11:09.556234+00:00",
  "articles": [
+  {
+   "id": "f3531e9cb432",
+   "title": "Il dissuasore smart per contesti residenziali: E-GO di Pilomat",
+   "title_original": "Il dissuasore smart per contesti residenziali: E-GO di Pilomat",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/dissuasore-smart-contesti-residenziali-e-go-pilomat/",
+   "source": "Impianti News",
+   "date": "2026-10-21T13:03:31+00:00",
+   "added": "2026-10-21T17:11:09.556234+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/01/E-GO_garage-webcopcop.jpg",
+   "summary": [
+    "Home » Il dissuasore smart per contesti residenziali: E-GO di Pilomat E-GO è l’innovativo dissuasore automatico per contesti residenziali proposto da Pilomat (Grassobbio, BG), tra i top player, a livello mondiale, nel mercato dei sistemi per il controllo accessi veicolare.",
+    "Progettata per installazioni di frequenza media – circa cento cicli al giorno – questa soluzione è ideale per aumentare il livello di sicurezza delle aree residenziali, ad esempio della zona di accesso al garage, posizionato davanti al portone o alla serranda, come anche a protezione di vialetti privati, parcheggi riservati e passi carrabili."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "383544c926c1",
    "title": "Vademecum estintori: Controllo | Manutenzione | Uso",
@@ -51,6 +72,28 @@ window.NEWS_DATA = {
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "bf7e75555a3c",
+   "title": "Annunciato il programma per il Forum europeo sulla rilevazione incendi 2026",
+   "title_original": "Programme announced for European Fire Detection Forum 2026",
+   "url": "https://www.fsmatters.com/Programme-for-European-Fire-Detection-Forum",
+   "source": "FSM",
+   "date": "2026-10-20T17:00:00+00:00",
+   "added": "2026-10-21T17:11:09.556234+00:00",
+   "image": "https://www.ipesearch.com/orgfiles/ZORGF000011/FSM/Layout/fsm-facebook.jpg",
+   "summary": [
+    "EURALARM HA annunciato il programma per il primo European Fire Detection Forum 2026, progettato appositamente insieme ad esperti dell'industria, della ricerca, della standardizzazione e della regolamentazione per esplorare il futuro della rilevazione incendi. Il Forum si svolgerà il 2 dicembre alla Koelnmesse di Colonia nell'ambito della VdS-Fire Safety Colonia.",
+    "Sotto il tema “Dalla reazione alla previsione: il prossimo paradigma della sicurezza antincendio elettronica”, il Forum esaminerà come i nuovi rischi, le tecnologie e le normative stanno cambiando il modo in cui gli incendi vengono rilevati e si risponde quando si verificano.",
+    "Il programma riflette l’ampiezza di tale transizione. Dopo il discorso di apertura del presidente di Euralarm Peter Mita, Chantal Chalouhi di Jensen Hughes esaminerà le sfide e le tendenze attuali nella sicurezza antincendio europea."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "bb97be60238f",
