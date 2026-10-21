@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-21T17:11:09.556234+00:00",
+ "updated": "2026-10-21T21:41:42.222612+00:00",
  "articles": [
+  {
+   "id": "3500f9800eff",
+   "title": "Vademecum stoccaggio di sostanze pericolose",
+   "title_original": "Vademecum stoccaggio di sostanze pericolose",
+   "url": "https://www.certifico.com/full-plus/vademecum-stoccaggio-di-sostanze-pericolose",
+   "source": "Certifico",
+   "date": "2026-10-21T19:00:00+00:00",
+   "added": "2026-10-21T21:41:42.222612+00:00",
+   "image": "https://www.certifico.com/images/articoli/news2022/11/2022-11-03-21-53-05-vademecum-stoccaggio-sostanze-pericolose.png",
+   "summary": [
+    "ID 17820 | Update Rev. 1.0 del 18.03.2024 / Vademecum completo in allegato Documento illustrato allegato sullo stoccaggio di sostanze pericolose: modalità di stoccaggio, recipienti e imballaggi, etichettatura, organizzazione, aspetti tecnici, misure di sicurezza e check list di verifica adempimenti.",
+    "Armadi stoccaggio gas pressurizzati - EN 14470-2 Lo stoccaggio sicuro delle sostanze chimiche può essere ottenuto disponendo i materiali in base alla classe di pericolo (pittogramma GHS) e quindi separandoli in base alle loro proprietà chimiche."
+   ],
+   "refs": [
+    "EN 14470-1",
+    "EN 14470-2",
+    "D.Lgs 233/2003",
+    "Direttiva 1999/92",
+    "Direttiva 2014/34",
+    "CEI EN 60079"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "f3531e9cb432",
    "title": "Il dissuasore smart per contesti residenziali: E-GO di Pilomat",
