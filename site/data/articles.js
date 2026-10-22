@@ -1,6 +1,74 @@
 window.NEWS_DATA = {
- "updated": "2026-10-22T04:42:51.610671+00:00",
+ "updated": "2026-10-22T11:50:35.590015+00:00",
  "articles": [
+  {
+   "id": "b2601b7b0e9b",
+   "title": "AVE presenta una generazione di monitor per la smart home",
+   "title_original": "AVE presenta una generazione di monitor per la smart home",
+   "url": "https://www.impiantinews.it/elettro/prodotti/ave-presenta-una-generazione-di-monitor-per-la-smart-home/",
+   "source": "Impianti News",
+   "date": "2026-10-22T08:35:32+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/nuova-generazione-monitor-ave-smart-home-e1792485362195.jpg",
+   "summary": [
+    "Home » AVE presenta una generazione di monitor per la smart home I monitor AVE per sistemi 2 FILI e IP integrano videocitofonia, domotica, antintrusione e controllo della smart home in un’unica interfaccia.",
+    "La gamma di monitor videocitofonici AVE, dedicata sia al sistema 2 FILI sia al sistema IP, rappresenta una proposta completa e tecnologicamente evoluta.",
+    "Il monitor 7” Wi-Fi della gamma AVE V44 EASY e i modelli TS-SMART 7”, 10” e 18” della gamma AVE V44 SMART non si limitano alla gestione delle chiamate videocitofoniche.",
+    "I Touch Screen AVE rappresentano un’evoluzione significativa nel campo della supervisione domotica e della smart home, consentendo il monitoraggio e il controllo integrato degli impianti di home automation, antintrusione e videocitofonia."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "8cd4aa520e75",
+   "title": "Sicurezza antincendio wireless: Hyfire porta a Secsolutionforum le nuove prospettive della protezione senza fili",
+   "title_original": "Sicurezza antincendio wireless: Hyfire porta a Secsolutionforum le nuove prospettive della protezione senza fili",
+   "url": "https://www.secsolution.com/notizia.asp?id=22128&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-22T03:00:00+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://www.secsolution.com/pict/news/22128.jpg",
+   "summary": [
+    "Tecnologia wireless e protezione antincendio: i temi al centro dello speech di Hyfire Italy a secsolutionforum che ha portato l'attenzione sulla sicurezza antincendio wireless, un approccio tecnologico che apre nuove prospettive per la progettazione e la realizzazione dei sistemi di rivelazione incendio.",
+    "Per chi ha partecipato all'evento ma non ha avuto l'opportunità di assistere allo speech, il tema rappresenta un'occasione per approfondire le potenzialità delle soluzioni wireless e il loro ruolo nel rispondere alle esigenze degli edifici e degli impianti contemporanei.",
+    "La tecnologia wireless applicata alla rivelazione incendio può offrire nuove possibilità di installazione, soprattutto nei contesti in cui il cablaggio tradizionale presenta vincoli strutturali, architettonici o operativi."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d9df175b74f8",
+   "title": "Sicurezza urbana, HERABIT trasforma i lampioni in telecamere",
+   "title_original": "Sicurezza urbana, HERABIT trasforma i lampioni in telecamere",
+   "url": "https://www.toptrade.it/sicurezza/sicurezza-urbana-herabit-trasforma-i-lampioni-in-telecamere/",
+   "source": "Top Trade",
+   "date": "2026-10-22T02:56:00+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://www.toptrade.it/files/2026/10/EasyCAM_Piazza_Moderna_REV09.png",
+   "summary": [
+    "Un sistema che consente di trasformare ogni lampione in un punto di sostegno per una telecamera di videosorveglianza.",
+    "EasyCam rappresenta un passo concreto verso la smart city, offrendo agli enti locali uno strumento efficace per rafforzare la sicurezza urbana, migliorare il controllo del territorio e sviluppare nel tempo servizi digitali sempre più integrati.",
+    "La collaborazione con HERABIT nasce da questa visione condivisa: mettere a disposizione delle amministrazioni locali tecnologie affidabili e scalabili, capaci di supportare una gestione della sicurezza sempre più evoluta e integrata”, conclude Paolo Mura, Team Leader Sales Engineer di Axis Communications.",
+    "Ricevi gli ultimi articoli e aggiornamenti direttamente nella tua casella di posta."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a4edc834669d",
    "title": "BOSCH BUILDING TECHNOLOGIES: telecamere fisse con analisi video intelligente",
@@ -67,6 +135,76 @@ window.NEWS_DATA = {
     "Direttiva 2014/34",
     "CEI EN 60079"
    ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7cff9907b5d3",
+   "title": "Urmet, centrali EVAC: hi-tech, efficienti e di facile utilizzo",
+   "title_original": "Urmet, centrali EVAC: hi-tech, efficienti e di facile utilizzo",
+   "url": "https://nt24.it/2026/10/urmet-centrali-evac/",
+   "source": "NT24.it",
+   "date": "2026-10-21T17:00:00+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://nt24.it/app/uploads/2026/10/urmet-1.jpg",
+   "summary": [
+    "Le centrali EVAC, acronimo di Emergency Voice Alarm Communication, sono sistemi avanzati e progettati per garantire un’evacuazione sicura durante situazioni di emergenza, come un incendio.",
+    "È in questo contesto che si inseriscono i nuovi sistemi EVAC di Urmet, progettati per garantire un livello di protezione avanzato negli edifici pubblici e privati più complessi.",
+    "I nuovi sistemi EVAC sono conformi alle normative EN54 e garantiscono elevata affidabilità ed efficienza operativa.",
+    "Le centrali sono certificate EN54-4 e EN54-16, mentre le postazioni microfoniche hanno certificazione EN54-16."
+   ],
+   "refs": [
+    "EN54",
+    "EN54-4",
+    "EN54-16"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "c7d5b5eb66a3",
+   "title": "Come scrivere test integrati di allarme antincendio e blocco nelle RFP scolastiche",
+   "title_original": "How to write integrated fire alarm and lockdown testing into school RFPs",
+   "url": "https://www.asumag.com/safety-security/fire-life-safety/article/55413452/how-to-write-integrated-fire-alarm-and-lockdown-testing-into-school-rfps",
+   "source": "American School & University",
+   "date": "2026-10-21T17:00:00+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://img.asumag.com/files/base/ebm/asumag/image/2026/10/6ad8fb8d83c48b4842f773d3-dreamstime_xxl_138880524tascharassadornyindee.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+   "summary": [
+    "Oggi si prevede che le porte delle scuole svolgano due funzioni molto diverse in caso di emergenza: consentire agli occupanti di evacuare in sicurezza durante un incendio e contribuire a proteggere l’edificio durante un blocco. Entrambi sono essenziali per la sicurezza degli studenti e del personale, ma i codici e gli standard che governano questi sistemi non sempre affrontano il modo in cui dovrebbero lavorare insieme quando le emergenze si sovrappongono.",
+    "NFPA 101, il codice per la sicurezza della vita, richiede che le porte bloccate elettronicamente si sblocchino all'attivazione dell'allarme antincendio. È una delle regole più coerenti del codice.",
+    "Il fornitore dell'hardware della porta conferma che le serrature elettrificate si sbloccano in caso di perdita di potenza e soddisfano la forza di apertura richiesta.",
+    "Ognuno di questi test viene superato. Ciò che questi test non confermano è ciò che fa la porta quando l’allarme antincendio e il segnale di blocco sono attivi contemporaneamente."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "4af3dae381cf",
+   "title": "Primo soccorso e antincendio in azienda: obblighi, dotazioni e controlli da non rimandare",
+   "title_original": "Primo soccorso e antincendio in azienda: obblighi, dotazioni e controlli da non rimandare",
+   "url": "https://www.vipiu.it/leggi/primo-soccorso-e-antincendio-in-azienda-obblighi-dotazioni-e-controlli-da-non-rimandare/",
+   "source": "ViPiù",
+   "date": "2026-10-21T16:03:00+00:00",
+   "added": "2026-10-22T11:50:35.590015+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.RrU3tVrV1vYinaakL40Z5g&pid=News",
+   "summary": [
+    "Primo soccorso e antincendio in azienda: obblighi, dotazioni e controlli da non rimandare e da verificare costantemente ..."
+   ],
+   "refs": [],
    "categories": [
     "antincendio"
    ],
