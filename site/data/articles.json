@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-21T21:41:42.222612+00:00",
+ "updated": "2026-10-22T04:42:51.610671+00:00",
  "articles": [
+  {
+   "id": "a4edc834669d",
+   "title": "BOSCH BUILDING TECHNOLOGIES: telecamere fisse con analisi video intelligente",
+   "title_original": "BOSCH BUILDING TECHNOLOGIES: telecamere fisse con analisi video intelligente",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22092&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-22T02:30:00+00:00",
+   "added": "2026-10-22T04:42:51.610671+00:00",
+   "image": "https://www.secsolution.com/pict/news/22092.jpg",
+   "summary": [
+    "Le telecamere fisse FLEXIDOME 5100i migliorano la sicurezza degli edifici e l'efficienza operativa con la nuova Intelligent Video Analytics (IVA) Pro Buildings.",
+    "Basate sul deep learning, queste analisi video supportano un rilevamento affidabile delle intrusioni e un conteggio accurato delle persone in aree affollate, in particolare all'interno e intorno agli edifici.",
+    "È possibile ottenere un'elevata qualità dell'immagine per prestazioni 24 ore su 24, 7 giorni su 7, grazie alla luce stellare, all'HDR e all'illuminazione intelligente a infrarossi (IR).",
+    "Le telecamere impiegano un concetto di installazione migliorato in tre fasi e non richiedono calibrazione per il rilevamento di persone o veicoli, consentendo agli installatori di risparmiare tempo prezioso."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "24967dd6c7d4",
+   "title": "Furti con spaccata: per Confcommercio colpita un’attivita’ su tre",
+   "title_original": "Furti con spaccata: per Confcommercio colpita un’attivita’ su tre",
+   "url": "https://www.secsolution.com/notizia.asp?id=22113&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-22T01:30:00+00:00",
+   "added": "2026-10-22T04:42:51.610671+00:00",
+   "image": "https://www.secsolution.com/pict/news/22113.jpg",
+   "summary": [
+    "I furti con \"spaccata\" si confermano una delle principali preoccupazioni per commercio e pubblici esercizi.",
+    "Secondo una recente indagine di Confcommercio, oltre un terzo delle imprese del settore ha già subito almeno un episodio di questo tipo e quasi la metà teme di esserne vittima nei prossimi mesi.",
+    "E il fenomeno comporta conseguenze che vanno ben oltre il valore della merce sottratta: vetrine distrutte, interruzione dell'attività, costi di ripristino e crescente percezione di insicurezza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "3500f9800eff",
    "title": "Vademecum stoccaggio di sostanze pericolose",
