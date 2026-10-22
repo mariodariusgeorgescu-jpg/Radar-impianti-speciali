@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-22T11:50:35.590015+00:00",
+ "updated": "2026-10-22T17:09:27.558270+00:00",
  "articles": [
+  {
+   "id": "53ba525d9ef0",
+   "title": "Fervo: «Efficienza energetica, così AI e monitoraggio digitale riducono i consumi degli edifici»",
+   "title_original": "Fervo: «Efficienza energetica, così AI e monitoraggio digitale riducono i consumi degli edifici»",
+   "url": "https://www.impiantinews.it/te/sponsored/efficienza-energetica-edifici-ai-e-monitoraggio-con-fervo/",
+   "source": "Impianti News",
+   "date": "2026-10-22T14:26:14+00:00",
+   "added": "2026-10-22T17:09:27.558270+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/1-APERTURA-Monitoraggio-digitale-dei-consumi-e-delle-prestazioni-energetiche-degli-edifici.png",
+   "summary": [
+    "Home » Fervo: «Efficienza energetica, così AI e monitoraggio digitale riducono i consumi degli edifici» L’efficienza energetica degli edifici non dipende soltanto dalla qualità degli impianti, ma sempre più dalla capacità di gestirli in modo intelligente.",
+    "AI, sensori IoT e piattaforme digitali consentono di monitorare i consumi, individuare anomalie e ottimizzare il funzionamento degli impianti in base alle effettive esigenze degli immobili, riducendo costi ed emissioni.",
+    "È su questo modello che opera Fervo, gruppo italiano specializzato nella gestione tecnica ed energetica di infrastrutture e patrimoni immobiliari, attraverso FEAMS® (Facility Energy and Asset Management System), piattaforma proprietaria che integra monitoraggio energetico, gestione degli asset e manutenzione predittiva."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "b2601b7b0e9b",
    "title": "AVE presenta una generazione di monitor per la smart home",
@@ -113,6 +135,28 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "14552ab2733c",
+   "title": "La Protezione Civile di Sharjah osserva i droni per il rilevamento tempestivo degli incendi",
+   "title_original": "Sharjah Civil Defence eyes drones for early fire detection",
+   "url": "https://sharjah24.ae/en/Articles/2026/10/22/a1",
+   "source": "Sharjah24",
+   "date": "2026-10-21T20:51:00+00:00",
+   "added": "2026-10-22T17:09:27.558270+00:00",
+   "image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/October-2026/22/Sharjah-Civil-Defence-eyes-drones-for-early-fire-detection.jpg?20261022210941",
+   "summary": [
+    "Ha sottolineato che l’intervento tempestivo è un fattore critico per prevenire l’escalation o la diffusione degli incendi e per ridurre al minimo la potenziale perdita di vite umane e proprietà.",
+    "Per un'esperienza ottimale e funzionalità complete, esegui l'aggiornamento a un browser moderno.",
+    "Per un'esperienza ottimale, ruota il dispositivo in modalità verticale."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "3500f9800eff",
