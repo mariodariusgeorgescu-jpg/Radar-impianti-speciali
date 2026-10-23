@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-23T11:37:10.167028+00:00",
+ "updated": "2026-10-23T17:05:41.423688+00:00",
  "articles": [
+  {
+   "id": "51044e37afe4",
+   "title": "Case Green, le nuove norme italiane per la direttiva UE: cosa prevede la bozza del MASE",
+   "title_original": "Case Green, le nuove norme italiane per la direttiva UE: cosa prevede la bozza del MASE",
+   "url": "https://www.ecoblog.it/2026/10/23/recepimento-case-green-italia-bozza-mase/",
+   "source": "Ecoblog",
+   "date": "2026-10-23T07:49:00+00:00",
+   "added": "2026-10-23T17:05:41.423688+00:00",
+   "image": "https://www.ecoblog.it/wp-content/uploads/2026/10/1235ac857ed247928c0202d91e83d7b1.webp",
+   "summary": [
+    "Il MASE ha trasmesso la bozza di norme per il recepimento Case Green Italia nella legge di delegazione europea 2026, avviando il percorso di efficientamento energetico de Qualcosa si muove sul fronte dell’efficientamento energetico degli edifici in Italia.",
+    "Il Ministero dell’Ambiente e della Sicurezza Energetica (MASE) ha trasmesso una bozza di norme contenente i principi e i criteri direttivi per il recepimento Case Green Italia nell’ambito della legge di delegazione europea 2026.",
+    "La Direttiva UE 2024/1275 — comunemente nota come direttiva Case Green o EPBD IV (Energy Performance of Buildings Directive) — fissa obiettivi ambiziosi per ridurre i consumi energetici del patrimonio edilizio europeo entro il 2050."
+   ],
+   "refs": [
+    "Direttiva (UE) 2023/1791"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "29a1eccdf39b",
+   "title": "Monfalcone, oltre 158 mila euro per la sicurezza: aperto il bando per cittadini e imprese",
+   "title_original": "Monfalcone, oltre 158 mila euro per la sicurezza: aperto il bando per cittadini e imprese",
+   "url": "https://www.ilgoriziano.it/articolo/monfalcone-oltre-158-mila-euro-per-la-sicurezza-aperto-il-bando-per-cittadini-e-imprese-23-ottobre-2026",
+   "source": "Il Goriziano",
+   "date": "2026-10-23T05:04:00+00:00",
+   "added": "2026-10-23T17:05:41.423688+00:00",
+   "image": "https://www.ilgoriziano.it/public/uploads/salvatore/2026/ottobre-2026/sicurezza_6adb45c016937.jpg",
+   "summary": [
+    "Il Comune mette a disposizione contributi per l’acquisto e l’installazione di sistemi antifurto e antintrusione.",
+    "Le agevolazioni riguardano abitazioni private, condomini e attività economiche, con rimborsi fino a 3mila euro.",
+    "Il Comune di Monfalcone mette a disposizione contributi per l’acquisto e l’installazione di sistemi antifurto e antintrusione.",
+    "Oltre 158 mila euro per sostenere cittadini, condomini e attività economiche nell’acquisto e nell’installazione di dispositivi antifurto e antintrusione, favorendo la prevenzione dei reati e la tutela della proprietà privata."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "24f6e97bc437",
+   "title": "Il distretto di protezione antincendio di Tahoe Douglas espande le capacità di risposta alle emergenze con 2 nuovi droni avanzati",
+   "title_original": "Tahoe Douglas Fire Protection District expands emergency response capabilities with 2 new advanced drones",
+   "url": "https://www.tahoedailytribune.com/news/tahoe-douglas-fire-protection-district-expands-emergency-response-capabilities-with-2-new-advanced-drones/",
+   "source": "Tahoe Daily Tribune",
+   "date": "2026-10-23T02:39:00+00:00",
+   "added": "2026-10-23T17:05:41.423688+00:00",
+   "image": "https://swiftmedia.s3.amazonaws.com/pacific.swiftcom.com/images/sites/5/2026/10/23093713/IMG_0372-1024x768.jpg",
+   "summary": [
+    "I nuovi droni possono aiutare i vigili del fuoco a coprire le aree dall’alto mentre utilizzano la termografia per identificare le tracce di calore che potrebbero distinguere una persona dall’ambiente circostante.",
+    "Una volta individuato un potenziale soggetto, le capacità di puntamento e posizionamento del velivolo possono aiutare a stabilire le coordinate geografiche, consentendo agli equipaggi di terra di navigare più direttamente verso la posizione. I droni supporteranno inoltre il rilevamento e la valutazione degli incendi in tutta l’area di servizio del Distretto.",
+    "Il distretto di protezione antincendio di Tahoe Douglas schiererà questi droni per scopi di risposta alle emergenze, come il rilevamento di incendi, la ricerca e il salvataggio e la valutazione degli incidenti.",
+    "La tua donazione ci aiuterà a continuare a coprire il COVID-19 e le nostre altre importanti notizie locali."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "4910d776a051",
    "title": "Direttiva Case Green, Cortexa al Senato: «L’Italia acceleri sul recepimento dell’EPBD IV»",
