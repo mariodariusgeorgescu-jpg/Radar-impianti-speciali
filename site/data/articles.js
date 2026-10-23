@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-10-23T04:47:33.191399+00:00",
+ "updated": "2026-10-23T11:37:10.167028+00:00",
  "articles": [
+  {
+   "id": "4910d776a051",
+   "title": "Direttiva Case Green, Cortexa al Senato: «L’Italia acceleri sul recepimento dell’EPBD IV»",
+   "title_original": "Direttiva Case Green, Cortexa al Senato: «L’Italia acceleri sul recepimento dell’EPBD IV»",
+   "url": "https://www.buildnews.it/articolo/direttiva-case-green-cortexa-al-senato-litalia-acceleri-sul-recepimento-dellepbd-iv",
+   "source": "Build News",
+   "date": "2026-10-22T23:48:00+00:00",
+   "added": "2026-10-23T11:37:10.167028+00:00",
+   "image": "https://www.buildnews.it/storage/media/14012/conversions/palazzo-madama-senato-large.jpg",
+   "summary": [
+    "L’associazione, che riunisce i produttori di sistemi di isolamento termico a cappotto ETICS, ha chiesto di inserire nel provvedimento la delega per il recepimento della direttiva UE 2024/1275, nota come EPBD IV o Direttiva Case Green, attualmente assente dal testo.",
+    "La richiesta si accompagna alla pubblicazione, entro il 31 dicembre 2026, della proposta di Piano nazionale di ristrutturazione degli edifici e all’avvio della relativa consultazione pubblica, oltre alla definizione di criteri attuativi, tempi certi e strumenti coerenti con il Piano. Tra le motivazioni illustrate da Cortexa, la dimensione sociale occupa un ruolo centrale.",
+    "Il comparto dell’isolamento termico, sottolinea Cortexa, ha investito in impianti, produzione e risorse umane sulla base di prospettive che nel tempo sono state modificate o cancellate."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "53ba525d9ef0",
    "title": "Fervo: «Efficienza energetica, così AI e monitoraggio digitale riducono i consumi degli edifici»",
