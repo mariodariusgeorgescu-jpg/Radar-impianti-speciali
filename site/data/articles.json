@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-24T20:47:57.763481+00:00",
+ "updated": "2026-10-24T23:12:40.212504+00:00",
  "articles": [
+  {
+   "id": "00bacc6fed0f",
+   "title": "Hikvision Serie S, l’NVR nuovo cervello dell’impianto",
+   "title_original": "Hikvision Serie S, l’NVR nuovo cervello dell’impianto",
+   "url": "https://www.secsolution.com/notizia.asp?id=22118&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-24T23:12:40.212504+00:00",
+   "added": "2026-10-24T23:12:40.212504+00:00",
+   "image": "https://www.secsolution.com/pict/news/22118.jpg",
+   "summary": [
+    "Con l’aumento delle telecamere ad alta risoluzione e delle applicazioni di video analisi, il ruolo del registratore è sempre meno quello di semplice archivio e sempre più quello di centro nevralgico del sistema.",
+    "È in questa direzione che si muove la nuova Serie S di Hikvision, una gamma di NVR progettata per grandi installazioni e applicazioni mission critical.",
+    "Particolarmente interessante l'integrazione delle funzioni di analisi direttamente a bordo NVR.",
+    "Adatta a Smart City, infrastrutture di trasporto, logistica, industria e Pubblica Amministrazione, la serie S trasforma l'NVR in una vera piattaforma che concentra gestione, analisi e affidabilità."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "54361ee3fff8",
    "title": "Gamma antintrusione Comelit: centrale VEDO Easy, flessibilità installativa",
