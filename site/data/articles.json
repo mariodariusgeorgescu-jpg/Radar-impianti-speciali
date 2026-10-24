@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:34:51.423767+00:00",
+ "updated": "2026-10-24T10:57:48.755668+00:00",
  "articles": [
   {
    "id": "51044e37afe4",
@@ -1090,6 +1090,26 @@
    "refs": [],
    "categories": [
     "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "48f02811e281",
+   "title": "Superamento del test: perché la certificazione dei cavi è fondamentale per le prestazioni degli edifici intelligenti",
+   "title_original": "Passing the test – why cabling certification is critical for smart building performance",
+   "url": "https://www.installeronline.co.uk/electric/passing-the-test-why-cabling-certification-is-critical-for-smart-building-performance/",
+   "source": "Installer Online",
+   "date": "2026-10-14T00:59:00+00:00",
+   "added": "2026-10-24T10:57:48.755668+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.5A1NmISGZLVTTNU5Lzu64Q&pid=News",
+   "summary": [
+    "Poiché gli edifici intelligenti diventano sempre più complessi, l’affidabilità delle loro infrastrutture di cablaggio strutturato è una preoccupazione fondamentale. Rob Shepherd spiega perché i test rigorosi..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "en",
