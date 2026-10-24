@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:56:21.601835+00:00",
+ "updated": "2026-10-24T20:47:57.763481+00:00",
  "articles": [
   {
    "id": "54361ee3fff8",
@@ -21,6 +21,28 @@
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "dc0f4a71cfe8",
+   "title": "Case Green, come l’Italia recepisce la direttiva UE: la bozza del MASE",
+   "title_original": "Case Green, come l’Italia recepisce la direttiva UE: la bozza del MASE",
+   "url": "https://www.ecoblog.it/2026/10/24/case-green-direttiva-recepimento-italiano/",
+   "source": "Ecoblog",
+   "date": "2026-10-24T13:06:00+00:00",
+   "added": "2026-10-24T20:47:57.763481+00:00",
+   "image": "https://www.ecoblog.it/wp-content/uploads/2026/10/1235ac857ed247928c0202d91e83d7b1.webp",
+   "summary": [
+    "La bozza del MASE per il recepimento della direttiva Case Green europea in Italia: principi, criteri e la situazione dopo il ritardo del 29 maggio 2026.",
+    "L’Italia ha mancato la scadenza del 29 maggio 2026 per recepire la case green direttiva europea — formalmente la Direttiva UE 2024/1275, nota anche come EPBD IV — e la Commissione europea ha aperto una procedura di infrazione nei confronti del nostro Paese.",
+    "Qualcosa, però, si sta muovendo: il Ministero dell’Ambiente e della Sicurezza Energetica (MASE) ha trasmesso una bozza di norme contenente i principi e i criteri direttivi per il recepimento italiano, nell’ambito della legge di delegazione europea 2026."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
