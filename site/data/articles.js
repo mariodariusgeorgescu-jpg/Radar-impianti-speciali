@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-10-24T10:57:48.755668+00:00",
+ "updated": "2026-10-24T15:56:21.601835+00:00",
  "articles": [
+  {
+   "id": "54361ee3fff8",
+   "title": "Gamma antintrusione Comelit: centrale VEDO Easy, flessibilità installativa",
+   "title_original": "Gamma antintrusione Comelit: centrale VEDO Easy, flessibilità installativa",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/gamma-antintrusione-comelit-centrale-vedo-easy-flessibilita-installativa/",
+   "source": "Impianti News",
+   "date": "2026-10-24T14:09:24+00:00",
+   "added": "2026-10-24T15:56:21.601835+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/vedoeasy-medium-webcop.jpg",
+   "summary": [
+    "Home » Gamma antintrusione Comelit: centrale VEDO Easy, flessibilità installativa Comelit (Rovetta, BG) amplia la propria gamma antintrusione con VEDO Easy, la nuova centrale progettata per applicazioni residenziali e piccole attività commerciali.",
+    "Una soluzione che coniuga affidabilità professionale, flessibilità installativa e semplicità di configurazione.",
+    "VEDO Easy gestisce fino a 26 zone e consente di realizzare impianti filari, radio o ibridi, adattandosi alle esigenze di nuove installazioni, ristrutturazioni e ampliamenti.",
+    "La compatibilità con le periferiche della gamma VEDO assicura continuità con l’ecosistema Comelit."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "51044e37afe4",
    "title": "Case Green, le nuove norme italiane per la direttiva UE: cosa prevede la bozza del MASE",
