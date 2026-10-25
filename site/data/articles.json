@@ -1,6 +1,52 @@
 {
- "updated": "2026-10-25T04:39:29.034095+00:00",
+ "updated": "2026-10-25T11:26:23.078280+00:00",
  "articles": [
+  {
+   "id": "a4934ba66548",
+   "title": "Homematic IP apre l’ecosistema alle integrazioni di terze parti",
+   "title_original": "Homematic IP apre l’ecosistema alle integrazioni di terze parti",
+   "url": "https://www.impiantinews.it/elettro/attualita/homematic-ip-apre-lecosistema-alle-integrazioni-di-terze-parti/",
+   "source": "Impianti News",
+   "date": "2026-10-25T06:30:29+00:00",
+   "added": "2026-10-25T11:26:23.078280+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/hmip-offenheit-press_anhang-scaled.jpg",
+   "summary": [
+    "Home » Homematic IP apre l’ecosistema alle integrazioni di terze parti Con i Plugin di Partner e il supporto agli standard Modbus e MQTT, Homematic IP amplia le possibilità di integrazione mantenendo elevati livelli di sicurezza e affidabilità. eQ-3 amplia le funzionalità della Homematic IP Home Control Unit, introducendo strumenti per l’integrazione di tecnologie e dispositivi di terze parti.",
+    "L’obiettivo è offrire agli utenti una maggiore flessibilità nella progettazione della smart home, senza rinunciare ai principi che da sempre caratterizzano l’ecosistema Homematic IP: sicurezza, affidabilità e protezione dei dati.",
+    "Con il prossimo aggiornamento della piattaforma, previsto per il 27 ottobre 2026, eQ-3 introdurrà una nuova categoria di estensioni software: i Plugin di Partner."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "4f1a3780a515",
+   "title": "Comelit ottiene le dichiarazioni ambientali PEP per le soluzioni antincendio",
+   "title_original": "Comelit ottiene le dichiarazioni ambientali PEP per le soluzioni antincendio",
+   "url": "https://www.impiantinews.it/elettro/attualita/comelit-ottiene-le-dichiarazioni-ambientali-pep-per-le-soluzioni-antincendio/",
+   "source": "Impianti News",
+   "date": "2026-10-25T06:17:20+00:00",
+   "added": "2026-10-25T11:26:23.078280+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/PEP-Prodotti-Fire-e1792489919185-1024x713.png",
+   "summary": [
+    "Home » Comelit ottiene le dichiarazioni ambientali PEP per le soluzioni antincendio Le centrali LogiFire e LogiFire 2 e i rivelatori indirizzati entrano nel percorso di sostenibilità di Comelit grazie alle dichiarazioni ambientali PEP basate sull’analisi del ciclo di vita.",
+    "Comelit amplia il proprio percorso di sostenibilità con le dichiarazioni ambientali PEP (Product Environmental Profile) per una selezione di soluzioni dedicate alla rivelazione incendi.",
+    "L’estensione delle dichiarazioni PEP alla famiglia antincendio rappresenta un ulteriore sviluppo del percorso già avviato da Comelit nell’ambito della valutazione ambientale dei prodotti."
+   ],
+   "refs": [
+    "ISO 14025"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "00bacc6fed0f",
    "title": "Hikvision Serie S, l’NVR nuovo cervello dell’impianto",
@@ -21,6 +67,32 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "38cfbce651bb",
+   "title": "Case green: da Bruxelles ultima chiamata per l’Italia",
+   "title_original": "Case green: da Bruxelles ultima chiamata per l’Italia",
+   "url": "https://www.enordest.it/2026/10/25/case-green-da-bruxelles-ultima-chiamata-per-litalia/",
+   "source": "enordest",
+   "date": "2026-10-24T17:00:00+00:00",
+   "added": "2026-10-25T11:26:23.078280+00:00",
+   "image": "https://www.enordest.it/wp-content/uploads/2026/10/standard-16_9.jpg",
+   "summary": [
+    "L’Unione Europea da Bruxelles lancia un ultimatum perentorio all’Italia e riapre lo scontro politico e normativo sulla transizione ecologica del patrimonio immobiliare nazionale.",
+    "La Direttiva 2023/1791 stabilisce un quadro rigoroso: riduzione vincolante del consumo di energia finale a livello UE di almeno l’11,7% entro il 2030 rispetto alle proiezioni del 2020; obbligo per gli enti pubblici e le Pubbliche Amministrazioni di ristrutturare ogni anno almeno il 3% della superficie utile degli edifici di loro proprietà.",
+    "La differenza sostanziale risiede nella natura delle sanzioni: mentre per il Piano edifici l’eventuale condanna accerterebbe solo l’inadempimento (richiedendo un secondo ricorso per erogare sanzioni), per l’efficienza energetica l’Italia rischia di dover pagare multe milionarie fin dal primo giudizio."
+   ],
+   "refs": [
+    "Direttiva (UE) 2024/1275",
+    "Direttiva (UE) 2023/1791",
+    "Direttiva 2023/1791"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
