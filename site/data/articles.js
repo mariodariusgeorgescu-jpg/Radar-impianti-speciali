@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-25T20:49:32.139924+00:00",
+ "updated": "2026-10-25T23:16:06.112135+00:00",
  "articles": [
   {
    "id": "a4934ba66548",
@@ -467,6 +467,26 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "238946d11c2c",
+   "title": "SAUTER and Qt Group to develop next-generation building automation interfaces",
+   "title_original": "SAUTER and Qt Group to develop next-generation building automation interfaces",
+   "url": "https://www.newelectronics.co.uk/content/news/sauter-and-qt-group-to-develop-next-generation-building-automation-interfaces",
+   "source": "New Electronics",
+   "date": "2026-10-21T17:00:00+00:00",
+   "added": "2026-10-25T23:16:06.112135+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.kudLiZVyYzfYs3j0m5aDeA&pid=News",
+   "summary": [
+    "Building automation specialist SAUTER has selected Qt Group as a technology partner to help develop new user interfaces for its building automation systems, as demand grows for more intuitive and ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "4af3dae381cf",
