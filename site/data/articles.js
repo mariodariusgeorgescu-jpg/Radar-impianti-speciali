@@ -1,6 +1,121 @@
 window.NEWS_DATA = {
- "updated": "2026-10-26T04:45:18.420104+00:00",
+ "updated": "2026-10-26T13:00:07.032698+00:00",
  "articles": [
+  {
+   "id": "a7ed51926d47",
+   "title": "ERC210-P: più funzionalità, meno complessità nella gestione delle reti",
+   "title_original": "ERC210-P: più funzionalità, meno complessità nella gestione delle reti",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/erc210-p-piu-funzionalita-meno-complessita-nella-gestione-delle-reti/",
+   "source": "Impianti News",
+   "date": "2026-10-26T12:07:06+00:00",
+   "added": "2026-10-26T13:00:07.032698+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/ERC210-cop.jpg",
+   "summary": [
+    "Home » ERC210-P: più funzionalità, meno complessità nella gestione delle reti Le reti moderne sono sempre più articolate: videosorveglianza, domotica, dispositivi IoT e Wi-Fi convivono nella stessa infrastruttura.",
+    "La sfida è garantire sicurezza e prestazioni, riducendo i tempi di configurazione e manutenzione.",
+    "Con ERC210-P, Dahua (Cinisello Balsamo, MI) propone un router SMB all-in-one con 8 porte Gigabit PoE, budget complessivo fino a 65 W e due porte WAN Gigabit.",
+    "La segmentazione delle reti permette inoltre di separare, per esempio, dispositivi aziendali, ospiti e videosorveglianza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "9f9f19339206",
+   "title": "Antincendio: portoni tagliafuoco scorrevoli OD Hörmann",
+   "title_original": "Antincendio: portoni tagliafuoco scorrevoli OD Hörmann",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/antincendio-portoni-tagliafuoco-scorrevoli-od-hormann/",
+   "source": "Impianti News",
+   "date": "2026-10-26T10:44:22+00:00",
+   "added": "2026-10-26T13:00:07.032698+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2025/02/h-od-3cop.jpg",
+   "summary": [
+    "Home » Antincendio: portoni tagliafuoco scorrevoli OD Hörmann Risultato del know how acquisito da Hörmann (Lavis, TN) nel settore antincendio, i nuovi portoni scorrevoli tagliafuoco OD sono ideali per tutte le aree – commerciali, industriali, agricole, hospitality o pubbliche – in cui si voglia proteggere persone, spazi e oggetti non solo dal fuoco ma anche da fumi, in caso di incendio.",
+    "Realizzati in acciaio e in acciaio inox, questi modelli sono presentati a uno e due battenti, nonché in esecuzione telescopica.",
+    "Proposti in versione antincendio ignifuga (El 2 30) come anche incombustibile (El 2 60, El 2 90 e El 2 120), i nuovi portoni dispongono del marchio CE e soddisfano pienamente le normative EN 16034 ed EN 13241, valide a livello europeo."
+   ],
+   "refs": [
+    "EN 16034",
+    "EN 13241"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "ec7202fbc631",
+   "title": "Più dettaglio, anche nelle ore di buio: telecamere Hikvision Serie 2",
+   "title_original": "Più dettaglio, anche nelle ore di buio: telecamere Hikvision Serie 2",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/piu-dettaglio-anche-nelle-ore-di-buio-telecamere-hikvision-serie-2/",
+   "source": "Impianti News",
+   "date": "2026-10-26T08:54:45+00:00",
+   "added": "2026-10-26T13:00:07.032698+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/News-PE-riviste.jpg",
+   "summary": [
+    "Home » Più dettaglio, anche nelle ore di buio: telecamere Hikvision Serie 2 In autunno, le ultime consegne in magazzino e la chiusura di un negozio avvengono spesso quando è già buio.",
+    "Le telecamere della Serie 2 Smart Hybrid Light della linea ProExpert di Hikvision rispondono a queste esigenze con dieci modelli dedicate a retail, logistica, industria, parcheggi e aree perimetrali.",
+    "Sui modelli da 12 MP, Smart Hybrid Light combina IR e luce bianca con tre modalità selezionabili.",
+    "Le telecamere Serie 2 Smart Hybrid Light aiutano a vedere meglio, concentrarsi sulle segnalazioni utili e ritrovare più facilmente gli eventi registrati."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bd1f044ab7b6",
+   "title": "L’appello di Cortexa al Senato: \"Inserire la direttiva Case green nella legge europea\"",
+   "title_original": "L’appello di Cortexa al Senato: \"Inserire la direttiva Case green nella legge europea\"",
+   "url": "https://www.msn.com/it-it/notizie/other/l-appello-di-cortexa-al-senato-inserire-la-direttiva-case-green-nella-legge-europea/ar-AA2g5tJ8",
+   "source": "Requadro on MSN",
+   "date": "2026-10-26T03:47:33+00:00",
+   "added": "2026-10-26T13:00:07.032698+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.DXHMO-nSXOz-7KQyCWvRrA&pid=News",
+   "summary": [
+    "Integrare il recepimento della direttiva UE 2024/1275 (EPBD IV) nella Legge di delegazione europea 2026: è la richiesta avanzata dal presidente di Cortexa, Filippo Colonna, durante l’audizione presso ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "672f55ea9ce5",
+   "title": "Comelit: dichiarazioni ambientali PEP per le soluzioni di rivelazione incendi",
+   "title_original": "Comelit: dichiarazioni ambientali PEP per le soluzioni di rivelazione incendi",
+   "url": "https://nt24.it/2026/10/comelit-dichiarazioni-ambientali-pep/",
+   "source": "NT24.it",
+   "date": "2026-10-25T17:00:00+00:00",
+   "added": "2026-10-26T13:00:07.032698+00:00",
+   "image": "https://nt24.it/app/uploads/2026/10/comelit.jpg",
+   "summary": [
+    "Comelit amplia il proprio percorso di sostenibilità con le dichiarazioni ambientali PEP (Product Environmental Profile) per una selezione di soluzioni dedicate alla rivelazione incendi.",
+    "Le dichiarazioni PEP, sviluppate nell’ambito del programma internazionale PEP ecopassport® e conformi alla norma ISO 14025, permettono di quantificare e documentare i potenziali impatti ambientali dei prodotti elettrici ed elettronici attraverso un’analisi del ciclo di vita (Life Cycle Assessment – LCA).",
+    "L’estensione delle dichiarazioni PEP alla famiglia antincendio rappresenta un ulteriore sviluppo del percorso già intrapreso da Comelit nel campo della valutazione ambientale dei prodotti."
+   ],
+   "refs": [
+    "ISO 14025"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a4934ba66548",
    "title": "Homematic IP apre l’ecosistema alle integrazioni di terze parti",
