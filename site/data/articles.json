@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-27T00:25:24.712242+00:00",
+ "updated": "2026-10-27T08:58:10.612120+00:00",
  "articles": [
+  {
+   "id": "201707eefa43",
+   "title": "FAAC Technologies acquisisce Peters Türanlagen e Rubek Automatic Doors",
+   "title_original": "FAAC Technologies acquisisce Peters Türanlagen e Rubek Automatic Doors",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/faac-technologies-acquisisce-peters-turanlagen-e-rubek-automatic-doors/",
+   "source": "Impianti News",
+   "date": "2026-10-27T08:52:08+00:00",
+   "added": "2026-10-27T08:58:10.612120+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/sede-FAAC-2-COP.jpg",
+   "summary": [
+    "Home » FAAC Technologies acquisisce Peters Türanlagen e Rubek Automatic Doors Si conferma l’impegno del Gruppo nello sviluppo, nei mercati chiave, di piattaforme orientate ai servizi e incentrate sul cliente.",
+    "FAAC Technologies, leader globale nelle soluzioni per l’automazione e il controllo degli accessi, annuncia l’acquisizione di Peters Türanlagen GmbH & Co.",
+    "KG in Germania e di Rubek Automatic Doors in Australia.",
+    "KG opera nel settore delle porte automatiche dal 1992 e si è affermata come specialista riconosciuto nei servizi, nella progettazione, nell’installazione e nella manutenzione di sistemi di porte automatiche."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "bfcf5c13dfb0",
    "title": "AVIDSEN: linea di prodotti telecomandati per domotica",
@@ -81,6 +104,29 @@
    ],
    "refs": [
     "direttiva (UE) 2024/1275"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5a81e08e7abf",
+   "title": "Direttiva Case Green, i produttori chiedono recepimento e incentivi stabili",
+   "title_original": "Direttiva Case Green, i produttori chiedono recepimento e incentivi stabili",
+   "url": "https://www.edilportale.com/news/2026/10/risparmio-energetico/direttiva-case-green-le-richieste-di-cortexa-al-senato_112464_27.html",
+   "source": "Edilportale",
+   "date": "2026-10-26T17:00:00+00:00",
+   "added": "2026-10-27T08:58:10.612120+00:00",
+   "image": "https://img.edilportale.com/News/ristrutturazione2-grazvydas-123rfcom-m-112464_1.jpg",
+   "summary": [
+    "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell’edilizia (Direttiva Case Green) Paga in modo semplice e sicuro con Paypal, Carta di credito, Bonifico bancario o Klarna.",
+    "La tua privacy è garantita da connessioni sicure."
+   ],
+   "refs": [
+    "Direttiva (UE) 2024/1275"
    ],
    "categories": [
     "bms"
