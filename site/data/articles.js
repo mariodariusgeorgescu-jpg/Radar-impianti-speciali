@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-27T08:58:10.612120+00:00",
+ "updated": "2026-10-27T15:20:46.955197+00:00",
  "articles": [
   {
    "id": "201707eefa43",
@@ -15,6 +15,28 @@ window.NEWS_DATA = {
     "FAAC Technologies, leader globale nelle soluzioni per l’automazione e il controllo degli accessi, annuncia l’acquisizione di Peters Türanlagen GmbH & Co.",
     "KG in Germania e di Rubek Automatic Doors in Australia.",
     "KG opera nel settore delle porte automatiche dal 1992 e si è affermata come specialista riconosciuto nei servizi, nella progettazione, nell’installazione e nella manutenzione di sistemi di porte automatiche."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "4e5ab6cdaabb",
+   "title": "PHP2Shell: Came sospende smart home e antintrusione fino al 29 ottobre",
+   "title_original": "PHP2Shell: Came sospende smart home e antintrusione fino al 29 ottobre",
+   "url": "https://smarthome.hwupgrade.it/news/sicurezza-smarthome/php2shell-came-sospende-smart-home-e-antintrusione-fino-al-29-ottobre_161164.html",
+   "source": "Smart Home - Hardware Upgrade",
+   "date": "2026-10-27T04:47:00+00:00",
+   "added": "2026-10-27T15:20:46.955197+00:00",
+   "image": "https://www.hwupgrade.it/i/n/came_720.webp",
+   "summary": [
+    "Came sospende fino al 29 ottobre le funzioni online di Came Domotica e Antintrusione dopo la scoperta di PHP2Shell, due falle critiche di PHP che permettono l'esecuzione remota di codice senza autenticazione.",
+    "Una chiusura preventiva per aggiornare i server ed evitare accessi non autorizzati agli impianti connessi Came ha sospeso fino al 29 ottobre i servizi online legati a Came Domotica e Antintrusione.",
+    "L'agenzia invita gli amministratori ad applicare subito le patch, a verificare la versione effettivamente in esecuzione e, quando l'aggiornamento non è immediato, a valutare la messa offline dei servizi web vulnerabili: esattamente la strada seguita da Came."
    ],
    "refs": [],
    "categories": [
@@ -134,6 +156,29 @@ window.NEWS_DATA = {
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "decf2fe89f39",
+   "title": "Victoria espande la rete di telecamere AI per la rilevazione degli incendi",
+   "title_original": "Victoria expands AI camera network for fire detection",
+   "url": "https://www.themandarin.com.au/322972-victoria-expands-ai-camera-network-for-fire-detection/",
+   "source": "The Mandarin",
+   "date": "2026-10-26T15:37:00+00:00",
+   "added": "2026-10-27T15:20:46.955197+00:00",
+   "image": "https://assets.themandarin.com.au/wp-content/uploads/sites/5/2026/10/Paul-Edbrooke.jpg?quality=70&w=1312",
+   "summary": [
+    "Il governo del Victoria ha stanziato 3,8 milioni di dollari nei prossimi tre anni per un progetto congiunto che utilizza telecamere AI per scansionare il paesaggio alla ricerca di rischi di incendio.",
+    "Sostenuta dal governo insieme a Hancock Victorian Plantations e Green Triangle Fire Alliance, la rete di telecamere si trova su 211.000 ettari di piantagioni private e monitora 1,4 milioni di ettari di terreno.",
+    "Il finanziamento vedrà la rete crescere da sette a 11 telecamere, rilevando segnali di fumo e fuoco, allertando le autorità sulle condizioni che richiedono un controllo. Sblocca questo articolo con accesso esteso per i lettori registrati.",
+    "Nel corso di due giorni, i leader senior, i capi delle agenzie e le voci del settore privato che plasmano il futuro dello stato sono passati direttamente alla domanda pratica: cosa serve effettivamente per guidare un’agenzia del settore pubblico WA pronta per il futuro in questo momento?"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "a7ed51926d47",
@@ -1586,6 +1631,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "32ecae4b7a63",
+   "title": "Everon, partner di Teledyne FLIR per la soluzione di rilevamento tempestivo degli incendi",
+   "title_original": "Everon, Teledyne FLIR Partner on Early Fire Detection Solution",
+   "url": "https://www.securityinfowatch.com/integrators/news/55412010/everon-everon-teledyne-flir-partner-on-early-fire-detection-solution",
+   "source": "Security Info Watch",
+   "date": "2026-10-13T17:00:00+00:00",
+   "added": "2026-10-27T15:20:46.955197+00:00",
+   "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/10/6ad009e385095378d870e41a-everon_flir.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+   "summary": [
+    "Everon e Teledyne FLIR stanno collaborando su una soluzione di rilevamento incendi progettata per applicazioni che vanno dai data center e impianti di produzione ai sistemi di accumulo dell'energia delle batterie.",
+    "Everon ha annunciato una collaborazione strategica con Teledyne FLIR per fornire una soluzione di imaging termico progettata per fornire rilevamento e monitoraggio tempestivo degli incendi per applicazioni commerciali.",
+    "La collaborazione porterà ai clienti Everon la tecnologia di imaging termico FLIR conforme a UL 2684 e NFPA 72.",
+    "\"Consentendo il rilevamento tempestivo di eventi termici in via di sviluppo, la soluzione di imaging termico FLIR, certificata UL, offre alle organizzazioni più tempo per rispondere prima che un incendio colpisca persone, risorse e operazioni.\""
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "en",
