@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-27T22:12:46.956433+00:00",
+ "updated": "2026-10-28T05:40:30.782544+00:00",
  "articles": [
+  {
+   "id": "1b2e6104f064",
+   "title": "Homematic IP, arrivano i Plugin di Partner e il supporto a Modbus e MQTT",
+   "title_original": "Homematic IP, arrivano i Plugin di Partner e il supporto a Modbus e MQTT",
+   "url": "https://elettricomagazine.it/news-tecnologia/homematic-ip-plugin-partner-modbus-mqtt/",
+   "source": "Elettricomagazine",
+   "date": "2026-10-28T02:35:00+00:00",
+   "added": "2026-10-28T05:40:30.782544+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/10/Plugin-Home-Control-Unit-Homematic-IP.jpg",
+   "summary": [
+    "eQ-3 amplia le funzionalità della Homematic IP Home Control Unit e apre l’ecosistema alle soluzioni di terze parti.",
+    "Con il prossimo aggiornamento della centralina, in programma per il 27 ottobre 2026, debuttano i Plugin di Partner, sviluppati da fornitori esterni per collegare direttamente le proprie soluzioni smart al sistema.",
+    "Arrivano inoltre due nuovi plugin dedicati agli standard di comunicazione Modbus e MQTT.",
+    "Il plugin MQTT consente invece di integrare dispositivi compatibili per illuminazione, schermature solari, climatizzazione e sicurezza, gestendoli tramite Homematic IP e includendoli nelle automazioni."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "275611716dac",
+   "title": "Storage per la sicurezza: gli HDD puntano oltre i 50 TB",
+   "title_original": "Storage per la sicurezza: gli HDD puntano oltre i 50 TB",
+   "url": "https://www.secsolution.com/notizia.asp?id=22134&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-28T02:30:00+00:00",
+   "added": "2026-10-28T05:40:30.782544+00:00",
+   "image": "https://www.secsolution.com/pict/news/22134.jpg",
+   "summary": [
+    "Mentre videosorveglianza, video analytics e applicazioni basate sull'intelligenza artificiale continuano ad aumentare la quantità di dati da conservare, il mondo dello storage si prepara a una nuova evoluzione.",
+    "Secondo Toshiba, gli hard disk tradizionali sono destinati a superare la soglia dei 50 TB grazie all'introduzione di nuove tecnologie di registrazione magnetica pensate per aggirare i limiti della tecnologia attuale.Per il settore della sicurezza il tema è particolarmente rilevante.",
+    "Impianti di videosorveglianza ad alta risoluzione, retention sempre più lunghe e applicazioni di analisi video richiedono infatti capacità di archiviazione crescenti senza un aumento proporzionale dei costi."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "59a4871d65d3",
+   "title": "Videoterminali e videosorveglianza: le tutele per gli operatori",
+   "title_original": "Videoterminali e videosorveglianza: le tutele per gli operatori",
+   "url": "https://www.secsolution.com/notizia.asp?id=22137&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-28T02:00:00+00:00",
+   "added": "2026-10-28T05:40:30.782544+00:00",
+   "image": "https://www.secsolution.com/pict/news/22137.jpg",
+   "summary": [
+    "L'Interpello 3/2026 del Ministero del Lavoro, nato da una vertenza promossa da USB Lavoro Privato Campania relativa alle condizioni operative degli Agenti di Stazione ANM di Napoli, offre un'importante indicazione per tutti i contesti in cui l'attività lavorativa si svolge prevalentemente davanti a monitor.",
+    "Il quesito riguardava operatori impegnati nella sorveglianza di banchine e impianti attraverso sistemi di videosorveglianza, ma il principio espresso assume un valore più ampio per il mondo delle control room, della sicurezza e del monitoraggio tecnologico.",
+    "Secondo il Ministero, le disposizioni del Titolo VII del D.Lgs. 81/2008 sui videoterminali trovano applicazione ogniqualvolta ricorrano i requisiti previsti dalla normativa, indipendentemente dal tipo di immagini visualizzate o dall'attività specifica svolta."
+   ],
+   "refs": [
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "b0b9d1dd97c0",
    "title": "Stadio Lo Presti di Palmi, via libera dei Vigili del Fuoco: approvato il progetto di adeguamento antincendio",
