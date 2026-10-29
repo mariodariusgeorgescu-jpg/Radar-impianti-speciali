@@ -1,6 +1,76 @@
 window.NEWS_DATA = {
- "updated": "2026-10-28T20:15:41.773923+00:00",
+ "updated": "2026-10-29T00:54:56.210548+00:00",
  "articles": [
+  {
+   "id": "88891ca34c09",
+   "title": "i-PRO vince il Red Dot \"Best of the Best\" con una sicurezza che si integra negli spazi",
+   "title_original": "i-PRO vince il Red Dot \"Best of the Best\" con una sicurezza che si integra negli spazi",
+   "url": "https://www.secsolution.com/notizia.asp?id=22138&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-29T00:54:56.210548+00:00",
+   "added": "2026-10-29T00:54:56.210548+00:00",
+   "image": "https://www.secsolution.com/pict/news/22138.jpg",
+   "summary": [
+    "La videosorveglianza può proteggere persone e beni senza compromettere l'estetica degli ambienti?",
+    "L'azienda giapponese ha infatti ottenuto il prestigioso riconoscimento \"Red Dot: Best of the Best\" nell'ambito del Red Dot Award: Design Concept 2026 grazie alla nuova Spatial Integration Camera, un concetto progettuale che ridefinisce il rapporto tra sicurezza e architettura.",
+    "Pensata per contesti in cui design e esperienza degli utenti sono elementi centrali, come boutique di lusso, musei, hotel e spazi commerciali di pregio, la soluzione si distingue dai tradizionali dispositivi di videosorveglianza per una struttura che integra il modulo camera all'interno del corpo dell'oggetto, richiamando l'approccio utilizzato per l'inserimento di elementi architettonici come illuminazione e arredi."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "00b457805eca",
+   "title": "Urmet: le nuove centrali EVAC, tecnologia e supporto al servizio della sicurezza",
+   "title_original": "Urmet: le nuove centrali EVAC, tecnologia e supporto al servizio della sicurezza",
+   "url": "https://www.secsolution.com/notizia.asp?id=22139&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-29T00:54:56.210548+00:00",
+   "added": "2026-10-29T00:54:56.210548+00:00",
+   "image": "https://www.secsolution.com/pict/news/22139.jpg",
+   "summary": [
+    "In situazioni di emergenza, rapidità e chiarezza delle comunicazioni fanno la differenza.",
+    "Le nuove centrali EVAC (Emergency Voice Alarm Communication) di Urmet sono progettate per garantire un'evacuazione ordinata e sicura in ambienti complessi e ad alta affluenza come scuole, ospedali, centri commerciali, teatri e infrastrutture di trasporto.",
+    "Tutti i dispositivi sono conformi agli standard EN54, riferimento antincendio.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [
+    "EN54"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "37ca6e4e4c7f",
+   "title": "D-LINK: telecamera Bullet da Esterno",
+   "title_original": "D-LINK: telecamera Bullet da Esterno",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22119&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-29T00:54:56.210548+00:00",
+   "added": "2026-10-29T00:54:56.210548+00:00",
+   "image": "https://www.secsolution.com/pict/news/22119.jpg",
+   "summary": [
+    "La telecamera Bullet da Esterno 2 Megapixel H.265 BCB-P01fornisce video nitidi e ad alta definizione per garantire che ogni immagine sia chiara, vivida e affidabile in qualsiasi ambiente.",
+    "Le analisi avanzate riducono i falsi allarmi e offrono precisione in tempo reale insieme a un monitoraggio più intelligente e proattivo.",
+    "Il PoE consente la trasmissione di alimentazione e dati tramite un unico cavo, riducendo la complessità e i costi di installazione.",
+    "Consente di ottenere video più puliti e ad alta fedeltà eliminando il rumore digitale in ambienti con scarsa illuminazione."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "1b2e6104f064",
    "title": "Homematic IP, arrivano i Plugin di Partner e il supporto a Modbus e MQTT",
@@ -915,6 +985,27 @@ window.NEWS_DATA = {
    "is_norm": true,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "e95a35c22e00",
+   "title": "Pandobac trace ses bacs réutilisables avec Inotec",
+   "title_original": "Pandobac trace ses bacs réutilisables avec Inotec",
+   "url": "https://www.strategieslogistique.com/Pandobac-trace-ses-bacs,16147",
+   "source": "Stratégies Logistique",
+   "date": "2026-10-21T17:00:00+00:00",
+   "added": "2026-10-29T00:54:56.210548+00:00",
+   "image": "https://strategieslogistique.com/IMG/jpg/pandobac_5.jpg",
+   "summary": [
+    "Pandobac utilise les étiquettes DioTough HPV avec QR Code d’Inotec au sein de sa solution de traçabilité de ses bacs réemployables. Pandobac, fournisseurs de bacs réutilisables, s’appuie sur les étiquettes haute résistance développées par inotec pour l’identification et la traçabilité de ses supports de charge.",
+    "Son application Pandobac Scanner couplée aux étiquettes inotec permet aux opérateurs d’identifier les bacs directement avec un smartphone, grâce à un QR code unique associé à chaque contenant."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "4af3dae381cf",
