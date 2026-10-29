@@ -1,6 +1,73 @@
 window.NEWS_DATA = {
- "updated": "2026-10-29T00:54:56.210548+00:00",
+ "updated": "2026-10-29T09:56:41.925252+00:00",
  "articles": [
+  {
+   "id": "d2f025400ef3",
+   "title": "La domotica AVE in una villa nel Veronese",
+   "title_original": "La domotica AVE in una villa nel Veronese",
+   "url": "https://www.impiantinews.it/elettro/realizzazioni/la-domotica-ave-in-una-villa-nel-veronese/",
+   "source": "Impianti News",
+   "date": "2026-10-29T07:50:13+00:00",
+   "added": "2026-10-29T09:56:41.925252+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/villa-smart-ave-san-pietro-cariano.jpg",
+   "summary": [
+    "Il sistema domotico AVE gestisce illuminazione, clima, tapparelle, accessi e diffusione sonora, con controllo da comandi fisici e app.",
+    "Per questa splendida villa di San Pietro in Cariano, a Verona, è stato realizzato un impianto domotico che abbina soluzioni estetiche di pregio a funzionalità evolute, studiate per assecondare le necessità e le abitudini dei suoi abitanti.",
+    "Cuore tecnologico dell’intera abitazione è il sistema domotico di AVE, che consente la gestione di ogni automazione inserita.",
+    "Il sistema è ulteriormente avvalorato dall’integrazione con il sofisticato sistema di diffusione sonora qui installato, a sua volta impreziosito dai diffusori acustici da incasso AVE, una soluzione perfettamente inserita negli ambienti della villa e facilmente governabile tramite l’apposito modulo dedicato."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1533b0d244b5",
+   "title": "Decreto Controlli, accolta la richiesta di CNA sui manutentori antincendio",
+   "title_original": "Decreto Controlli, accolta la richiesta di CNA sui manutentori antincendio",
+   "url": "https://www.impiantinews.it/gt/attualita/decreto-controlli-accolta-la-richiesta-di-cna-sui-manutentori-antincendio/",
+   "source": "Impianti News",
+   "date": "2026-10-29T06:00:50+00:00",
+   "added": "2026-10-29T09:56:41.925252+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/AdobeStock_210407219_35202081_View-e1792483524342.jpeg",
+   "summary": [
+    "Home » Decreto Controlli, accolta la richiesta di CNA sui manutentori antincendio CNA, Confartigianato e Casartigiani esprimono soddisfazione per l’accoglimento della richiesta avanzata nelle scorse settimane al Governo per evitare il blocco delle attività dei tecnici manutentori antincendio durante la fase di avvio del nuovo sistema di qualificazione.",
+    "È in corso di pubblicazione in Gazzetta Ufficiale il decreto del Ministro dell’Interno e del Ministro del Lavoro che introduce disposizioni transitorie in materia di qualificazione dei tecnici manutentori antincendio, in attuazione del D.M. 1° settembre 2021."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "13e3166475a2",
+   "title": "secsolutionforum continua online: disponibili le slide degli interventi",
+   "title_original": "secsolutionforum continua online: disponibili le slide degli interventi",
+   "url": "https://www.secsolution.com/notizia.asp?id=22159&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-29T02:00:00+00:00",
+   "added": "2026-10-29T09:56:41.925252+00:00",
+   "image": "https://www.secsolution.com/pict/news/22159.jpg",
+   "summary": [
+    "Non hai fatto in tempo a seguire tutti gli appuntamenti di secsolutionforum?",
+    "Ora puoi recuperare i contenuti e approfondire i temi al centro del Forum.",
+    "Le slide dei diversi interventi di secsolutionforum sono disponibili online: un’occasione per ripercorrere i temi affrontati, rivedere i punti chiave emersi durante gli incontri e approfondire idee, soluzioni e prospettive presentate dai relatori.",
+    "Consulta le slide degli interventi e scopri tutti i materiali disponibili."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "88891ca34c09",
    "title": "i-PRO vince il Red Dot \"Best of the Best\" con una sicurezza che si integra negli spazi",
