@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-10-29T09:56:41.925252+00:00",
+ "updated": "2026-10-29T18:27:54.991408+00:00",
  "articles": [
   {
    "id": "d2f025400ef3",
@@ -40,6 +40,54 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a809c4a77a69",
+   "title": "Telangana introduce norme speciali di sicurezza antincendio per i data center e impone sistemi di soppressione",
+   "title_original": "Telangana introduces special fire safety norms for data centres, mandates suppression systems",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-introduces-special-fire-safety-norms-for-data-centres-mandates-suppression-systems/article71640123.ece",
+   "source": "The Hindu",
+   "date": "2026-10-29T04:22:00+00:00",
+   "added": "2026-10-29T18:27:54.991408+00:00",
+   "image": "https://th-i.thgim.com/public/incoming/ifksv3/article71640238.ece/alternates/LANDSCAPE_1200/BL08_Think_Data_server_racks.jpg",
+   "summary": [
+    "Le nuove linee guida, emanate dal direttore generale dei vigili del fuoco Vikram Singh Mann attraverso una circolare del 28 ottobre 2026, si applicheranno alle richieste di certificati provvisori di non obiezione antincendio (NOC) presentate a partire dal 6 novembre.",
+    "Queste installazioni creano rischi di incendio distinti e richiedono misure preventive e di risposta alle emergenze specializzate. Secondo le linee guida, le aree amministrative devono disporre di sistemi di irrigazione automatici, mentre le aree tecniche devono essere dotate di idonei sistemi di soppressione dei gas con acqua nebulizzata o agenti puliti."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "8daeb10823d3",
+   "title": "Soffitti radianti: dall’EPBD al cantiere. Comfort, regolazione e integrazione impiantistica al Q-Day tecnico",
+   "title_original": "Soffitti radianti: dall’EPBD al cantiere. Comfort, regolazione e integrazione impiantistica al Q-Day tecnico",
+   "url": "https://www.ingenio-web.it/articoli/soffitti-radianti-raffrescamento-progettazione-regolazione-anticondensa/",
+   "source": "Ingenio",
+   "date": "2026-10-29T02:48:00+00:00",
+   "added": "2026-10-29T18:27:54.991408+00:00",
+   "image": "https://www.ingenio-web.it/upload/blog/1/9/4/69ddae79b1ee1417aec77b28de9f8d4d6c27aa95_og.jpg",
+   "summary": [
+    "Il 22 ottobre 2026 il Consorzio Q-RAD ha organizzato con il patrocinio di AiCARR e ANIE a Soave (VR) un Q-Day tecnico sui sistemi radianti a soffitto.",
+    "Dal quadro della EPBD IV e della UNI EN 16798-1 con la nuova appendice nazionale alla regolazione secondo la EN ISO 52120-1, fino ai casi progettuali con pompe di calore: il resoconto degli interventi e i messaggi chiave emersi.",
+    "Tra le novità normative è stata richiamata anche la nuova norma UNI 12019:2026 – “Pavimentazioni di legno e parquet posati su sistemi radianti a basso spessore per riscaldamento e/o raffrescamento – Caratteristiche generali e modalità di posa”, che considera le condizioni di temperatura e umidità relativa sia in stagione invernale sia estiva.",
+    "Qual è la nuova norma UNI in discussione sui sistemi radianti a ridotto spessore?"
+   ],
+   "refs": [
+    "UNI EN 16798-1",
+    "EN ISO 52120-1",
+    "UNI EN 16798"
+   ],
+   "categories": [
+    "bms"
    ],
    "is_norm": true,
    "lang": "it",
