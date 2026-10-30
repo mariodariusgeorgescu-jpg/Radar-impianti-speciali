@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-30T09:59:19.022847+00:00",
+ "updated": "2026-10-30T18:05:04.980537+00:00",
  "articles": [
+  {
+   "id": "30a162deacd8",
+   "title": "Antintrusione e videosorveglianza a un nuovo livello di integrazione: CoreSync",
+   "title_original": "Antintrusione e videosorveglianza a un nuovo livello di integrazione: CoreSync",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/antintrusione-e-videosorveglianza-a-un-nuovo-livello-di-integrazione-coresync/",
+   "source": "Impianti News",
+   "date": "2026-10-30T13:43:16+00:00",
+   "added": "2026-10-30T18:05:04.980537+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/REDAZIONALE-GRATUITO-PER-RIVISTA-SICUREZZA-NOVEMBRE-2026.jpg",
+   "summary": [
+    "Home » Antintrusione e videosorveglianza a un nuovo livello di integrazione: CoreSync L’aggiornamento alla versione 5.00 delle centrali antifurto Prime e PrimeX, disponibile attraverso Prime/STUDIO, introduce CoreSync e migliora il flusso di lavoro dell’installatore.",
+    "Con la funzionalità CoreSync, l’NVR InVista di Inim può essere aggiunto in Prime/STUDIO come una periferica del sistema di allarme.",
+    "L’evento video entra così nella logica dell’impianto: antintrusione e videosorveglianza condividono informazioni e reagiscono come un unico sistema.",
+    "CoreSync supporta fino a 200 video ZONE AI, senza impegnare le zone fisiche della centrale."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione",
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "c5b8ea5816c1",
    "title": "MICROVIDEO: rivelatore Infrarosso passivo da interno",
