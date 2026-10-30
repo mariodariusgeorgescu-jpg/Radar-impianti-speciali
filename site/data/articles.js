@@ -1,6 +1,99 @@
 window.NEWS_DATA = {
- "updated": "2026-10-29T18:27:54.991408+00:00",
+ "updated": "2026-10-30T00:58:27.338658+00:00",
  "articles": [
+  {
+   "id": "c5b8ea5816c1",
+   "title": "MICROVIDEO: rivelatore Infrarosso passivo da interno",
+   "title_original": "MICROVIDEO: rivelatore Infrarosso passivo da interno",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22120&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-30T00:58:27.338658+00:00",
+   "added": "2026-10-30T00:58:27.338658+00:00",
+   "image": "https://www.secsolution.com/pict/news/22120.jpg",
+   "summary": [
+    "MCS-IR è un rilevatore anti-intrusione infrarosso passivo da interno, con memoria.",
+    "Il sensore a doppio elemento è gestito da microprocessore con discriminante disturbi.",
+    "Il dispositivo analizza le repentine variazioni di temperatura causata da corpi in movimento.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0a85e55cb4c4",
+   "title": "Videosorveglianza urbana AI: controlli ACN sui Comuni",
+   "title_original": "Videosorveglianza urbana AI: controlli ACN sui Comuni",
+   "url": "https://www.secsolution.com/notizia.asp?id=22140&c=1",
+   "source": "SecSolution",
+   "date": "2026-10-30T00:58:27.338658+00:00",
+   "added": "2026-10-30T00:58:27.338658+00:00",
+   "image": "https://www.secsolution.com/pict/news/22140.jpg",
+   "summary": [
+    "Con il recepimento della normativa europea sull'AI, l'Agenzia per la Cybersicurezza Nazionale (ACN) assume un ruolo centrale nelle attività di vigilanza sui sistemi di videosorveglianza urbana ad AI impiegata dalle amministrazioni locali.",
+    "I poteri attribuiti all'ACN comprendono verifiche e ispezioni sia nei confronti dei fornitori delle tecnologie sia degli enti che le utilizzano. L'obiettivo è garantire che le soluzioni basate su algoritmi di intelligenza artificiale rispettino i requisiti previsti dall'AI Act europeo.",
+    "In sintesti: oltre agli obblighi in materia di privacy e protezione dati, i sistemi dei Comuni dovranno essere anche conformi alle regole che disciplinano l'intelligenza artificiale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "28db0349e2ff",
+   "title": "Sicurezza, norme e casi pratici: il tour di Assosicurezza riparte da Forli’ il 26 novembre",
+   "title_original": "Sicurezza, norme e casi pratici: il tour di Assosicurezza riparte da Forli’ il 26 novembre",
+   "url": "https://www.secsolution.com/notizia.asp?id=22162&c=2",
+   "source": "SecSolution",
+   "date": "2026-10-30T00:58:27.338658+00:00",
+   "added": "2026-10-30T00:58:27.338658+00:00",
+   "image": "https://www.secsolution.com/pict/news/22162.jpg",
+   "summary": [
+    "Dalla norma CEI 79-3:2024 alla manutenzione dei sistemi di rilevazione incendi: una giornata di formazione gratuita per progettisti, system integrator, installatori e utilizzatori.",
+    "Sono questi alcuni dei temi al centro della nuova tappa de “La Sicurezza del Made in Italy”, il progetto formativo promosso da Assosicurezza che riparte da Forlì il 26 novembre, inaugurando una nuova stagione di incontri dedicati ai professionisti della sicurezza.",
+    "La sessione sarà dedicata al quadro normativo nazionale ed europeo dei sistemi antintrusione, ai gradi di sicurezza e alle classi ambientali, all’analisi del rischio, alla documentazione d’impianto e alle responsabilità dell’installatore, con un focus anche sulla nuova CEI 79-3:2024."
+   ],
+   "refs": [
+    "CEI 79-3:2024",
+    "EN 16763"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f226f460fb51",
+   "title": "Videosorveglianza: Hikvision alza l’asticella del dettaglio nelle ore serali",
+   "title_original": "Videosorveglianza: Hikvision alza l’asticella del dettaglio nelle ore serali",
+   "url": "https://www.secsolution.com/notizia.asp?id=22143&c=5",
+   "source": "SecSolution",
+   "date": "2026-10-30T00:58:27.338658+00:00",
+   "added": "2026-10-30T00:58:27.338658+00:00",
+   "image": "https://www.secsolution.com/pict/news/22143.jpg",
+   "summary": [
+    "Con la Serie 2 Smart Hybrid Light della linea ProExpert, Hikvision propone dieci telecamere da 12 e 16 MP pensate per applicazioni videosorveglianza ambito retail, logistica, industria, parcheggi e protezione perimetrale.",
+    "La combinazione tra alta risoluzione, sensore CMOS da 1/1,8\" e tecnologia WDR fino a 130 dB consente di ottenere immagini nitide anche in condizioni di illuminazione difficili, caratterizzate da forti contrasti o scarsa visibilità.",
+    "Un aspetto particolarmente rilevante in autunno e inverno, quando molte attività operative si svolgono nelle ore serali.",
+    "I modelli da 16 MP integrano invece la tecnologia DarkFighter per le riprese in condizioni di luce estremamente ridotta."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d2f025400ef3",
    "title": "La domotica AVE in una villa nel Veronese",
