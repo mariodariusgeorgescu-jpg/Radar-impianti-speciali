@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-30T22:18:15.313283+00:00",
+ "updated": "2026-10-31T05:38:35.143035+00:00",
  "articles": [
+  {
+   "id": "423fd0336030",
+   "title": "Sicurezza integrata con Aikom Technology",
+   "title_original": "Sicurezza integrata con Aikom Technology",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2400",
+   "source": "SecSolution",
+   "date": "2026-10-31T02:00:00+00:00",
+   "added": "2026-10-31T05:38:35.143035+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-10-30_Aikom_02.jpg",
+   "summary": [
+    "Grazie a tutti coloro che hanno partecipato a secsolutionforum 2026 e si sono fermati ad incontrare il team Aikom nella Partner Zone Motorola Solutions.",
+    "Abbiamo raccolto in due brevi video le presentazioni che ne riassumono i contenuti: spunti e applicazioni per portare la sicurezza integrata nei tuoi progetti.",
+    "Raffaele Bianchi, Sales & Marketing DirectorDavide Cinarelli, Product Manager Professional Mobile Radio Semplificare la gestione della sicurezza e centralizzare il controllo, scopri l'approccio cloud di Avigilon Alta per connettere videosorveglianza, controllo accessi e sensori IoT.",
+    "Aikom è l'unico distributore in Italia dell'intero ecosistema Motorola Solutions, con un'offerta che integra video security, radio professionali e sistemi IoT."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "30a162deacd8",
    "title": "Antintrusione e videosorveglianza a un nuovo livello di integrazione: CoreSync",
@@ -140,6 +163,29 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "fded8059f9c0",
+   "title": "Il tuo garage ha bisogno di un allarme antincendio con rilevamento del calore",
+   "title_original": "Your Garage Needs a Heat-Sensing Fire Alarm",
+   "url": "https://www.consumerreports.org/home-garden/home-safety/your-garage-needs-a-heat-sensing-fire-alarm-a8488114634/",
+   "source": "Consumer Reports",
+   "date": "2026-10-29T07:33:00+00:00",
+   "added": "2026-10-31T05:38:35.143035+00:00",
+   "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1730310476/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Your-Garage-Needs-a-Heat-Sensing-Fire-Alarm-1024",
+   "summary": [
+    "Perché un rilevatore di fumo potrebbe non essere sufficiente per proteggere te e la tua famiglia Avere un allarme antincendio nel tuo garage è importante, soprattutto se la tua casa ha un garage annesso o un garage vicino alle stanze dove dormono le persone.",
+    "Ma un tipico rilevatore di fumo non funzionerà abbastanza bene per il tuo garage.",
+    "Fire Administration, installare un allarme di calore nel tuo garage è un buon modo per mantenerti al sicuro senza causare i falsi allarmi che potresti ricevere con un rilevatore di fumo o monossido di carbonio.",
+    "E molti nuovi allarmi includono app che avviseranno il tuo telefono se viene attivato un allarme."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "1533b0d244b5",
