@@ -1,6 +1,26 @@
 window.NEWS_DATA = {
- "updated": "2026-10-31T19:16:34.468369+00:00",
+ "updated": "2026-11-01T00:06:55.108050+00:00",
  "articles": [
+  {
+   "id": "e4f204af65f5",
+   "title": "Videosorveglianza urbana: con HERABIT e Axis i lampioni diventano punti di monitoraggio",
+   "title_original": "Videosorveglianza urbana: con HERABIT e Axis i lampioni diventano punti di monitoraggio",
+   "url": "https://www.secsolution.com/notizia.asp?id=22145&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-01T00:06:55.108050+00:00",
+   "added": "2026-11-01T00:06:55.108050+00:00",
+   "image": "https://www.secsolution.com/pict/news/22145.jpg",
+   "summary": [
+    "Trasformare i pali dell’illuminazione pubblica in postazioni di videosorveglianza per rafforzare il controllo del territorio senza realizzare nuove infrastrutture... #videosorveglianza #HERABIT #AxisCommunications #GruppoHERA"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "423fd0336030",
    "title": "Sicurezza integrata con Aikom Technology",
