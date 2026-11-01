@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:06:55.108050+00:00",
+ "updated": "2026-11-01T06:01:28.723992+00:00",
  "articles": [
   {
    "id": "e4f204af65f5",
@@ -162,6 +162,29 @@
    "translated": false
   },
   {
+   "id": "1e4761969dec",
+   "title": "La squadra antincendio e di soccorso n. 12 espande l'implementazione del sistema di rilevamento incendi con 57.578 accordi",
+   "title_original": "Firefighting and Rescue Team No. 12 expands Fire Detection System rollout with 57,578 agreements",
+   "url": "https://www.el-balad.com/17062223",
+   "source": "El-Balad",
+   "date": "2026-10-29T22:53:00+00:00",
+   "added": "2026-11-01T06:01:28.723992+00:00",
+   "image": "https://www.el-balad.com/uploads/2026/10/30/fire-detection-system-d77a7aa7_1200w.webp",
+   "summary": [
+    "La squadra antincendio e di soccorso n. 12 sta introducendo un sistema di rilevamento degli incendi negli stabilimenti e nelle attività commerciali della sua zona.",
+    "Entro il 20 ottobre 2026, 57.578 strutture avevano accettato di installare dispositivi di comunicazione per allarmi antincendio e 6.918 dispositivi erano già installati.",
+    "L'iniziativa di installazione ha lo scopo di abbreviare il tempo necessario per ricevere informazioni sugli incendi e migliorare il modo in cui le forze e le attrezzature vengono dispiegate quando si verificano incidenti.",
+    "La questione pratica ora è quanto velocemente le restanti strutture che hanno accettato di installare i dispositivi passeranno effettivamente dall’accordo all’hardware in loco."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
    "id": "d2f025400ef3",
    "title": "La domotica AVE in una villa nel Veronese",
    "title_original": "La domotica AVE in una villa nel Veronese",
@@ -225,6 +248,28 @@
     "antincendio"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f0e9264bda40",
+   "title": "La Regione Piemonte stanzia 1,3 milioni di euro per la prevenzione incendi: ecco dove verranno investiti",
+   "title_original": "La Regione Piemonte stanzia 1,3 milioni di euro per la prevenzione incendi: ecco dove verranno investiti",
+   "url": "https://www.quotidianopiemontese.it/2026/10/29/prevenzione-incendi-valsesia-terre-del-giarolo-fondi-piemonte/",
+   "source": "Quotidiano Piemontese",
+   "date": "2026-10-29T05:41:00+00:00",
+   "added": "2026-11-01T06:01:28.723992+00:00",
+   "image": "https://www.quotidianopiemontese.it/wp-content/uploads/2026/04/val.jpeg",
+   "summary": [
+    "VALSESIA – Il Piemonte mette in campo oltre 1,3 milioni di euro per potenziare la prevenzione contro gli incendi boschivi nelle aree interne della Valsesia (circa 817 mila euro) e delle Terre del Giarolo (568 mila euro).",
+    "L’intervento si inserisce nella più ampia programmazione regionale 2021-2027 per le aree interne, che conta su oltre 89 milioni complessivi, di cui quasi 23 milioni annunciati a giugno per queste due nuove zone.",
+    "Le risorse serviranno a finanziare interventi strutturali e mirati nelle zone più esposte, tra cui manutenzione e prevenzione attraverso la pulizia dei viali tagliafuoco, la riduzione della vegetazione più infiammabile e interventi di selvicoltura preventiva, pascolamento mirato e tecniche di fuoco prescritto per frenare la propagazione delle fiamme."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
@@ -3439,6 +3484,29 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "ceb4ecd6f777",
+   "title": "Lo standard BACnet legacy lascia l'HVAC e altri sistemi di costruzione vulnerabili agli attacchi hacker",
+   "title_original": "Legacy BACnet standard leaves HVAC, other building systems vulnerable to hacks",
+   "url": "https://tech.yahoo.com/cybersecurity/articles/legacy-bacnet-leaves-hvac-other-152804699.html",
+   "source": "YAHOO!",
+   "date": "2026-10-02T08:28:00+00:00",
+   "added": "2026-11-01T06:01:28.723992+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/e46e6a9b38e9868f1b17df66fb196e26bb50a872c1533be4b4b8ca0376e3f64a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffacilities_dive_309%2Fac7a1d1d53101aab9a691ecb3323daad",
+   "summary": [
+    "Quasi tre quarti delle strutture dispongono del tipo di sistema di automazione degli edifici che è stato preso di mira dagli attacchi ransomware, afferma un’analisi di Armis Labs.",
+    "La società di sicurezza informatica è una divisione di Armis di ServiceNow.",
+    "L’elevata percentuale deriva in parte dallo standard BACnet legacy utilizzato dalla maggior parte dei sistemi di costruzione, afferma l’azienda.",
+    "Si tratta di una superficie di attacco sempre più ridotta e di un tempo di attività ininterrotto.\" Correzione: la storia è stata aggiornata per chiarire la relazione tra Armis Labs e la sua società madre."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "f13d528727c5",
