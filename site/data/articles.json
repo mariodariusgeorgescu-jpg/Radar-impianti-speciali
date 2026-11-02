@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T19:38:47.985091+00:00",
+ "updated": "2026-11-02T00:43:51.171451+00:00",
  "articles": [
+  {
+   "id": "277965284baf",
+   "title": "A secsolutionforum: quando i server costano troppo, come portare la sicurezza aziendale nel cloud",
+   "title_original": "A secsolutionforum: quando i server costano troppo, come portare la sicurezza aziendale nel cloud",
+   "url": "https://www.secsolution.com/notizia.asp?id=22129&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-02T00:43:51.171451+00:00",
+   "added": "2026-11-02T00:43:51.171451+00:00",
+   "image": "https://www.secsolution.com/pict/news/22129.jpg",
+   "summary": [
+    "Videosorveglianza, controllo accessi e sensoristica IoT senza infrastrutture locali: Marco Fabbri, Product Manager Security & Surveillance di Aikom Technology, spiega a secsolutionforum come affrontare la migrazione al cloud in modo consapevole, sicuro ed efficiente.",
+    "Server da acquistare e mantenere, aggiornamenti da gestire, sedi da coordinare e sistemi da tenere costantemente sotto controllo: per molte aziende, l’infrastruttura di sicurezza tradizionale comporta costi e complessità crescenti.",
+    "Ma è possibile gestire videosorveglianza, controllo accessi e sensoristica IoT senza dover installare e mantenere server locali in ogni sede?"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e4f204af65f5",
    "title": "Videosorveglianza urbana: con HERABIT e Axis i lampioni diventano punti di monitoraggio",
