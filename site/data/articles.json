@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-02T00:43:51.171451+00:00",
+ "updated": "2026-11-02T11:02:24.795960+00:00",
  "articles": [
+  {
+   "id": "6748ae93e497",
+   "title": "Protezione ovunque con la centrale ibrida",
+   "title_original": "Protezione ovunque con la centrale ibrida",
+   "url": "https://www.impiantinews.it/sicurezza/come-si-installa-usa/protezione-ovunque-con-la-centrale-ibrida/",
+   "source": "Impianti News",
+   "date": "2026-11-02T06:00:09+00:00",
+   "added": "2026-11-02T11:02:24.795960+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/apertura_csi_5_26-e1792405271429.jpg",
+   "summary": [
+    "MX Hybrid di Hikvision punta su prestazioni elevate, flessibilità installativa e stabilità operativa, risultando un sistema affidabile per realizzazioni in contesti anche complessi.",
+    "La centrale MX Hybrid rappresenta l’evoluzione dei sistemi antintrusione Hikvision: adatta ad applicazioni resi­denziali, commerciali e SMB, offre la solidità del cablato e la flessibilità del wireless in un sistema ibrido ad alte prestazioni conforme allo standard EN 50131 Grado 2.",
+    "L’unità garan­tisce un’elevata scalabilità potendo supportare fino a 128 ingressi complessivi suddivisi tra zone filari, BUS e wireless, con la possibilità di gestire in modo indipendente fino a 64 aree distinte.",
+    "Più in generale, la centrale gestisce la videoverifi­ca supportando fino a 32 telecamere IP comples­sive con un capiente buffer di 16 IPCam diret­tamente a bordo."
+   ],
+   "refs": [
+    "EN 50131"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "96ae4d09cd6f",
+   "title": "Efficienza energetica degli edifici e Direttiva EPBD IV: un caso studio",
+   "title_original": "Efficienza energetica degli edifici e Direttiva EPBD IV: un caso studio",
+   "url": "https://www.buildnews.it/articolo/efficienza-energetica-edifici-direttiva-epbd-iv-un-caso-studio",
+   "source": "Build News",
+   "date": "2026-11-02T02:26:00+00:00",
+   "added": "2026-11-02T11:02:24.795960+00:00",
+   "image": "https://www.buildnews.it/storage/media/15893/conversions/shutterstock_1850713141-large.jpg",
+   "summary": [
+    "Leggi Il manuale ANIT si focalizza sulle novità introdotte dal nuovo decreto sui...",
+    "Un nuovo manuale di ANIT evidenzia i vantaggi di un approccio “strutturale”...",
+    "Rimani aggiornato sulle ultime novità in campo di efficienza energetica e sostenibilità edile Angelone (Presidente Ordine dei Geologi Molise e già Segretario del Consiglio Nazionale...",
+    "Il manuale ANIT si focalizza sulle novità introdotte dal nuovo decreto sui..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "277965284baf",
    "title": "A secsolutionforum: quando i server costano troppo, come portare la sicurezza aziendale nel cloud",
@@ -22,6 +70,28 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "547ccf4498b0",
+   "title": "Prova di rilevamento incendi a Mt Wombat",
+   "title_original": "Fire detection trial at Mt Wombat",
+   "url": "https://www.countrynews.com.au/rural-news/fire-detection-trial-at-mt-wombat/",
+   "source": "Country News",
+   "date": "2026-11-01T20:05:00+00:00",
+   "added": "2026-11-02T11:02:24.795960+00:00",
+   "image": "https://imengine.public.prod.mmg.navigacloud.com?uuid=7f8deb54-8828-52b7-b559-35b95811d627&function=original&type=preview",
+   "summary": [
+    "La tecnologia assistita dall'intelligenza artificiale è in fase di sperimentazione nel rilevamento degli incendi sul Monte Wombat.",
+    "Aaron Kennedy, direttore dei vigili del fuoco ad interim di Forest Fire Management Victoria, ha affermato che il rilevamento tempestivo offre ai vigili del fuoco le migliori possibilità di contenere gli incendi boschivi mentre erano piccoli, contribuendo a ridurre gli impatti sulle comunità e sull'ambiente.",
+    "FFMVic gestisce 65 torri di rilevamento incendi in tutto il Victoria, gestite da osservatori antincendio addestrati che monitorano il territorio per individuare eventuali incendi e supportano il rapido dispiegamento delle risorse antincendio. Kennedy ha affermato che, nell’ambito di una sperimentazione in corso, è stata utilizzata la tecnologia di intelligenza artificiale per il rilevamento del fumo, con telecamere installate in una serie di torri di avvistamento antincendio in tutta Victoria, incluso Mt Wombat vicino a Euroa."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "e4f204af65f5",
