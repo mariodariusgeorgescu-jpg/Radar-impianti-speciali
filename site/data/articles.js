@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-11-02T11:02:24.795960+00:00",
+ "updated": "2026-11-02T21:42:22.140609+00:00",
  "articles": [
+  {
+   "id": "7e8598108768",
+   "title": "Op-Ed: I rischi nascosti della protezione antincendio dei cantieri navali",
+   "title_original": "Op-Ed: The hidden risks of shipyard fire protection",
+   "url": "https://www.marinelog.com/news/op-ed-the-hidden-risks-of-shipyard-fire-protection/",
+   "source": "Marine Log",
+   "date": "2026-11-02T07:11:00+00:00",
+   "added": "2026-11-02T21:42:22.140609+00:00",
+   "image": "https://www.marinelog.com/wp-content/uploads/2026/11/Aron1.jpg",
+   "summary": [
+    "Gli assicuratori marittimi si trovano ad affrontare una sfida persistente nei cantieri navali, dove periodi di elevato rischio di incendio possono coincidere con la messa fuori servizio dei sistemi di protezione permanente delle navi.",
+    "Aron Wadhia, responsabile dello sviluppo aziendale di Ramtech, spiega perché l’industria deve prestare maggiore attenzione a questo “gap di deterioramento del sistema” durante la costruzione, la riparazione e la manutenzione.",
+    "JH143, un quadro riconosciuto di valutazione del rischio dei cantieri navali, fornisce agli assicuratori e agli ingegneri del rischio un modo strutturato per valutare la protezione antincendio, la risposta alle emergenze e i controlli operativi.",
+    "Possono anche funzionare indipendentemente dalla protezione antincendio permanente della nave, fornendo un monitoraggio continuo durante l'arresto, la manutenzione e la rimessa in servizio. Il valore di questo approccio può essere visto nella pratica."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "6748ae93e497",
    "title": "Protezione ovunque con la centrale ibrida",
@@ -1767,6 +1790,26 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e29e5bc63baa",
+   "title": "Vultr rafforza il cloud per gli agenti AI con microVM, controllo degli accessi e cluster CPU-GPU",
+   "title_original": "Vultr rafforza il cloud per gli agenti AI con microVM, controllo degli accessi e cluster CPU-GPU",
+   "url": "https://www.01net.it/vultr-cloud-agenti-ai-microvm-cluster-cpu-gpu-sicurezza/",
+   "source": "01Net",
+   "date": "2026-10-19T09:03:00+00:00",
+   "added": "2026-11-02T21:42:22.140609+00:00",
+   "image": "",
+   "summary": [
+    "L’esecuzione degli agenti AI nelle infrastrutture aziendali richiede risorse di calcolo eterogenee, ambienti isolati nei quali eseguire codice e strumenti di controllo che permettano di stabilire ..."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
    ],
    "is_norm": false,
    "lang": "it",
