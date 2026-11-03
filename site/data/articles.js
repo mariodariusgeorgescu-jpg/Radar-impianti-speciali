@@ -1,6 +1,70 @@
 window.NEWS_DATA = {
- "updated": "2026-11-03T17:01:53.132819+00:00",
+ "updated": "2026-11-03T23:22:16.718595+00:00",
  "articles": [
+  {
+   "id": "7d3e42b22451",
+   "title": "GANZ: soluzione di smart city per piccoli Comuni",
+   "title_original": "GANZ: soluzione di smart city per piccoli Comuni",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22150&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-03T23:22:16.718595+00:00",
+   "added": "2026-11-03T23:22:16.718595+00:00",
+   "image": "https://www.secsolution.com/pict/news/22150.jpg",
+   "summary": [
+    "Con GANZ CSA, le immagini della rete di videosorveglianza comunale diventano informazioni immediatamente utilizzabili delle forze dell’ordine.",
+    "GANZ AI-BOX 2.1 applica algoritmi di Intelligenza Artificiale anche ai flussi provenienti dalle telecamere esistenti e riconosce automaticamente specifici eventi.",
+    "Il VMS GANZ CORTROL centralizza video, eventi e allarmi, mettendo a disposizione degli operatori un unico ambiente di supervisione.",
+    "Le forze dell’ordine possono comandare gli altoparlanti sul territorio e diffondere automaticamente messaggi vocali dissuasivi, mentre l'evento viene reso disponibile alle pattuglie per l'eventuale intervento."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "c45beb0f4cb1",
+   "title": "ICP DAS USA semplifica l'automazione degli edifici con la nuova serie di video didattici sul TouchPad",
+   "title_original": "ICP DAS USA Simplifies Building Automation with New TouchPad Educational Video Series",
+   "url": "https://www.desmoinesregister.com/press-release/story/147447/icp-das-usa-simplifies-building-automation-with-new-touchpad-educational-video-series/",
+   "source": "The Des Moines Register",
+   "date": "2026-11-03T11:56:00+00:00",
+   "added": "2026-11-03T23:22:16.718595+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.v8Qv90Ew45EifrUWs9Tdjg&pid=News",
+   "summary": [
+    "Nuovi video demistificano le tecnologie di controllo DDC, BAS, BMS e HVAC evidenziando al contempo la pratica automazione del touchscreen..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "d103ce071a22",
+   "title": "Gallerie stradali esistenti: come cambia la prevenzione incendi con il DM 20 giugno 2025",
+   "title_original": "Gallerie stradali esistenti: come cambia la prevenzione incendi con il DM 20 giugno 2025",
+   "url": "https://www.ingenio-web.it/articoli/gallerie-stradali-esistenti-antincendio-dm-20-giugno-2025/",
+   "source": "Ingenio",
+   "date": "2026-11-03T09:37:00+00:00",
+   "added": "2026-11-03T23:22:16.718595+00:00",
+   "image": "https://www.ingenio-web.it/upload/blog/6/4/2/9de89e2e263ea94100de4314be84cc70766a8528.jpg",
+   "summary": [
+    "Le gallerie stradali esistenti non appartenenti alla rete TEN-T sono soggette al DM 20 giugno 2025: lunghezza, traffico e fattori aggravanti orientano la categoria di rischio e le misure antincendio.",
+    "Il DM 20 giugno 2025 (GU n. 156 dell’8 luglio 2025, in vigore dal 7 agosto 2025) introduce una disciplina organica di prevenzione incendi per le gallerie stradali esistenti non appartenenti alla rete transeuropea (TEN-T), basata su di una categorizzazione del rischio in funzione di tipologia, lunghezza e traffico giornaliero medio."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "06ba8450fd11",
    "title": "Riscaldamento domestico, il trattamento dell’acqua aiuta a contenere i consumi",
