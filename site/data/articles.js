@@ -1,6 +1,53 @@
 window.NEWS_DATA = {
- "updated": "2026-11-02T21:42:22.140609+00:00",
+ "updated": "2026-11-03T06:45:18.150184+00:00",
  "articles": [
+  {
+   "id": "06ba8450fd11",
+   "title": "Riscaldamento domestico, il trattamento dell’acqua aiuta a contenere i consumi",
+   "title_original": "Riscaldamento domestico, il trattamento dell’acqua aiuta a contenere i consumi",
+   "url": "https://www.impiantinews.it/gt/attualita/riscaldamento-domestico-il-trattamento-dellacqua-aiuta-a-contenere-i-consumi/",
+   "source": "Impianti News",
+   "date": "2026-11-03T06:30:13+00:00",
+   "added": "2026-11-03T06:45:18.150184+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/6198191_3940-scaled-e1793196389982.jpg",
+   "summary": [
+    "Home » Riscaldamento domestico, il trattamento dell’acqua aiuta a contenere i consumi Aqua Italia sottolinea come i recenti chiarimenti del MASE confermino la UNI 8065 come riferimento tecnico per il trattamento dell’acqua negli impianti di riscaldamento, dimostrando come la qualità dell’acqua sia parte integrante dell’efficienza energetica degli edifici.",
+    "Tra gli aspetti spesso meno considerati, ma determinanti per il corretto funzionamento degli impianti, rientra il trattamento dell’acqua.",
+    "Promuovere una corretta cultura del trattamento dell’acqua significa contribuire a migliorare l’efficienza degli impianti, ridurne i consumi e preservarne le prestazioni nel tempo»."
+   ],
+   "refs": [
+    "UNI 8065"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d8a3b1accac2",
+   "title": "Retail di lusso, piattaforme unificate e architetture aperte",
+   "title_original": "Retail di lusso, piattaforme unificate e architetture aperte",
+   "url": "https://www.secsolution.com/notizia.asp?id=22148&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-03T02:30:00+00:00",
+   "added": "2026-11-03T06:45:18.150184+00:00",
+   "image": "https://www.secsolution.com/pict/news/22148.jpg",
+   "summary": [
+    "La sicurezza, tuttavia, non viene più considerata solo come un insieme di misure difensive.",
+    "L'integrazione tra telecamere, sistemi di controllo accessi, sensori e centrali di allarme sta infatti trasformando i dati generati dagli impianti in uno strumento di governance.",
+    "Attraverso piattaforme software unificate è possibile correlare in tempo reale informazioni provenienti da fonti diverse, mentre l'intelligenza artificiale supporta gli operatori nelle attività di ricerca e analisi dei filmati, riducendo i tempi di gestione e alleggerendo le attività più ripetitive.",
+    "In questo scenario assumono un ruolo centrale le piattaforme aperte, capaci di integrare tecnologie nuove ed esistenti, permettendo ai brand di modernizzare progressivamente gli impianti e salvaguardare gli investimenti già effettuati."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7e8598108768",
    "title": "Op-Ed: I rischi nascosti della protezione antincendio dei cantieri navali",
@@ -115,6 +162,28 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "5871fc2c6082",
+   "title": "Bergamo, manca il certificato antincendio. Alla Carrara le aule dell'Accademia di Belle Arti restano chiuse",
+   "title_original": "Bergamo, manca il certificato antincendio. Alla Carrara le aule dell'Accademia di Belle Arti restano chiuse",
+   "url": "https://bergamo.corriere.it/notizie/cronaca/26_novembre_01/bergamo-manca-il-certificato-antincendio-e-le-aule-dell-accademia-di-belle-arti-restano-chiuse-7f4479e5-3ebb-4332-b414-5e0803b2dxlk.shtml",
+   "source": "Corriere Bergamo",
+   "date": "2026-11-01T00:35:00+00:00",
+   "added": "2026-11-03T06:45:18.150184+00:00",
+   "image": "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6ebbe226b4.r_d.663-463-0.jpeg",
+   "summary": [
+    "Elisa: «A otto anni sono stata abusata, non ho chiesto aiuto fino ai 48 L’album e il film come un viaggio, sono stati una forma di autoanalisi» Il Politecnico delle Arti aveva previsto di iniziare le lezioni alla Carrara a metà ottobre, al momento solo lezioni online.",
+    "Il presidente Berta: «Non apriremo finché non sarà tutto risolto, ma nessun danno per gli studenti» La sede della scuola di Belle Arti è alle spalle della Pinacoteca dell'Accademia Carrara Era stato deciso che all’Accademia delle Belle Arti, una delle due branche del Politecnico delle Arti insieme al Conservatorio, il nuovo anno sarebbe partito con un certo anticipo rispetto alla solita data di metà novembre.",
+    "Secondo le indicazioni dell’Unione degli istituti, solo chi presenta la Scia risulta in regola con gli obblighi di legge."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "e4f204af65f5",
