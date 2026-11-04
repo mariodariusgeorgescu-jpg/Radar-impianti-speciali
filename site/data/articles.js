@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
- "updated": "2026-11-03T23:22:16.718595+00:00",
+ "updated": "2026-11-04T06:19:28.167284+00:00",
  "articles": [
+  {
+   "id": "fd7b2ecfe051",
+   "title": "Kit per citofonia e controllo accessi su rete cellulare",
+   "title_original": "Kit per citofonia e controllo accessi su rete cellulare",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/kit-per-citofonia-e-controllo-accessi-su-rete-cellulare/",
+   "source": "Impianti News",
+   "date": "2026-11-04T06:00:58+00:00",
+   "added": "2026-11-04T06:19:28.167284+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/ERAKITGSM_apertura_5_26-scaled-e1792571229993-1024x730.png",
+   "summary": [
+    "Home » Kit per citofonia e controllo accessi su rete cellulare Il kit Era GSM di Videx Electronics abbina un posto esterno da superficie (in nero o grigio), configurabile per 1, 2 o 4 utenti o con tastiera di controllo accessi, a un alimentatore din e quattro chiavi di prossimità MIFARE/NFC.",
+    "I kit citofonici Era GSM di Videx Electronics sono pensati soprattutto per le installazioni in cui realizzare o ripristinare i col­legamenti fra ingresso e appar­tamenti sarebbe complesso o invasivo: ristrutturazioni, edi­fici esistenti, piccoli contesti plurifamiliari, uffici e accessi nei quali non si vuole installa­re un posto interno dedicato."
+   ],
+   "refs": [
+    "ISO/IEC 14443"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "70515c67d607",
+   "title": "Nuova edizione della Guida CEI 306-2 “Guida al cablaggio per le comunicazioni elettroniche negli edifici residenziali”",
+   "title_original": "Nuova edizione della Guida CEI 306-2 “Guida al cablaggio per le comunicazioni elettroniche negli edifici residenziali”",
+   "url": "https://www.impiantinews.it/elettro/aggiornamenti-normativi/nuova-edizione-della-guida-cei-306-2-guida-al-cablaggio-per-le-comunicazioni-elettroniche-negli-edifici-residenziali/",
+   "source": "Impianti News",
+   "date": "2026-11-04T06:00:35+00:00",
+   "added": "2026-11-04T06:19:28.167284+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/8635-e1792485396598.jpg",
+   "summary": [
+    "Home » Nuova edizione della Guida CEI 306-2 “Guida al cablaggio per le comunicazioni elettroniche negli edifici residenziali” È stata recentemente pubblicata la nuova edizione della Guida CEI 306-2 dedicata agli spazi installativi e alla fibra ottica all’interno degli edifici residenziali.",
+    "La Guida CEI 306-2 si propone di fornire tutte le indicazioni per sviluppare al meglio il progetto del sistema di cablaggio in edifici residenziali.",
+    "Devono essere osservate anche le prescrizioni del D.Lgs. 259/2003 (Codice delle comunicazioni elettroniche) che definisce le caratteristiche che questi impianti devono avere affinché possano garantire i “diritti inderogabili di libertà delle persone nell’uso dei mezzi di comunicazione elettronica”."
+   ],
+   "refs": [
+    "CEI 306-2",
+    "D.Lgs. 259/2003",
+    "Regolamento (UE) 2024/1309",
+    "D.Lgs. 207/2021"
+   ],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7d3e42b22451",
    "title": "GANZ: soluzione di smart city per piccoli Comuni",
