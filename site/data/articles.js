@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-11-04T06:19:28.167284+00:00",
+ "updated": "2026-11-04T17:13:55.288380+00:00",
  "articles": [
+  {
+   "id": "4f3f61e39f7f",
+   "title": "AVE rinnova i tasti domotici per sistemi AVEbus e KNX",
+   "title_original": "AVE rinnova i tasti domotici per sistemi AVEbus e KNX",
+   "url": "https://www.impiantinews.it/elettro/prodotti/ave-rinnova-i-tasti-domotici-per-sistemi-avebus-e-knx/",
+   "source": "Impianti News",
+   "date": "2026-11-04T06:58:47+00:00",
+   "added": "2026-11-04T17:13:55.288380+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/0_COVER_tasti-domotici-ave-evoluzione-comando-e1793635348198.jpg",
+   "summary": [
+    "Home » AVE rinnova i tasti domotici per sistemi AVEbus e KNX La nuova gamma di tasti domotici AVE combina design funzionale, retroilluminazione intuitiva e piena compatibilità con i sistemi AVEbus e KNX.",
+    "AVE presenta una nuova generazione di tasti per pulsanti domotici progettata per coniugare innovazione tecnologica, semplicità di utilizzo ed estetica coordinata.",
+    "Uno dei principali punti di forza della nuova gamma è la piena compatibilità con i dispositivi di comando basati sui protocolli AVEbus e KNX."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "fd7b2ecfe051",
    "title": "Kit per citofonia e controllo accessi su rete cellulare",
@@ -75,6 +97,33 @@ window.NEWS_DATA = {
    "translated": false
   },
   {
+   "id": "73ac4a83fe54",
+   "title": "EN 3-11:2026 - Portable fire extinguishers / lithium-ion battery",
+   "title_original": "EN 3-11:2026 - Portable fire extinguishers / lithium-ion battery",
+   "url": "https://www.certifico.com/normazione/news-normazione/en-3-11-2026-portable-fire-extinguishers-lithium-ion-battery",
+   "source": "Certifico",
+   "date": "2026-11-03T12:40:49+00:00",
+   "added": "2026-11-04T17:13:55.288380+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/EN%203-11%202026%20-%20Part%2011.png",
+   "summary": [
+    "The size of the extinguishing tests is comparable to the battery capacities in the above mentioned applications where the battery is accessible.",
+    "EN 3-11:2026 specifies extra performance requirements, a test method and marking rules for portable fire extinguishers used on lithium-ion battery fires. It builds on EN 3-7 and uses extinguishing tests on pouch-cell battery assemblies to show suitability for this specific fire scenario.",
+    "EN 3-11:2026 is used by fire extinguisher manufacturers, test institutes and compliance teams that need to show a product is suitable for lithium-ion battery fires. It is also relevant to certification bodies and product developers who specify extinguishers for workplaces, service vehicles or equipment areas where small battery fires are a known risk."
+   ],
+   "refs": [
+    "EN 3-11:2026",
+    "EN 3-7",
+    "EN 3",
+    "ISO 3941:2026"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "c45beb0f4cb1",
    "title": "ICP DAS USA semplifica l'automazione degli edifici con la nuova serie di video didattici sul TouchPad",
    "title_original": "ICP DAS USA Simplifies Building Automation with New TouchPad Educational Video Series",
@@ -134,6 +183,31 @@ window.NEWS_DATA = {
    ],
    "categories": [
     "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b95b4d6abe49",
+   "title": "Annuario Statistico VVF 2026",
+   "title_original": "Annuario Statistico VVF 2026",
+   "url": "https://www.certifico.com/prevenzione-incendi/annuario-statistico-vvf-2026",
+   "source": "Certifico",
+   "date": "2026-11-03T03:58:10+00:00",
+   "added": "2026-11-04T17:13:55.288380+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Annuario%20statistico%20VVF%202026.png",
+   "summary": [
+    "Nel 2025, il Corpo Nazionale dei Vigili del Fuoco ha effettuato oltre un milione di interventi di soccorso tecnico urgente, di cui la quota maggioritaria dedicata alla gestione degli incendi sul territorio italiano. Sempre più rilevante è il contributo del Corpo alla salvaguardia delle persone in situazioni di pericolo, in special modo in ambito residenziale e lungo la viabilità urbana ed extraurbana.",
+    "STATISTICHE DEGLI INTERVENTI DI SOCCORSO TECNICO URGENTE DEL C.N.VV.F. 1.1.",
+    "Interventi di soccorso tecnico urgente a livello nazionale 1.2.",
+    "Interventi di soccorso tecnico urgente a livello provinciale1.4."
+   ],
+   "refs": [
+    "direttiva 2013/29"
+   ],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": true,
    "lang": "it",
