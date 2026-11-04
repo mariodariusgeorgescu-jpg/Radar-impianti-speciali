@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-11-04T17:13:55.288380+00:00",
+ "updated": "2026-11-04T23:39:14.459947+00:00",
  "articles": [
+  {
+   "id": "fa7320be4313",
+   "title": "HANWHA VISION: telecamera AI All-in-One",
+   "title_original": "HANWHA VISION: telecamera AI All-in-One",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22131&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-04T23:39:14.459947+00:00",
+   "added": "2026-11-04T23:39:14.459947+00:00",
+   "image": "https://www.secsolution.com/pict/news/22131.jpg",
+   "summary": [
+    "SPS-A8016 è una soluzione per la sicurezza indoor che integra telecamera AI da 5 MP, altoparlante da 90 dB, microfoni beamforming e anello LED RGB in un unico dispositivo compatto.",
+    "La combinazione di videoanalisi intelligente, comunicazione audio e segnalazioni visive semplifica l'installazione e riduce la necessità di dispositivi aggiuntivi.",
+    "La telecamera è pensata per ambienti come scuole, banche, negozi e strutture sanitarie, dove è importante rilevare tempestivamente gli eventi e intervenire rapidamente.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "80031be044ff",
+   "title": "MIBA Levante: Aikom porta il suo ecosistema tecnologico",
+   "title_original": "MIBA Levante: Aikom porta il suo ecosistema tecnologico",
+   "url": "https://www.secsolution.com/notizia.asp?id=22166&c=2",
+   "source": "SecSolution",
+   "date": "2026-11-04T23:39:14.459947+00:00",
+   "added": "2026-11-04T23:39:14.459947+00:00",
+   "image": "https://www.secsolution.com/pict/news/22166.jpg",
+   "summary": [
+    "Comunicazioni professionali, videosorveglianza, lettura targhe, connettività e alimentazione.",
+    "Sono questi i principali ambiti applicativi che Aikom Technology presenterà a MIBA Levante, la manifestazione dedicata a costruzioni, sicurezza e impiantistica in programma il 18 e 19 novembre alla Fiera del Levante di Bari.",
+    "Presso lo stand 93, il distributore proporrà una panoramica delle tecnologie che compongono il proprio portafoglio, con particolare attenzione alle esigenze di installatori, system integrator e progettisti chiamati a realizzare infrastrutture sempre più integrate.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "4f3f61e39f7f",
    "title": "AVE rinnova i tasti domotici per sistemi AVEbus e KNX",
