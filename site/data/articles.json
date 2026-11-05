@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-05T17:23:37.862673+00:00",
+ "updated": "2026-11-05T23:38:04.287640+00:00",
  "articles": [
+  {
+   "id": "e2a33dee3695",
+   "title": "Sicurezza urbana, ANIE e ANCI insieme per supportare i Comuni",
+   "title_original": "Sicurezza urbana, ANIE e ANCI insieme per supportare i Comuni",
+   "url": "https://www.secsolution.com/notizia.asp?id=22177&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-05T23:38:04.287640+00:00",
+   "added": "2026-11-05T23:38:04.287640+00:00",
+   "image": "https://www.secsolution.com/pict/news/22177.jpg",
+   "summary": [
+    "Unire competenze tecnologiche e conoscenza del territorio per rendere più efficaci i progetti di sicurezza urbana.",
+    "È questo l'obiettivo del protocollo d'intesa sottoscritto tra Federazione ANIE e ANCI, che apre una collaborazione strutturata a supporto delle amministrazioni locali.",
+    "Tra i temi centrali figura la sicurezza urbana, con particolare attenzione alle tecnologie di videosorveglianza e agli strumenti di supporto alle attività di prevenzione e coordinamento delle forze dell'ordine.",
+    "Un ambito nel quale la corretta progettazione degli impianti, l'integrazione tra sistemi e l'aggiornamento tecnologico assumono un ruolo sempre più strategico."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "868046e77639",
    "title": "Sicurezza antincendio nelle scuole, la Provincia di Cosenza ottiene 2,4 milioni di euro. Faragalli…",
@@ -89,6 +112,29 @@
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "369c6f722b10",
+   "title": "Scuole più sicure, alla Provincia di Cosenza 2,4 milioni per gli impianti antincendio",
+   "title_original": "Scuole più sicure, alla Provincia di Cosenza 2,4 milioni per gli impianti antincendio",
+   "url": "https://www.cosenzachannel.it/politica/provincia-cosenza-finanziamento-antincendio-scuole-r0vw1byu",
+   "source": "Cosenza Channel",
+   "date": "2026-11-05T04:20:00+00:00",
+   "added": "2026-11-05T23:38:04.287640+00:00",
+   "image": "https://images.lac.atexcloud.io/view/acePublic/alias/contentid/1si7nk0bl311uh0gkwf/0/faragalli-provincia-cosenza-1.jpeg?f=3%3A2",
+   "summary": [
+    "Le risorse serviranno per allarmi, reti idriche, estintori e uscite di emergenza negli istituti di competenza provinciale.",
+    "Faragalli: «Un tema che non ammette ritardi né compromessi» La Provincia di Cosenza ha ottenuto un finanziamento di 2.429.050 euro per l’adeguamento alla normativa antincendio e la messa in sicurezza degli edifici scolastici di sua competenza.",
+    "Secondo il presidente Biagio Faragalli, gli interventi riguarderanno scuole in tutta la provincia, dall’Alto al Basso Tirreno, dal versante ionico alle aree interne fino all’area urbana Cosenza-Rende.",
+    "«Questo finanziamento ci permette di intervenire su un tema che non ammette ritardi né compromessi: la sicurezza delle nostre scuole."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "fa7320be4313",
