@@ -1,6 +1,50 @@
 window.NEWS_DATA = {
- "updated": "2026-11-05T06:44:10.600066+00:00",
+ "updated": "2026-11-05T17:23:37.862673+00:00",
  "articles": [
+  {
+   "id": "868046e77639",
+   "title": "Sicurezza antincendio nelle scuole, la Provincia di Cosenza ottiene 2,4 milioni di euro. Faragalli…",
+   "title_original": "Sicurezza antincendio nelle scuole, la Provincia di Cosenza ottiene 2,4 milioni di euro. Faragalli: “Priorità alla tutela degli studenti”",
+   "url": "https://www.montaltouffugonline.it/sicurezza-antincendio-nelle-scuole-la-provincia-di-cosenza-ottiene-24-milioni-di-euro-faragalli-priorita-alla-tutela-degli-studenti/",
+   "source": "Montalto Uffugo Online",
+   "date": "2026-11-05T07:52:00+00:00",
+   "added": "2026-11-05T17:23:37.862673+00:00",
+   "image": "https://www.montaltouffugonline.it/wp-content/uploads/2026/11/Provincia-di-Cosenza-2.429.050-euro-per-la-sicurezza-antincendio-degli-edifici-scolastici.jpg",
+   "summary": [
+    "La Provincia di Cosenza ha ottenuto un finanziamento complessivo di 2.429.050,00 euro nell’ambito dell’Avviso pubblico per l’adeguamento alla normativa antincendio e la realizzazione di interventi urgenti di messa in sicurezza degli edifici pubblici adibiti ad uso scolastico, a seguito della riapertura dei termini disposta il 16 marzo 2026.",
+    "Le risorse assegnate consentiranno di realizzare una serie di interventi urgenti e mirati finalizzati a garantire il ripristino, l’adeguamento e la piena funzionalità degli impianti antincendio e dei presidi di sicurezza presenti negli istituti scolastici di competenza provinciale."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "dc6414aeaa2e",
+   "title": "Frigoriferi hackerati: la sicurezza degli Smart Building è una priorità",
+   "title_original": "Frigoriferi hackerati: la sicurezza degli Smart Building è una priorità",
+   "url": "https://elettricomagazine.it/attualita-news/frigoriferi-hackerati-sicurezza-degli-smart-building-priorita/",
+   "source": "Elettricomagazine",
+   "date": "2026-11-05T07:25:14+00:00",
+   "added": "2026-11-05T17:23:37.862673+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/11/sicurezza-degli-smart-building.jpg",
+   "summary": [
+    "Un frigorifero smette, in apparente autonomia, di refrigerare e conservare gli alimenti e improvvisamente li riscalda fino a comprometterne la sicurezza.",
+    "Le segnalazioni riguardanti la sicurezza degli smart building hanno riguardato punti vendita in diversi Paesi, tra cui Italia, Svezia, Belgio, Lussemburgo, Estonia e Irlanda.",
+    "Capitolati e contratti devono definire durata del supporto, aggiornamenti, gestione delle vulnerabilità, accessi dei fornitori e responsabilità.",
+    "Alla prestazione energetica e alla manutenzione va affiancata la protezione digitale e la sicurezza degli smart building. Pompe di calore, sistemi HVAC e BMS sono nodi di un ecosistema connesso, la cui affidabilità dipende anche dalla capacità di difenderlo."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "bde89789f11b",
    "title": "Tradizione architettonica e tecnologia Vimar in una residenza d’epoca",
@@ -22,6 +66,29 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "889624120e53",
+   "title": "OroraTech sta spostando il rilevamento incendi satellitare da ore a minuti con 15 sensori termici ospitati da Kepler in orbita da...",
+   "title_original": "OroraTech is moving satellite fire detection from hours to minutes with 15 Kepler-hosted thermal sensors in orbit by 2028",
+   "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/ororatech-is-moving-satellite-fire-detection-from-hours-to-minutes-with-15-kepler-hosted-thermal-sensors-in-orbit-by-2028/2463116",
+   "source": "The Manila Times",
+   "date": "2026-11-05T06:11:00+00:00",
+   "added": "2026-11-05T17:23:37.862673+00:00",
+   "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/05/1294371.png",
+   "summary": [
+    "\"Le agenzie ci dicono la stessa cosa in Idaho, Quebec e Alabama: non vogliono più rilevamenti, vogliono quelli giusti, in anticipo, con una dimensione e una posizione su cui possono agire\", ha affermato Thomas Gruebler, CEO di OroraTech USA. \"Prima di tutto termico significa che partiamo dal segnale che esiste prima del fumo.",
+    "Sempre per primo significa che l'allarme dovrebbe essere nelle mani del centralinista prima della prima chiamata al 911.\" L'azienda gestisce in orbita un totale di 20 sensori termici, 18 dei quali sono stati lanciati negli ultimi 2 anni.",
+    "OroraTech gestisce la più grande costellazione satellitare di incendi boschivi al mondo per il rilevamento e il monitoraggio ed è leader globale nell'intelligence sugli incendi boschivi basata su satellite.",
+    "Una foto che accompagna questo annuncio è disponibile su https://www.globenewswire.com/NewsRoom/AttachmentNg/c7ade167-0643-4cc2-b1e4-5881bd397140"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "fa7320be4313",
@@ -64,6 +131,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "35cf3f463a94",
+   "title": "Studentati e co-living: come ottimizzare consumi, accessi e gestione con la building automation",
+   "title_original": "Studentati e co-living: come ottimizzare consumi, accessi e gestione con la building automation",
+   "url": "https://www.milanofinanza.it/news/studentati-e-co-living-come-ottimizzare-consumi-accessi-e-gestione-con-la-building-automation-202611051236318279",
+   "source": "Milano Finanza",
+   "date": "2026-11-04T15:59:00+00:00",
+   "added": "2026-11-05T17:23:37.862673+00:00",
+   "image": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2026/11/202611051236318279/building-automation-591398.jpg?format=webp",
+   "summary": [
+    "Lo student housing sta assumendo un peso crescente nel mercato immobiliare italiano. Secondo i dati diffusi da JLL, nel 2025 il comparto ha attirato circa 500 milioni di euro di investimenti, con circa 28.000 nuovi posti letto in programma nelle principali città universitarie entro il 2029.",
+    "La nuova offerta rimane tuttavia insufficiente rispetto alla domanda.",
+    "La piattaforma per la building automation BIGStudio integra illuminazione, climatizzazione, controllo dei carichi, accessi, allarmi tecnici, scenari e programmazioni, interfacciandosi con differenti impianti e protocolli.",
+    "Con l’aumento dei posti letto e l’ingresso di operatori professionali, la building automation non rappresenta soltanto una dotazione tecnologica dell’immobile: diventa parte del modello di gestione."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
