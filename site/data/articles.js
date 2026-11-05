@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-11-04T23:39:14.459947+00:00",
+ "updated": "2026-11-05T06:44:10.600066+00:00",
  "articles": [
+  {
+   "id": "bde89789f11b",
+   "title": "Tradizione architettonica e tecnologia Vimar in una residenza d’epoca",
+   "title_original": "Tradizione architettonica e tecnologia Vimar in una residenza d’epoca",
+   "url": "https://www.impiantinews.it/elettro/realizzazioni/tradizione-architettonica-e-tecnologia-vimar-in-una-residenza-depoca/",
+   "source": "Impianti News",
+   "date": "2026-11-05T06:40:58+00:00",
+   "added": "2026-11-05T06:44:10.600066+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Vimar-Residenza-privata-a-Bologna-_-2.jpg",
+   "summary": [
+    "Home » Tradizione architettonica e tecnologia Vimar in una residenza d’epoca Il recupero di una prestigiosa palazzina bolognese di inizio Novecento integra domotica, sicurezza e connettività Vimar nel rispetto del suo carattere storico.",
+    "Alle porte del centro storico di Bologna, una prestigiosa palazzina di inizio Novecento ritrova nuova vita grazie a un intervento di recupero che ne preserva il valore storico e architettonico, integrando al tempo stesso soluzioni tecnologiche evolute dedicate al comfort e alla gestione intelligente dell’abitazione.",
+    "Caratterizzata da richiami neoclassici e dettagli di ispirazione Liberty, la residenza conserva il fascino originario attraverso una facciata armoniosa e perfettamente simmetrica, arricchita da modanature e particolari decorativi che emergono con eleganza dall’intonaco grigio chiaro."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "fa7320be4313",
    "title": "HANWHA VISION: telecamera AI All-in-One",
