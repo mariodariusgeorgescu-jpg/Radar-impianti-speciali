@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-05T23:38:04.287640+00:00",
+ "updated": "2026-11-06T06:42:07.517839+00:00",
  "articles": [
+  {
+   "id": "1f43bdfe6800",
+   "title": "Nuove telecamere Wi-Fi a batteria Ezviz con riconoscimento facciale in locale",
+   "title_original": "Nuove telecamere Wi-Fi a batteria Ezviz con riconoscimento facciale in locale",
+   "url": "https://elettricomagazine.it/news-tecnologia/ezviz-telecamere-wifi-batteria-riconoscimento-facciale-in-locale/",
+   "source": "Elettricomagazine",
+   "date": "2026-11-06T01:53:00+00:00",
+   "added": "2026-11-06T06:42:07.517839+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/11/Telecamere-a-batteria-Ezviz.jpg",
+   "summary": [
+    "Ezviz ha presentato la nuova famiglia di telecamere Wi-Fi a batteria per la videosorveglianza da esterno, sviluppata attorno al concetto “Always Seeing, Always Knowing“.",
+    "L’obiettivo è superare quattro limiti tipici di questi dispositivi: eventi non rilevati, punti ciechi, ricariche frequenti e canoni per il cloud.",
+    "Le telecamere a batteria convenzionali si affidano ai sensori a infrarossi passivi (PIR), che possono reagire in ritardo o perdere l’evento prima dell’attivazione.",
+    "La visione notturna a colori è supportata da faretti smart. Sulle telecamere girano algoritmi di intelligenza artificiale che permettono di eseguire il riconoscimento dei volti familiari in locale e senza necessità di abbonamento al cloud."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e2a33dee3695",
    "title": "Sicurezza urbana, ANIE e ANCI insieme per supportare i Comuni",
@@ -21,6 +44,26 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d84d05750f4d",
+   "title": "Scuole più sicure, dalla Provincia di Cosenza 2,4 milioni di euro: interventi antincendio negli istituti",
+   "title_original": "Scuole più sicure, dalla Provincia di Cosenza 2,4 milioni di euro: interventi antincendio negli istituti",
+   "url": "https://www.quicosenza.it/news/scuole-sicure-provincia-cosenza-24-milioni/",
+   "source": "quicosenza",
+   "date": "2026-11-05T08:12:00+00:00",
+   "added": "2026-11-06T06:42:07.517839+00:00",
+   "image": "https://quicosenza.it/news/wp-content/uploads/2026/11/scuole-provincia-finanziamenti-02-970x600.jpg",
+   "summary": [
+    "Unione dei Comuni, Di Tillo al fianco di Principe per il rilancio: «No allo stallo, occorre un confronto serio» Telecamere, vigili di notte, nuova illuminazione e bando asfalti: il piano sicurezza a Rende “No a strumentalizzazioni” Area Urbana26325Calabria41228Ionio4651Italia8633Provincia21559Tirreno3664"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
