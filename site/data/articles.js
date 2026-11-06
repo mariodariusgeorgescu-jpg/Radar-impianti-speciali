@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-11-06T16:45:06.773334+00:00",
+ "updated": "2026-11-06T23:06:46.549013+00:00",
  "articles": [
+  {
+   "id": "294ac26b8012",
+   "title": "Hikvision amplia le opzioni per il controllo accessi hands free",
+   "title_original": "Hikvision amplia le opzioni per il controllo accessi hands free",
+   "url": "https://www.secsolution.com/notizia.asp?id=22174&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-06T23:06:46.549013+00:00",
+   "added": "2026-11-06T23:06:46.549013+00:00",
+   "image": "https://www.secsolution.com/pict/news/22174.jpg",
+   "summary": [
+    "Semplificare l’accesso senza rinunciare alla flessibilità progettuale.",
+    "È questo l’obiettivo dei nuovi terminali Hands Free MinMoe DS-K1T344MBWX-QRE1 e DS-K1T670MWX-QR di Hikvision, pensati per applicazioni che spaziano dalle PMI alle strutture ricettive e ai contesti aziendali più complessi.",
+    "Il modello DS-K1T344MBWX-QRE1 integra un display da 4,5 pollici e può memorizzare fino a 3.000 volti e 3.000 tessere, con alimentazione PoE che contribuisce a ridurre la complessità del cablaggio.",
+    "Il DS-K1T670MWX-QR, invece, adotta un display da 7 pollici e amplia la capacità fino a 6.000 volti e 50.000 tessere."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a557120ca491",
    "title": "Controllo degli impianti HVAC e integrazione BMS",
@@ -19,6 +42,75 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "19c544c72da4",
+   "title": "Poste Italiane, sicurezza in provincia di Rovigo: 338 telecamere e 169 sistemi di protezione",
+   "title_original": "Poste Italiane, sicurezza in provincia di Rovigo: 338 telecamere e 169 sistemi di protezione",
+   "url": "https://www.rovigo.news/poste-italiane-sicurezza-in-provincia-di-rovigo-338-telecamere-e-169-sistemi-di-protezione/",
+   "source": "Rovigo.News",
+   "date": "2026-11-06T09:19:00+00:00",
+   "added": "2026-11-06T23:06:46.549013+00:00",
+   "image": "https://www.rovigo.news/wp-content/uploads/2026/11/Postamat-nuova-generazione.jpg?v=1793985505",
+   "summary": [
+    "ROVIGO – Una rete di tecnologie avanzate per proteggere uffici postali, sportelli automatici, dipendenti e clienti.",
+    "Poste Italiane rafforza il sistema di sicurezza anche in provincia di Rovigo, dove sono attive complessivamente 338 telecamere, 78 impianti antintrusione e 93 impianti di videosorveglianza.",
+    "Il sistema interessa 75 uffici postali, 54 sportelli automatici Postamat e altre sedi di Poste Italiane presenti sul territorio provinciale.",
+    "«La Security Room svolge una funzione strategica per la sicurezza fisica delle sedi di Poste Italiane nella provincia di Rovigo», spiega Stefano Pongan, responsabile di Tutela Aziendale dell’Area Nord Est."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "e70fd735715f",
+   "title": "Poste Italiane protegge il Rodigino con 338 telecamere in uffici postali e Postamat",
+   "title_original": "Poste Italiane protegge il Rodigino con 338 telecamere in uffici postali e Postamat",
+   "url": "https://www.nordest24.it/poste-italiane-338-telecamere-sicurezza-uffici-postali-postamat-rovigo",
+   "source": "Nordest24",
+   "date": "2026-11-06T08:14:00+00:00",
+   "added": "2026-11-06T23:06:46.549013+00:00",
+   "image": "https://cdn9.webmaster360.it/2026/11/covers/01M6RPTEB9AGPQ072K4TJN8AG8.jpg",
+   "summary": [
+    "Un sistema tecnologico che tutela clienti e dipendenti e contribuisce alla prevenzione dei reati.",
+    "Tutti i dispositivi sono collegati alla Control Room di Poste Italiane di Milano, operativa 24 ore su 24, 365 giorni l'anno. Da qui operatori specializzati monitorano in tempo reale la rete aziendale, garantendo supporto alle sedi e una gestione tempestiva delle eventuali situazioni di rischio.",
+    "Poste Italiane protegge il Rodigino con 338 telecamere in uffici postali e Postamat «La Security Room svolge una funzione strategica per la sicurezza fisica delle sedi di Poste Italiane nella provincia di Rovigo», spiega Stefano Pongan, responsabile di Tutela Aziendale dell'Area Nord Est."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3a2bfff78837",
+   "title": "Treviso, Poste Italiane: 750 telecamere e 193 impianti antintrusione",
+   "title_original": "Treviso, Poste Italiane: 750 telecamere e 193 impianti antintrusione",
+   "url": "https://www.nordest24.it/poste-italiane-sicurezza-treviso-telecamere",
+   "source": "Nordest24",
+   "date": "2026-11-06T08:09:00+00:00",
+   "added": "2026-11-06T23:06:46.549013+00:00",
+   "image": "https://cdn9.webmaster360.it/2026/11/covers/01M6RPGJF5KHKENENV306HHVSC.jpg",
+   "summary": [
+    "La rete comprende anche 169 impianti di videosorveglianza e tutela 185 uffici postali e 112 Postamat.",
+    "Treviso, 6 novembre 2026 - 750 telecamere, 193 impianti antintrusione e 169 impianti di videosorveglianza proteggono quotidianamente 185 uffici postali, 112 sportelli automatici Postamat e altre sedi di Poste Italiane nel territorio di Treviso e provincia.",
+    "Treviso, Poste Italiane: 750 telecamere e 193 impianti antintrusione Anche all'interno degli uffici postali sono stati introdotti dispositivi di sicurezza sempre più evoluti.",
+    "In tutto il Veneto sono attivi, a tutela degli uffici postali e delle altre sedi aziendali, 1.451 impianti antintrusione, 1.007 impianti di videosorveglianza e 4.452 telecamere."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc",
+    "antintrusione"
    ],
    "is_norm": false,
    "lang": "it",
@@ -46,6 +138,27 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "641dc4bf3b19",
+   "title": "Analisi delle dimensioni del mercato dei sistemi di soppressione degli incendi per data center, quota e analisi delle tendenze – Previsioni del settore globale…",
+   "title_original": "Data Center Fire Suppression Systems Market Size, Share & Trends Analysis - Global Industry Forecast, 2026-2036 | AI Infrastructure and Water Mist Adoption Drive 8.1% CAGR to ...",
+   "url": "https://finance.yahoo.com/technology/articles/data-center-fire-suppression-systems-173600097.html",
+   "source": "Yahoo Finance",
+   "date": "2026-11-06T05:30:00+00:00",
+   "added": "2026-11-06T23:06:46.549013+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/6ccf2a799eb1d99d0000afc621159db1d5ebad31c9c282d29fdde3757f8458fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F93d5b27580f67db722dd7c112e43e8bc.jpg",
+   "summary": [
+    "Dublino, 6 novembre 2026 (GLOBE NEWSWIRE) -- \"Analisi delle dimensioni del mercato dei sistemi di soppressione degli incendi per data center, delle quote e delle tendenze - Analisi delle opportunità globali e previsioni del settore (2026-2036)\" è stata aggiunta all'offerta di ResearchAndMarkets.com. Secondo il rapporto, si prevede che il mercato globale dei sistemi antincendio per data center raggiungerà i 3,83 miliardi di dollari entro il 2036, rispetto a 1,76 miliardi di dollari nel 2026.",
+    "Si prevede che il mercato crescerà a un CAGR dell’8,1% durante il periodo di previsione (2026-2036), sostenuto dall’accelerazione della costruzione di data center, dall’aumento delle densità di potenza dei rack associate alle implementazioni di GPU AI e da norme di sicurezza antincendio e requisiti assicurativi sempre più rigorosi."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "1f43bdfe6800",
