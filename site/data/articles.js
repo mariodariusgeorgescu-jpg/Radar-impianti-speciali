@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-11-06T06:42:07.517839+00:00",
+ "updated": "2026-11-06T16:45:06.773334+00:00",
  "articles": [
+  {
+   "id": "a557120ca491",
+   "title": "Controllo degli impianti HVAC e integrazione BMS",
+   "title_original": "Controllo degli impianti HVAC e integrazione BMS",
+   "url": "https://www.impiantinews.it/rci/prodotti/controllo-degli-impianti-hvac-e-integrazione-bms/",
+   "source": "Impianti News",
+   "date": "2026-11-06T09:55:21+00:00",
+   "added": "2026-11-06T16:45:06.773334+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/iCM-Pro.png",
+   "summary": [
+    "Le prestazioni di un impianto HVAC dipendono da molto più della qualità dei chiller, delle pompe di calore o della progettazione idraulica.",
+    "Nei grandi edifici commerciali e industriali, anche le apparecchiature più efficienti possono offrire prestazioni inferiori al previsto se il controllo dell’impianto non è ottimizzato.",
+    "Il BMS mantiene la visibilità e il controllo dell’intero impianto, mentre il controllore dedicato ottimizza continuamente il funzionamento HVAC per massimizzare efficienza, affidabilità e prestazioni a lungo termine.",
+    "Questa è la filosofia alla base di Daikin iCM Pro, la piattaforma di controllo impianto di nuova generazione di Daikin Applied Europe (Ariccia, Roma)."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "2813a9b83e64",
+   "title": "Poste Italiane, nel Padovano oltre 870 telecamere proteggono uffici, sedi e sportelli Postamat",
+   "title_original": "Poste Italiane, nel Padovano oltre 870 telecamere proteggono uffici, sedi e sportelli Postamat",
+   "url": "https://www.padova24ore.it/sicurezza-postale-padova-870-telecamere-postamat-2026/",
+   "source": "Padova24Ore",
+   "date": "2026-11-06T07:24:00+00:00",
+   "added": "2026-11-06T16:45:06.773334+00:00",
+   "image": "https://www.padova24ore.it/wp-content/uploads/2026/11/p24-1619-poste.jpg",
+   "summary": [
+    "Poste Italiane presenta la rete di sicurezza nel Padovano: oltre 870 telecamere, 169 impianti antintrusione e 177 di videosorveglianza.",
+    "Il presidio riguarda 160 uffici postali, 116 Postamat e altre sedi, collegati alla Control Room di Milano attiva ogni giorno, anche di notte.",
+    "Oltre 870 telecamere, 169 impianti antintrusione e 177 impianti di videosorveglianza: sono i numeri della sicurezza postale in provincia di Padova comunicati il 6 novembre da Poste Italiane.",
+    "La rete presidia 160 uffici postali, 116 sportelli automatici Postamat e altre sedi aziendali del territorio."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "1f43bdfe6800",
    "title": "Nuove telecamere Wi-Fi a batteria Ezviz con riconoscimento facciale in locale",
