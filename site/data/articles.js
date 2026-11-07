@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-06T23:06:46.549013+00:00",
+ "updated": "2026-11-07T05:56:40.889940+00:00",
  "articles": [
   {
    "id": "294ac26b8012",
@@ -19,6 +19,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "eecf73869d4c",
+   "title": "Marche Sicure, via libera al finanziamento: a Fano 46 nuove telecamere tra parchi, scuole e stazione",
+   "title_original": "Marche Sicure, via libera al finanziamento: a Fano 46 nuove telecamere tra parchi, scuole e stazione",
+   "url": "https://www.viverefano.it/2026/11/06/marche-sicure-via-libera-al-finanziamento-a-fano-46-nuove-telecamere-tra-parchi-scuole-e-stazione/203450/",
+   "source": "viverefano.it",
+   "date": "2026-11-06T12:30:00+00:00",
+   "added": "2026-11-07T05:56:40.889940+00:00",
+   "image": "https://www.viverefano.it/upload/2026_11/1819011_CfakepathIMG5059.jpg",
+   "summary": [
+    "Il progetto del Comune di Fano per rafforzare la videosorveglianza nei parchi, nelle aree scolastiche e intorno alla stazione ottiene il finanziamento regionale.",
+    "La Regione Marche ha approvato le graduatorie del bando “Operazione Marche Sicure”, che mette a disposizione dei Comuni 1,2 milioni di euro per videosorveglianza, control room e tecnologie per il presidio del territorio.",
+    "La Regione Marche ha approvato le graduatorie del bando “Operazione Marche Sicure”, che mette a disposizione dei Comuni 1,2 milioni di euro per videosorveglianza, control room e tecnologie per il presidio del territorio.",
+    "La Regione Marche ha approvato le graduatorie del bando “Operazione Marche Sicure”, che mette a disposizione dei Comuni 1,2 milioni di euro per videosorveglianza, control room e tecnologie per il presidio del territorio."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
@@ -138,6 +161,32 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "a39b27d58dfb",
+   "title": "Rilevare prima, rispondere più velocemente: Digitech spiega perché un sistema di allarme e rivelazione incendi deve essere progettato, non solo installato",
+   "title_original": "Detect Earlier, Respond Faster: Digitech on Why a Fire Detection & Alarm System Must Be Engineered, Not Just Installed",
+   "url": "https://theprint.in/brandit/detect-earlier-respond-faster-digitech-on-why-a-fire-detection-alarm-system-must-be-engineered-not-just-installed/3092650/",
+   "source": "The Print",
+   "date": "2026-11-06T07:08:00+00:00",
+   "added": "2026-11-07T05:56:40.889940+00:00",
+   "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Screenshot-2026-11-06-203551-e1793977596448.png",
+   "summary": [
+    "Mentre gli edifici indiani diventano sempre più alti, più densi e più connessi, l’integratore di sistemi con sede a Bangalore sta aiutando i proprietari delle strutture a passare dagli allarmi che semplicemente suonano ai sistemi che individuano, decidono e agiscono.",
+    "BENGALURU, 2026 — In un incendio i primi minuti decidono quasi tutto. La rapidità con cui viene rilevato il fumo, la precisione con cui se ne conosce la posizione e la rapidità con cui un edificio risponde determinerà se un incidente diventerà un disturbo o un disastro.",
+    "Ecco perché Digitech Communications, un integratore di sistemi certificato ISO 9001 con oltre due decenni di esperienza nel campo della sicurezza della vita, affronta ogni sistema di rilevamento e allarme antincendio come un progetto di ingegneria piuttosto che come un ordine di apparecchiature.",
+    "Digitech Communications Private Limited è un system integrator certificato ISO 9001 con sede a Bangalore."
+   ],
+   "refs": [
+    "ISO 9001"
+   ],
+   "categories": [
+    "antintrusione",
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "641dc4bf3b19",
