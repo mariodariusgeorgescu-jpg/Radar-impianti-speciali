@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-11-08T22:03:13.607732+00:00",
+ "updated": "2026-11-09T06:24:06.155861+00:00",
  "articles": [
+  {
+   "id": "75d7ae47a70b",
+   "title": "Sistemi fire fighting per le navi militari",
+   "title_original": "Sistemi fire fighting per le navi militari",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/sistemi-fire-fighting-per-le-navi-militari/",
+   "source": "Impianti News",
+   "date": "2026-11-09T06:00:35+00:00",
+   "added": "2026-11-09T06:24:06.155861+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/Egitto_Schergat_5_26-e1793010500668.jpg",
+   "summary": [
+    "La fornitura dei sistemi antincendio di Valvitalia per la fregata Spartaco Schergat, costruita da Fincantieri, offre lo spunto per analizzare l’evo­luzione della fire safety nel settore navale militare, tra innovazione tec­nologica, sostenibilità e cybersecurity.",
+    "Per questo motivo, i moderni sistemi fire fighting vengono progettati come par­te integrante dell’architettura complessiva dell’unità navale.",
+    "L’evoluzione delle piattaforme militari ha modificato anche le modalità di spegnimento degli incendi.",
+    "La convergenza tra tecnologie water mist, sistemi a gas, ma­teriali sempre più sostenibili, protocolli di cybersecurity e continui aggiornamenti nor­mativi sta ridefinendo il con­cetto stesso di fire safety nel settore militare."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0a17d8bf4699",
+   "title": "Videosorveglianza AI, Toshiba ottimizza lo storage con OptiFrame AI",
+   "title_original": "Videosorveglianza AI, Toshiba ottimizza lo storage con OptiFrame AI",
+   "url": "https://www.secsolution.com/notizia.asp?id=22173&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-09T02:00:00+00:00",
+   "added": "2026-11-09T06:24:06.155861+00:00",
+   "image": "https://www.secsolution.com/pict/news/22173.jpg",
+   "summary": [
+    "L'intelligenza artificiale sta cambiando anche il modo in cui vengono progettati e gestiti i sistemi di archiviazione per la videosorveglianza.",
+    "Per rispondere alle nuove esigenze generate dall'analisi video avanzata, Toshiba ha sviluppato OptiFrame™ AI, una tecnologia firmware pensata per gestire in modo efficiente i diversi carichi di lavoro che convivono sugli hard disk dedicati alla sorveglianza.",
+    "Nei moderni impianti video, infatti, la registrazione continua deve condividere le risorse del drive con le attività di analisi AI e con la gestione dei metadati.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "294ac26b8012",
    "title": "Hikvision amplia le opzioni per il controllo accessi hands free",
