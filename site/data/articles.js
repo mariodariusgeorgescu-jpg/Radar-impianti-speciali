@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-11-09T06:24:06.155861+00:00",
+ "updated": "2026-11-09T19:47:44.541089+00:00",
  "articles": [
+  {
+   "id": "a3cee2ac6f87",
+   "title": "Sistemi di allarme antintrusione a prova di futuro",
+   "title_original": "Future proofing intruder alarm systems",
+   "url": "https://securityjournaluk.com/future-proofing-intruder-alarm-systems/",
+   "source": "Security Journal UK",
+   "date": "2026-11-09T10:11:12+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/Future-proofing-intruder-alarm-systems.jpg",
+   "summary": [
+    "John Oliver, Senior Product Manager presso HKC Security, esamina l'evoluzione dei sistemi di sicurezza e come gli installatori possono evolvere le proprie capacità a un livello commisurato alle tecnologie che forniscono e supportano. I sistemi di sicurezza sia per le proprietà domestiche che per i locali commerciali si sono evoluti in modo significativo negli ultimi anni e gli allarmi antintrusione non sono più prodotti autonomi progettati per rilevare accessi indesiderati.",
+    "Per gli installatori professionisti ciò crea opportunità significative, ma anche una nuova serie di sfide. Le competenze richieste per l’adattamento dei sistemi vanno ben oltre il cablaggio e l’installazione tradizionali, mentre i clienti stanno diventando sempre più esigenti in termini di connettività, usabilità, resilienza e sicurezza informatica."
+   ],
+   "refs": [
+    "EN 50136"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "75d7ae47a70b",
    "title": "Sistemi fire fighting per le navi militari",
@@ -25,6 +48,79 @@ window.NEWS_DATA = {
    "translated": false
   },
   {
+   "id": "357070d29f66",
+   "title": "Coworking, laboratori e piccoli uffici tech: come sono cambiati gli obblighi antincendio con i decreti del 2021",
+   "title_original": "Coworking, laboratori e piccoli uffici tech: come sono cambiati gli obblighi antincendio con i decreti del 2021",
+   "url": "https://www.wegeek.net/coworking-laboratori-e-piccoli-uffici-tech-come-sono-cambiati-gli-obblighi-antincendio-con-i-decreti-del-2021/",
+   "source": "WeGeek.net",
+   "date": "2026-11-09T02:33:00+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://www.wegeek.net/media/1374/coworking-laboratori-e-piccoli-uffici-tech-large.webp",
+   "summary": [
+    "Chi lavora in un ufficio di sei persone sopra un negozio, o in un coworking ricavato da un ex capannone, tende a pensare alla prevenzione incendi come a una faccenda da grandi stabilimenti, centri commerciali, ospedali.",
+    "Con i tre decreti ministeriali firmati tra il 1° e il 3 settembre 2021, entrati in vigore a scaglioni nell’autunno del 2022, quel quadro è stato smontato e ricostruito.",
+    "La differenza più concreta rispetto al passato è l’aggiornamento obbligatorio almeno ogni cinque anni.",
+    "Ognuno di questi elementi modifica il rischio incendio dell’ambiente, e la valutazione andrebbe rivista ogni volta che entra un’apparecchiatura capace di alterare il quadro, non al rinnovo del contratto d’affitto."
+   ],
+   "refs": [
+    "UNI EN 671"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "14daab63207a",
+   "title": "Sicurezza, norme e casi pratici: il 26 novembre Assosicurezza fa tappa a Forli’. Ecco perche’ partecipare",
+   "title_original": "Sicurezza, norme e casi pratici: il 26 novembre Assosicurezza fa tappa a Forli’. Ecco perche’ partecipare",
+   "url": "https://www.secsolution.com/notizia.asp?id=22181&c=2",
+   "source": "SecSolution",
+   "date": "2026-11-09T02:30:00+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://www.secsolution.com/pict/news/22181.jpg",
+   "summary": [
+    "Dalla nuova CEI 79-3:2024 alla rilevazione gas in ambienti ATEX, dalla manutenzione antincendio alla protezione delle infrastrutture critiche: quattro approfondimenti aziendali e un focus normativo per una formazione gratuita rivolta ai professionisti della sicurezza.",
+    "Il 26 novembre torna e fa tappa a Forlì “La Sicurezza del Made in Italy”, il tour formativo promosso da Assosicurezza.",
+    "Per questo abbiamo costruito un programma che va oltre la teoria: insieme a un approfondimento sulla nuova CEI 79-3:2024, quattro aziende porteranno esperienze e casi applicativi su temi strategici, dalla sicurezza negli ambienti ATEX alla protezione delle infrastrutture critiche."
+   ],
+   "refs": [
+    "CEI 79-3:2024",
+    "EN 16763"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6289dd0439cd",
+   "title": "VIDEO | Padova Flash, le notizie da tutto il territorio",
+   "title_original": "VIDEO | Padova Flash, le notizie da tutto il territorio",
+   "url": "https://tgpadova.telenuovo.it/attualita/2026/11/09/video-padova-flash-le-notizie-da-tutto-il-territorio-585",
+   "source": "tgpadova.telenuovo",
+   "date": "2026-11-09T02:05:00+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://mediastream.telenuovo.it/video/2026/11/09/79030e90-d066-403c-8f2d-e54b1d79253c/thumbnail.jpg",
+   "summary": [
+    "Oltre 870 telecamere, 169 impianti antintrusione e 177 impianti di videosorveglianza proteggono quotidianamente 160 uffici postali, 116 sportelli automatici Postamat e altre sedi di Poste Italiane nel territorio di Padova e provincia.",
+    "Inaugurato il nuovo collettore Carpanedo-Sabbioni, un’opera realizzata dal Consorzio di bonifica Bacchiglione per migliorare la sicurezza idraulica dei territori di Albignasego e Maserà di Padova.",
+    "L’intervento ha previsto la realizzazione di un nuovo canale lungo circa 5 chilometri grazie ai finanziamenti della Regione del Veneto e del Ministero dell’agricoltura.",
+    "Antonia Arslan, scrittrice e saggista, voce del popolo armeno, torna a Monselice per presentare il suo nuovo libro “Memorie di una Lady Armena da Costantinopoli a Padova’."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "0a17d8bf4699",
    "title": "Videosorveglianza AI, Toshiba ottimizza lo storage con OptiFrame AI",
    "title_original": "Videosorveglianza AI, Toshiba ottimizza lo storage con OptiFrame AI",
@@ -42,6 +138,51 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6b2048b5ba74",
+   "title": "Manutentori antincendio: autodichiarazione per i 3 anni di esperienza",
+   "title_original": "Manutentori antincendio: autodichiarazione per i 3 anni di esperienza",
+   "url": "https://www.puntosicuro.it/normativa-antincendio-C-87/manutentori-antincendio-autodichiarazione-per-i-3-anni-di-esperienza-AR-26915/",
+   "source": "PuntoSicuro",
+   "date": "2026-11-08T16:00:00+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://www.puntosicuro.it/_resources/images/__PS_IMMAGINI/antincendio-2.jpg",
+   "summary": [
+    "Come già illustrato nelle analisi dedicate alle novità sulla fase transitoria e sulle scadenze dei manutentori antincendio, il quadro regolatorio ha previsto specifiche finestre procedurali per consentire ai soggetti già operanti sul mercato di regolarizzare la propria posizione abilitativa.",
+    "Per i datori di lavoro committenti che affidano in appalto attività di manutenzione dei presidi antincendio, l'articolo 26 del D.Lgs. 81/2008 prevede l'obbligo di verificare l'idoneità tecnico-professionale delle imprese appaltatrici e dei lavoratori autonomi."
+   ],
+   "refs": [
+    "D.Lgs. 81/2008"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f9bdf183b07c",
+   "title": "Automated Logic To Acquire Logical Solutions, Expanding Carrier’s Intelligent Building Management Business In Texas",
+   "title_original": "Automated Logic To Acquire Logical Solutions, Expanding Carrier’s Intelligent Building Management Business In Texas",
+   "url": "https://pulse2.com/automated-logic-to-acquire-logical-solutions-expanding-carriers-intelligent-building-management-business-in-texas/",
+   "source": "Pulse 2.0",
+   "date": "2026-11-08T08:14:00+00:00",
+   "added": "2026-11-09T19:47:44.541089+00:00",
+   "image": "https://cdn.pulse2.com/cdn/2026/11/Automated-Logic-Logo.jpeg",
+   "summary": [
+    "Automated Logic, a subsidiary of Carrier Global Corporation, has signed a definitive agreement to acquire Logical Solutions, a Richardson, Texas-based provider of building automation and management systems.",
+    "The acquisition will expand Automated Logic’s technical workforce and service capabilities, particularly for mission-critical facilities requiring advanced building controls.",
+    "The acquisition will strengthen Carrier’s building automation business while expanding Automated Logic’s ability to support complex facilities and national customers."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
