@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-09T19:47:44.541089+00:00",
+ "updated": "2026-11-10T03:33:22.822710+00:00",
  "articles": [
+  {
+   "id": "b3841a004f84",
+   "title": "Sicurezza integrata e smart building: la digitalizzazione degli edifici",
+   "title_original": "Sicurezza integrata e smart building: la digitalizzazione degli edifici",
+   "url": "https://elettricomagazine.it/smart-tech-tecnologie-intelligenti/sicurezza-integrata-e-smart-building-digitalizzazione-edifici/",
+   "source": "Elettricomagazine",
+   "date": "2026-11-10T01:11:00+00:00",
+   "added": "2026-11-10T03:33:22.822710+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/11/smart-building-e-sicurezza.jpg",
+   "summary": [
+    "Cambiano gli impianti elettrici e attraverso la digitalizzazione nascono gli edifici intelligenti, sempre più ultra connessi ai sistemi di automazione, monitoraggio e protezione dei dati.",
+    "In questo scenario la sicurezza fisica è diventata parte integrante dello smart building. Le piattaforme di aziende come Genetec consentono la gestione centralizzata di videocamere, sensori e sistemi di controllo degli accessi.",
+    "Questa nuova dimensione del mercato punta sull’interoperabilità dei dispositivi di videosorveglianza, sull’efficienza energetica e sulla continuità operativa degli edifici.",
+    "La nuova normativa europea sta attribuendo una maggiore attenzione alla sicurezza delle infrastrutture digitali e ai software per la loro gestione, imponendo alle organizzazioni interessate una valutazione più accurata di tutti i rischi."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d86f699d0425",
+   "title": "Realizzazione di alimentazione simultanea superiore a 10W e trasmissione del segnale di rilevamento incendio tramite fibra ottica a…",
+   "title_original": "Realization of Simultaneous Power Supply Exceeding 10W and Fire Detection Signal Transmission via Optical Fiber at The University of Electro-Communications and NEXCO Research ...",
+   "url": "https://note.com/jeakansai/n/n708156e25a49?hl=en",
+   "source": "note",
+   "date": "2026-11-09T19:33:00+00:00",
+   "added": "2026-11-10T03:33:22.822710+00:00",
+   "image": "https://assets.st-note.com/production/uploads/images/334363985/rectangle_large_type_2_674e8d6d50aea551f96d1089e18f2bc1.jpeg?fit=bounds&quality=85&width=1280",
+   "summary": [
+    "In questo esperimento, utilizzando una fibra ottica brevettata a doppio rivestimento, hanno ottenuto la trasmissione simultanea di potenza superiore a 10 W e segnali di rilevamento incendio.",
+    "La fibra ottica pur essendo una linea di trasmissione non induttiva, ha la caratteristica di poter fornire energia tramite la luce.",
+    "Poiché la fibra ottica utilizzata in questo esperimento era lunga 300 metri, si prevede di condurre esperimenti dimostrativi e test sul campo su distanze più lunghe. Attualmente, i rilevatori antincendio utilizzati sulle autostrade sono installati con due cavi: uno per la comunicazione e uno per l'alimentazione.",
+    "Alimentandoli con un unico alimentatore in fibra ottica e consentendo la comunicazione delle informazioni, è considerato efficace per contromisure contro i danni da fulmini e per ridurre i costi di cablaggio dei cavi elettrici. Si prevedono risultati futuri verso l'applicazione pratica."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "a3cee2ac6f87",
    "title": "Sistemi di allarme antintrusione a prova di futuro",
