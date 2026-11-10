@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-10T03:33:22.822710+00:00",
+ "updated": "2026-11-10T14:51:28.674492+00:00",
  "articles": [
+  {
+   "id": "d883866d102a",
+   "title": "Hanwha Vision lancia nuovi iniettori PoE industriali",
+   "title_original": "Hanwha Vision launches new industrial PoE injectors",
+   "url": "https://securityjournaluk.com/hanwha-vision-new-industrial-poe-injectors/",
+   "source": "Security Journal UK",
+   "date": "2026-11-10T11:04:49+00:00",
+   "added": "2026-11-10T14:51:28.674492+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/Hanwha-Vision-launches-new-industrial-PoE-injectors.jpg",
+   "summary": [
+    "Hanwha Vision ha lanciato una nuova gamma di iniettori Power over Ethernet (PoE) Smart Network Industrial (SNI), progettati per semplificare l'installazione delle telecamere e fornire prestazioni affidabili in ambienti esigenti.",
+    "Progettata e prodotta nel Regno Unito esclusivamente per Hanwha Vision da AMG, la nuova gamma combina funzionalità PoE ad alta potenza, struttura industriale compatta e opzioni di montaggio flessibili per supportare un'ampia varietà di applicazioni di sicurezza.",
+    "La nuova gamma SNI comprende l'iniettore PoE industriale SNI-1PI-PS90-UK e l'iniettore PoE industriale ibrido SNI-2HMC-PS90-UK, forniti con collegamenti di alimentazione di rete del Regno Unito; l'iniettore PoE industriale SNI-1PI-PS90-EU e l'iniettore PoE industriale ibrido SNI-2HMC-PS90-EU incorporano prese EU."
+   ],
+   "refs": [
+    "EN 62368-1",
+    "EN 55032",
+    "EN 50121-4",
+    "TS2"
+   ],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "dcb4103f5ae2",
+   "title": "Cortexa: sull’Epbd IV l’Italia non può permettersi un’altra occasione persa",
+   "title_original": "Cortexa: sull’Epbd IV l’Italia non può permettersi un’altra occasione persa",
+   "url": "https://requadro.com/cortexa-sullepbd-iv-litalia-non-puo-permettersi-unaltra-occasione-persa/",
+   "source": "requadro.com",
+   "date": "2026-11-10T06:11:00+00:00",
+   "added": "2026-11-10T14:51:28.674492+00:00",
+   "image": "https://requadro.com/wp-content/uploads/2024/03/direttiva-case-green.jpg",
+   "summary": [
+    "Sulla direttiva Epbd IV, nota come Case green, serve una strategia nazionale stabile per riqualificare gli edifici.",
+    "Per oltre il 60% dei progettisti la direttiva è fondamentale per la riqualificazione degli immobili italiani.",
+    "Cortexa promuove dal 2007 il sistema a cappotto in kit, con ETA e marcatura CE, e ha collaborato allo sviluppo della UNI/TR 11715 per progettazione e posa e della UNI 11716 per la certificazione delle competenze dei posatori”, afferma Monaco.",
+    "Come Ordine professionale, consideriamo la formazione continua e l’aggiornamento delle competenze strumenti essenziali per accompagnare i professionisti in questa fase di profonda trasformazione."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "b3841a004f84",
    "title": "Sicurezza integrata e smart building: la digitalizzazione degli edifici",
@@ -46,6 +96,26 @@
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "86dd4aec5318",
+   "title": "Case Green, proposta degli Amici della Terra per recepire direttiva EPBD",
+   "title_original": "Case Green, proposta degli Amici della Terra per recepire direttiva EPBD",
+   "url": "https://www.staffettaonline.com/articolo.aspx?id=408935",
+   "source": "Staffetta Quotidiana",
+   "date": "2026-11-09T16:00:00+00:00",
+   "added": "2026-11-10T14:51:28.674492+00:00",
+   "image": "https://www.staffettaonline.com/foto/fotofb1.ashx?f=2026/20261110231043_408935.png&t=Case%20Green%2C%20proposta%20degli%20Amici%20della%20Terra%20per%20recepire%20direttiva%20EPBD",
+   "summary": [
+    "XVIII Conferenza nazionale sull’efficienza energetica degli Amici della Terra, dal titolo “Più che mai efficienza en... https://www.staffettaonline.com/articolo.aspx?id=408935 ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "a3cee2ac6f87",
@@ -180,6 +250,28 @@
     "Per rispondere alle nuove esigenze generate dall'analisi video avanzata, Toshiba ha sviluppato OptiFrame™ AI, una tecnologia firmware pensata per gestire in modo efficiente i diversi carichi di lavoro che convivono sugli hard disk dedicati alla sorveglianza.",
     "Nei moderni impianti video, infatti, la registrazione continua deve condividere le risorse del drive con le attività di analisi AI e con la gestione dei metadati.",
     "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "be206748fb10",
+   "title": "Poste Italiane: oltre 870 telecamere per proteggere uffici e Postamat",
+   "title_original": "Poste Italiane: oltre 870 telecamere per proteggere uffici e Postamat",
+   "url": "https://tgpadova.telenuovo.it/attualita/2026/11/09/poste-italiane-oltre-870-telecamere-per-proteggere-uffici-e-postamat",
+   "source": "tgpadova.telenuovo",
+   "date": "2026-11-09T00:17:00+00:00",
+   "added": "2026-11-10T14:51:28.674492+00:00",
+   "image": "https://cdnimage.telenuovo.it/images/2026/11/09/312307d6-0a1b-4657-9c01-7d142a994774/1200x620.png",
+   "summary": [
+    "Oltre 870 telecamere, 169 impianti antintrusione e 177 impianti di videosorveglianza proteggono quotidianamente 160 uffici postali, 116 sportelli automatici Postamat e altre sedi di Poste Italiane nel territorio di Padova e provincia.",
+    "Un sistema tecnologico che tutela clienti e dipendenti e contribuisce alla prevenzione dei reati.Tutti i dispositivi sono collegati alla Control Room di Poste Italiane di Milano, operativa 24 ore su 24, 365 giorni l'anno. Da qui operatori specializzati monitorano in tempo reale la rete aziendale, garantendo supporto alle sedi e una gestione tempestiva delle eventuali situazioni di rischio.",
+    "\"Il modello organizzativo è orientato al miglioramento continuo - conclude Pongan - attraverso l'aggiornamento delle procedure, la formazione degli operatori e l'innovazione tecnologica\"."
    ],
    "refs": [],
    "categories": [
