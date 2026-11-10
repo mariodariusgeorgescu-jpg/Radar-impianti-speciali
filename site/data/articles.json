@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-10T14:51:28.674492+00:00",
+ "updated": "2026-11-10T21:17:29.528093+00:00",
  "articles": [
+  {
+   "id": "e342caa4abf6",
+   "title": "Come OptiFrame™ AI gestisce i carichi di lavoro misti di sorveglianza",
+   "title_original": "Come OptiFrame™ AI gestisce i carichi di lavoro misti di sorveglianza",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/come-optiframe-ai-gestisce-i-carichi-di-lavoro-misti-di-sorveglianza/",
+   "source": "Impianti News",
+   "date": "2026-11-10T14:52:25+00:00",
+   "added": "2026-11-10T21:17:29.528093+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Progetto-senza-titolo-4-web.jpg",
+   "summary": [
+    "Home » Come OptiFrame™ AI gestisce i carichi di lavoro misti di sorveglianza Ogni attività all’interno di un sistema di videosorveglianza basato sull’AI genera traffico di archiviazione.",
+    "Gli aggiornamenti dei metadati introducono ulteriori piccole operazioni di lettura e scrittura.",
+    "Una richiesta di recupero di filmati registrati in precedenza può arrivare mentre è ancora in corso la registrazione di un nuovo video, ma ritardare le due operazioni comporta conseguenze diverse.",
+    "Un flusso di registrazione continuo, una richiesta di analisi di filmati precedentemente acquisiti e un aggiornamento dei metadati di sorveglianza accedono tutti allo stesso supporto di archiviazione, ma ciascuno ha requisiti operativi diversi."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d883866d102a",
    "title": "Hanwha Vision lancia nuovi iniettori PoE industriali",
@@ -29,6 +52,29 @@
    "translated": true
   },
   {
+   "id": "f28b1e27d7e6",
+   "title": "Capaccio, sicurezza e videosorveglianza: approvato regolamento",
+   "title_original": "Capaccio, sicurezza e videosorveglianza: approvato regolamento",
+   "url": "https://vocedistrada.it/localita/capaccio-2/capaccio-sicurezza-e-videosorveglianza-approvato-regolamento/",
+   "source": "Voce di Strada",
+   "date": "2026-11-10T07:33:00+00:00",
+   "added": "2026-11-10T21:17:29.528093+00:00",
+   "image": "https://vocedistrada.it/wp-content/uploads/2023/06/control-room-videosorveglianza-battipaglia--200x200.jpg",
+   "summary": [
+    "Capaccio Paestum, approvato il nuovo regolamento sulla videosorveglianza: sicurezza urbana, tutela del patrimonio comunale e protezione dei dati personali.",
+    "Nuove regole per la gestione dei sistemi di videosorveglianza nella Città dei Templi.",
+    "Il Commissario straordinario Francesco Cirillo, ha approvato il ” Regolamento comunale per la disciplina della videosorveglianza sul territorio comunale”.",
+    "Il nuovo regolamento, composto da sei capi e venti articoli, disciplina le finalità dei sistemi, le responsabilità degli uffici e del personale autorizzato, le modalità di accesso alle immagini, i tempi di conservazione delle registrazioni e le garanzie a tutela della privacy dei cittadini."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "dcb4103f5ae2",
    "title": "Cortexa: sull’Epbd IV l’Italia non può permettersi un’altra occasione persa",
    "title_original": "Cortexa: sull’Epbd IV l’Italia non può permettersi un’altra occasione persa",
@@ -48,6 +94,27 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "b77b31fb60c7",
+   "title": "Sicurezza negli uffici postali vicentini: 753 telecamere e 175 sistemi antintrusione",
+   "title_original": "Sicurezza negli uffici postali vicentini: 753 telecamere e 175 sistemi antintrusione",
+   "url": "https://www.vipiu.it/leggi/sicurezza-poste-vicenza/",
+   "source": "ViPiù",
+   "date": "2026-11-10T05:09:00+00:00",
+   "added": "2026-11-10T21:17:29.528093+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.AAwWeBepiT1jRsonQTslHg&pid=News",
+   "summary": [
+    "Sicurezza Poste Vicenza: 753 telecamere e 175 impianti antintrusione proteggono uffici, sedi e Postamat collegati alla centrale operativa."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc",
+    "antintrusione"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
@@ -114,6 +181,30 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f4e146447c1a",
+   "title": "Honeywell Technologies Introduces AI-Powered Building Automation, Fire Safety and Security Innovations",
+   "title_original": "Honeywell Technologies Introduces AI-Powered Building Automation, Fire Safety and Security Innovations",
+   "url": "https://www.securityinfowatch.com/ai/product/55417867/honeywell-honeywell-technologies-introduces-ai-powered-building-automation-fire-safety-and-security-innovations",
+   "source": "Security Info Watch",
+   "date": "2026-11-09T16:00:00+00:00",
+   "added": "2026-11-10T21:17:29.528093+00:00",
+   "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/11/6af3555ea7659457be5314b4-screenshot_20261110_113127.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+   "summary": [
+    "Honeywell Technologies is advancing building management with intelligent platforms that connect security, fire protection and facility operations.",
+    "The new offerings are intended to help organizations modernize building infrastructure and accelerate the transition from traditional automation to increasingly autonomous operations.",
+    "In security, Honeywell Technologies plans to introduce the LenelS2 Adaptive Intelligence Suite, which will add AI-powered capabilities to existing security platforms.",
+    "Honeywell Technologies said the framework will help building owners, system integrators and operators move toward increasingly autonomous building operations."
+   ],
+   "refs": [],
+   "categories": [
+    "bms",
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
