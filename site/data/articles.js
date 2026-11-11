@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-11-11T06:15:19.264185+00:00",
+ "updated": "2026-11-11T14:27:44.457442+00:00",
  "articles": [
+  {
+   "id": "ffb59003bd12",
+   "title": "Prevenzione incendi negli edifici di civile abitazione - RTV v. 14 del CPI",
+   "title_original": "Prevenzione incendi negli edifici di civile abitazione - RTV v. 14 del CPI",
+   "url": "https://www.certifico.com/prevenzione-incendi/prevenzione-incendi-negli-edifici-di-civile-abitazione-rtv-v-14-del-cpi",
+   "source": "Certifico",
+   "date": "2026-11-11T09:13:19+00:00",
+   "added": "2026-11-11T14:27:44.457442+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Prevenzione%20incendi%20negli%20edifici%20di%20civile%20abitazione%20-%20RTV%20v.%2014%20del%20CPI.png",
+   "summary": [
+    "Generalità 1.0 Scopo 1.1 Campo di applicazione 2.",
+    "Caratteristiche costruttive 2.0 Classificazione 2.1 Comportamento al fuoco 2.2 Scelta dell'area 2.3 Compartimentazione 2.4 Scale2.5 Ascensori 2.6 Comunicazioni 2.7 Scale, androni e passaggi comuni - reazioni al fuoco dei materiali 3.",
+    "S. 2.9) Soluzione alternativa per la resistenza al fuoco (par.",
+    "V.1, V.2, V.3 e V.13) CollegatiCodice Prevenzione Incendi DM 3 agosto 2015 | RTO IIDecreto 16 maggio 1987 n. 246 | Consolidato 2019D.M. 16 maggio 1987 n. 246 Emergenza epidemiologica COVID-19: Aggiornamento sulla proroga delle scadenze in mater..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "69f336e20f07",
+   "title": "Spac Automazione 2027: SDProget porta la progettazione elettrica sempre più vicina al cablaggio",
+   "title_original": "Spac Automazione 2027: SDProget porta la progettazione elettrica sempre più vicina al cablaggio",
+   "url": "https://automazione-plus.it/spac-automazione-2027-sdproget_177112/",
+   "source": "Automazione Plus",
+   "date": "2026-11-11T08:45:58+00:00",
+   "added": "2026-11-11T14:27:44.457442+00:00",
+   "image": "https://automazione-plus.it/wp-content/uploads/sites/3/2026/11/Direzione-morsetti-scuro-150x150.jpg",
+   "summary": [
+    "È da esigenze quotidiane come questa che nasce l’evoluzione di Spac Automazione 2027, la nuova versione del software CAD sviluppato da SDProget Industrial Software per la progettazione elettrica per l’automazione industriale.",
+    "L’intelligenza artificiale, i servizi cloud e l’automazione dovrebbero rendere la progettazione più produttiva.",
+    "L’intelligenza artificiale, i servizi cloud e l’automazione dovrebbero rendere la progettazione più produttiva.",
+    "L’intelligenza artificiale, i servizi cloud e l’automazione dovrebbero rendere la progettazione più produttiva."
+   ],
+   "refs": [],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "5125cd0c5fba",
    "title": "Telecamere a prova di attacco",
