@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
- "updated": "2026-11-10T21:17:29.528093+00:00",
+ "updated": "2026-11-11T06:15:19.264185+00:00",
  "articles": [
+  {
+   "id": "5125cd0c5fba",
+   "title": "Telecamere a prova di attacco",
+   "title_original": "Telecamere a prova di attacco",
+   "url": "https://www.impiantinews.it/sicurezza/professione/telecamere-a-prova-di-attacco/",
+   "source": "Impianti News",
+   "date": "2026-11-11T06:00:57+00:00",
+   "added": "2026-11-11T06:15:19.264185+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/TLC_AdobeStock_1562594445_36249382_View-scaled-e1793094655935.jpeg",
+   "summary": [
+    "I sistemi TVCC con AI aprono il campo a nuove vulnerabilità, dalle tecniche per eludere l’analisi video automatica al rischio deepfake.",
+    "Se non vengono cambiate, chiunque può entrare nel siste­ma e visualizzare le immagini o modificare le impostazioni; inoltre, un impianto non pro­tetto può diventare un punto di accesso alla rete del cliente.",
+    "In questo modo si ridu­ce la superficie di attacco e si limita la possibilità che l’acces­so alle telecamere si estenda ad altri sistemi.",
+    "Senza aggiornamenti regolari del firmware e del software, le falle di sicurezza del sistema rimangono aperte e gli algoritmi di analisi possono diventare meno efficaci o più facilmente eludibili."
+   ],
+   "refs": [
+    "EN50131"
+   ],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "810fa5d1bc96",
+   "title": "Marcatura CE e certificazione antincendio",
+   "title_original": "Marcatura CE e certificazione antincendio",
+   "url": "https://www.secsolution.com/notizia.asp?id=22187&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-11T02:00:00+00:00",
+   "added": "2026-11-11T06:15:19.264185+00:00",
+   "image": "https://www.secsolution.com/pict/news/22187.jpg",
+   "summary": [
+    "Nel settore della sicurezza antincendio, la conformità normativa rappresenta molto più di un semplice adempimento formale.",
+    "Dietro la marcatura CE di prodotti come gli alimentatori certificati EN54-4 si nasconde infatti un articolato percorso di verifica che coinvolge sia le prestazioni del dispositivo sia l'intero processo produttivo.",
+    "Per un alimentatore destinato ai sistemi antincendio, la certificazione si traduce in controlli concreti.",
+    "La norma EN54-4 impone infatti requisiti specifici relativi all'alimentazione primaria, alla gestione e ricarica delle batterie e alla segnalazione tempestiva delle anomalie."
+   ],
+   "refs": [
+    "EN54-4"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e342caa4abf6",
    "title": "Come OptiFrame™ AI gestisce i carichi di lavoro misti di sorveglianza",
@@ -666,6 +716,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "3a595c198246",
+   "title": "Antincendio nelle scuole, quasi 700mila euro per gli istituti della Calabria Nord-Est",
+   "title_original": "Antincendio nelle scuole, quasi 700mila euro per gli istituti della Calabria Nord-Est",
+   "url": "https://ecodellojonio.it/articoli/attualita/2026/11/antincendio-nelle-scuole-quasi-700mila-euro-per-gli-istituti-della-calabria-nord-est",
+   "source": "EcodelloJonio",
+   "date": "2026-11-06T00:11:00+00:00",
+   "added": "2026-11-11T06:15:19.264185+00:00",
+   "image": "https://ecodellojonio.b-cdn.net/media/posts/26/11/1793945864.jpg?aspect_ratio=16:9&width=1152",
+   "summary": [
+    "CORIGLIANO-ROSSANO – Sei istituti scolastici della Calabria nord-orientale riceveranno complessivamente 687.800 euro per l’adeguamento degli impianti antincendio.",
+    "Gli interventi interesseranno le sedi di Rossano, Cariati, Crosia, Castrovillari, Sibari e Trebisacce e rientrano nel finanziamento complessivo di 2.429.050 euro ottenuto dalla Provincia di Cosenza.",
+    "La quota più alta, 190mila euro, è destinata all’ITS “G.",
+    "Da Vinci” di Castrovillari, con 129.900 euro, e il liceo scientifico e istituto professionale di Crosia, con 128mila euro."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
