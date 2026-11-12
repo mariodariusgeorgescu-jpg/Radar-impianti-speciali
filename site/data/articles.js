@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-12T07:08:16.092783+00:00",
+ "updated": "2026-11-12T17:35:09.702436+00:00",
  "articles": [
   {
    "id": "2751c05667ee",
@@ -41,6 +41,26 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "290742928aa1",
+   "title": "From Cloud Pipelines To Smart Buildings: Pooja Chandrashekar Murigappa Brings A Security Mindset To Building Automation",
+   "title_original": "From Cloud Pipelines To Smart Buildings: Pooja Chandrashekar Murigappa Brings A Security Mindset To Building Automation",
+   "url": "https://www.outlookindia.com/hub4business/from-cloud-pipelines-to-smart-buildings-pooja-chandrashekar-murigappa-brings-a-security-mindset-to-building-automation",
+   "source": "Outlook India",
+   "date": "2026-11-11T20:32:00+00:00",
+   "added": "2026-11-12T17:35:09.702436+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.Qq5kpJpUrFafKgNO6XXZpw&pid=News",
+   "summary": [
+    "Pooja Chandrashekar Murigappa, a software engineer who built machine-learning systems at Amazon is now applying cybersecurity thinking to the automation systems that run commercial and university ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
