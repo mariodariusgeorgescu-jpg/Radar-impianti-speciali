@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-12T17:35:09.702436+00:00",
+ "updated": "2026-11-12T23:37:54.255321+00:00",
  "articles": [
+  {
+   "id": "e3a2522030bb",
+   "title": "Classes de GTB : laquelle choisir pour être conforme au décret BACS ?",
+   "title_original": "Classes de GTB : laquelle choisir pour être conforme au décret BACS ?",
+   "url": "https://www.msn.com/fr-fr/actualite/other/classes-de-gtb-laquelle-choisir-pour-%C3%AAtre-conforme-au-d%C3%A9cret-bacs/ar-AA2hjXuf",
+   "source": "L'EnerGeek on MSN",
+   "date": "2026-11-12T08:24:42+00:00",
+   "added": "2026-11-12T23:37:54.255321+00:00",
+   "image": "",
+   "summary": [
+    "Avec le décret BACS,l’installation d’une GTB (Gestion Technique du Bâtiment GTB) est devenue obligatoire dans de nombreux bâtiments tertiaires. Mais toutes les GTB ne se valent pas."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "986193440b36",
+   "title": "Sicurezza antincendio negli edifici residenziali: la guida INAIL alla RTV V.14 tra riqualificazione e nuove soluzioni…",
+   "title_original": "Sicurezza antincendio negli edifici residenziali: la guida INAIL alla RTV V.14 tra riqualificazione e nuove soluzioni progettuali",
+   "url": "https://www.ingenio-web.it/articoli/sicurezza-antincendio-negli-edifici-residenziali-la-guida-inail-alla-rtv-v-14-tra-riqualificazione-e-nuove-soluzioni-progettuali/",
+   "source": "Ingenio",
+   "date": "2026-11-12T07:56:00+00:00",
+   "added": "2026-11-12T23:37:54.255321+00:00",
+   "image": "https://www.ingenio-web.it/upload/blog/e/9/7/78569fc25313e07e5a1d2b0e4733b36a73090945_og.jpg",
+   "summary": [
+    "La nuova guida INAIL approfondisce l'applicazione della RTV V.14 alla sicurezza antincendio degli edifici residenziali, attraverso il caso studio di una torre riconvertita da uffici ad abitazioni.",
+    "La sicurezza antincendio degli edifici residenziali rappresenta una sfida particolarmente complessa quando si interviene su costruzioni esistenti, soprattutto in presenza di cambi di destinazione d'uso.",
+    "Una nuova pubblicazione INAIL, realizzata con la collaborazione dei Vigili del Fuoco e del Consiglio Nazionale degli Ingegneri, approfondisce l'applicazione della Regola Tecnica Verticale V.14 del Codice di prevenzione incendi."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "2751c05667ee",
    "title": "Videosorveglianza: cosa cambia davvero tra una telecamera tradizionale e una con AI?",
