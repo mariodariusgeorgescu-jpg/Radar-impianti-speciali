@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-11T21:56:40.233158+00:00",
+ "updated": "2026-11-12T07:08:16.092783+00:00",
  "articles": [
+  {
+   "id": "2751c05667ee",
+   "title": "Videosorveglianza: cosa cambia davvero tra una telecamera tradizionale e una con AI?",
+   "title_original": "Videosorveglianza: cosa cambia davvero tra una telecamera tradizionale e una con AI?",
+   "url": "https://www.impiantinews.it/elettro/prodotti/videosorveglianza-cosa-cambia-davvero-tra-una-telecamera-tradizionale-e-una-con-ai/",
+   "source": "Impianti News",
+   "date": "2026-11-12T06:57:49+00:00",
+   "added": "2026-11-12T07:08:16.092783+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/videosorveglianza-IC-Intracom.png",
+   "summary": [
+    "Home » Videosorveglianza: cosa cambia davvero tra una telecamera tradizionale e una con AI?",
+    "Con le soluzioni di videosorveglianza e networking di IC Intracom, l’Intelligenza Artificiale diventa uno strumento concreto per ridurre i falsi allarmi e migliorare la gestione degli eventi.",
+    "Una telecamera tradizionale rileva un movimento e registra l’evento.",
+    "La scelta della telecamera è quindi solo il primo passo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1e2617ad449b",
+   "title": "Videosorveglianza, sanzionato dal Garante l’Istituto Nazionale di Ricerca Metrologica",
+   "title_original": "Videosorveglianza, sanzionato dal Garante l’Istituto Nazionale di Ricerca Metrologica",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/videosorveglianza-sanzionato-dal-garante-listituto-nazionale-di-ricerca-metrologica/",
+   "source": "Impianti News",
+   "date": "2026-11-12T06:00:54+00:00",
+   "added": "2026-11-12T07:08:16.092783+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/10/AdobeStock_1638457546_34586182_View-e1793092719640.jpeg",
+   "summary": [
+    "Home » Videosorveglianza, sanzionato dal Garante l’Istituto Nazionale di Ricerca Metrologica Il Garante privacy ha recentemente sanzionato l’Istituto Nazionale di Ricerca Metrologica perché l’attivazione delle telecamere non rispettava gli accordi sindacali.",
+    "Il Garante per la protezione dei dati personali ha comminato una sanzione di 10mila euro all’Istituto Nazionale di Ricerca Metrologica (INRIM) di Torino, a seguito dei reclami di due dipendenti che lamentavano una violazione dei dati personali e dell’articolo 4 dello Statuto dei lavoratori, in relazione all’impiego di un impianto di videosorveglianza (provvedimento n.620 del 3.9.2026).",
+    "Nello specifico, l’ente aveva aumentato di otto unità il numero di telecamere previste, modificandone la collocazione e le relative aree di ripresa rispetto a quanto stabilito nell’accordo sindacale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "7c2c8450751d",
    "title": "Telecamere panoramiche a 180° con deterrenza Live Guard",
@@ -118,6 +163,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "fac92ba034dd",
+   "title": "Quando è stata l'ultima volta che hai controllato l'allarme antincendio? 3 punti chiave che dovresti sapere",
+   "title_original": "When was the last time you checked your fire alarm? 3 key points you should know",
+   "url": "https://note.com/newsno_sonosaki/n/n212db9bbfaa2?hl=en",
+   "source": "note",
+   "date": "2026-11-10T22:18:00+00:00",
+   "added": "2026-11-12T07:08:16.092783+00:00",
+   "image": "https://assets.st-note.com/production/uploads/images/334839504/rectangle_large_type_2_bf0dcc82274fc09eb41d228ffe2f88ff.png?fit=bounds&quality=85&width=1280",
+   "summary": [
+    "Potrebbero esserci alcuni di voi che la pensano così e non lo controllano da anni.",
+    "In effetti, un allarme antincendio non è qualcosa che puoi semplicemente installare e dimenticare.",
+    "La domanda è se la tua famiglia sarà in grado di accorgersi se suona l'allarme.",
+    "Esistono allarmi antincendio residenziali \"interconnessi\" in cui, quando si rileva un incendio, suoneranno anche altri allarmi collegati."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "e342caa4abf6",
