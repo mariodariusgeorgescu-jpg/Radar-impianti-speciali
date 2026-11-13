@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-12T23:37:54.255321+00:00",
+ "updated": "2026-11-13T06:42:55.330181+00:00",
  "articles": [
   {
    "id": "e3a2522030bb",
@@ -87,6 +87,29 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "7fa4cc65d76d",
+   "title": "Le 10 migliori società di sistemi di gestione degli edifici in India nel 2027",
+   "title_original": "Top 10 Best Building Management System Companies in India in 2027",
+   "url": "https://www.inventiva.co.in/trends/top-10-best-building-management-system-companies-in-india-in-2027/",
+   "source": "Inventiva",
+   "date": "2026-11-12T00:44:00+00:00",
+   "added": "2026-11-13T06:42:55.330181+00:00",
+   "image": "https://www.inventiva.co.in/wp-content/uploads/2024/04/inventiva2.jpeg",
+   "summary": [
+    "I sistemi di gestione degli edifici sono diventati infrastrutture essenziali per le strutture moderne in tutta l’India.",
+    "La combinazione di controller hardware, piattaforme software e strumenti di analisi posiziona le soluzioni Honeywell sia per progetti di nuova costruzione che di ammodernamento che cercano risparmi energetici misurabili e una migliore esperienza degli occupanti.",
+    "La combinazione di apparecchiature meccaniche collaudate e software di automazione accessibile posiziona Carrier sia per le nuove installazioni che per la modernizzazione dei sistemi esistenti alla ricerca di una migliore efficienza e comfort degli occupanti.",
+    "Queste dieci società forniscono collettivamente la profondità tecnologica, la presenza locale e l’esperienza progettuale necessarie per soddisfare le diverse richieste dell’ambiente edificato indiano in evoluzione."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "290742928aa1",
