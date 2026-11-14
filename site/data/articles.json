@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T15:48:29.689939+00:00",
+ "updated": "2026-11-14T22:22:24.119310+00:00",
  "articles": [
+  {
+   "id": "bc6c72c03f06",
+   "title": "PREVENZIONE INCENDI NEGLI EDIFICI DI CIVILE ABITAZIONE: PUBBLICATA LA NUOVA GUIDA DELL’INAIL",
+   "title_original": "PREVENZIONE INCENDI NEGLI EDIFICI DI CIVILE ABITAZIONE: PUBBLICATA LA NUOVA GUIDA DELL’INAIL",
+   "url": "https://www.donnegeometra.it/portfolio/prevenzione-incendi-negli-edifici-di-civile-abitazione-pubblicata-la-nuova-guida-dellinail",
+   "source": "donnegeometra",
+   "date": "2026-11-14T10:33:00+00:00",
+   "added": "2026-11-14T22:22:24.119310+00:00",
+   "image": "https://www.donnegeometra.it/wp-content/uploads/2026/11/ANTINCENDIO-1024x576.png",
+   "summary": [
+    "Prevenzione incendi negli edifici di civile abitazione: pubblicato il nuovo volume INAIL sulla RTV V.14 La sicurezza antincendio degli edifici residenziali rappresenta uno degli aspetti più rilevanti nella progettazione, nella costruzione e nella gestione del patrimonio edilizio.",
+    "In questo contesto, sul sito dell’INAIL è stato pubblicato il volume “Prevenzione incendi negli edifici di civile abitazione”, un documento tecnico di particolare interesse per professionisti, progettisti, amministratori di condominio, tecnici della prevenzione e operatori del settore delle costruzioni.",
+    "Tale norma costituisce oggi il principale riferimento per la progettazione e la valutazione della sicurezza antincendio negli edifici destinati a civile abitazione."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e3a2522030bb",
    "title": "Classes de GTB : laquelle choisir pour être conforme au décret BACS ?",
@@ -1186,6 +1208,29 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "1304ae35e92d",
+   "title": "Gli allarmi antincendio dovrebbero essere sostituiti ogni 10 anni: un controllo di 3 minuti prima della campagna del 9 novembre",
+   "title_original": "Fire Alarms Should Be Replaced Every 10 Years: A 3-Minute Check Before the November 9th Campaign",
+   "url": "https://note.com/xyz7/n/n45cababc0292?hl=en",
+   "source": "note",
+   "date": "2026-11-04T17:29:00+00:00",
+   "added": "2026-11-14T22:22:24.119310+00:00",
+   "image": "https://assets.st-note.com/production/uploads/images/332132565/rectangle_large_type_2_a5f044a49fed2054d7aa5a0a7a19af23.png?fit=bounds&quality=85&width=1280",
+   "summary": [
+    "Gli allarmi antincendio residenziali dovrebbero essere sostituiti 10 anni dopo l'installazione (Agenzia per la gestione degli incendi e dei disastri).",
+    "Prima della Campagna Antincendio che partirà dal 9 novembre, controlla “quando è stato installato” e “se funziona ancora correttamente”. Se è vecchio o non sei sicuro, sostituiscilo con uno che abbia un \"marchio di certificazione\". All'improvviso alzo lo sguardo al soffitto. Quella cosa bianca e rotonda è lì.",
+    "La campagna nazionale di prevenzione incendi autunnale 2026 si svolgerà per 7 giorni da lunedì 9 novembre a domenica 15 novembre.",
+    "Gli allarmi antincendio domestici devono essere sostituiti ogni 10 anni!\" ) Se non suona, verificare innanzitutto che la batteria sia installata correttamente."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "35cf3f463a94",
