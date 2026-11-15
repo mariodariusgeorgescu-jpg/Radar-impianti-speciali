@@ -1,6 +1,26 @@
 window.NEWS_DATA = {
- "updated": "2026-11-14T22:22:24.119310+00:00",
+ "updated": "2026-11-15T06:28:55.708378+00:00",
  "articles": [
+  {
+   "id": "ccb5abeef0ce",
+   "title": "CABQ espanderà i dispositivi di rilevamento precoce degli incendi Torch dopo il successo del progetto pilota",
+   "title_original": "CABQ to expand Torch early fire detection devices after successful pilot",
+   "url": "https://www.msn.com/en-us/news/other/cabq-to-expand-torch-early-fire-detection-devices-after-successful-pilot/ar-AA2hrPUn",
+   "source": "KRQE Albuquerque on MSN",
+   "date": "2026-11-14T19:22:44+00:00",
+   "added": "2026-11-15T06:28:55.708378+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.LU1C3wEV-loNMrxDuaktKw&pid=News",
+   "summary": [
+    "ALBUQUERQUE, N.M. (KRQE) – Nel tentativo di rafforzare la risposta antincendio della città, il Dipartimento dei parchi e delle attività ricreative della città di Albuquerque sta espandendo i suoi dispositivi utilizzati per il rilevamento precoce degli incendi nel..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "bc6c72c03f06",
    "title": "PREVENZIONE INCENDI NEGLI EDIFICI DI CIVILE ABITAZIONE: PUBBLICATA LA NUOVA GUIDA DELL’INAIL",
