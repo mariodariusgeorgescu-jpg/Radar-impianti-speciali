@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-16T06:26:32.784340+00:00",
+ "updated": "2026-11-16T19:35:19.725588+00:00",
  "articles": [
   {
    "id": "d9e9fa59ae63",
@@ -24,6 +24,27 @@ window.NEWS_DATA = {
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "9aa76b08d15f",
+   "title": "ebook Prevenzione Incendi: Le 80 attività soggette a controlli",
+   "title_original": "ebook Prevenzione Incendi: Le 80 attività soggette a controlli",
+   "url": "https://www.certifico.com/ebook/ebook-prevenzione-incendi-le-80-attivita-soggette-a-controlli",
+   "source": "Certifico",
+   "date": "2026-11-16T02:21:00+00:00",
+   "added": "2026-11-16T19:35:19.725588+00:00",
+   "image": "https://www.certifico.com/images/articoli/news2019/04/dpr-151-2011.png",
+   "summary": [
+    "Disponibile, in allegato, il testo aggiornato con modifiche e note Riservato Abbonati in formato PDF stampabile/copiabile.",
+    "Prezzo: GratuitoSistemi Operativi: iOS/AndroidRevisione: 2.0Pubblicato: 01/01/2018Autore: Ing. Marco MaccarelliEditore: Certifico s.r.l. Lingue: Italiano ISBN: 978-88-90744-79-2Abbonati: Sicurezza/2X/3X/4X/Full Testata editoriale iscritta al n. 22/2024 del registro periodici della cancelleria del Tribunale di Perugia in data 19.11.2024"
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
