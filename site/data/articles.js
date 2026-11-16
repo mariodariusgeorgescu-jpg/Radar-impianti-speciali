@@ -1,6 +1,59 @@
 window.NEWS_DATA = {
- "updated": "2026-11-15T22:47:33.518605+00:00",
+ "updated": "2026-11-16T06:26:32.784340+00:00",
  "articles": [
+  {
+   "id": "d9e9fa59ae63",
+   "title": "Quando 2+2≠ 4",
+   "title_original": "Quando 2+2≠ 4",
+   "url": "https://www.impiantinews.it/sicurezza/professione/quando-22%e2%89%a0-4/",
+   "source": "Impianti News",
+   "date": "2026-11-16T06:00:22+00:00",
+   "added": "2026-11-16T06:26:32.784340+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/VDT_AdobeStock_1950062724_36416881_View-scaled-e1793635443536.jpeg",
+   "summary": [
+    "Nella realizzazione di impianti di allarme intrusione IAS, grado di sicurezza e livello di prestazione non sono sinonimi e non possono essere utilizzati indistintamente: un dettaglio importante anche dal punto di vista commerciale.",
+    "Il grado di sicurezza identifica le caratteristiche delle apparecchiature che compongono un sistema di allarme IAS ed è definito dalla norma EN 50131.",
+    "È definito dalla norma CEI 79-3 e riguarda l’intero impianto, non il singolo prodotto.",
+    "La risposta è no. È vero che il grado delle apparecchiature rappresenta uno dei requisiti fondamentali, ma non è l’unico elemento preso in considerazione dalla norma CEI 79-3."
+   ],
+   "refs": [
+    "EN 50131",
+    "CEI 79-3"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "9ab7a075c82b",
+   "title": "Sistemi di allarme monitorati e impianti smart: le nuove opportunità per gli installatori elettrici",
+   "title_original": "Sistemi di allarme monitorati e impianti smart: le nuove opportunità per gli installatori elettrici",
+   "url": "https://elettricomagazine.it/news-tecnologia/sistemi-di-allarme-monitorati-impianti-smart-opportunita-installatori-elettrici/",
+   "source": "Elettricomagazine",
+   "date": "2026-11-16T01:35:00+00:00",
+   "added": "2026-11-16T06:26:32.784340+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/11/sistemi-di-allarme-monitorati-verisure.jpg",
+   "summary": [
+    "Nel settore dell’impiantistica civile e terziaria, il perimetro della sicurezza si sta trasformando rapidamente.",
+    "La crescente diffusione di dispositivi connessi e soluzioni per la smart home ha aumentato la consapevolezza degli utenti, ma ha anche messo in evidenza i limiti dei sistemi antintrusione tradizionali e delle soluzioni fai da te.",
+    "Per gli installatori elettrici e gli specialisti della domotica, questo cambiamento rappresenta l’opportunità di andare oltre la sola fornitura di hardware e proporre un servizio completo in grado di garantire continuità operativa e valore nel tempo."
+   ],
+   "refs": [
+    "CEI 79-03",
+    "EN 50131",
+    "UNI 10891",
+    "UNI CEI EN 50518"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "ccb5abeef0ce",
    "title": "CABQ espanderà i dispositivi di rilevamento precoce degli incendi Torch dopo il successo del progetto pilota",
