@@ -1,6 +1,51 @@
 window.NEWS_DATA = {
- "updated": "2026-11-17T03:52:09.223181+00:00",
+ "updated": "2026-11-17T15:58:05.825121+00:00",
  "articles": [
+  {
+   "id": "d8d2efe27941",
+   "title": "Crime Report 2026: sicurezza nei cantieri, i mesi più critici sono alle porte",
+   "title_original": "Crime Report 2026: sicurezza nei cantieri, i mesi più critici sono alle porte",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/crime-report-2026-sicurezza-nei-cantieri-i-mesi-piu-critici-sono-alle-porte/",
+   "source": "Impianti News",
+   "date": "2026-11-17T11:58:51+00:00",
+   "added": "2026-11-17T15:58:05.825121+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/BauWatch-product-greenLight-construction-site-night_0007-2-2-2-COP.jpg",
+   "summary": [
+    "Home » Crime Report 2026: sicurezza nei cantieri, i mesi più critici sono alle porte Con l’arrivo dei mesi invernali, caratterizzati da giornate più corte e più ore di buio, i cantieri italiani si preparano ad affrontare una delle fasi più delicate dell’anno sul fronte della sicurezza.",
+    "Secondo il Crime Report 2026 di BauWatch, infatti, quasi due operatori su tre (63,4%) ritengono che furti e intrusioni siano più frequenti in autunno e inverno, confermando come la riduzione delle ore di luce continui a rappresentare un fattore di rischio significativo per il settore delle costruzioni.",
+    "«I mesi invernali continuano a rappresentare una delle fasi più critiche dell’anno per la sicurezza dei cantieri», commenta Laura Casparrini, Managing Director di BauWatch Italia."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "f497356535a2",
+   "title": "La regolamentazione del riconoscimento facciale da parte della polizia può portare una riforma significativa alla sorveglianza biometrica?",
+   "title_original": "Can police facial recognition regulation bring meaningful reform to biometric surveillance?",
+   "url": "https://www.biometricupdate.com/202611/can-police-facial-recognition-regulation-bring-meaningful-reform-to-biometric-surveillance",
+   "source": "Biometric Update",
+   "date": "2026-11-17T06:54:00+00:00",
+   "added": "2026-11-17T15:58:05.825121+00:00",
+   "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2026/05/05131024/uk-police-LFR-scaled.jpg",
+   "summary": [
+    "Del professor Fraser Sampson, ex commissario britannico per la biometria e le telecamere di sorveglianza Si è concluso il processo attentamente monitorato sulla tecnologia di riconoscimento facciale in tempo reale (FRT) della polizia nell'Australia occidentale (WA).",
+    "In un certo senso, la CCTV è la pesca a strascico, la FRT è la pesca subacquea e la metafora evidenzia la dimensione e la forma della sfida per una regolamentazione efficace della sorveglianza biometrica.",
+    "Cosa dice questo a noi – o al comitato di sorveglianza della polizia – sull’efficacia della tecnologia o sul suo impiego?",
+    "I piani di riforma devono riflettere la realtà delle nostre vite dipendenti dalla tecnologia, altrimenti torneremo allo stesso tavolo da disegno biometrico a cui stiamo fissando da un decennio."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "0f8002e1dffc",
    "title": "PESS TECHNOLOGIES: gateway per video verifica",
