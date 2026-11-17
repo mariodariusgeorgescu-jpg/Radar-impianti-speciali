@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-16T19:35:19.725588+00:00",
+ "updated": "2026-11-17T03:52:09.223181+00:00",
  "articles": [
+  {
+   "id": "0f8002e1dffc",
+   "title": "PESS TECHNOLOGIES: gateway per video verifica",
+   "title_original": "PESS TECHNOLOGIES: gateway per video verifica",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22164&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-17T03:00:00+00:00",
+   "added": "2026-11-17T03:52:09.223181+00:00",
+   "image": "https://www.secsolution.com/pict/news/22164.jpg",
+   "summary": [
+    "i.See è un gateway di videoverifica e videoanalisi progettato per integrare i sistemi d'antintrusione con la videosorveglianza.",
+    "Permette di associare le telecamere direttamente ai sensori d'allarme per verificare visivamente cosa succede in tempo reale o al momento dell'evento.",
+    "Funziona con telecamere IP, NVR e DVR compatibili con i protocolli ONVIF e RTSP.",
+    "La versione i.See 2.0 gestisce fino a 32 flussi video."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "117f32164802",
+   "title": "Sicurezza, a Forli’ il seminario di Assosicurezza con cinque esperti del settore",
+   "title_original": "Sicurezza, a Forli’ il seminario di Assosicurezza con cinque esperti del settore",
+   "url": "https://www.secsolution.com/notizia.asp?id=22201&c=0",
+   "source": "SecSolution",
+   "date": "2026-11-17T02:30:00+00:00",
+   "added": "2026-11-17T03:52:09.223181+00:00",
+   "image": "https://www.secsolution.com/pict/news/22201.jpg",
+   "summary": [
+    "Il 26 novembre Forlì ospita una nuova tappa del tour formativo “La Sicurezza del Made in Italy”, promosso da Assosicurezza.",
+    "Un appuntamento gratuito dedicato ai professionisti della sicurezza, con un programma che mette al centro aggiornamenti normativi, soluzioni tecnologiche e casi applicativi.",
+    "Ad aprire i lavori sarà Roberto Dalla Torre, esperto di normativa, con un approfondimento sulla nuova CEI 79-3:2024 e sulle novità per i sistemi antintrusione.",
+    "La partecipazione è gratuita, previa registrazione e fino a esaurimento dei posti disponibili."
+   ],
+   "refs": [
+    "CEI 79-3:2024"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d9e9fa59ae63",
    "title": "Quando 2+2≠ 4",
