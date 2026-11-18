@@ -1,6 +1,49 @@
 window.NEWS_DATA = {
- "updated": "2026-11-18T00:56:56.595280+00:00",
+ "updated": "2026-11-18T11:39:45.110876+00:00",
  "articles": [
+  {
+   "id": "c0f560c39aad",
+   "title": "Rame e fibra ottica: perché le reti ibride sono la soluzione più efficiente",
+   "title_original": "Rame e fibra ottica: perché le reti ibride sono la soluzione più efficiente",
+   "url": "https://www.impiantinews.it/elettro/sponsored/rame-e-fibra-ottica-reti-ibride/",
+   "source": "Impianti News",
+   "date": "2026-11-18T09:27:37+00:00",
+   "added": "2026-11-18T11:39:45.110876+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Cover_download_WP_IC_Intracom_Rame_Fibra_2026.jpg",
+   "summary": [
+    "Home » Rame e fibra ottica: perché le reti ibride sono la soluzione più efficiente La fibra ottica garantisce prestazioni elevate e collegamenti su lunghe distanze, mentre il rame conserva un ruolo importante nel cablaggio delle reti LAN. Le soluzioni ibride permettono di combinare i vantaggi delle due tecnologie, ottimizzando prestazioni e investimenti.",
+    "Quando si parla di reti di telecomunicazione e trasmissione dati, la fibra ottica rappresenta la tecnologia di riferimento per velocità, larghezza di banda e capacità di coprire lunghe distanze."
+   ],
+   "refs": [],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "4947c13b094a",
+   "title": "Sicurezza a “valore aggiunto” con digitalizzazione, sinergia e integrazione",
+   "title_original": "Sicurezza a “valore aggiunto” con digitalizzazione, sinergia e integrazione",
+   "url": "https://www.impiantinews.it/sicurezza/distribuzione/sicurezza-a-valore-aggiunto-con-digitalizzazione-sinergia-e-integrazione/",
+   "source": "Impianti News",
+   "date": "2026-11-18T06:00:25+00:00",
+   "added": "2026-11-18T11:39:45.110876+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/ADV-SHENZHEN_5_26-e1793694517457.jpg",
+   "summary": [
+    "Home » Sicurezza a “valore aggiunto” con digitalizzazione, sinergia e integrazione Advanced Innovations non è solo distributore di soluzioni ad alta tecnologia, ma supporta i clienti con servizi ex­tra-ordinari in grado di accrescere il valore dei prodotti.",
+    "L’azienda trova nella sinergia tra clienti e produttori e nella cooperazione i suoi punti di forza, offrendo ai propri clienti competenze tecniche in costante aggiornamento e una selezione di marchi produttori dinamica e attenta alle novità a livello internazionale.",
+    "«Nata da uno storico gruppo industriale presente nel mercato della sicurezza dal 1979, Advanced Innovations prende vita 21 anni fa con lo scopo precipuo di importare e rendere disponibili sul territorio nazionale tecnologie avanzate per la sicurezza."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "2ce715f1f17d",
    "title": "MYSCANTRONICITALIA BY NERONI: centrale antintrusione ibrida",
