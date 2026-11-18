@@ -1,6 +1,32 @@
 window.NEWS_DATA = {
- "updated": "2026-11-17T15:58:05.825121+00:00",
+ "updated": "2026-11-18T00:56:56.595280+00:00",
  "articles": [
+  {
+   "id": "2ce715f1f17d",
+   "title": "MYSCANTRONICITALIA BY NERONI: centrale antintrusione ibrida",
+   "title_original": "MYSCANTRONICITALIA BY NERONI: centrale antintrusione ibrida",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22169&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-18T00:56:56.595280+00:00",
+   "added": "2026-11-18T00:56:56.595280+00:00",
+   "image": "https://www.secsolution.com/pict/news/22169.jpg",
+   "summary": [
+    "Scantronic PAN-80HE-KPZ è una centrale antintrusione ibrida con certificazione di cybersicurezza EN18031-1 e sicurezza antintrusione EN 50131 Grado 2.",
+    "Fornita con tastiera e lettore di prossimità, integra 10 zone filari e 30 radio, espandibili fino a 80, e gestisce 80 utenti.",
+    "La tecnologia Scantronic Secure Radio (SSR) offre comunicazioni bidirezionali crittografate.",
+    "Disponibili moduli opzionali Wi-Fi, 4G e combinati. maggiori informazioni su: https://www.myscantronicitalia.com/ La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [
+    "EN18031-1",
+    "EN 50131"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d8d2efe27941",
    "title": "Crime Report 2026: sicurezza nei cantieri, i mesi più critici sono alle porte",
