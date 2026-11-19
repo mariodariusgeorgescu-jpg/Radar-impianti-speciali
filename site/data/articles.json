@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T20:29:37.733268+00:00",
+ "updated": "2026-11-19T02:33:05.982249+00:00",
  "articles": [
+  {
+   "id": "b9e52912d799",
+   "title": "Sicilia: 11 milioni di euro per rafforzare la sicurezza nei musei",
+   "title_original": "Sicilia: 11 milioni di euro per rafforzare la sicurezza nei musei",
+   "url": "https://www.secsolution.com/notizia.asp?id=22206&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-19T02:33:05.982249+00:00",
+   "added": "2026-11-19T02:33:05.982249+00:00",
+   "image": "https://www.secsolution.com/pict/news/22206.jpg",
+   "summary": [
+    "Regione Sicilia ha stanziato 11 milioni di euro nel triennio 2027-2029 per potenziare la sicurezza dei musei e dei luoghi della cultura, dopo il furto di alcune opere di Antonello da Messina dal Museo Accascina di Messina.",
+    "Le risorse saranno destinate all'aggiornamento dei sistemi antintrusione, della protezione perimetrale, della videosorveglianza e del controllo accessi, con la previsione di collegamenti diretti alle centrali operative delle forze dell'ordine.",
+    "Una quota dei fondi sarà inoltre utilizzata per migliorare gli impianti di rilevazione e spegnimento incendi.",
+    "La cybersicurezza dei sistemi di videosorveglianza Corso riconosciuto da TÜV Italia Corsi in programmazione riconosciuti per il mantenimento e la preparazione alla certificazione TÜV Italia Scenari, tecnologia e formazione sulla sicurezza in formato audio"
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "71ae0e75a899",
+   "title": "MIBA Levante: sicurezza e building automation al centro",
+   "title_original": "MIBA Levante: sicurezza e building automation al centro",
+   "url": "https://www.secsolution.com/notizia.asp?id=22210&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-19T02:30:00+00:00",
+   "added": "2026-11-19T02:33:05.982249+00:00",
+   "image": "https://www.secsolution.com/pict/news/22210.jpg",
+   "summary": [
+    "Oltre 200 aziende espositrici e più di 50 appuntamenti tra convegni, workshop e momenti formativi.",
+    "Sono questi i numeri di MIBA Levante, appuntamento dedicato al mondo delle costruzioni, dell'impiantistica e dell'innovazione tecnologica, in programma il 18 e 19 novembre alla Nuova Fiera del Levante di Bari.",
+    "Organizzata da Pentastudio e Fiera Milano, la manifestazione nasce dall'esperienza di MIBA - Milan International Building Alliance e punta a diventare un punto di riferimento per il confronto tra professionisti, imprese e progettisti sui temi della trasformazione del costruito: efficienza energetica, smart building, sostenibilità, digitalizzazione e sicurezza."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "07e5261c2fa7",
+   "title": "WOLF SAFETY BY ELP: unita’ di comando motori per EFC, serrande e vasistas",
+   "title_original": "WOLF SAFETY BY ELP: unita’ di comando motori per EFC, serrande e vasistas",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22170&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-19T02:00:00+00:00",
+   "added": "2026-11-19T02:33:05.982249+00:00",
+   "image": "https://www.secsolution.com/pict/news/22170.jpg",
+   "summary": [
+    "L’unita’ di controllo EVAC MOT dispone di due canali di comando motori, ciascuno con una corrente massima di 13 A, comprensiva della corrente di spunto.",
+    "E’... #WOLFSAFETYBYELP #unitàcomandomotori"
+   ],
+   "refs": [],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "c0f560c39aad",
    "title": "Rame e fibra ottica: perché le reti ibride sono la soluzione più efficiente",
@@ -599,6 +665,26 @@
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "c5a18e526125",
+   "title": "Honeywell unveils AI-powered building automation systems",
+   "title_original": "Honeywell unveils AI-powered building automation systems",
+   "url": "https://www.msn.com/en-us/news/other/honeywell-unveils-ai-powered-building-automation-systems/ar-AA2h95de",
+   "source": "Seeking Alpha on MSN",
+   "date": "2026-11-10T08:10:03+00:00",
+   "added": "2026-11-19T02:33:05.982249+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.nRUPifOaPXmoJjSDy0g6dQ&pid=News",
+   "summary": [
+    "Honeywell Technologies (HON) on Tuesday introduced a series of artificial intelligence-powered building automation products, including systems designed to improve energy efficiency, fire detection and ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "f28b1e27d7e6",
@@ -2559,6 +2645,29 @@
    ],
    "categories": [
     "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "eed39499f331",
+   "title": "Normativa Tecnica Antincendio",
+   "title_original": "Normativa Tecnica Antincendio",
+   "url": "https://www.edilportale.com/normativa/antincendio",
+   "source": "Edilportale",
+   "date": "2026-10-26T17:00:00+00:00",
+   "added": "2026-11-19T02:33:05.982249+00:00",
+   "image": "",
+   "summary": [
+    "Circolare Ministero dell'Interno - Dipartimento dei Vigili del Fuoco - Chiarimenti applicativi in merito all’installazione di impianti fotovoltaici in attività soggette alle procedure di prevenzione incendi ai sensi del D.P.R. 1° agosto 2011, n. 151 – Applicaz...",
+    "Decreto Ministeriale Ministero dell'Interno - Modifiche ed integrazioni al decreto 1° settembre 2021 recante «Criteri generali per il controllo e la manutenzione degli impianti, attrezzature ed altri sistemi di sicurezza antincendio, ai sensi dell'articolo 46, comma 3, l..."
+   ],
+   "refs": [
+    "regolamento (UE) n. 305/2011"
+   ],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": true,
    "lang": "it",
