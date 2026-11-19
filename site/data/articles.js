@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-11-19T11:37:46.519868+00:00",
+ "updated": "2026-11-19T20:35:05.569209+00:00",
  "articles": [
+  {
+   "id": "027a01283ede",
+   "title": "CASA DELLA MUSICA E PALA POLI: AFFIDATO UN INCARICO DA 17MILA EURO PER LA PREVENZIONE INCENDI",
+   "title_original": "CASA DELLA MUSICA E PALA POLI: AFFIDATO UN INCARICO DA 17MILA EURO PER LA PREVENZIONE INCENDI",
+   "url": "https://ilfattodimolfetta.it/2026/11/19/casa-della-musica-e-pala-poli-affidato-un-incarico-da-17mila-euro-per-la-prevenzione-incendi/",
+   "source": "ilfattodimolfetta",
+   "date": "2026-11-19T04:12:00+00:00",
+   "added": "2026-11-19T20:35:05.569209+00:00",
+   "image": "https://ilfattodimolfetta.it/wp-content/uploads/241025molfetta-manutenzione-impianti-antincendio-2025-2027.jpg",
+   "summary": [
+    "Approvati i verbali della commissione con la determinazione dirigenziale n. 1480 del 13 novembre 2026.",
+    "Prontamente intervenuti Polizia Locale e Carabinieri.",
+    "Gli agenti della Polizia Approvati i verbali della commissione con la determinazione dirigenziale n. 1480 del 13 novembre 2026.",
+    "Prontamente intervenuti Polizia Locale e Carabinieri."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "b9e52912d799",
    "title": "Sicilia: 11 milioni di euro per rafforzare la sicurezza nei musei",
@@ -62,6 +85,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "75c42f793012",
+   "title": "Museo del mare di Trieste: Comelit firma il progetto sicurezza",
+   "title_original": "Museo del mare di Trieste: Comelit firma il progetto sicurezza",
+   "url": "https://www.nordestnews.it/2026/11/19/museo-del-mare-di-trieste-comelit-firma-il-progetto-sicurezza/",
+   "source": "nordestnews.it",
+   "date": "2026-11-18T16:01:00+00:00",
+   "added": "2026-11-19T20:35:05.569209+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.MzhfAOH9dnw78b6oKkhE0Q&pid=News",
+   "summary": [
+    "La collaborazione ultradecennale con Edil Costruzioni Group si rinnova in un progetto che integra rivelazione incendi, evacuazione vocale, videosorveglianza e antintrusione.",
+    "Comelit è stata scelta da Edil Costruzioni Group come unico partner tecnologico per la sicurezza del Museo del Mare di Trieste, ospitato nel Magazzino 26, uno degli edifici più rappresentativi del Porto Vecchio.",
+    "Una realtà che ha scelto di affidarsi a Comelit per rispondere alle diverse esigenze di sicurezza del museo.",
+    "Il progetto del Museo del Mare di Trieste rappresenta così una nuova tappa nella collaborazione tra Comelit ed Edil Costruzioni Group e conferma il valore di un approccio alla sicurezza che unisce competenze specialistiche, tecnologie complementari e continuità del supporto, dalla progettazione alla realizzazione."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
