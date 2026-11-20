@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-11-19T20:35:05.569209+00:00",
+ "updated": "2026-11-20T02:18:08.356836+00:00",
  "articles": [
+  {
+   "id": "d40e77564eca",
+   "title": "Videosorveglianza sul luogo di lavoro: occhio all’installazione",
+   "title_original": "Videosorveglianza sul luogo di lavoro: occhio all’installazione",
+   "url": "https://www.secsolution.com/notizia.asp?id=22211&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-20T02:18:08.356836+00:00",
+   "added": "2026-11-20T02:18:08.356836+00:00",
+   "image": "https://www.secsolution.com/pict/news/22211.jpg",
+   "summary": [
+    "Una recente decisione del Garante Privacy (ordinanza-ingiunzione n. 620 del 3 settembre 2026) richiama l'attenzione delle aziende su un aspetto talvolta sottovalutato della videosorveglianza nei luoghi di lavoro: anche le fasi di installazione, configurazione e collaudo delle telecamere sono soggette alle regole in materia di protezione dei dati personali.",
+    "L'Autorità ha infatti chiarito che la semplice visualizzazione delle immagini in tempo reale costituisce un trattamento di dati, indipendentemente dalla registrazione o meno dei filmati.",
+    "Di conseguenza, informazioni ai lavoratori, accordi previsti dalla normativa sul lavoro, cartellonistica e valutazioni preventive non possono essere rinviati all'entrata in esercizio definitiva dell'impianto."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "027a01283ede",
    "title": "CASA DELLA MUSICA E PALA POLI: AFFIDATO UN INCARICO DA 17MILA EURO PER LA PREVENZIONE INCENDI",
@@ -153,6 +175,31 @@ window.NEWS_DATA = {
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "ac2ea5dc6412",
+   "title": "Case green Ue, il piano italiano definitivo va consegnato entro il 31 dicembre 2026…",
+   "title_original": "Case green Ue, il piano italiano definitivo va consegnato entro il 31 dicembre 2026: cosa può cambiare per case e loro proprietari",
+   "url": "https://www.businessonline.it/news/case-green-ue-il-piano-italiano-definitivo-va-consegnato-entro-il-31-dicembre-2026-cosa-pu-cambiare-per-case-e-loro-proprietari_n89008.html",
+   "source": "BusinessOnline",
+   "date": "2026-11-18T03:30:00+00:00",
+   "added": "2026-11-20T02:18:08.356836+00:00",
+   "image": "https://www.businessonline.it/img/news/original/case-green-ue-il-piano-italiano-definitivo-va-consegnato-entro-il-31-dicembre-2026-cosa-pu-cambiare-per-case-e-loro-proprietari-4067631.png",
+   "summary": [
+    "Alla luce di quanto previsto dalla Direttiva (UE) 2024/1275 case green, il piano italiano va consegnato entro il 31 dicembre 2026.",
+    "Scadenze, obblighi, incentivi e cosa cambia per le case.",
+    "Il nostro Paese ha circa due mesi per mettersi in regola, con un termine che cade all’inizio di dicembre, a poche settimane dalla scadenza del piano definitivo.",
+    "L’impatto reale delle nuove regole sui proprietari di casa dipenderà dalle scelte che l’Italia metterà nel piano. Alcuni scenari sono però già abbastanza leggibili: Al momento non esiste un obbligo europeo che imponga al singolo proprietario di ristrutturare la propria casa entro una certa data, né sanzioni dirette per chi non lo fa."
+   ],
+   "refs": [
+    "Direttiva (UE) 2024/1275"
+   ],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
