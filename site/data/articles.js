@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-20T11:37:05.786268+00:00",
+ "updated": "2026-11-20T20:15:41.949613+00:00",
  "articles": [
   {
    "id": "7e37389e1031",
@@ -42,6 +42,29 @@ window.NEWS_DATA = {
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "79d9f2e76144",
+   "title": "Bari, MIBA Levante si chiude con un focus sulla direttiva europea EPBD4: “Opportunità per la Puglia”",
+   "title_original": "Bari, MIBA Levante si chiude con un focus sulla direttiva europea EPBD4: “Opportunità per la Puglia”",
+   "url": "https://www.telebari.it/spettacoli/272192-bari-miba-levante-si-chiude-con-un-focus-sulla-direttiva-europea-epbd4-opportunita-per-la-puglia.html",
+   "source": "Telebari",
+   "date": "2026-11-19T13:00:00+00:00",
+   "added": "2026-11-20T20:15:41.949613+00:00",
+   "image": "https://www.telebari.it/wp-content/uploads/2026/11/MIBA.jpg",
+   "summary": [
+    "Secondo i dati SIAPE/ENEA, in Puglia circa il 50% degli immobili residenziali e non residenziali in possesso di attestato di prestazione energetica (APE) è antecedente al 1973.",
+    "Da qui l’attenzione che MIBA Levante in questi giorni ha dedica alla formazione e all’aggiornamento.",
+    "La Redazione di Telebari segue le notizie di cronaca, attualità, sport ed eventi da Bari e dalla Puglia.",
+    "Telebari è la tv privata più antica d’Italia, in onda dal 1973."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
