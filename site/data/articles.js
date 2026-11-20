@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-11-20T02:18:08.356836+00:00",
+ "updated": "2026-11-20T11:37:05.786268+00:00",
  "articles": [
+  {
+   "id": "7e37389e1031",
+   "title": "Videosorveglianza condominiale e illegittimità delle riprese delle parti comuni da parte del singolo condomino",
+   "title_original": "Videosorveglianza condominiale e illegittimità delle riprese delle parti comuni da parte del singolo condomino",
+   "url": "https://www.impiantinews.it/elettro/norme-leggi/videosorveglianza-condominiale-e-illegittimita-delle-riprese-delle-parti-comuni-da-parte-del-singolo-condomino/",
+   "source": "Impianti News",
+   "date": "2026-11-20T06:00:51+00:00",
+   "added": "2026-11-20T11:37:05.786268+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/AdobeStock_730760857_23120003_View-scaled-e1793616814946.jpeg",
+   "summary": [
+    "L’angolo visuale delle riprese deve, pertanto, essere comunque limitato ai soli spazi di esclusiva pertinenza dell’unità immobiliare di proprietà singola, escludendo ogni forma di ripresa, anche senza registrazione di immagini, inerente alle parti comuni dell’edificio condominiale (quali cortili, pianerottoli, scale, anditi, aree destinate a parcheggio).",
+    "Ove, viceversa, si ravvisino esigenze di installare un impianto di videosorveglianza in un fabbricato condominiale per finalità di conservazione e di sicurezza nel godimento delle parti comuni, ivi collocando il medesimo impianto, la titolarità e la gestione del trattamento dei relativi dati è attribuita all’assemblea, che delibera ai sensi dell’art. 1122-ter c.c.».",
+    "Ne deriva che ogni impianto che, anche solo potenzialmente, riprenda spazi condominiali è illegittimo se non deliberato e gestito dall’assemblea condominiale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "d40e77564eca",
    "title": "Videosorveglianza sul luogo di lavoro: occhio all’installazione",
@@ -8630,6 +8652,28 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6d727cc38b89",
+   "title": "Videosorveglianza, per il Garante la durata della conservazione non deve superare le 24 ore",
+   "title_original": "Videosorveglianza, per il Garante la durata della conservazione non deve superare le 24 ore",
+   "url": "https://ntplusdiritto.ilsole24ore.com/art/videosorveglianza-il-garante-durata-conservazione-non-deve-superare-24-ore-AJ5uz7MC",
+   "source": "NT+ Diritto",
+   "date": "2026-09-02T17:00:00+00:00",
+   "added": "2026-11-20T11:37:05.786268+00:00",
+   "image": "https://ntplusdiritto.ilsole24ore.com/img/ntplus-og-image.png",
+   "summary": [
+    "A parere del Garante la conservazione di 72 ore non garantisce il principio di limitazione, rilievi anche sull’idoneità dell’informativa Nel recente provvedimento n. 619 del 3 settembre 2026 il Garante per la protezione dei dati personali è intervenuto sul tema della videosorveglianza e sui tempi di conservazioni delle relative videoregistrazioni.",
+    "I tempi di conservazione delle videoregistrazioni erano inoltre di 72 ore.",
+    "All’esito dell’accertamento compiuto, l’autorità Garante comminava quindi una sanzione di 8.000 euro all’ente pubblico titolare del trattamento, tenendo conto del grado di collaborazione di quest’ultimo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
