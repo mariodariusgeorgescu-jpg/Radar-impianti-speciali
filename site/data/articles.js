@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-21T02:11:59.469535+00:00",
+ "updated": "2026-11-21T10:58:58.833644+00:00",
  "articles": [
   {
    "id": "46832316675b",
@@ -16,6 +16,26 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "bd0ba16bf57e",
+   "title": "India’s building automation market set to nearly triple to $12.56 billion by 2030: report",
+   "title_original": "India’s building automation market set to nearly triple to $12.56 billion by 2030: report",
+   "url": "https://www.msn.com/en-in/news/other/india-s-building-automation-market-set-to-nearly-triple-to-1256-billion-by-2030-report/ar-AA2hUjJE",
+   "source": "Times Now on MSN",
+   "date": "2026-11-21T01:23:21+00:00",
+   "added": "2026-11-21T10:58:58.833644+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.1NIhUOgd1ge14LnaGIeCRw&pid=News",
+   "summary": [
+    "The commercial real estate landscape in India is undergoing a significant transformation, highlighted by a 15% increase in investments within the first nine months of 2026 and a substantial ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
@@ -41,6 +61,29 @@ window.NEWS_DATA = {
    "is_norm": false,
    "lang": "en",
    "translated": true
+  },
+  {
+   "id": "e2a6c50e844f",
+   "title": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "title_original": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "url": "https://www.ildenaro.it/scuole-e-sicurezza-rivoluzione-nella-normativa-antincendio-e-nuove-scadenze/",
+   "source": "ildenaro.it",
+   "date": "2026-11-20T16:00:00+00:00",
+   "added": "2026-11-21T10:58:58.833644+00:00",
+   "image": "https://www.ildenaro.it/wp-content/uploads/2026/11/3-2.jpeg",
+   "summary": [
+    "La sicurezza nelle scuole italiane cambia prospettiva.",
+    "A spiegare tutte le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, società specializzata nell’ingegneria della sicurezza, nella prevenzione incendi e nello sviluppo di modelli previsionali per la gestione delle emergenze nelle infrastrutture complesse.",
+    "Il nuovo decreto sulla prevenzione degli incendi nelle scuole rappresenta una svolta fondamentale, afferma Cannelonga, perché introduce un cambiamento culturale prima ancora che normativo.",
+    "La novità è proprio questa: la sicurezza non viene rinviata al 2027, ma va gestita concretamente da subito."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
   },
   {
    "id": "8922eb4935eb",
@@ -104,6 +147,26 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6437a7318b36",
+   "title": "AI to drive India's building automation market to $12.5 billion: report",
+   "title_original": "AI to drive India's building automation market to $12.5 billion: report",
+   "url": "https://www.msn.com/en-in/news/other/ai-to-drive-indias-building-automation-market-to-125-billion-report/ar-AA2hOWGB",
+   "source": "NDTV on MSN",
+   "date": "2026-11-19T19:41:49+00:00",
+   "added": "2026-11-21T10:58:58.833644+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.8at1BjFXz82k1MXxrG1GLg&pid=News",
+   "summary": [
+    "India's building automation market is projected to expand from $4.32 billion in 2025 to $12.56 billion by 2030, registering a CAGR of 23.8 per cent."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
    ],
    "is_norm": false,
    "lang": "it",
