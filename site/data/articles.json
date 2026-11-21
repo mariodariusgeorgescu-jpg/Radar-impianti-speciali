@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:58:58.833644+00:00",
+ "updated": "2026-11-21T19:14:06.227967+00:00",
  "articles": [
   {
    "id": "46832316675b",
@@ -63,6 +63,27 @@
    "translated": true
   },
   {
+   "id": "07b170c7a8b4",
+   "title": "Video virale: l'intelligenza artificiale scambia le fiamme finte per fuoco e attiva gli irrigatori in Cina (guarda)",
+   "title_original": "Viral video: AI mistakes fake flames for fire, triggers sprinklers in China (watch)",
+   "url": "https://www.msn.com/en-in/news/other/viral-video-ai-mistakes-fake-flames-for-fire-triggers-sprinklers-in-china-watch/ar-AA2hTq4s",
+   "source": "Asianet Newsable on MSN",
+   "date": "2026-11-20T16:02:48+00:00",
+   "added": "2026-11-21T19:14:06.227967+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.uMNpb9poPtDIjw2JMH6U8Q&pid=News",
+   "summary": [
+    "Un sistema di rilevamento incendi basato sull’intelligenza artificiale in un’area ristorazione in Cina ha scambiato l’immagine delle fiamme per un incendio reale e ha attivato automaticamente gli irrigatori.",
+    "L'insolito incidente ha suscitato interrogativi sulla..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
    "id": "e2a6c50e844f",
    "title": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
    "title_original": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
@@ -71,6 +92,29 @@
    "date": "2026-11-20T16:00:00+00:00",
    "added": "2026-11-21T10:58:58.833644+00:00",
    "image": "https://www.ildenaro.it/wp-content/uploads/2026/11/3-2.jpeg",
+   "summary": [
+    "La sicurezza nelle scuole italiane cambia prospettiva.",
+    "A spiegare tutte le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, società specializzata nell’ingegneria della sicurezza, nella prevenzione incendi e nello sviluppo di modelli previsionali per la gestione delle emergenze nelle infrastrutture complesse.",
+    "Il nuovo decreto sulla prevenzione degli incendi nelle scuole rappresenta una svolta fondamentale, afferma Cannelonga, perché introduce un cambiamento culturale prima ancora che normativo.",
+    "La novità è proprio questa: la sicurezza non viene rinviata al 2027, ma va gestita concretamente da subito."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "9136f87dfbf9",
+   "title": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "title_original": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "url": "https://www.napolivillage.com/cronaca/scuole-e-sicurezza-rivoluzione-nella-normativa-antincendio-e-nuove-scadenze-2/",
+   "source": "Napoli Village",
+   "date": "2026-11-20T16:00:00+00:00",
+   "added": "2026-11-21T19:14:06.227967+00:00",
+   "image": "https://www.napolivillage.com/wp-content/uploads/2026/11/2-6.jpeg",
    "summary": [
     "La sicurezza nelle scuole italiane cambia prospettiva.",
     "A spiegare tutte le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, società specializzata nell’ingegneria della sicurezza, nella prevenzione incendi e nello sviluppo di modelli previsionali per la gestione delle emergenze nelle infrastrutture complesse.",
