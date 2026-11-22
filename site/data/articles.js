@@ -1,6 +1,28 @@
 window.NEWS_DATA = {
- "updated": "2026-11-22T01:17:09.872942+00:00",
+ "updated": "2026-11-22T11:21:52.454207+00:00",
  "articles": [
+  {
+   "id": "22b31ad40e2e",
+   "title": "Sicurezza antincendio nelle scuole: le nuove scadenze e cosa cambia con il decreto",
+   "title_original": "Sicurezza antincendio nelle scuole: le nuove scadenze e cosa cambia con il decreto",
+   "url": "https://www.napolitoday.it/scuola/sicurezza-antincendio-scuole-decreto-scadenze.html",
+   "source": "NapoliToday",
+   "date": "2026-11-22T02:20:00+00:00",
+   "added": "2026-11-22T11:21:52.454207+00:00",
+   "image": "https://www.napolitoday.it/~media/horizontal-hi/15780253080871/download-8.jpg",
+   "summary": [
+    "La sicurezza antincendio nelle scuole italiane cambia con il decreto interministeriale del 31 marzo 2026, che introduce un percorso graduale di adeguamento degli edifici scolastici con scadenze precise e nuove misure di gestione del rischio.",
+    "A illustrare le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell'Ordine Ingegneri di Roma e Ceo di Polis Consulting, società specializzata nell'ingegneria della sicurezza e nella prevenzione incendi.",
+    "Entro il 31 dicembre 2027 dovrà poi essere completato l'adeguamento complessivo."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "46832316675b",
    "title": "CER e autoconsumo: ammesse ai fondi PNRR anche le spese per security e antintrusione",
