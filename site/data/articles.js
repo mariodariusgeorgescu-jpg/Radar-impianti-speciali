@@ -1,6 +1,29 @@
 window.NEWS_DATA = {
- "updated": "2026-11-22T11:21:52.454207+00:00",
+ "updated": "2026-11-22T19:37:49.608256+00:00",
  "articles": [
+  {
+   "id": "ec0a22633ec9",
+   "title": "Sicurezza antincendio nelle scuole: scadenze e novità del decreto",
+   "title_original": "Sicurezza antincendio nelle scuole: scadenze e novità del decreto",
+   "url": "https://www.newsistruzione.it/2026/11/22/sicurezza-antincendio-scuole-decreto-scadenze",
+   "source": "newsistruzione",
+   "date": "2026-11-22T05:49:00+00:00",
+   "added": "2026-11-22T19:37:49.608256+00:00",
+   "image": "https://www.newsistruzione.it/uploads/sicurezza-antincendio-scuole-decreto-scadenze.webp",
+   "summary": [
+    "Il decreto interministeriale del 31 marzo 2026 fissa un percorso graduale per la sicurezza antincendio nelle scuole.",
+    "Prima SCIA entro l'8 gennaio 2027 e adeguamento finale a fine 2027.",
+    "Il percorso di adeguamento alla sicurezza antincendio negli edifici scolastici si articola in due scadenze ravvicinate: una prima Segnalazione Certificata di Inizio Attività (SCIA) entro l'8 gennaio 2027 e il completamento finale degli interventi entro il 31 dicembre 2027.",
+    "È quanto stabilito dal decreto interministeriale del 31 marzo 2026, che ha introdotto una gestione graduale del rischio antincendio per gli istituti scolastici di ogni ordine e grado non ancora a norma, a esclusione degli asili nido per i quali si applica una disciplina specifica."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "22b31ad40e2e",
    "title": "Sicurezza antincendio nelle scuole: le nuove scadenze e cosa cambia con il decreto",
