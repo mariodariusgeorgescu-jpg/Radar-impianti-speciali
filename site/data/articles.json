@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-23T01:41:24.747825+00:00",
+ "updated": "2026-11-23T12:35:26.995946+00:00",
  "articles": [
+  {
+   "id": "44a97b7971eb",
+   "title": "VMS Co. lancia quattro nuove workstation COMPUTE VMS",
+   "title_original": "VMS Co. launches four new COMPUTE VMS workstations",
+   "url": "https://securityjournaluk.com/vms-co-4-new-compute-vms-workstations/",
+   "source": "Security Journal UK",
+   "date": "2026-11-23T10:30:45+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/VMS-Co.-launches-four-new-COMPUTE-VMS-workstations.jpg",
+   "summary": [
+    "A seguito della partnership tecnica recentemente annunciata tra Video Management Servers Co. (VMS Co.) e Network Optix, VMS Co ha introdotto quattro workstation COMPUTE ottimizzate per i sistemi Network Optix.",
+    "Le workstation COMPUTE sono disponibili per l'acquisto a titolo definitivo o con abbonamento mensile; supporta fino a 32 o 64 canali video; e sono dotati di opzioni grafiche client integrate.",
+    "Nick Bowden, MD di VMS Co., ha dichiarato: “Le nostre nuove workstation COMPUTE supportano i sistemi Network Optix fino a 64 canali ciascuna."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "b1649371738d",
+   "title": "Perché la sicurezza fisica è più importante nei data center",
+   "title_original": "Why physical security matters most at data centres",
+   "url": "https://securityjournaluk.com/physical-security-matters-at-data-centres/",
+   "source": "Security Journal UK",
+   "date": "2026-11-23T07:30:00+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/Why-physical-security-matters-most-at-data-centres.jpg",
+   "summary": [
+    "Ronnie Pennington, di Altronix, spiega perché la sicurezza dei data center non è una questione di uno e zero: anche le soluzioni fisiche svolgono un ruolo fondamentale.",
+    "Tuttavia, dal momento in cui inizia la costruzione di un nuovo data center, la sicurezza fisica fornisce la difesa fondamentale che supporta la sicurezza informatica e l’integrità operativa a molti livelli.",
+    "L'implementazione di una solida soluzione di sicurezza fisica nei data center richiede diversi livelli di protezione per salvaguardare efficacemente il perimetro di una struttura, i punti di ingresso/uscita e i luoghi interni protetti, come le sale server e i sistemi ambientali.",
+    "La mitigazione delle minacce nei data center richiede sistemi di sicurezza moderni che siano intelligenti, versatili ed efficaci."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "5068c9fe7a68",
+   "title": "Fare protezione come missione d’impresa",
+   "title_original": "Fare protezione come missione d’impresa",
+   "url": "https://www.impiantinews.it/sicurezza/protagonisti/fare-protezione-come-missione-dimpresa/",
+   "source": "Impianti News",
+   "date": "2026-11-23T06:00:00+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Andrea-Mello-Grand-scaled-e1793701890272.jpeg",
+   "summary": [
+    "Dopo vent’anni nel settore della si­curezza e degli impianti tecnologici, Andrea Mello-Grand ha fondato AMG Global Service, puntando su serietà e voglia di mettersi in gioco.",
+    "Dopo quasi vent’anni nel settore degli impianti antintrusione, videosorveglianza e antincendio, Andrea Mello-Grand ha trasformato il valore della protezione in una missione d’impresa con la sua AMG Global Service.",
+    "Quando nasce AMG Global Service e quali traguardi si pone l’impresa?",
+    "Serve disponibilità al lavoro manuale e pratico in cantiere."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "7f017c46722a",
+   "title": "Sicurezza, normative e nuove tecnologie: il 26 novembre Assosicurezza, seminario a Forli’",
+   "title_original": "Sicurezza, normative e nuove tecnologie: il 26 novembre Assosicurezza, seminario a Forli’",
+   "url": "https://www.secsolution.com/notizia.asp?id=22246&c=2",
+   "source": "SecSolution",
+   "date": "2026-11-23T02:00:00+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://www.secsolution.com/pict/news/22246.jpg",
+   "summary": [
+    "Come affrontare le nuove sfide della sicurezza?",
+    "Quali aggiornamenti normativi non si possono ignorare?",
+    "Sono alcune delle domande a cui darà risposta la nuova tappa del tour formativo “La Sicurezza del Made in Italy”, promosso da Assosicurezza, in programma il 26 novembre a Forlì.",
+    "Ad aprire i lavori sarà Roberto Dalla Torre, esperto di normativa, con un intervento dedicato alla nuova CEI 79-3:2024: un'occasione per conoscere le novità che riguardano i sistemi antintrusione e comprenderne le ricadute sull'attività dei professionisti."
+   ],
+   "refs": [
+    "CEI 79-3:2024"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "73d5a4658b06",
+   "title": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "title_original": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "url": "https://www.artestv.it/scuole-e-sicurezza-rivoluzione-nella-normativa-antincendio-e-nuove-scadenze/",
+   "source": "artestv",
+   "date": "2026-11-23T01:46:00+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://www.artestv.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-23.36.28.jpeg",
+   "summary": [
+    "Nuove scadenze da rispettare, formazione obbligatoria e tecnologie predittive: Ciro Cannelonga, presidente Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, spiega cosa cambia con il decreto varato quest’anno e perché la prevenzione deve diventare una cultura condivisa.",
+    "A spiegare tutte le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, società specializzata nell’ingegneria della sicurezza, nella prevenzione incendi e nello sviluppo di modelli previsionali per la gestione delle emergenze nelle infrastrutture complesse.",
+    "Il nuovo decreto sulla prevenzione degli incendi nelle scuole rappresenta una svolta fondamentale, afferma Cannelonga, perché introduce un cambiamento culturale prima ancora che normativo."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a803a32cd6b9",
    "title": "Centrali EVAC: hi-tech, efficienti, facili da usare",
@@ -27,6 +142,50 @@
    "is_norm": false,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "ae69910cad03",
+   "title": "La rivoluzione silenziosa del mattone tra EPBD, affordable housing europeo e salva casa",
+   "title_original": "La rivoluzione silenziosa del mattone tra EPBD, affordable housing europeo e salva casa",
+   "url": "https://www.msn.com/it-it/notizie/other/la-rivoluzione-silenziosa-del-mattone-tra-epbd-affordable-housing-europeo-e-salva-casa/ar-AA2i2jhX",
+   "source": "Requadro on MSN",
+   "date": "2026-11-23T01:33:09+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.E-7pYxGelbrHaIg9mZFsSQ&pid=News",
+   "summary": [
+    "Dall’obbligo di ristrutturazione profonda agli edifici a zero emissioni, il quadro normativo ridisegna rischi e rendimenti degli immobili.",
+    "Non è più solo questione di location. Il mercato immobiliare ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1bc3f0f42de3",
+   "title": "AIPro rilascia la versione gratuita del software di rilevamento precoce degli incendi AI \"VistaPro\", compatibile con le telecamere CCTV esistenti",
+   "title_original": "AIPro Releases Free Version of 'VistaPro' AI Fire Early-Detection Software, Working with Existing CCTV",
+   "url": "https://www.prnewswire.com/news-releases/aipro-releases-free-version-of-vistapro-ai-fire-early-detection-software-working-with-existing-cctv-302947706.html",
+   "source": "PR Newswire",
+   "date": "2026-11-22T15:53:00+00:00",
+   "added": "2026-11-23T12:35:26.995946+00:00",
+   "image": "https://mmx.prnewswire.com/media/MS2040524/20261120011140EST_image_1.jpg?id=OA3093553&p=facebook",
+   "summary": [
+    "Il download non richiede registrazione; funzionalità di base disponibili senza limiti di tempo; include 1 canale di rilevamento AI e 2 canali di monitoraggio generale SEOUL, Corea del Sud, 20 novembre 2026 /PRNewswire/ -- AIPro, una società di analisi video AI, ha rilasciato una versione gratuita di VistaPro, il suo software di monitoraggio di rilevamento di incendi e fumi.",
+    "La versione consente agli operatori della struttura di utilizzare le funzioni di base con le telecamere CCTV e i PC esistenti, verificare se il software è adatto al loro sito reale e quindi aggiungere funzionalità secondo necessità.",
+    "La versione gratuita può essere scaricata dal sito ufficiale AIPro (www.aipro.ai/download) senza registrazione o login. Le funzioni base fornite gratuitamente non hanno limiti di tempo di utilizzo.",
+    "La versione gratuita supporta un totale di tre canali: un canale di rilevamento incendi AI e due canali di monitoraggio generale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "a0a7de17e81d",
