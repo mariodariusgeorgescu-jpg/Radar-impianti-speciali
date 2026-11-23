@@ -1,6 +1,77 @@
 window.NEWS_DATA = {
- "updated": "2026-11-22T19:37:49.608256+00:00",
+ "updated": "2026-11-23T01:41:24.747825+00:00",
  "articles": [
+  {
+   "id": "a803a32cd6b9",
+   "title": "Centrali EVAC: hi-tech, efficienti, facili da usare",
+   "title_original": "Centrali EVAC: hi-tech, efficienti, facili da usare",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22234&c=3",
+   "source": "SecSolution",
+   "date": "2026-11-23T01:41:24.747825+00:00",
+   "added": "2026-11-23T01:41:24.747825+00:00",
+   "image": "https://www.secsolution.com/pict/news/22234.jpg",
+   "summary": [
+    "Le centrali EVAC, acronimo di Emergency Voice Alarm Communication, sono sistemi avanzati e progettati per garantire un’evacuazione sicura durante situazioni di emergenza, come un incendio.",
+    "È in questo contesto che si inseriscono i nuovi sistemi EVAC di Urmet, progettati per garantire un livello di protezione avanzato negli edifici pubblici e privati più complessi.",
+    "I nuovi sistemi EVAC sono conformi alle normative EN54 e garantiscono elevata affidabilità ed efficienza operativa.",
+    "Le centrali sono certificate EN54-4 e EN54-16, mentre le postazioni microfoniche hanno certificazione EN54-16."
+   ],
+   "refs": [
+    "EN54",
+    "EN54-4",
+    "EN54-16"
+   ],
+   "categories": [
+    "evac"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a0a7de17e81d",
+   "title": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "title_original": "Scuole e sicurezza: rivoluzione nella normativa antincendio e nuove scadenze",
+   "url": "https://tgnews24.com/scuole-e-sicurezza-rivoluzione-nella-normativa-antincendio-e-nuove-scadenze-2/",
+   "source": "tgnews24",
+   "date": "2026-11-22T15:42:00+00:00",
+   "added": "2026-11-23T01:41:24.747825+00:00",
+   "image": "https://tgnews24.com/wp-content/uploads/2024/02/544x180-logo.png",
+   "summary": [
+    "Nuove scadenze da rispettare, formazione obbligatoria e tecnologie predittive: Ciro Cannelonga, presidente Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, spiega cosa cambia con il decreto varato quest’anno e perché la prevenzione deve diventare una cultura condivisa.",
+    "A spiegare tutte le novità è Ciro Cannelonga, presidente della Commissione Grandi Eventi dell’Ordine Ingegneri di Roma e CEO di Polis Consulting, società specializzata nell’ingegneria della sicurezza, nella prevenzione incendi e nello sviluppo di modelli previsionali per la gestione delle emergenze nelle infrastrutture complesse.",
+    "Il nuovo decreto sulla prevenzione degli incendi nelle scuole rappresenta una svolta fondamentale, afferma Cannelonga, perché introduce un cambiamento culturale prima ancora che normativo."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "ba5082f18265",
+   "title": "AIPro rilascia la versione gratuita del software di rilevamento precoce degli incendi AI \"VistaPro\", compatibile con le telecamere CCTV esistenti",
+   "title_original": "AIPro Releases Free Version of 'VistaPro' AI Fire Early-Detection Software, Working with Existing CCTV",
+   "url": "https://www.bastillepost.com/global/article/6387854-aipro-releases-free-version-of-vistapro-ai-fire-early-detection-software-working-with-existing-cctv",
+   "source": "Bastille Post",
+   "date": "2026-11-22T09:52:00+00:00",
+   "added": "2026-11-23T01:41:24.747825+00:00",
+   "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/11/media_MS2040524_20261120011140EST_image_1_FB.jpg",
+   "summary": [
+    "Il download non richiede registrazione; funzionalità di base disponibili senza limiti di tempo; include 1 canale di rilevamento AI e 2 canali di monitoraggio generale SEOUL, Corea del Sud, 23 novembre 2026 /PRNewswire/ -- AIPro, una società di analisi video AI, ha rilasciato una versione gratuita di VistaPro, il suo software di monitoraggio di rilevamento di incendi e fumi.",
+    "La versione consente agli operatori della struttura di utilizzare le funzioni di base con le telecamere CCTV e i PC esistenti, verificare se il software è adatto al loro sito reale e quindi aggiungere funzionalità secondo necessità.",
+    "La versione gratuita può essere scaricata dal sito ufficiale AIPro (www.aipro.ai/download) senza registrazione o login. Le funzioni base fornite gratuitamente non hanno limiti di tempo di utilizzo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
   {
    "id": "ec0a22633ec9",
    "title": "Sicurezza antincendio nelle scuole: scadenze e novità del decreto",
