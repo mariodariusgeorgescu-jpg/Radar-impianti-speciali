@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-24T13:40:37.226623+00:00",
+ "updated": "2026-11-24T23:53:40.764228+00:00",
  "articles": [
+  {
+   "id": "26b4a81e29e6",
+   "title": "Una piattaforma che dialoga con tutto",
+   "title_original": "Una piattaforma che dialoga con tutto",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22236&c=3",
+   "source": "SecSolution",
+   "date": "2026-11-24T23:53:40.764228+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://www.secsolution.com/pict/news/22236.jpg",
+   "summary": [
+    "La piattaforma lares 4.0 di Ksenia Security si apre a sistemi e applicazioni di terze parti attraverso API dedicate, garantendo comunicazione fluida e uno scambio dati in tempo reale.",
+    "Il risultato è una centrale che diventa il cuore di un ecosistema più ampio, con un vantaggio concreto per l’utente finale: gestire più sistemi da un’unica piattaforma.",
+    "Ecco alcune delle integrazioni già disponibili con il sistema di Ksenia Security.",
+    "Integrazioni con VMS: video e allarmi in sinergia - Il plugin per Milestone permette di gestire le centrali lares 4.0 direttamente dalla piattaforma, visualizzando sulle mappe grafiche lo stato di partizioni, zone e uscite."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "96b98f2c1690",
+   "title": "Domani a Forli’ il seminario di Assosicurezza ultimi posti disponibili!",
+   "title_original": "Domani a Forli’ il seminario di Assosicurezza ultimi posti disponibili!",
+   "url": "https://www.secsolution.com/notizia.asp?id=22247&c=2",
+   "source": "SecSolution",
+   "date": "2026-11-24T23:53:40.764228+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://www.secsolution.com/pict/news/22247.jpg",
+   "summary": [
+    "Domani, 26 novembre, Forlì ospiterà una nuova tappa del tour formativo “La Sicurezza del Made in Italy”, promosso da Assosicurezza.",
+    "Un pomeriggio dedicato ai professionisti della sicurezza che vogliono aggiornarsi sulle novità normative, conoscere nuove soluzioni tecnologiche e acquisire strumenti concreti da utilizzare nella propria attività.",
+    "Dalla nuova CEI 79-3:2024 alla rilevazione gas in ambienti ATEX, dalla manutenzione dei sistemi antincendio alla protezione delle infrastrutture critiche: il programma affronta questioni tecniche che interessano direttamente il lavoro quotidiano di installatori, progettisti, integratori e consulenti.",
+    "Un'occasione concreta per approfondire temi di attualità, confrontarsi con specialisti del settore e portare a casa conoscenze utili per affrontare le sfide professionali di oggi e di domani."
+   ],
+   "refs": [
+    "CEI 79-3:2024",
+    "UNI 11224"
+   ],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "36e05aa6613f",
+   "title": "Controllo accessi: tra sicurezza, governance e compliance",
+   "title_original": "Controllo accessi: tra sicurezza, governance e compliance",
+   "url": "https://www.secsolution.com/articolo.asp?id=1660",
+   "source": "SecSolution",
+   "date": "2026-11-24T23:53:40.764228+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://www.secsolution.com/pict/articoli/1660.jpg",
+   "summary": [
+    "Il controllo accessi non è più soltanto una barriera fisica: è diventato uno dei principali punti di connessione tra sicurezza, governance e compliance.",
+    "La crescita del settore è confermata dalle analisi di Fortune Business Insights, secondo cui il mercato globale dei sistemi di controllo accessi ha raggiunto un valore di 11,62 miliardi di dollari nel 2025 e supererà i 26 miliardi entro il 2034, con un tasso medio annuo di crescita del 9,46%.",
+    "In questo scenario, il controllo accessi diventa uno dei principali generatori di dati dello Smart Building. Qualsiasi evento contribuisce ad alimentare un patrimonio informativo utile alla sicurezza, alla gestione degli spazi, all’efficienza energetica e alla governance dell’organizzazione."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d9870636601c",
+   "title": "Sicurezza antintrusione: cosa significa oggi produrre tecnologia affidabile. La visione di EEA",
+   "title_original": "Sicurezza antintrusione: cosa significa oggi produrre tecnologia affidabile. La visione di EEA",
+   "url": "https://www.secsolution.com/intervista.asp?id=362",
+   "source": "SecSolution",
+   "date": "2026-11-24T23:53:40.764228+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://www.secsolution.com/pict/interviste/362.jpg",
+   "summary": [
+    "Cybersecurity, integrazione tecnologica, flessibilità e semplicità per installatori e utenti finali: sono i fronti sui quali EEA – specializzata nella progettazione integrale e produzione di sensori antintrusione, da quasi vent’anni attiva nel settore security – sta investendo per rispondere a un mercato in rapidissima trasformazione.",
+    "Una dinamica che caratterizza il mercato attuale è appunto la crescente integrazione tecnologica tra i sistemi di sicurezza.",
+    "Parallelamente, è ormai prossima l'introduzione sul mercato di una nuova gamma di prodotti per la protezione degli spazi esterni, caratterizzati da consumi energetici contenuti e dall'integrazione di una fotocamera per la videoverifica."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "86958b52e9ff",
+   "title": "Presentati da CNA i nuovi sistemi ibridi dell’Accademia Impiantisti",
+   "title_original": "Presentati da CNA i nuovi sistemi ibridi dell’Accademia Impiantisti",
+   "url": "https://www.impiantinews.it/gt/attualita/presentati-da-cna-i-nuovi-sistemi-ibridi-dellaccademia-impiantisti/",
+   "source": "Impianti News",
+   "date": "2026-11-24T16:08:02+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/WhatsApp-Image-2026-11-24-at-12.34.22-e1795533705244.jpeg",
+   "summary": [
+    "Home » Presentati da CNA i nuovi sistemi ibridi dell’Accademia Impiantisti La transizione energetica passa anche dalla capacità dei professionisti di conoscere, installare e gestire le tecnologie che stanno trasformando il settore del riscaldamento.",
+    "È da questa consapevolezza che nasce la collaborazione tra CNA Lombardia Nord-Ovest e Intergas, azienda olandese specializzata nelle soluzioni per la climatizzazione e l’efficienza energetica negli edifici, che arricchisce la dotazione tecnologica dell’Accademia Impiantisti CNA di Busto Arsizio.",
+    "I nuovi impianti sono stati presentati in occasione di una conferenza stampa presso la sede dell’Accademia, che ha messo in luce il valore di una collaborazione che punta a rafforzare la formazione tecnica e pratica delle imprese del territorio."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "932d6748664f",
    "title": "Videotecnologie, nuove telecamere di sicurezza dome e bullet 4 MP e 4K",
@@ -21,6 +136,29 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "1d75cdee94fa",
+   "title": "Auto elettriche nei garage sotterranei, le nuove regole antincendio: cosa cambia?",
+   "title_original": "Auto elettriche nei garage sotterranei, le nuove regole antincendio: cosa cambia?",
+   "url": "https://www.sicurauto.it/news/auto-elettriche-ibride/auto-elettriche-nei-garage-sotterranei-le-nuove-regole-antincendio-cosa-cambia/",
+   "source": "SicurAUTO.it",
+   "date": "2026-11-24T09:00:00+00:00",
+   "added": "2026-11-24T23:53:40.764228+00:00",
+   "image": "https://www.sicurauto.it/wp-content/uploads/2026/11/Incendio-BEV-1024x669.jpg",
+   "summary": [
+    "Le auto elettriche possono parcheggiare nei garage sotterranei?",
+    "Il decreto introduce limiti precisi per auto elettriche, a idrogeno e a gas, e regole nuove per le colonnine di ricarica.",
+    "Correva infatti il mese di gennaio 2022 quando abbiamo pubblicato l’inchiesta dal titolo “Le auto elettriche saranno bandite dai parcheggi sotterranei?“.",
+    "Le nuove regole valgono per le autorimesse costruite dopo l’entrata in vigore del decreto."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
