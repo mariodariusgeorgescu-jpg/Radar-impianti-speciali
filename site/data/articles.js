@@ -1,6 +1,52 @@
 window.NEWS_DATA = {
- "updated": "2026-11-23T12:35:26.995946+00:00",
+ "updated": "2026-11-24T02:12:07.739278+00:00",
  "articles": [
+  {
+   "id": "f00a7c9d9cf4",
+   "title": "Energia intelligente per sistemi di sicurezza sempre attivi",
+   "title_original": "Energia intelligente per sistemi di sicurezza sempre attivi",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22235&c=3",
+   "source": "SecSolution",
+   "date": "2026-11-24T02:12:07.739278+00:00",
+   "added": "2026-11-24T02:12:07.739278+00:00",
+   "image": "https://www.secsolution.com/pict/news/22235.jpg",
+   "summary": [
+    "Garantire alimentazione continua a sistemi di sicurezza installati in luoghi remoti è una sfida sempre più frequente.",
+    "Telecamere di videosorveglianza, dispositivi per il controllo accessi, apparati di monitoraggio ambientale e infrastrutture distribuite richiedono infatti un’alimentazione affidabile anche dove la rete elettrica è assente, instabile o soggetta a interruzioni.",
+    "In questi contesti, combinare autonomia energetica e continuità di servizio rappresenta un requisito essenziale.",
+    "Quando l’energia fotovoltaica è disponibile, viene impiegata prioritariamente per alimentare i carichi e ricaricare le batterie, riducendo il ricorso alla rete elettrica e migliorando l’autonomia complessiva dell’impianto."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "409b3f8e81c2",
+   "title": "☁️ Ajax Cloud Storage: soluzione di archiviazione video sicura e flessibile",
+   "title_original": "☁️ Ajax Cloud Storage: soluzione di archiviazione video sicura e flessibile",
+   "url": "https://www.secsolution.com/newsletterweb4.asp?id=2410",
+   "source": "SecSolution",
+   "date": "2026-11-24T02:00:00+00:00",
+   "added": "2026-11-24T02:12:07.739278+00:00",
+   "image": "https://www.secsolution.com/pict/imgrss/2026-11-24_Ajax.jpg",
+   "summary": [
+    "Ajax Cloud Storage: soluzione di archiviazione video sicura e flessibile Immaginate di perdere un filmato di sicurezza importante proprio quando ne avete più bisogno. Un disco rigido può essere danneggiato o addirittura rubato, oppure un alimentatore può non funzionare: si tratta di rischi reali con conseguenze gravi.",
+    "Ajax Cloud Storage elimina questa tensione, garantendo che le registrazioni di eventi essenziali rimangano sicure e accessibili.",
+    "Ajax offre una soluzione di archiviazione cloud sicura per le registrazioni degli eventi dei prodotti di videosorveglianza Ajax.",
+    "Sia gli installatori che i distributori guadagnano mensilmente da ogni dispositivo di videosorveglianza con un abbonamento Ajax Cloud Storage attivato."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "44a97b7971eb",
    "title": "VMS Co. lancia quattro nuove workstation COMPUTE VMS",
@@ -178,6 +224,29 @@ window.NEWS_DATA = {
     "La versione consente agli operatori della struttura di utilizzare le funzioni di base con le telecamere CCTV e i PC esistenti, verificare se il software è adatto al loro sito reale e quindi aggiungere funzionalità secondo necessità.",
     "La versione gratuita può essere scaricata dal sito ufficiale AIPro (www.aipro.ai/download) senza registrazione o login. Le funzioni base fornite gratuitamente non hanno limiti di tempo di utilizzo.",
     "La versione gratuita supporta un totale di tre canali: un canale di rilevamento incendi AI e due canali di monitoraggio generale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "6d9d98874e25",
+   "title": "AIPro rilascia la versione gratuita del software di rilevamento precoce degli incendi AI \"VistaPro\", compatibile con le telecamere CCTV esistenti",
+   "title_original": "AIPro Releases Free Version of 'VistaPro' AI Fire Early-Detection Software, Working with Existing CCTV",
+   "url": "https://finance.yahoo.com/technology/ai/articles/aipro-releases-free-version-vistapro-235200348.html",
+   "source": "Yahoo Finance",
+   "date": "2026-11-22T15:53:00+00:00",
+   "added": "2026-11-24T02:12:07.739278+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/2bbf744ec04df905d0589a4264ee0f9e97faba7f0b63bc0a38e28b94cf678c3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fed395c7132eceafe61c6362719ca8bf3.jpg",
+   "summary": [
+    "Il download non richiede registrazione; funzionalità di base disponibili senza limiti di tempo; include 1 canale di rilevamento AI e 2 canali di monitoraggio generale SEOUL, Corea del Sud, 20 novembre 2026 /PRNewswire/ -- AIPro, una società di analisi video AI, ha rilasciato una versione gratuita di VistaPro, il suo software di monitoraggio di rilevamento di incendi e fumi.",
+    "La versione gratuita può essere scaricata dal sito ufficiale AIPro (www.aipro.ai/download) senza registrazione o login. Le funzioni base fornite gratuitamente non hanno limiti di tempo di utilizzo.",
+    "La versione gratuita supporta un totale di tre canali: un canale di rilevamento incendi AI e due canali di monitoraggio generale.",
+    "Visualizza il contenuto originale per scaricare contenuti multimediali: https://www.prnewswire.com/news-releases/aipro-releases-free-version-of-vistapro-ai-fire-early-detection-software-working-with-existing-cctv-302947706.html"
    ],
    "refs": [],
    "categories": [
