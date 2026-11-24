@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-24T02:12:07.739278+00:00",
+ "updated": "2026-11-24T13:40:37.226623+00:00",
  "articles": [
+  {
+   "id": "932d6748664f",
+   "title": "Videotecnologie, nuove telecamere di sicurezza dome e bullet 4 MP e 4K",
+   "title_original": "Videotecnologie, nuove telecamere di sicurezza dome e bullet 4 MP e 4K",
+   "url": "https://www.impiantinews.it/sicurezza/prodotti/videotecnologie-nuove-telecamere-di-sicurezza-dome-e-bullet-4-mp-e-4k/",
+   "source": "Impianti News",
+   "date": "2026-11-24T13:15:21+00:00",
+   "added": "2026-11-24T13:40:37.226623+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/cover-telecamere_videotecnologie.jpg",
+   "summary": [
+    "Home » Videotecnologie, nuove telecamere di sicurezza dome e bullet 4 MP e 4K Zenit Sicurezza presenta le nuove telecamere Videotecnologie: si tratta di 8 modelli IP dome e bullet, con tecnologia Ultra Low Light e analisi video AI di persone, veicoli e volti.",
+    "Le telecamere TBLL3080IP8MZ e TBLL2812IP4MZ riportano anche audio I/O e allarme I/O, oltre a microfono e speaker.",
+    "Le telecamere bullet autofocus TBLL3080IP8MZ e TBLL2812IP4MZ riportano luce bianca 30 m e IR 45 m.",
+    "Zenit Sicurezza provvede a collegare questi dati alle varianti della nuova gamma, preparando una proposta tecnica con codici e materiali pertinenti."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "885eb9d4b5d4",
+   "title": "Reolink lancia OMVI X16 PoE",
+   "title_original": "Reolink Launches OMVI X16 PoE",
+   "url": "https://securityjournaluk.com/reolink-launches-omvi-x16-poe/",
+   "source": "Security Journal UK",
+   "date": "2026-11-24T07:30:00+00:00",
+   "added": "2026-11-24T13:40:37.226623+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/Reolink-Launches-OMVI-X16-PoE.jpg",
+   "summary": [
+    "Reolink ha lanciato OMVI X16 PoE, il modello di punta della sua pluripremiata serie OMVI, progettata per fornire una copertura completa per proprietà più grandi e ambienti ad alta sicurezza.",
+    "Combinando una telecamera panoramica con una potente telecamera pan-tilt-zoom (PTZ), OMVI X16 PoE consente agli utenti di monitorare ampie aree esterne catturando dettagli importanti a distanza.",
+    "Come tutti i prodotti Reolink, OMVI X16 PoE offre opzioni di archiviazione locale e accesso alle funzionalità principali senza la necessità di canoni di abbonamento o costi mensili continui.",
+    "Intervenendo sul lancio, Ali Park, Country Manager del Regno Unito presso Reolink, ha dichiarato: “La OMVI X16 PoE rappresenta una pietra miliare significativa per Reolink ed è la nostra telecamera di sicurezza più avanzata fino ad oggi."
+   ],
+   "refs": [],
+   "categories": [
+    "cablaggio"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
+  },
+  {
+   "id": "66eec5870af5",
+   "title": "Efficienza energetica negli edifici pubblici, alla COP31 il Quartiere residenziale della Guardia di Finanza di…",
+   "title_original": "Efficienza energetica negli edifici pubblici, alla COP31 il Quartiere residenziale della Guardia di Finanza di Campobasso è campione italiano WCES",
+   "url": "https://www.infobuildenergia.it/efficienza-energetica-edifici-pubblici-cop31-quartiere-guardia-di-finanza-campobasso-vince-wces/",
+   "source": "Infobuild Energia",
+   "date": "2026-11-24T03:55:42+00:00",
+   "added": "2026-11-24T13:40:37.226623+00:00",
+   "image": "https://www.infobuildenergia.it/wp-content/uploads/2026/11/edificio_1200x845.jpg",
+   "summary": [
+    "Una palazzina costruita nel 1962 che oggi consuma meno della metà dell’energia richiesta nel 2017.",
+    "È il Quartiere residenziale della Guardia di Finanza di Campobasso, che il 12 novembre 2026, nell’ambito della COP31 sui cambiamenti climatici, ha ricevuto il titolo di Campione italiano di efficienza energetica per gli edifici al World Championship for Energy Savings (WCES).",
+    "Il campionato mondiale, promosso dalla Global Alliance for Buildings and Construction (GlobalABC) e coordinato sul piano operativo da Action for Market Transformation (A4MT), premia gli edifici che hanno ridotto in modo significativo i consumi dopo un intervento di riqualificazione energetica.",
+    "La valutazione si basa sui dati di consumo effettivamente registrati dopo i lavori."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "f00a7c9d9cf4",
    "title": "Energia intelligente per sistemi di sicurezza sempre attivi",
@@ -1125,6 +1194,32 @@
     "bms"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "43614b92551a",
+   "title": "uni 11224",
+   "title_original": "uni 11224",
+   "url": "https://www.edilizia.com/tag/uni-11224/",
+   "source": "Edilizia",
+   "date": "2026-11-11T16:00:00+00:00",
+   "added": "2026-11-24T13:40:37.226623+00:00",
+   "image": "",
+   "summary": [
+    "Guida alla rivelazione incendi: scelta dei sensori, centrale, allarme, progetto, collaudo e manutenzione secondo UNI 9795 e UNI 11224:2026.",
+    "Pubblicata la nuova norma inerente ai sistemi di rivelazione incendi, la UNI 11224 è in vigore dal 5 settembre 2019.",
+    "La normativa stabilirà tutte le procedure d’intervento per quanto riguarda i controlli iniziali e...",
+    "Edilizia.com di Claudio Orsi P.IVA: 13684571006 | Reg."
+   ],
+   "refs": [
+    "UNI 9795",
+    "UNI 11224:2026"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
