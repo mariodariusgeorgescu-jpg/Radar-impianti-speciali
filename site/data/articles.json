@@ -1,6 +1,73 @@
 {
- "updated": "2026-11-24T23:53:40.764228+00:00",
+ "updated": "2026-11-25T08:30:29.027770+00:00",
  "articles": [
+  {
+   "id": "06625280b4f1",
+   "title": "AI, rilevando le intrusioni “con gli occhi bendati”",
+   "title_original": "AI, rilevando le intrusioni “con gli occhi bendati”",
+   "url": "https://www.impiantinews.it/sicurezza/professione/ai-rilevando-le-intrusioni-con-gli-occhi-bendati/",
+   "source": "Impianti News",
+   "date": "2026-11-25T06:00:39+00:00",
+   "added": "2026-11-25T08:30:29.027770+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/apertura-e1793703168331.jpg",
+   "summary": [
+    "Fibra ottica, radar, vibrazioni e suoni: la ricerca insegna all’AI a riconoscere un’intrusione anche senza bisogno di immagini.",
+    "Fibra ottica e sensori di diversa natura possono intercettarle e l’AI sta imparando a interpretarle, affiancando la videosorveglianza o, in alcuni casi, facendone a meno. La nuova frontiera dell’AI applicata alla sicurezza fisica sta anche qui: spalancare le orecchie e usare gli altri sensi, oltre agli occhi.",
+    "In una ricerca pubblicata nel 2025 su Sensors, una fibra installata lungo 12 km di tracciato ferroviario è stata utilizzata per raccogliere giorno e notte le firme di eventi differenti, tra cui persone che camminavano, attività di scavo e caduta di massi.",
+    "La convivenza potrebbe però modificare la divisione dei compiti."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "728178f865ca",
+   "title": "Batterie nei rifiuti, ReLife presenta lo studio sul rischio incendio negli impianti di selezione",
+   "title_original": "Batterie nei rifiuti, ReLife presenta lo studio sul rischio incendio negli impianti di selezione",
+   "url": "https://www.impiantinews.it/te/attualita/batterie-nei-rifiuti-relife-presenta-lo-studio-sul-rischio-incendio-negli-impianti-di-selezione/",
+   "source": "Impianti News",
+   "date": "2026-11-25T06:00:15+00:00",
+   "added": "2026-11-25T08:30:29.027770+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/11668607_20945619-scaled-e1794302606777.jpg",
+   "summary": [
+    "Home » Batterie nei rifiuti, ReLife presenta lo studio sul rischio incendio negli impianti di selezione Il Gruppo ReLife ha stanziato oltre 2 milioni di euro nel piano triennale per il potenziamento degli impianti antincendio e propone un osservatorio nazionale.",
+    "Batterie al litio, carica residua e rischio incendio negli impianti di selezione dei rifiuti”.",
+    "Secondo i dati del Centro di Coordinamento Nazionale Pile e Accumulatori richiamati nello studio, nel 2025 in Italia sono stati raccolti 8,9 milioni di chilogrammi di pile e accumulatori portatili, circa il 31% dell’immesso sul mercato, ancora lontano dagli obiettivi europei del 63% entro il 2027 e del 73% entro il 2030."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "172cd8a3433d",
+   "title": "Edifici intelligenti: il problema dell’obsolescenza digitale",
+   "title_original": "Edifici intelligenti: il problema dell’obsolescenza digitale",
+   "url": "https://elettricomagazine.it/news-tecnologia/edifici-intelligenti-problema-obsolescenza-digitale/",
+   "source": "Elettricomagazine",
+   "date": "2026-11-25T02:08:00+00:00",
+   "added": "2026-11-25T08:30:29.027770+00:00",
+   "image": "https://elettricomagazine.it/wp-content/uploads/2026/11/edifici-intelligenti-smart-building-obsolescenza.jpg",
+   "summary": [
+    "Gli edifici intelligenti, resi tali dalla tecnologia, corrono il rischio di presentare una contraddizione di fondo abbastanza significativa, connessa al tempo di vita utile che caratterizza le differenti dimensioni che li compongono. Infatti, mentre per un edificio l’ordine di grandezza è quello dei decenni, per le tecnologie si parla anche di pochi anni.",
+    "L’obiettivo, chiaramente, non è quello di allineare i due orizzonti temporali, ma di progettare in modo che i cicli di aggiornamento e sostituzione della tecnologia non compromettano mai la sostenibilità dell’intervento e le prestazioni dell’edificio.",
+    "L’obsolescenza digitale può rendere necessari interventi straordinari di aggiornamento o sostituzione, talvolta estesi a intere porzioni dell’infrastruttura per problemi di compatibilità."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "26b4a81e29e6",
    "title": "Una piattaforma che dialoga con tutto",
