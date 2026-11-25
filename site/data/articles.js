@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
- "updated": "2026-11-25T08:30:29.027770+00:00",
+ "updated": "2026-11-25T19:14:36.891008+00:00",
  "articles": [
   {
    "id": "06625280b4f1",
@@ -63,6 +63,29 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "dbd22c7449ed",
+   "title": "Scegliere un impianto di allarme professionale significa investire nella sicurezza della propria abitazione e nella…",
+   "title_original": "Scegliere un impianto di allarme professionale significa investire nella sicurezza della propria abitazione e nella tranquillità di tutta la famiglia.",
+   "url": "https://www.laprimapagina.it/2026/11/25/scegliere-un-impianto-di-allarme-professionale-significa-investire-nella-sicurezza-della-propria-abitazione-e-nella-tranquillita-di-tutta-la-famiglia/",
+   "source": "La Prima Pagina",
+   "date": "2026-11-25T01:48:00+00:00",
+   "added": "2026-11-25T19:14:36.891008+00:00",
+   "image": "https://www.laprimapagina.it/wp-content/uploads/2026/11/gbristrutturazioni-Impianti-Elettrici-–-Allarme-–-Video.jpg",
+   "summary": [
+    "Proteggere la propria abitazione significa tutelare non soltanto i beni materiali, ma soprattutto la tranquillità delle persone che vivono ogni giorno all’interno della casa.",
+    "Per questo motivo, scegliere un impianto di allarme professionale significa investire in una soluzione tecnologica progettata per aumentare la sicurezza domestica e proteggere tutta la famiglia.",
+    "Investire in un antifurto professionale significa scegliere una maggiore attenzione alla sicurezza della propria abitazione e dei propri familiari.",
+    "Vuoi installare un impianto di allarme professionale a Roma?"
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
    ],
    "is_norm": false,
    "lang": "it",
@@ -178,6 +201,28 @@ window.NEWS_DATA = {
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "0188c88dba5b",
+   "title": "POSTE ITALIANE: IN FRIULI OCCIDENTALE 317 TELECAMERE E 86 SISTEMI DI SICUREZZA PER PROTEGGERE UFFICI POSTALI…",
+   "title_original": "POSTE ITALIANE: IN FRIULI OCCIDENTALE 317 TELECAMERE E 86 SISTEMI DI SICUREZZA PER PROTEGGERE UFFICI POSTALI, SEDI DIREZIONALI E ATM POSTAMAT",
+   "url": "https://www.nordestnews.it/2026/11/25/poste-italiane-in-friuli-occidentale-317-telecamere-e-86-sistemi-di-sicurezza-per-proteggere-uffici-postali-sedi-direzionali-e-atm-postamat/",
+   "source": "nordestnews.it",
+   "date": "2026-11-24T15:59:00+00:00",
+   "added": "2026-11-25T19:14:36.891008+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.t7TtNrK4h4BkFVPBkSABpg&pid=News",
+   "summary": [
+    "Ben 317 telecamere, 86 impianti antintrusione e 80 impianti di videosorveglianza proteggono quotidianamente 84 uffici postali, 52 sportelli automatici Postamat e altre sedi di Poste Italiane nel Friuli Occidentale.",
+    "Tutti i dispositivi sono collegati alla Control Room di Poste Italiane di Milano, operativa 24 ore su 24, 365 giorni l’anno. Da qui operatori specializzati monitorano in tempo reale la rete aziendale, garantendo supporto alle sedi e una gestione tempestiva delle eventuali situazioni di rischio.",
+    "«La Security Room svolge una funzione strategica per la sicurezza fisica delle sedi di Poste Italiane nella provincia di Pordenone», spiega Stefano Pongan, responsabile di Tutela Aziendale dell’Area Nordest di Poste Italiane."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
@@ -1225,6 +1270,28 @@ window.NEWS_DATA = {
    ],
    "categories": [
     "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "384e15c05c1b",
+   "title": "Edifici residenziali alti: la sicurezza antincendio secondo INAIL",
+   "title_original": "Edifici residenziali alti: la sicurezza antincendio secondo INAIL",
+   "url": "https://www.puntosicuro.it/prevenzione-incendi-C-85/edifici-residenziali-alti-la-sicurezza-antincendio-secondo-inail-AR-26937/",
+   "source": "PuntoSicuro",
+   "date": "2026-11-15T16:00:00+00:00",
+   "added": "2026-11-25T19:14:36.891008+00:00",
+   "image": "https://www.puntosicuro.it/_resources/images/__PS_IMMAGINI/antincendio-12.jpg",
+   "summary": [
+    "Il nuovo quaderno INAIL analizza la prevenzione incendi negli edifici di grande altezza attraverso un caso studio a Piacenza: dalla Fire Safety Engineering alla resistenza al fuoco, dal controllo dei fumi alla gestione dell'emergenza.",
+    "INAIL ha appena reso disponibile un nuovo quaderno tecnico dedicato alla prevenzione incendi negli edifici di civile abitazione, realizzato in collaborazione con il Corpo Nazionale dei Vigili del Fuoco e il Consiglio Nazionale degli Ingegneri, nell'ambito del Piano delle attività di ricerca 2025-2027.",
+    "La sicurezza antincendio degli edifici di civile abitazione è disciplinata da un quadro normativo che comprende, in particolare, il D.M. 16 maggio 1987, n. 246, il D.M. 25 gennaio 2019 e il Codice di prevenzione incendi, approvato con D.M. 3 agosto 2015."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
    ],
    "is_norm": false,
    "lang": "it",
