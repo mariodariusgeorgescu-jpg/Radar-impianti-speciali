@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-26T03:33:00.348581+00:00",
+ "updated": "2026-11-26T16:52:58.463397+00:00",
  "articles": [
+  {
+   "id": "e5dccd088065",
+   "title": "Regolazione intelligente del pompaggio",
+   "title_original": "Regolazione intelligente del pompaggio",
+   "url": "https://www.impiantinews.it/rci/sponsored/regolazione-intelligente-del-pompaggio/",
+   "source": "Impianti News",
+   "date": "2026-11-26T16:10:14+00:00",
+   "added": "2026-11-26T16:52:58.463397+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Cover_download_WP_Grundfos_water_boosting.jpg",
+   "summary": [
+    "La nuova generazione di controller per gli impianti idrici e idronici crea ulteriori opportunità per migliorare efficienza e sostenibilità degli edifici, semplificando l’attività di tecnici e imprese.",
+    "Attraverso le piattaforme digitali per il pompaggio intelligente, la gestione dei fluidi si trasforma in una leva di efficienza e sostenibilità.",
+    "Il white paper “Controllo intelligente per applicazioni water boosting e HVAC” approfondisce caratteristiche e potenzialità delle più evolute tecnologie digitali per i sistemi di pompaggio, nei quali il consumo di energia e acqua dipende non solo dall’efficienza delle apparecchiature, ma anche dalle modalità di funzionamento."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "97fd9869204b",
+   "title": "Formazione e cultura della sicurezza antincendio con Elkron Fire Academy",
+   "title_original": "Formazione e cultura della sicurezza antincendio con Elkron Fire Academy",
+   "url": "https://www.impiantinews.it/sicurezza/attualita/formazione-e-cultura-della-sicurezza-antincendio-con-elkron-fire-academy/",
+   "source": "Impianti News",
+   "date": "2026-11-26T07:38:30+00:00",
+   "added": "2026-11-26T16:52:58.463397+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/IMG_6060-scaled-e1795678552267.jpg",
+   "summary": [
+    "Home » Formazione e cultura della sicurezza antincendio con Elkron Fire Academy Da sempre Elkron, brand specializzato nella sicurezza professionale, investe nell’assistenza e nella formazione degli installatori specializzati, promuovendo un aggiornamento normativo continuo e strutturato.",
+    "Ed è questa l’idea che sta alla base della Fire Academy, il programma di incontri formativi dedicati alla rivelazione incendio, rivolto a installatori, progettisti e professionisti del settore, che Elkron sta promuovendo in questi mesi.",
+    "L’obiettivo è contribuire a una cultura della sicurezza antincendio sempre più consapevole, in cui competenze tecniche, aggiornamento professionale e innovazione tecnologica concorrano a rendere edifici e ambienti più sicuri."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6bc1925413c2",
+   "title": "Museo del Mare di Trieste: Comelit realizza il sistema integrato di sicurezza",
+   "title_original": "Museo del Mare di Trieste: Comelit realizza il sistema integrato di sicurezza",
+   "url": "https://www.impiantinews.it/elettro/attualita/museo-del-mare-di-trieste-comelit-realizza-il-sistema-integrato-di-sicurezza/",
+   "source": "Impianti News",
+   "date": "2026-11-26T06:58:01+00:00",
+   "added": "2026-11-26T16:52:58.463397+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/1-1024x768.png",
+   "summary": [
+    "Home » Museo del Mare di Trieste: Comelit realizza il sistema integrato di sicurezza Rivelazione incendi, evacuazione vocale, videosorveglianza e antintrusione: Comelit è il partner tecnologico scelto da Edil Costruzioni Group per la sicurezza del nuovo Museo del Mare di Trieste, all’interno dello storico Magazzino 26 del Porto Vecchio.",
+    "Comelit è stata scelta da Edil Costruzioni Group come partner tecnologico unico per la sicurezza del Museo del Mare di Trieste, ospitato all’interno del Magazzino 26, uno degli edifici più rappresentativi dell’area del Porto Vecchio.",
+    "Una realtà che ha scelto di affidarsi a Comelit per gestire in modo integrato le diverse esigenze di sicurezza del museo."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "99e581b13f21",
    "title": "HOCHIKI ITALIA: multisensore antincendio con rilevazione CO",
@@ -50,6 +116,26 @@
    "translated": false
   },
   {
+   "id": "d76fabea0e38",
+   "title": "Case green, la svolta dell’Italia: mappati 1,3 milioni di edifici, ecco chi spreca e chi risparmia",
+   "title_original": "Case green, la svolta dell’Italia: mappati 1,3 milioni di edifici, ecco chi spreca e chi risparmia",
+   "url": "https://energiaoltre.it/case-green-la-svolta-dellitalia-mappati-13-milioni-di-edifici-ecco-chi-spreca-e-chi-risparmia/",
+   "source": "Energia Oltre",
+   "date": "2026-11-26T02:46:00+00:00",
+   "added": "2026-11-26T16:52:58.463397+00:00",
+   "image": "https://www.bing.com/th?id=ONUT.1hpxTACzeJF8zHAzS5R0oQ&pid=News",
+   "summary": [
+    "Case green, la svolta dell'Italia: mappati 1,3 milioni di edifici, ecco chi spreca e chi risparmia Case green, la svolta dell'Italia ..."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
    "id": "833bc89b16b2",
    "title": "Comelit: sicurezza integrata per il Museo del Mare di Trieste",
    "title_original": "Comelit: sicurezza integrata per il Museo del Mare di Trieste",
@@ -89,6 +175,29 @@
     "antintrusione"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "d8524195e5ba",
+   "title": "Videosorveglianza comunale, vietate le riprese delle abitazioni private",
+   "title_original": "Videosorveglianza comunale, vietate le riprese delle abitazioni private",
+   "url": "https://www.studiocataldi.it/articoli/1000881-videosorveglianza-comunale-vietate-le-riprese-delle-abitazioni-private",
+   "source": "Studio Cataldi",
+   "date": "2026-11-25T22:00:00+00:00",
+   "added": "2026-11-26T16:52:58.463397+00:00",
+   "image": "https://cdn.studiocataldi.it/data/images/cms/b/b71e5defef60d9fd959289a8491410675d156c52-cl.jpg",
+   "summary": [
+    "Il Comune non può utilizzare le telecamere per controllare parcheggi, strade e aree pubbliche senza una precisa autorizzazione normativa.",
+    "Lo ha stabilito il Garante per la protezione dei dati personali con il provvedimento n. 636/2026, intervenendo sul sistema di videosorveglianza installato da un'amministrazione comunale.",
+    "L'Autorità ha evidenziato che le aree private devono essere escluse dalle riprese già in fase di progettazione dell'impianto.",
+    "Al Comune è stata applicata una sanzione di 4.000 euro, tenendo conto delle dimensioni ridotte dell'ente."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
