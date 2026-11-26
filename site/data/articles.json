@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-25T19:14:36.891008+00:00",
+ "updated": "2026-11-26T03:33:00.348581+00:00",
  "articles": [
+  {
+   "id": "99e581b13f21",
+   "title": "HOCHIKI ITALIA: multisensore antincendio con rilevazione CO",
+   "title_original": "HOCHIKI ITALIA: multisensore antincendio con rilevazione CO",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22183&c=5",
+   "source": "SecSolution",
+   "date": "2026-11-26T03:30:00+00:00",
+   "added": "2026-11-26T03:33:00.348581+00:00",
+   "image": "https://www.secsolution.com/pict/news/22183.jpg",
+   "summary": [
+    "La protezione antincendio richiede tecnologie sempre più evolute, capaci di adattarsi alla complessità degli ambienti.",
+    "In questa direzione si inserisce ACD di Hochiki, un innovativo multisensore che integra fino a 24 modalità operative certificate EN54, combinando la rilevazione di fumo, calore e monossido di carbonio.",
+    "È inoltre in grado di individuare il rischio di intossicazione da COHb.",
+    "L'algoritmo SMART di ACD ottimizza dinamicamente la sensibilità del multisensore in funzione delle condizioni ambientali, contribuendo a ridurre i falsi allarmi."
+   ],
+   "refs": [
+    "EN54"
+   ],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "db0ba51bf919",
+   "title": "Perimetri estesi? Meno telecamere e analisi a bordo",
+   "title_original": "Perimetri estesi? Meno telecamere e analisi a bordo",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22237&c=3",
+   "source": "SecSolution",
+   "date": "2026-11-26T03:00:00+00:00",
+   "added": "2026-11-26T03:33:00.348581+00:00",
+   "image": "https://www.secsolution.com/pict/news/22237.jpg",
+   "summary": [
+    "Proteggere un perimetro esteso continua a rappresentare una delle sfide più complesse per progettisti e responsabili della sicurezza.",
+    "Distanze variabili, condizioni ambientali difficili, falsi allarmi e connettività non sempre disponibile rendono infatti complicato garantire una rilevazione affidabile lungo l’intera tratta.",
+    "Per rispondere a queste esigenze, Hikvision ha sviluppato la nuova Serie 7 DeepinView X Large Scale 3-Lens, una soluzione progettata specificamente per la protezione perimetrale di grandi aree che combina tre ottiche, un motore di intelligenza artificiale e analisi edge in un unico dispositivo.",
+    "La copertura continua raggiunge invece i 120 metri."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "833bc89b16b2",
+   "title": "Comelit: sicurezza integrata per il Museo del Mare di Trieste",
+   "title_original": "Comelit: sicurezza integrata per il Museo del Mare di Trieste",
+   "url": "https://www.secsolution.com/notizia.asp?id=22240&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-26T02:30:00+00:00",
+   "added": "2026-11-26T03:33:00.348581+00:00",
+   "image": "https://www.secsolution.com/pict/news/22240.jpg",
+   "summary": [
+    "Rivelazione incendi, evacuazione vocale, videosorveglianza e antintrusione riuniti in un'unica architettura per la protezione del Museo del Mare di Trieste, ospitato nello storico Magazzino 26 del Porto Vecchio.",
+    "Per il progetto, realizzato da Edil Costruzioni Group, Comelit ha fornito un ecosistema di sicurezza capace di presidiare sale espositive, depositi, aree tecniche e percorsi aperti al pubblico attraverso sistemi gestiti in modo centralizzato.",
+    "L'integrazione tra tecnologie differenti consente di semplificare la gestione operativa e garantire una supervisione coordinata dell'intera struttura, con particolare attenzione alla tutela dei visitatori e del patrimonio culturale custodito nel complesso museale."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "8833cb8c5f2e",
+   "title": "Genetec: Copilot, ChatGPT e Claude entrano nella gestione della sicurezza fisica",
+   "title_original": "Genetec: Copilot, ChatGPT e Claude entrano nella gestione della sicurezza fisica",
+   "url": "https://www.secsolution.com/notizia.asp?id=22231&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-26T02:00:00+00:00",
+   "added": "2026-11-26T03:33:00.348581+00:00",
+   "image": "https://www.secsolution.com/pict/news/22231.jpg",
+   "summary": [
+    "Genetec amplia le funzionalità della propria piattaforma di sicurezza fisica con il lancio di Security Center MCP (Model Context Protocol), un nuovo connettore che consente di integrare gli assistenti di intelligenza artificiale già utilizzati dalle aziende nei processi quotidiani di gestione della security.",
+    "La soluzione permette di collegare strumenti come Microsoft Copilot, ChatGPT e Claude a Genetec Security Center attraverso un unico standard di integrazione, mantenendo il controllo sui privilegi assegnati agli assistenti AI e sulle operazioni consentite."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "06625280b4f1",
    "title": "AI, rilevando le intrusioni “con gli occhi bendati”",
