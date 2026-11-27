@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T01:43:22.361383+00:00",
+ "updated": "2026-11-27T12:16:35.394450+00:00",
  "articles": [
+  {
+   "id": "a856daab985d",
+   "title": "Vimar amplia la gamma Eikon Exé con nuove finiture di design",
+   "title_original": "Vimar amplia la gamma Eikon Exé con nuove finiture di design",
+   "url": "https://www.impiantinews.it/elettro/prodotti/vimar-amplia-la-gamma-eikon-exe-con-nuove-finiture-di-design/",
+   "source": "Impianti News",
+   "date": "2026-11-27T07:20:22+00:00",
+   "added": "2026-11-27T12:16:35.394450+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Vimar_Eikon_Exe_nuove_finiture.jpg",
+   "summary": [
+    "Home » Vimar amplia la gamma Eikon Exé con nuove finiture di design Ottone spazzolato, gun metal spazzolato e bronzo spazzolato arricchiscono la serie Eikon Exé di Vimar, ampliando le possibilità di personalizzazione per impianti elettrici, smart home e building automation di alto profilo.",
+    "Eikon Exé di Vimar è una placca dalle linee rigorose e squadrate, sintesi di precisione tecnologica e cura artigianale.",
+    "Disponibile in diversi materiali e finiture di pregio, valorizza ogni ambiente attraverso una forte personalità estetica.",
+    "Pensata per gli ambienti più esclusivi e per l’interior design contemporaneo, la serie Eikon Exé si arricchisce oggi di nuove finiture pregiate che ne esaltano ulteriormente il carattere distintivo."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "996a28cbc49f",
    "title": "Hospitality: supervisione centralizzata, automazione e controllo accessi",
@@ -65,6 +88,29 @@
     "antincendio"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "8cef5a4bf9ff",
+   "title": "Efficienza edifici: l’Italia migliora poco, aspettando la direttiva “Case green”",
+   "title_original": "Efficienza edifici: l’Italia migliora poco, aspettando la direttiva “Case green”",
+   "url": "https://www.qualenergia.it/pro/articoli-pro/efficienza-edifici-italia-migliora-aspettando-direttiva-case-green/",
+   "source": "QualEnergia.it",
+   "date": "2026-11-27T00:31:00+00:00",
+   "added": "2026-11-27T12:16:35.394450+00:00",
+   "image": "https://www.qualenergia.it/wp-content/uploads/2026/11/qualenergia-it-efficienza-edifici-italia-migliora-aspettando-case-green.jpg",
+   "summary": [
+    "La riqualificazione energetica dell’edilizia dipende dalla capacità di costruire un ecosistema informativo condiviso, affidabile e interoperabile, con una qualità dei dati, di innovazione tecnologica e integrazione dei sistemi capaci di ottenere gli obiettivi di decarbonizzazione, sicurezza energetica e sostenibilità già nel prossimo decennio.",
+    "È quanto si legge nel Rapporto annuale[…] Il portale web che analizza mercati e scenari per accelerare la decarbonizzazione dell'economia.",
+    "Promuovi la tua Azienda su QualEnergia.it.",
+    "Scrivi a: [email protected] Qualenergia è testata registrata presso Tribunale Civile di Roma Sezione per la Stampa Registrazione n. 316/2007 del 19/7/2007"
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
