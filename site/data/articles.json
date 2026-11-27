@@ -1,6 +1,73 @@
 {
- "updated": "2026-11-26T16:52:58.463397+00:00",
+ "updated": "2026-11-27T01:43:22.361383+00:00",
  "articles": [
+  {
+   "id": "996a28cbc49f",
+   "title": "Hospitality: supervisione centralizzata, automazione e controllo accessi",
+   "title_original": "Hospitality: supervisione centralizzata, automazione e controllo accessi",
+   "url": "https://www.secsolution.com/tecnologia.asp?id=22238&c=3",
+   "source": "SecSolution",
+   "date": "2026-11-27T01:43:22.361383+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://www.secsolution.com/pict/news/22238.jpg",
+   "summary": [
+    "Nel settore Hospitality, la sicurezza rappresenta un elemento fondamentale per garantire il comfort degli ospiti, la tutela degli ambienti e l’efficienza operativa della struttura.",
+    "In questo ambito, Vimar si distingue per un’offerta completa dedicata alla supervisione centralizzata dell’intero edificio, all’automazione delle camere e al controllo accessi, assicurando al contempo una perfetta coerenza estetica tra tutti i dispositivi.",
+    "View Suite è il nuovo software sviluppato da Vimar per una gestione sicura ed efficiente della struttura, consentendo il controllo integrato di ambienti, impianti e servizi.",
+    "Tra le novità dedicate al controllo accessi spicca il nuovo pannello fuoriporta Tactil che, basato sulla tecnologia KNX Secure, è stato progettato per garantire elevati standard di protezione nella gestione degli accessi alle camere."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "5d07685ffdd6",
+   "title": "Antintrusione: cosa significa oggi produrre tecnologia affidabile. Intervista a Brancaleoni, CEO di EEA",
+   "title_original": "Antintrusione: cosa significa oggi produrre tecnologia affidabile. Intervista a Brancaleoni, CEO di EEA",
+   "url": "https://www.secsolution.com/notizia.asp?id=22264&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-27T01:43:22.361383+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://www.secsolution.com/pict/news/22264.jpg",
+   "summary": [
+    "Cybersecurity, integrazione tecnologica, flessibilità e semplicità per installatori e utenti finali: sono i fronti sui quali EEA – specializzata nella progettazione integrale e produzione di sensori antintrusione, da quasi vent’anni attiva nel settore security – sta investendo per rispondere a un mercato in rapidissima trasformazione.",
+    "Ne abbiamo parliamo con il CEO, Alessandro Brancaleoni.",
+    "L’intervista rilasciata a secsolution.com, che potete leggere al link in calce, si snoda tra roadmap di adeguamento, evoluzione della domanda e prossimi appuntamenti fieristici."
+   ],
+   "refs": [],
+   "categories": [
+    "antintrusione"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "a00c938010e1",
+   "title": "INAIL: ed. 2026 della guida antincendio negli edifici residenziali",
+   "title_original": "INAIL: ed. 2026 della guida antincendio negli edifici residenziali",
+   "url": "https://www.secsolution.com/notizia.asp?id=22216&c=1",
+   "source": "SecSolution",
+   "date": "2026-11-27T01:43:22.361383+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://www.secsolution.com/pict/news/22216.jpg",
+   "summary": [
+    "La riqualificazione degli edifici esistenti pone nuove sfide sul fronte della prevenzione incendi, soprattutto quando sono coinvolti cambi di destinazione d'uso.",
+    "Per supportare progettisti e professionisti, INAIL ha pubblicato una nuova guida dedicata all'applicazione della Regola Tecnica Verticale V.14 del Codice di prevenzione incendi (ed. nov 2026).",
+    "Realizzato con il contributo del Corpo Nazionale dei Vigili del Fuoco e del Consiglio Nazionale degli Ingegneri, il documento analizza il caso di una torre per uffici trasformata in edificio residenziale, confrontando l'approccio prescrittivo tradizionale con quello prestazionale introdotto dal Codice."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "e5dccd088065",
    "title": "Regolazione intelligente del pompaggio",
@@ -18,6 +85,29 @@
    "refs": [],
    "categories": [
     "bms"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "ed9d6ed13839",
+   "title": "Telecamere, ora pagano anche i cittadini",
+   "title_original": "Telecamere, ora pagano anche i cittadini",
+   "url": "https://www.polesine24.it/veneto/2026/11/26/news/telecamere-ora-pagano-anche-i-cittadini-408771/",
+   "source": "Il quotidiano del Polesine",
+   "date": "2026-11-26T12:45:00+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://polesine24.cdn.m33cloud.com/resizer/600/315/true/2026_11_25/pexels-henrix-4059469-1795624653578.jpg--.webp?1795624654560",
+   "summary": [
+    "Più telecamere contro furti e criminalità, ma con il contributo economico diretto dei cittadini.",
+    "È la novità introdotta dal Comune di Saonara, nel Padovano, dove la giunta guidata dalla sindaca Michela Lazzaro ha approvato un progetto di videosorveglianza partecipata che consentirà a residenti, comitati e aziende di finanziare l'installazione di nuovi dispositivi di controllo del territorio.",
+    "Indicazione resa ai sensi della lettera f) del comma 2 dell’articolo 5 del medesimo decreto legislativo.” Redazione: piazza Garibaldi 17, 45100, Rovigo tel. 0425 200282 e:mail: redazione.ro@lavoce-nuova.it sito: www.lavocedirovigo.it Pubblicità locale: Editoriale La Voce Soc.",
+    "Testata registrata “La Voce Nuova” Registrazione del Tribunale di Rovigo n. 11/2000 del 09/08/2000."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
    ],
    "is_norm": false,
    "lang": "it",
@@ -44,6 +134,29 @@
    "is_norm": true,
    "lang": "it",
    "translated": false
+  },
+  {
+   "id": "f9561cb0f568",
+   "title": "Sistema di monitoraggio CCTV vs sorveglianza tradizionale: cosa devono sapere i professionisti della sicurezza",
+   "title_original": "CCTV monitoring system vs traditional surveillance: What security professionals need to know",
+   "url": "https://securityjournaluk.com/cctv-monitoring-system/",
+   "source": "Security Journal UK",
+   "date": "2026-11-26T07:26:00+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://securityjournaluk.com/wp-content/uploads/2026/11/CCTV-monitoring-system-vs-traditional-surveillance-What-security-professionals-need-to-know.webp",
+   "summary": [
+    "Una telecamera a circuito chiuso (CCTV) registra perfettamente una violazione della sicurezza e il filmato mostra esattamente cosa è successo, ma i ladri se ne sono andati 40 minuti fa.",
+    "Il divario tra la registrazione di un incidente e il suo arresto è ciò che distingue un sistema di monitoraggio CCTV dalla sorveglianza tradizionale.",
+    "Un sistema di monitoraggio CCTV combina telecamere con rilevamento in tempo reale e un operatore addestrato, che verifica ogni avviso e attiva una risposta concordata.",
+    "Tuttavia, la verifica non garantisce la presenza della polizia."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "en",
+   "translated": true
   },
   {
    "id": "6bc1925413c2",
@@ -563,6 +676,29 @@
     "tvcc"
    ],
    "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "30a339f188e1",
+   "title": "Schema DM / Approvazione RTV per attività di autorimessa",
+   "title_original": "Schema DM / Approvazione RTV per attività di autorimessa",
+   "url": "https://www.certifico.com/prevenzione-incendi/news-prevenzioni-incendi/schema-dm-approvazione-rtv-per-attivita-di-autorimessa",
+   "source": "Certifico",
+   "date": "2026-11-23T14:41:19+00:00",
+   "added": "2026-11-27T01:43:22.361383+00:00",
+   "image": "https://www.certifico.com/images/content/2026/10/Schema%20DM%20Approvazione%20RTV%20per%20attivita%20di%20autorimessa.png",
+   "summary": [
+    "La regola tecnica di prevenzione incendi notificata è diretta a conseguire, gli obiettivi di sicurezza della vita umana, di incolumità delle persone e di tutela dei beni e dell’ambiente.",
+    "La necessità dell’aggiornamento della regola tecnica deriva dal cambiamento dei veicoli nel corso degli anni.",
+    "CollegatiDecreto 15 maggio 2020Codice Prevenzione Incendi DM 3 agosto 2015 | RTO II Bozza Dicembre 2014 Segnaliamo l’aggiornamento della Bozza del Testo Unico Prevenzione Incendi (Aprile 2014 - Documento ...",
+    "Decreto 8 novembre 2019 Approvazione della regola tecnica di prevenzione incendi per la progettazione, la realizzazione e l'eserci..."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": true,
    "lang": "it",
    "translated": false
   },
