@@ -1,6 +1,51 @@
 window.NEWS_DATA = {
- "updated": "2026-11-27T21:24:13.749467+00:00",
+ "updated": "2026-11-28T07:46:15.818770+00:00",
  "articles": [
+  {
+   "id": "2232dd041c60",
+   "title": "Box di sicurezza per DVR e NVR: come scegliere la soluzione giusta per la videosorveglianza",
+   "title_original": "Box di sicurezza per DVR e NVR: come scegliere la soluzione giusta per la videosorveglianza",
+   "url": "https://www.impiantinews.it/elettro/prodotti/box-di-sicurezza-per-dvr-e-nvr-come-scegliere-la-soluzione-giusta-per-la-videosorveglianza/",
+   "source": "Impianti News",
+   "date": "2026-11-28T07:44:18+00:00",
+   "added": "2026-11-28T07:46:15.818770+00:00",
+   "image": "https://static.tecnichenuove.it/impiantinews/2026/11/Box-di-Sicurezza-per-DVR-e-Sistemi-di-Videosorveglianza-e1795534798568.jpeg",
+   "summary": [
+    "Home » Box di sicurezza per DVR e NVR: come scegliere la soluzione giusta per la videosorveglianza Dimensioni, ventilazione, cablaggi e sistemi di chiusura sono elementi fondamentali nella scelta di un box per DVR e NVR.",
+    "Con la gamma Techly Professional, IC Intracom propone soluzioni dedicate alla protezione e all’organizzazione delle apparecchiature di videosorveglianza.",
+    "La scelta del box più adatto non dipende soltanto dalle dimensioni del registratore.",
+    "Per rispondere a queste esigenze, IC Intracom propone una gamma di box di sicurezza per DVR e NVR a marchio Techly Professional, progettata per supportare installatori, system integrator e professionisti del settore nella realizzazione di impianti ordinati, protetti e facilmente gestibili."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "749a7606c973",
+   "title": "Case green, l’Italia è in ritardo sulla direttiva ma il mercato ha già fissato il prezzo dell’inefficienza",
+   "title_original": "Case green, l’Italia è in ritardo sulla direttiva ma il mercato ha già fissato il prezzo dell’inefficienza",
+   "url": "https://www.italpress.com/case-green-litalia-e-in-ritardo-sulla-direttiva-ma-il-mercato-ha-gia-fissato-il-prezzo-dellinefficienza/",
+   "source": "Italpress",
+   "date": "2026-11-27T13:56:00+00:00",
+   "added": "2026-11-28T07:46:15.818770+00:00",
+   "image": "https://www.italpress.com/wp-content/uploads/2026/11/casegreenilmercatohagiafissatoilprezzodellinefficienza.jpg",
+   "summary": [
+    "Il recepimento della EPBD è fermo alla legge di delegazione europea e sul Piano di ristrutturazione Bruxelles ha inviato un parere motivato.",
+    "Per l’esperto il dibattito pubblico continua a concentrarsi sulla domanda sbagliata, cioè quando arriveranno gli obblighi, mentre la domanda rilevante per chi possiede o compra immobili è un’altra: quanto vale già oggi, sul mercato, la distanza tra un edificio efficiente e uno che non lo è.",
+    "Per il non residenziale la logica è diversa: la direttiva chiede di riqualificare il 16% degli immobili meno efficienti entro il 2030 e il 26% entro il 2033, sulla base di soglie minime di prestazione che ciascuno Stato dovrà fissare."
+   ],
+   "refs": [],
+   "categories": [
+    "bms"
+   ],
+   "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "a856daab985d",
    "title": "Vimar amplia la gamma Eikon Exé con nuove finiture di design",
