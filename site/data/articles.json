@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-28T07:46:15.818770+00:00",
+ "updated": "2026-11-28T17:31:22.007955+00:00",
  "articles": [
+  {
+   "id": "1c5ad1cc3c0f",
+   "title": "Basler presenta un sistema semplice per il controllo di obiettivi e illuminatori tramite la telecamera",
+   "title_original": "Basler presenta un sistema semplice per il controllo di obiettivi e illuminatori tramite la telecamera",
+   "url": "https://automazione-plus.it/basler-presenta-un-sistema-semplice-per-il-controllo-di-obiettivi-e-illuminatori-tramite-la-telecamera_177646/",
+   "source": "Automazione Plus",
+   "date": "2026-11-28T11:42:17+00:00",
+   "added": "2026-11-28T17:31:22.007955+00:00",
+   "image": "https://automazione-plus.it/wp-content/uploads/sites/3/2026/11/basler_web-150x150.jpg",
+   "summary": [
+    "Il sistema di visione modulare di Basler consente il controllo di obiettivi e/o illuminatori direttamente tramite la telecamera utilizzando un unico SDK.",
+    "L’integrazione e l’interoperabilità sono semplificate grazie a requisiti hardware e software minimi Basler presenta un sistema di visione in cui la telecamera, l’obiettivo e/o l’illuminatore sono collegati tramite un unico cavo Basler Sync Cable.",
+    "Il controllo avviene tramite un SDK conforme allo standard GenICam, come il software pylon. Nel nuovo approccio di Basler, la telecamera gestisce non solo l’acquisizione delle immagini, ma anche i comandi relativi all’obiettivo e all’illuminatore.",
+    "Basler presenta un sistema di visione in cui la telecamera, l’obiettivo e/o l’illuminatore sono collegati..."
+   ],
+   "refs": [],
+   "categories": [
+    "tvcc"
+   ],
+   "is_norm": false,
+   "lang": "it",
+   "translated": false
+  },
   {
    "id": "2232dd041c60",
    "title": "Box di sicurezza per DVR e NVR: come scegliere la soluzione giusta per la videosorveglianza",
@@ -43,6 +66,29 @@
     "bms"
    ],
    "is_norm": true,
+   "lang": "it",
+   "translated": false
+  },
+  {
+   "id": "6b2d20d1a328",
+   "title": "Tutela ambientale e prevenzione incendi: approvato il progetto esecutivo per la Pineta di Roio",
+   "title_original": "Tutela ambientale e prevenzione incendi: approvato il progetto esecutivo per la Pineta di Roio",
+   "url": "https://abruzzosera.it/notizie/tutela-ambientale-e-prevenzione-incendi-approvato-il-progetto-esecutivo-per-la-pineta-di-roio/",
+   "source": "abruzzosera",
+   "date": "2026-11-27T13:42:00+00:00",
+   "added": "2026-11-28T17:31:22.007955+00:00",
+   "image": "https://abruzzosera.it/wp-content/uploads/2026/11/Pineta-Roio.jpeg",
+   "summary": [
+    "Approvato dalla Giunta il piano esecutivo: in arrivo nuovi percorsi pedonali accessibili, restyling del verde, arredi urbani e un moderno impianto di irrigazione.",
+    "L’Aquila, conclusi i lavori al Cimitero Monumentale: nuova scalinata verso il campo O e riqualificazione delle aree limitrofe per 110mila euro.",
+    "Incendio ai MAP di Santa Rufina di Roio: il Comune dell'Aquila ricolloca otto famiglie, attiva l'assistenza e avvia un tavolo tecnico per la riqualificazione dell'area danneggiata.",
+    "Sabato 28 novembre 2026 all’Auditorium del Parco prende il via il gran finale de L’Aquila Film Festival 2026 (secondo appuntamento il 5 dicembre)."
+   ],
+   "refs": [],
+   "categories": [
+    "antincendio"
+   ],
+   "is_norm": false,
    "lang": "it",
    "translated": false
   },
